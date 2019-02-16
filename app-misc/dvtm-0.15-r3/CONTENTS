@@ -1,0 +1,18 @@
+dir /etc
+dir /etc/portage
+dir /etc/portage/savedconfig
+dir /etc/portage/savedconfig/app-misc
+obj /etc/portage/savedconfig/app-misc/dvtm-0.15-r3 243bc2d4085c08d9b748f892f5950a00 1548476363
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/dvtm-0.15-r3
+obj /usr/share/doc/dvtm-0.15-r3/README.md.bz2 9dabbc1d2e35dc70584a869218c0e9d2 1548476363
+dir /usr/share/dvtm
+obj /usr/share/dvtm/dvtm-0.15-r3.config.h 243bc2d4085c08d9b748f892f5950a00 1548476363
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/dvtm.1.bz2 bcfe8c5aee09351eab745feec06a6579 1548476363
+dir /usr/bin
+obj /usr/bin/dvtm 22fe773f8b3a11b999f383b7695ef8f9 1548476364
+obj /usr/bin/dvtm-status eb4158031f91799aa630d0875f558db0 1548476363

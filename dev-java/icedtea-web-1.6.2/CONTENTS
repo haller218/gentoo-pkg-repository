@@ -1,0 +1,49 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/nsbrowser
+dir /usr/lib64/nsbrowser/plugins
+dir /usr/bin
+obj /usr/bin/policyeditor b8e6040616d52058d7b39730cd1d273c 1548343360
+obj /usr/bin/itweb-settings 595c6baa5f3aba90f7d66652d15dd7a8 1548343360
+obj /usr/bin/itweb-javaws 449cf0876cc783a92fca0368388c8bca 1548343360
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/icedtea-web-1.6.2
+obj /usr/share/doc/icedtea-web-1.6.2/README.gentoo.bz2 2ee7e92caaa287c8bea7d6af9f5645c8 1548343361
+obj /usr/share/doc/icedtea-web-1.6.2/ChangeLog.bz2 2bb6720c276eca9c50faee77ab4fe4a4 1548343360
+obj /usr/share/doc/icedtea-web-1.6.2/AUTHORS.bz2 3078fafb1cf8f7f020e1a50f9f139e5f 1548343360
+obj /usr/share/doc/icedtea-web-1.6.2/NEWS.bz2 07ba231f294599471e9973ce7906d6c5 1548343361
+obj /usr/share/doc/icedtea-web-1.6.2/README.bz2 2e0a9b8d2e1496945ebdd2506b435888 1548343360
+dir /usr/share/pixmaps
+obj /usr/share/pixmaps/javaws.png 5e8e37a471fdaf972952a63ff8a1cad2 1548343360
+dir /usr/share/icedtea-web
+obj /usr/share/icedtea-web/javaws_splash.png f05ae5e65bd3b8912d24b36e2a281b91 1548343360
+obj /usr/share/icedtea-web/netx.jar ab73e5364990ab805a489688c77d5460 1548343360
+dir /usr/share/man
+dir /usr/share/man/pl
+dir /usr/share/man/pl/man1
+obj /usr/share/man/pl/man1/policyeditor.1.bz2 ebc66c8377fef1fd9edc1a6963793509 1548343360
+obj /usr/share/man/pl/man1/itweb-settings.1.bz2 6d1aa4ce8c683fd79df17abc58bd60c3 1548343360
+obj /usr/share/man/pl/man1/icedtea-web-plugin.1.bz2 2bd9ddc166ab042ef596dc9c5d996027 1548343360
+obj /usr/share/man/pl/man1/icedtea-web.1.bz2 30a5f8a0f0f81fa3640bbece23f4d8d9 1548343360
+obj /usr/share/man/pl/man1/javaws.1.bz2 28fafa534fa404dcb1fc36fa10cb4654 1548343360
+dir /usr/share/man/man1
+obj /usr/share/man/man1/icedtea-web-plugin.1.bz2 2bd9ddc166ab042ef596dc9c5d996027 1548343360
+obj /usr/share/man/man1/icedtea-web.1.bz2 30a5f8a0f0f81fa3640bbece23f4d8d9 1548343360
+obj /usr/share/man/man1/policyeditor.1.bz2 ebc66c8377fef1fd9edc1a6963793509 1548343360
+obj /usr/share/man/man1/itweb-settings.1.bz2 6d1aa4ce8c683fd79df17abc58bd60c3 1548343360
+obj /usr/share/man/man1/javaws.1.bz2 28fafa534fa404dcb1fc36fa10cb4654 1548343360
+dir /usr/share/man/de
+dir /usr/share/man/de/man1
+obj /usr/share/man/de/man1/icedtea-web.1.bz2 30a5f8a0f0f81fa3640bbece23f4d8d9 1548343360
+obj /usr/share/man/de/man1/icedtea-web-plugin.1.bz2 2bd9ddc166ab042ef596dc9c5d996027 1548343360
+obj /usr/share/man/de/man1/policyeditor.1.bz2 ebc66c8377fef1fd9edc1a6963793509 1548343360
+obj /usr/share/man/de/man1/itweb-settings.1.bz2 6d1aa4ce8c683fd79df17abc58bd60c3 1548343360
+obj /usr/share/man/de/man1/javaws.1.bz2 28fafa534fa404dcb1fc36fa10cb4654 1548343360
+dir /usr/share/man/cs
+dir /usr/share/man/cs/man1
+obj /usr/share/man/cs/man1/icedtea-web-plugin.1.bz2 2bd9ddc166ab042ef596dc9c5d996027 1548343360
+obj /usr/share/man/cs/man1/itweb-settings.1.bz2 6d1aa4ce8c683fd79df17abc58bd60c3 1548343360
+obj /usr/share/man/cs/man1/icedtea-web.1.bz2 30a5f8a0f0f81fa3640bbece23f4d8d9 1548343360
+obj /usr/share/man/cs/man1/policyeditor.1.bz2 ebc66c8377fef1fd9edc1a6963793509 1548343360
+obj /usr/share/man/cs/man1/javaws.1.bz2 28fafa534fa404dcb1fc36fa10cb4654 1548343360

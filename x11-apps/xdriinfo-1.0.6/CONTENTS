@@ -1,0 +1,12 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xdriinfo e87bca77d72105d6156775caa16f3c7b 1545800536
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xdriinfo-1.0.6
+obj /usr/share/doc/xdriinfo-1.0.6/ChangeLog.bz2 356b80d246717c2f5c92e468b94a7a23 1545800535
+obj /usr/share/doc/xdriinfo-1.0.6/README.bz2 656dbf7e7e5a62ab2852407bdd75b9f0 1545800535
+obj /usr/share/doc/xdriinfo-1.0.6/AUTHORS 2e915e930acad5f02e712f3ecc4285e1 1545800535
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xdriinfo.1.bz2 d0dfb6bdf72db3fc30ec9b383dcd9b26 1545800535

@@ -1,0 +1,197 @@
+dir /var
+dir /var/db
+dir /var/db/sudo
+dir /var/db/sudo/lectured
+obj /var/db/sudo/lectured/.keep_app-admin_sudo-0 d41d8cd98f00b204e9800998ecf8427e 1545804795
+dir /etc
+dir /etc/pam.d
+obj /etc/pam.d/sudo 239be3ac285c0860e5e81f438291a36d 1545804795
+obj /etc/sudoers b679ac5d1611aa9ca815224b457b2341 1545804793
+obj /etc/sudoers.dist b679ac5d1611aa9ca815224b457b2341 1545804793
+dir /etc/sudoers.d
+dir /usr
+dir /usr/include
+obj /usr/include/sudo_plugin.h 3ddbec496fd5bdf33c9bde728f0ff6ac 1545804794
+dir /usr/lib
+dir /usr/lib/tmpfiles.d
+obj /usr/lib/tmpfiles.d/sudo.conf ee8d33d217810b046dd36a357839ee9e 1545804794
+dir /usr/bin
+obj /usr/bin/sudo 448a3a9724e85ad0f34bb5dd57a146f9 1545804796
+obj /usr/bin/cvtsudoers 74360ab042611980caae66c6768a05f4 1545804796
+obj /usr/bin/sudoreplay 8365c236dacea5d42a3d7269eac9320b 1545804796
+sym /usr/bin/sudoedit -> sudo 1545804794
+dir /usr/sbin
+obj /usr/sbin/visudo 7ae146df31b6fb4f1e6b9b500ef50f70 1545804796
+dir /usr/lib64
+dir /usr/lib64/sudo
+obj /usr/lib64/sudo/sudoers.so 8a4f299fec0109c4ee6bfe7899a9feaa 1545804796
+obj /usr/lib64/sudo/system_group.so 658de3e9b30b2bef3b69def91455c420 1545804796
+obj /usr/lib64/sudo/group_file.so 6463d6b59ca5e2ecea28af66a62b221c 1545804796
+obj /usr/lib64/sudo/system_group.la b7eb7e5b1bd35945fa2dee78a31c7703 1545804796
+obj /usr/lib64/sudo/sudoers.la f588d4304bfcf5d73c301483ccee660a 1545804796
+obj /usr/lib64/sudo/group_file.la b6f8068f1294546acab3e5a0c57e1c8d 1545804796
+dir /usr/libexec
+dir /usr/libexec/sudo
+obj /usr/libexec/sudo/sudo_noexec.so 22a320460ffcaf82d8efb45fac6314cd 1545804796
+obj /usr/libexec/sudo/libsudo_util.so.0.0.0 7b78d6248d7473d19bb6510c0c199ba3 1545804796
+obj /usr/libexec/sudo/sudo_noexec.la 5957e519b0c53b7181995091542a6d57 1545804794
+obj /usr/libexec/sudo/libsudo_util.la 01dbd681f62f4078d666609c33567e5a 1545804792
+sym /usr/libexec/sudo/libsudo_util.so -> libsudo_util.so.0.0.0 1545804792
+sym /usr/libexec/sudo/libsudo_util.so.0 -> libsudo_util.so.0.0.0 1545804792
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/sudoreplay.8.bz2 e19d3fc055748d9315e715a124abe425 1545804795
+obj /usr/share/man/man8/visudo.8.bz2 8f88bae7b55db61fc8a2350d6976ac49 1545804795
+obj /usr/share/man/man8/sudo_plugin.8.bz2 5766408b2a5796af210c55b44c254405 1545804794
+obj /usr/share/man/man8/sudo.8.bz2 8d3a96640dad7b50b41b37907c8f2233 1545804794
+dir /usr/share/man/man5
+obj /usr/share/man/man5/sudoers_timestamp.5.bz2 1caff1757badba163c52831bc895ffb7 1545804795
+obj /usr/share/man/man5/sudo.conf.5.bz2 79ec8042e639c9beb00fabf0dcbe3522 1545804795
+obj /usr/share/man/man5/sudoers.5.bz2 d5288e3e4f537f460a47f296927fcf42 1545804795
+dir /usr/share/man/man1
+obj /usr/share/man/man1/cvtsudoers.1.bz2 b4adfe09d15f80a6bc4bade176431cc8 1545804794
+dir /usr/share/doc
+dir /usr/share/doc/sudo-1.8.25_p1-r1
+obj /usr/share/doc/sudo-1.8.25_p1-r1/NEWS.bz2 3e9d2281502743d0cd6b4284284bc96f 1545804795
+obj /usr/share/doc/sudo-1.8.25_p1-r1/README.LDAP.bz2 c772145246ec158d439565d50e837648 1545804795
+obj /usr/share/doc/sudo-1.8.25_p1-r1/UPGRADE.bz2 6ff29c5489b71b1bf883f215c61ae391 1545804794
+obj /usr/share/doc/sudo-1.8.25_p1-r1/README.bz2 4486f558f48264e007f96ec649b86476 1545804795
+obj /usr/share/doc/sudo-1.8.25_p1-r1/LICENSE.bz2 26a452cd0c9493e91c39bac3f0b75fcc 1545804794
+obj /usr/share/doc/sudo-1.8.25_p1-r1/HISTORY.bz2 436032b221ab173c54218e1f4bae12f6 1545804794
+obj /usr/share/doc/sudo-1.8.25_p1-r1/TROUBLESHOOTING.bz2 6524a9a9f55f2699dcf46cd35fb3f73a 1545804794
+obj /usr/share/doc/sudo-1.8.25_p1-r1/CONTRIBUTORS.bz2 17cb6974163a5776d52d8292041a74fa 1545804794
+obj /usr/share/doc/sudo-1.8.25_p1-r1/ChangeLog 524b3a4f4b88ebe8e7f51f7c7665908f 1545804795
+dir /usr/share/doc/sudo-1.8.25_p1-r1/examples
+obj /usr/share/doc/sudo-1.8.25_p1-r1/examples/sudoers.bz2 87cb4798f1ef5a610a71fa52c5268ddb 1545804795
+obj /usr/share/doc/sudo-1.8.25_p1-r1/examples/pam.conf.bz2 68b89d00b030baf1aa27ed48ac9b9bcb 1545804795
+obj /usr/share/doc/sudo-1.8.25_p1-r1/examples/syslog.conf.bz2 186f057f060abc7a7bdc3c8a588fc98a 1545804795
+obj /usr/share/doc/sudo-1.8.25_p1-r1/examples/sudo.conf.bz2 534a6536d465ddcdf255d8ac70486f93 1545804795
+dir /usr/share/locale
+dir /usr/share/locale/lt
+dir /usr/share/locale/lt/LC_MESSAGES
+obj /usr/share/locale/lt/LC_MESSAGES/sudoers.mo fbb001b5aa3128174719349918426d8e 1545804792
+dir /usr/share/locale/el
+dir /usr/share/locale/el/LC_MESSAGES
+obj /usr/share/locale/el/LC_MESSAGES/sudoers.mo 11b3f1c2c98e135a4a4f4401e1f3f4fa 1545804791
+dir /usr/share/locale/zh_TW
+dir /usr/share/locale/zh_TW/LC_MESSAGES
+obj /usr/share/locale/zh_TW/LC_MESSAGES/sudo.mo 822333d8a2cf93da0a646d955df2cb46 1545804791
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/sudoers.mo c94787159b5037f06952cefc04a1570f 1545804792
+obj /usr/share/locale/zh_CN/LC_MESSAGES/sudo.mo ee44912ab8e2dff8a887da18d4d683a8 1545804791
+dir /usr/share/locale/vi
+dir /usr/share/locale/vi/LC_MESSAGES
+obj /usr/share/locale/vi/LC_MESSAGES/sudoers.mo 609ed4c530d4bded3f070afb909782e5 1545804792
+obj /usr/share/locale/vi/LC_MESSAGES/sudo.mo bb78e32c2aed78af1d99ec6e24dc4cef 1545804791
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/sudoers.mo 0deb2e9af6834defc4dcddd06a5ae9c2 1545804792
+obj /usr/share/locale/uk/LC_MESSAGES/sudo.mo 73da9b4de5fc08d193f8be7d1378bafe 1545804791
+dir /usr/share/locale/tr
+dir /usr/share/locale/tr/LC_MESSAGES
+obj /usr/share/locale/tr/LC_MESSAGES/sudoers.mo 4b033141117d775ba9e9d59f6ce5eea6 1545804792
+obj /usr/share/locale/tr/LC_MESSAGES/sudo.mo 6918fd4c48700b4f88142bb4750fb702 1545804791
+dir /usr/share/locale/sv
+dir /usr/share/locale/sv/LC_MESSAGES
+obj /usr/share/locale/sv/LC_MESSAGES/sudoers.mo 7b1c910aed0a2d771e2988ed9da2134f 1545804792
+obj /usr/share/locale/sv/LC_MESSAGES/sudo.mo 5c5a2ad459e3eb03372e1aa959021875 1545804791
+dir /usr/share/locale/sr
+dir /usr/share/locale/sr/LC_MESSAGES
+obj /usr/share/locale/sr/LC_MESSAGES/sudoers.mo 35c04342d2910c28b6c8e5ed55374a73 1545804792
+obj /usr/share/locale/sr/LC_MESSAGES/sudo.mo c37a5f14e971620f923345cf921e45da 1545804791
+dir /usr/share/locale/sl
+dir /usr/share/locale/sl/LC_MESSAGES
+obj /usr/share/locale/sl/LC_MESSAGES/sudoers.mo 7b4d60872f039a6d319cbefa22f69411 1545804792
+obj /usr/share/locale/sl/LC_MESSAGES/sudo.mo b0aec84e9d0f73d7abbec4c367846083 1545804791
+dir /usr/share/locale/sk
+dir /usr/share/locale/sk/LC_MESSAGES
+obj /usr/share/locale/sk/LC_MESSAGES/sudoers.mo cf232eaf214944be80d6f306b198e850 1545804792
+obj /usr/share/locale/sk/LC_MESSAGES/sudo.mo 43f51aac264b50b1619cdc2c8f802f5e 1545804791
+dir /usr/share/locale/ru
+dir /usr/share/locale/ru/LC_MESSAGES
+obj /usr/share/locale/ru/LC_MESSAGES/sudoers.mo 384145d385da85e57234561779b8a01b 1545804792
+obj /usr/share/locale/ru/LC_MESSAGES/sudo.mo 17853680a269b3c733bdd1aa86fae2f5 1545804791
+dir /usr/share/locale/pt_BR
+dir /usr/share/locale/pt_BR/LC_MESSAGES
+obj /usr/share/locale/pt_BR/LC_MESSAGES/sudoers.mo 885fab4ffbd380299401113099f04752 1545804792
+obj /usr/share/locale/pt_BR/LC_MESSAGES/sudo.mo 57e3deda88b690d4ed4760011e5e9799 1545804791
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/sudoers.mo da99636e6f2de9fd5dde2fc38016f637 1545804792
+obj /usr/share/locale/pl/LC_MESSAGES/sudo.mo 57143f732c145a3324dd6e63395f3741 1545804791
+dir /usr/share/locale/nn
+dir /usr/share/locale/nn/LC_MESSAGES
+obj /usr/share/locale/nn/LC_MESSAGES/sudo.mo 9cd0d4ad470b42d11cc34fc01a28cfdb 1545804791
+dir /usr/share/locale/nl
+dir /usr/share/locale/nl/LC_MESSAGES
+obj /usr/share/locale/nl/LC_MESSAGES/sudoers.mo 63c9abffa51abd21198cc5e6fec6a2e0 1545804792
+obj /usr/share/locale/nl/LC_MESSAGES/sudo.mo 5e5229a2ec3ba566e0513a19b172144c 1545804791
+dir /usr/share/locale/nb
+dir /usr/share/locale/nb/LC_MESSAGES
+obj /usr/share/locale/nb/LC_MESSAGES/sudoers.mo b5d3d087595fa0ab5131f3bf5ce3fad0 1545804792
+obj /usr/share/locale/nb/LC_MESSAGES/sudo.mo 74428fe5400d961ebd895d87c312923d 1545804791
+dir /usr/share/locale/ko
+dir /usr/share/locale/ko/LC_MESSAGES
+obj /usr/share/locale/ko/LC_MESSAGES/sudoers.mo 082675d95f732c8860353a7d78ed3385 1545804792
+obj /usr/share/locale/ko/LC_MESSAGES/sudo.mo c83881f167b1a833fc51205faac0b1f8 1545804791
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/sudoers.mo 653d6ccf1b964e8c9cb2a9cb8933db62 1545804792
+obj /usr/share/locale/ja/LC_MESSAGES/sudo.mo aa652f7454c870a8e53ce8a98a3c58b5 1545804791
+dir /usr/share/locale/it
+dir /usr/share/locale/it/LC_MESSAGES
+obj /usr/share/locale/it/LC_MESSAGES/sudoers.mo 16e67305055775aa8359d0fd46c43adc 1545804792
+obj /usr/share/locale/it/LC_MESSAGES/sudo.mo 1d6b4944204cf4ade77445547e474351 1545804790
+dir /usr/share/locale/hu
+dir /usr/share/locale/hu/LC_MESSAGES
+obj /usr/share/locale/hu/LC_MESSAGES/sudoers.mo b152df06bf216be9cccb4f7e60779383 1545804792
+obj /usr/share/locale/hu/LC_MESSAGES/sudo.mo b0ae93d9ab2f226a7950d4e8c883704d 1545804790
+dir /usr/share/locale/hr
+dir /usr/share/locale/hr/LC_MESSAGES
+obj /usr/share/locale/hr/LC_MESSAGES/sudoers.mo da4e3a5597e22fee06b7e39178c74cf0 1545804792
+obj /usr/share/locale/hr/LC_MESSAGES/sudo.mo a39fcad5c3c9302e221b74266cd72c27 1545804790
+dir /usr/share/locale/gl
+dir /usr/share/locale/gl/LC_MESSAGES
+obj /usr/share/locale/gl/LC_MESSAGES/sudo.mo f0ec2b737b622f201901677ea1582546 1545804790
+dir /usr/share/locale/fur
+dir /usr/share/locale/fur/LC_MESSAGES
+obj /usr/share/locale/fur/LC_MESSAGES/sudoers.mo 874aa766a90cd8d7baeb6cae27ba23b9 1545804792
+obj /usr/share/locale/fur/LC_MESSAGES/sudo.mo 0b8fc46685c8bdfbcbf17cd7cbf10bdf 1545804790
+dir /usr/share/locale/fr
+dir /usr/share/locale/fr/LC_MESSAGES
+obj /usr/share/locale/fr/LC_MESSAGES/sudoers.mo 5c1733084d89b5ae14242f7837c993c7 1545804792
+obj /usr/share/locale/fr/LC_MESSAGES/sudo.mo f586623b4fd3bc45893ccdbe38eaa66e 1545804790
+dir /usr/share/locale/fi
+dir /usr/share/locale/fi/LC_MESSAGES
+obj /usr/share/locale/fi/LC_MESSAGES/sudoers.mo 0a6a03cc881eecac9a4a1910c8e2c92f 1545804791
+obj /usr/share/locale/fi/LC_MESSAGES/sudo.mo ed1bd2f52cc725ee23cdd79b8b8aa69a 1545804790
+dir /usr/share/locale/eu
+dir /usr/share/locale/eu/LC_MESSAGES
+obj /usr/share/locale/eu/LC_MESSAGES/sudoers.mo cc325ae613d695b8ccc9bfa89cd17554 1545804791
+obj /usr/share/locale/eu/LC_MESSAGES/sudo.mo 1b4598b94c98cc6ad97db2fd27ff8a3a 1545804790
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/sudo.mo 69b74a58e8787c3f46bfc591675de83f 1545804790
+dir /usr/share/locale/eo
+dir /usr/share/locale/eo/LC_MESSAGES
+obj /usr/share/locale/eo/LC_MESSAGES/sudoers.mo b9e7294ce7ed336d4003e537eaa9cb5a 1545804791
+obj /usr/share/locale/eo/LC_MESSAGES/sudo.mo 50df0ea511b1509816c0007a4f855120 1545804790
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/sudoers.mo 4038e77537f272596ebfaee318f1b68f 1545804791
+obj /usr/share/locale/de/LC_MESSAGES/sudo.mo 8c32729ffc1230133acbb5c6fa57aec8 1545804790
+dir /usr/share/locale/da
+dir /usr/share/locale/da/LC_MESSAGES
+obj /usr/share/locale/da/LC_MESSAGES/sudoers.mo 664e9df84d3e5828d58f0946cbbd1f3d 1545804791
+obj /usr/share/locale/da/LC_MESSAGES/sudo.mo 669c42eff6b650bb4819d61245da5282 1545804790
+dir /usr/share/locale/cs
+dir /usr/share/locale/cs/LC_MESSAGES
+obj /usr/share/locale/cs/LC_MESSAGES/sudoers.mo fa4b870e00276772687b3354795aa605 1545804791
+obj /usr/share/locale/cs/LC_MESSAGES/sudo.mo 667560707b0494235f1506cc50836310 1545804790
+dir /usr/share/locale/ca
+dir /usr/share/locale/ca/LC_MESSAGES
+obj /usr/share/locale/ca/LC_MESSAGES/sudoers.mo df3c000f9db345f9eb4e3480cc5d8fd1 1545804791
+obj /usr/share/locale/ca/LC_MESSAGES/sudo.mo 6adb32e01147bc4c754b99b9cfbfb2d1 1545804790
+sym /usr/share/man/man8/sudoedit.8.bz2 -> sudo.8.bz2 1545804796

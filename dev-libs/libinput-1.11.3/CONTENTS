@@ -1,0 +1,49 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libinput-1.11.3
+obj /usr/share/doc/libinput-1.11.3/README.md.bz2 3074fcef76062efbd428654790029d10 1545800998
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/libinput.1.bz2 6378ed64705c6a617318a70576478387 1545800991
+obj /usr/share/man/man1/libinput-replay.1.bz2 c419e965906c066982fbaa3cbe4bab6a 1545800991
+obj /usr/share/man/man1/libinput-record.1.bz2 74c6316c05eb3b934378882a412989fd 1545800991
+obj /usr/share/man/man1/libinput-measure-trackpoint-range.1.bz2 bd92bb491ea20bbc9f1a94bb6b66c39c 1545800991
+obj /usr/share/man/man1/libinput-measure-touch-size.1.bz2 72aeb582dddb05791b5690848c7eaf59 1545800991
+obj /usr/share/man/man1/libinput-measure-touchpad-pressure.1.bz2 50f7fe096938d7dc4c88db2447a02b51 1545800991
+obj /usr/share/man/man1/libinput-measure-touchpad-tap.1.bz2 15bc251e82151390c1765fc8332c995e 1545800991
+obj /usr/share/man/man1/libinput-measure-fuzz.1.bz2 a86b4b2a6f71960fe0ad2586ba80e8af 1545800991
+obj /usr/share/man/man1/libinput-measure.1.bz2 617811e0ed2832d28f33eab4dd47ced0 1545800991
+obj /usr/share/man/man1/libinput-debug-events.1.bz2 f21d8d1c17d5aa31c130a79a6fa33ea6 1545800991
+obj /usr/share/man/man1/libinput-list-devices.1.bz2 742e8cc1c68fc39738d4cfe654e56ecc 1545800991
+dir /usr/include
+obj /usr/include/libinput.h 0b66b59d4a1c059858cb4450b029bf33 1532494286
+dir /usr/bin
+obj /usr/bin/libinput 8958939b192e48d411768e7d275d7859 1545800999
+dir /usr/libexec
+dir /usr/libexec/libinput
+obj /usr/libexec/libinput/libinput-record c0ae6a8bf90a3f0eaa401ad2b13aabe7 1545800999
+obj /usr/libexec/libinput/libinput-measure 4cce22f24bfb38b7d4f05f78e34fe3a4 1545800999
+obj /usr/libexec/libinput/libinput-list-devices b367b77d97a3b97c53fd19e474806919 1545800999
+obj /usr/libexec/libinput/libinput-debug-events 5a455de9fde82027aebc3a0d8c44c8c6 1545800999
+obj /usr/libexec/libinput/libinput-replay 31530d790d18d563f5a4146d326ee1e5 1532494286
+obj /usr/libexec/libinput/libinput-measure-trackpoint-range 0dc2557c5414fa4fb4eee2239f187061 1532494286
+obj /usr/libexec/libinput/libinput-measure-touch-size 62556d5d0549bce1cfbe0a36e0633f80 1532494286
+obj /usr/libexec/libinput/libinput-measure-touchpad-pressure 232da97338f3db7a96ff14c426a3f810 1532494286
+obj /usr/libexec/libinput/libinput-measure-touchpad-tap 77937d246fa35149339d2297541200d3 1532494286
+obj /usr/libexec/libinput/libinput-measure-fuzz 0deafa4967edd24bc602e0102cf0a31e 1532494286
+dir /usr/lib64
+obj /usr/lib64/libinput.so.10.13.0 7b7b529a4bb19dc4ea54347bbcc40e7f 1545800999
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libinput.pc eb3fe406724dde40f88e845b4621411e 1545800991
+sym /usr/lib64/libinput.so.10 -> libinput.so.10.13.0 1545800998
+dir /lib
+dir /lib/udev
+obj /lib/udev/libinput-device-group bce8ba9251c56fca6813b18abe92f1fe 1545800999
+obj /lib/udev/libinput-model-quirks f6e5b4f265b392a220e70f8f728583f1 1545800999
+dir /lib/udev/hwdb.d
+obj /lib/udev/hwdb.d/90-libinput-model-quirks.hwdb 8d74131466e08eb90f021a83f9da83dc 1545800991
+dir /lib/udev/rules.d
+obj /lib/udev/rules.d/90-libinput-model-quirks.rules 1cbf8ef07b5c516c6b26bb0ee758820d 1545800991
+obj /lib/udev/rules.d/80-libinput-device-groups.rules 612edb41c1eaee20b730da893b729750 1545800991
+sym /usr/lib64/libinput.so -> libinput.so.10 1545800998

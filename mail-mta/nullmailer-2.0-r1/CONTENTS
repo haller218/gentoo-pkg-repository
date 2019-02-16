@@ -1,0 +1,59 @@
+dir /etc
+dir /etc/nullmailer
+obj /etc/nullmailer/remotes ef7be330ebffc479df74ed54c5505b1f 1536717275
+dir /etc/init.d
+obj /etc/init.d/nullmailer 55dc0e625d1d7c3c3fde0ab746e32e67 1536717275
+dir /var
+dir /var/spool
+dir /var/spool/nullmailer
+dir /var/spool/nullmailer/failed
+dir /var/spool/nullmailer/tmp
+obj /var/spool/nullmailer/tmp/.keep_mail-mta_nullmailer-0 d41d8cd98f00b204e9800998ecf8427e 1536717275
+dir /var/spool/nullmailer/queue
+obj /var/spool/nullmailer/queue/.keep_mail-mta_nullmailer-0 d41d8cd98f00b204e9800998ecf8427e 1536717275
+dir /var/spool/nullmailer/service
+obj /var/spool/nullmailer/service/run 28294015b8473ef112e9634b3acad260 1536717275
+dir /var/spool/nullmailer/service/log
+obj /var/spool/nullmailer/service/log/run d5169c5365e4cad4f1bdd210b1208a51 1536717275
+dir /var/log
+dir /var/log/nullmailer
+obj /var/log/nullmailer/.keep_mail-mta_nullmailer-0 d41d8cd98f00b204e9800998ecf8427e 1536717275
+dir /lib
+dir /lib/systemd
+dir /lib/systemd/system
+obj /lib/systemd/system/nullmailer.service 12bb60a6dd91588a7b9cc91a52644b76 1536717276
+dir /usr
+dir /usr/sbin
+obj /usr/sbin/nullmailer-send 4dfe65b18a6cd96ca0ec4b1e0100b8ab 1536717277
+obj /usr/sbin/nullmailer-queue 257ecef8673c39b779e8a189d90f73e7 1536717277
+obj /usr/sbin/sendmail a1c2d5cbdc9bbe3ae76ea1cc88d57467 1536717277
+dir /usr/libexec
+dir /usr/libexec/nullmailer
+obj /usr/libexec/nullmailer/smtp b13cbfff824a1f43bac02859f864de09 1536717277
+obj /usr/libexec/nullmailer/qmqp 081938e6771016996bf7d758cc7ac1cd 1536717277
+dir /usr/lib64
+sym /usr/lib64/sendmail -> /usr/sbin/sendmail 1536717275
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man7
+obj /usr/share/man/man7/nullmailer.7.bz2 61a675c2c5f6717b0c09b84a49d0ffbe 1536717273
+dir /usr/share/man/man8
+obj /usr/share/man/man8/nullmailer-send.8.bz2 50fe57fe8f1b602590ca9f6c27178064 1536717273
+obj /usr/share/man/man8/nullmailer-queue.8.bz2 208f3b419e8f74f8c65f0f10f724fffb 1536717273
+dir /usr/share/man/man1
+obj /usr/share/man/man1/sendmail.1.bz2 07db067106f168c2e510e51dc218eb41 1536717273
+obj /usr/share/man/man1/nullmailer-dsn.1.bz2 ef349233932d114a8f943e212b28a77b 1536717273
+obj /usr/share/man/man1/nullmailer-inject.1.bz2 97c50fbc5759244b8d7dbd39e2c093ce 1536717273
+dir /usr/share/doc
+dir /usr/share/doc/nullmailer-2.0-r1
+obj /usr/share/doc/nullmailer-2.0-r1/NEWS.bz2 a94965f883c29e712e939605ce1b7172 1536717274
+obj /usr/share/doc/nullmailer-2.0-r1/BUGS.bz2 13d8b9fd876427161c8c6c8edafa260b 1536717275
+obj /usr/share/doc/nullmailer-2.0-r1/ChangeLog.bz2 d2f2a03baebd3aebc781a83e4c04c27e 1536717274
+obj /usr/share/doc/nullmailer-2.0-r1/README.bz2 5ab7bdc3f2555f274a76845d2a557fde 1536717274
+obj /usr/share/doc/nullmailer-2.0-r1/TODO.bz2 c72efc37139ef695e2c958ebfcf5e779 1536717274
+obj /usr/share/doc/nullmailer-2.0-r1/AUTHORS 44a96092d6b66bbac25f8b8ae8bfcd65 1536717274
+dir /usr/bin
+obj /usr/bin/nullmailer-dsn 3c5762855ca07d382ab9362f6aab8ddb 1536717277
+obj /usr/bin/nullmailer-inject 8789befbeb297cf3afa36ed8e9a81b74 1536717277
+obj /usr/bin/nullmailer-smtpd 1703fec0b03e842fb5323c4522857b02 1536717277
+obj /usr/bin/mailq ffbbcf71ddbc8c873347859866bbbb01 1536717277

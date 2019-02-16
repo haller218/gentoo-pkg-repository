@@ -1,0 +1,1 @@
+>=app-text/poppler-0.18[cairo,xpdf-headers(+)] dev-libs/glib:2 x11-libs/gtk+:3 virtual/pkgconfig sys-devel/make >=dev-util/cmake-3.9.6 >=sys-apps/sed-4

@@ -1,0 +1,1 @@
+dev-libs/libx86 >=sys-apps/pciutils-2.2.4 >=dev-libs/libgcrypt-1.6.3:0[static-libs] dev-libs/libgpg-error[static-libs] >=dev-libs/lzo-2[static-libs]

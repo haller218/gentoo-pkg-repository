@@ -1,0 +1,8 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-micro-misc-1.0.3-r1
+obj /usr/share/doc/font-micro-misc-1.0.3-r1/ChangeLog.bz2 bdc3dc9cb196eea8334b426d3f5d0a9a 1545801412
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/micro.pcf.gz ed2d45931f8db9380b56b4dfd6152469 1545801411

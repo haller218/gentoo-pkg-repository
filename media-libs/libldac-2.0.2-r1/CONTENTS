@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libldac-2.0.2-r1
+obj /usr/share/doc/libldac-2.0.2-r1/README.md.bz2 27f0a4010c2361d76811172e6b093067 1548532377
+dir /usr/include
+dir /usr/include/ldac
+obj /usr/include/ldac/ldacBT_abr.h 8b281eccd99532ae940ef7b54876ba1d 1539832115
+obj /usr/include/ldac/ldacBT.h a4e51f266a24d19cac59481bb88a406d 1539832115
+dir /usr/lib64
+obj /usr/lib64/libldacBT_enc.so 54caba009279f404233bb07cedfcbfe2 1548532377
+obj /usr/lib64/libldacBT_abr.so 5585f99ba6f1a2cc2812e634eabc7e5d 1548532377
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/ldacBT-abr.pc 5daedfb7362d274be044ba3e1d78c46d 1548532374
+obj /usr/lib64/pkgconfig/ldacBT-enc.pc 5041c69158831b7ced91340cc4b40634 1548532374

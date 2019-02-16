@@ -1,0 +1,34 @@
+dir /usr
+dir /usr/include
+obj /usr/include/gcrypt.h 86c6989f4da229e2f8d59955f58f1c14 1549217592
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libgcrypt-1.8.3
+obj /usr/share/doc/libgcrypt-1.8.3/THANKS.bz2 f422d011fbc445faaaa0f2106caddd1d 1549217593
+obj /usr/share/doc/libgcrypt-1.8.3/NEWS.bz2 dd7f5789d09bd5d464aa76a9d8193bdb 1549217593
+obj /usr/share/doc/libgcrypt-1.8.3/TODO.bz2 f1167edd8e88fe03c52912030d08892f 1549217593
+obj /usr/share/doc/libgcrypt-1.8.3/AUTHORS.bz2 959771f4361428b6dde552cb57996fd3 1549217593
+obj /usr/share/doc/libgcrypt-1.8.3/ChangeLog.bz2 8385c96d60585e4dfc236b4529f4933c 1549217593
+obj /usr/share/doc/libgcrypt-1.8.3/README.GIT.bz2 562a132294974ba99d7c224af7301984 1549217593
+obj /usr/share/doc/libgcrypt-1.8.3/README.bz2 151540175ebb846fbfea915d051d286a 1549217593
+dir /usr/share/info
+obj /usr/share/info/gcrypt.info-2.bz2 a8656ec605a1a4307f29f12973cfc9c9 1549217592
+obj /usr/share/info/gcrypt.info-1.bz2 873d2e3ac7dfea366f983227514cfffb 1549217592
+obj /usr/share/info/gcrypt.info.bz2 726d89ada7a6c396b02c6a53e6198ce1 1549217592
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/hmac256.1.bz2 6abfd8056af875add084b74a7931bb9e 1549217592
+dir /usr/share/aclocal
+obj /usr/share/aclocal/libgcrypt.m4 ea6348e5b1f8e7db68adb91622d40840 1549217592
+dir /usr/lib64
+obj /usr/lib64/libgcrypt.a 0f3a5e221a98891b7e08f7964363c87d 1549217595
+obj /usr/lib64/libgcrypt.so.20.2.3 dfb63c7d6bd44bd15a44651b98fc3272 1549217595
+obj /usr/lib64/libgcrypt.la ca8a2d5b1c6755642872f302ffb7cbab 1549217592
+sym /usr/lib64/libgcrypt.so -> libgcrypt.so.20.2.3 1549217592
+sym /usr/lib64/libgcrypt.so.20 -> libgcrypt.so.20.2.3 1549217592
+dir /usr/bin
+obj /usr/bin/mpicalc 969bccad5a87b9606be4363bfddebc49 1549217595
+obj /usr/bin/hmac256 742a28d04297da0aecaf95bc14d72f2a 1549217595
+obj /usr/bin/dumpsexp f6bf70a95f48012dc3ed3ab188e96f4f 1549217595
+sym /usr/bin/libgcrypt-config -> x86_64-pc-linux-gnu-libgcrypt-config 1549217593
+obj /usr/bin/x86_64-pc-linux-gnu-libgcrypt-config 11bfec38be4390870989b86e6f3369fd 1549217592

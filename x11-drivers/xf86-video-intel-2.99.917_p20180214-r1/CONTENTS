@@ -1,0 +1,20 @@
+dir /usr
+dir /usr/libexec
+obj /usr/libexec/xf86-video-intel-backlight-helper c3dee4d05e84e57ce36530787d1e5e2f 1545801805
+dir /usr/lib64
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/drivers
+obj /usr/lib64/xorg/modules/drivers/intel_drv.so aa473f00e0a41f724079680279d858d1 1545801805
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-video-intel-2.99.917_p20180214-r1
+obj /usr/share/doc/xf86-video-intel-2.99.917_p20180214-r1/README.bz2 6f577180df9ef4733df4f690e48d3709 1545801804
+obj /usr/share/doc/xf86-video-intel-2.99.917_p20180214-r1/NEWS.bz2 aa840f06b5c64cdd8ceb4a83e5634906 1545801804
+obj /usr/share/doc/xf86-video-intel-2.99.917_p20180214-r1/AUTHORS.bz2 c5c96012831cd4f2160d9f7fa5425d94 1545801804
+dir /usr/share/polkit-1
+dir /usr/share/polkit-1/actions
+obj /usr/share/polkit-1/actions/org.x.xf86-video-intel.backlight-helper.policy 4d8e0c9f2ae7b64a6cfdca1649ad782f 1545801803
+dir /usr/share/man
+dir /usr/share/man/man4
+obj /usr/share/man/man4/intel.4.bz2 c806f5114447d10f15280333591e3507 1545801803

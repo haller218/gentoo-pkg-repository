@@ -1,0 +1,35 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-bitstream-100dpi-1.0.3-r1
+obj /usr/share/doc/font-bitstream-100dpi-1.0.3-r1/ChangeLog.bz2 150b7ba97db30d32caf06a7e04e3d846 1545801279
+dir /usr/share/fonts
+dir /usr/share/fonts/100dpi
+obj /usr/share/fonts/100dpi/termB14.pcf.gz 1c5f17688a3704b3794897524c3ec9ce 1545801279
+obj /usr/share/fonts/100dpi/term14.pcf.gz b6007d630790bdc78515a01b12c80644 1545801279
+obj /usr/share/fonts/100dpi/techB14.pcf.gz 84e5a9dc821e1f06e0e64c216a4caa8a 1545801279
+obj /usr/share/fonts/100dpi/tech14.pcf.gz ab76ee040177674d8ea99c69606ffdf8 1545801279
+obj /usr/share/fonts/100dpi/charR24.pcf.gz 9978b7f7ae1d878f5799b314cd920414 1545801279
+obj /usr/share/fonts/100dpi/charR18.pcf.gz c6fb570d6060bb3bd677ceb75729fc41 1545801279
+obj /usr/share/fonts/100dpi/charR14.pcf.gz ab081194088337b44499c800e07eb5bd 1545801279
+obj /usr/share/fonts/100dpi/charR12.pcf.gz bcc6c8ab91d4e3f1129ceeb4390c0e10 1545801279
+obj /usr/share/fonts/100dpi/charR10.pcf.gz 2d8208f829a35d9d45eb59500aa799e4 1545801279
+obj /usr/share/fonts/100dpi/charR08.pcf.gz 0b8340427113aa2e9ed545d47c67102a 1545801279
+obj /usr/share/fonts/100dpi/charI24.pcf.gz 580de32b0ed61ec97af56ede9626399a 1545801279
+obj /usr/share/fonts/100dpi/charI18.pcf.gz efc538eae591e0724347bd1cb915efdd 1545801279
+obj /usr/share/fonts/100dpi/charI14.pcf.gz bc24d0eb33bbc22d5cfae5cb686b5bf6 1545801279
+obj /usr/share/fonts/100dpi/charI12.pcf.gz 8bed663d14c0413550f9b2bfbad349bf 1545801279
+obj /usr/share/fonts/100dpi/charI10.pcf.gz 7ea5ac7edce38717f06ac78926fa9658 1545801279
+obj /usr/share/fonts/100dpi/charI08.pcf.gz d0e90f5874a6f5ab0392792f3b59ffa0 1545801279
+obj /usr/share/fonts/100dpi/charBI24.pcf.gz 503119157a94741c4fce34bf7e8c6620 1545801279
+obj /usr/share/fonts/100dpi/charBI18.pcf.gz f13acd451318364494553aad26157472 1545801279
+obj /usr/share/fonts/100dpi/charBI14.pcf.gz bf536a5c5e696d655c2ecdd7ea358aa3 1545801279
+obj /usr/share/fonts/100dpi/charBI12.pcf.gz ec8d73c5c58e303d4b9486fc0f711c0a 1545801279
+obj /usr/share/fonts/100dpi/charBI10.pcf.gz 0ce32a9ff81d25a6ff02618c29680550 1545801279
+obj /usr/share/fonts/100dpi/charBI08.pcf.gz bf5de5a3d359f585cb9def67d4fde3be 1545801279
+obj /usr/share/fonts/100dpi/charB24.pcf.gz b3b369e845192b5043c4d0fb36c75f4e 1545801279
+obj /usr/share/fonts/100dpi/charB18.pcf.gz 620d6b13aa072513df8a0494a0dfa559 1545801279
+obj /usr/share/fonts/100dpi/charB14.pcf.gz 63172adce3cf14e53244958932c6c837 1545801279
+obj /usr/share/fonts/100dpi/charB12.pcf.gz e818125562b68ebdb7c73142418050e8 1545801279
+obj /usr/share/fonts/100dpi/charB10.pcf.gz 798ac82917488027a6b8a99d8e4769f7 1545801279
+obj /usr/share/fonts/100dpi/charB08.pcf.gz d8398bc3a950ef8c07f2c50034fc96a0 1545801279

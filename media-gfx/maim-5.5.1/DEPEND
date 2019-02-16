@@ -1,0 +1,1 @@
+media-libs/libpng:0/16= virtual/jpeg:0 x11-libs/libX11 x11-libs/libXcomposite x11-libs/libXext x11-libs/libXfixes x11-libs/libXrandr x11-libs/libXrender x11-misc/slop:0/7.4= dev-libs/icu:0/63.1= dev-util/ninja >=dev-util/cmake-3.9.6

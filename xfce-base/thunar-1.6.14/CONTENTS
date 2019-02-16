@@ -1,0 +1,296 @@
+dir /etc
+dir /etc/xdg
+dir /etc/xdg/Thunar
+obj /etc/xdg/Thunar/uca.xml 3416913e87febfccb935b33a40d40ac2 1548995749
+dir /usr
+dir /usr/bin
+obj /usr/bin/thunar 05b35eb55bcf59d36ffbae0a70a7e54c 1548995752
+sym /usr/bin/Thunar -> thunar 1548995747
+obj /usr/bin/thunar-settings c79f3d90b9d1c3940c0d2e4c63272608 1548995747
+dir /usr/include
+dir /usr/include/thunarx-2
+dir /usr/include/thunarx-2/thunarx
+obj /usr/include/thunarx-2/thunarx/thunarx-renamer-provider.h cefa87db4bb0376f1933b257c7a04d09 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-renamer.h e9b10822f7cc56b0b56c8e169aa62546 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-provider-plugin.h 4508b5831fb76d0ea1314f6cc14f44a2 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-provider-factory.h ce5af5d42807808c6da848bc6cabe08a 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-property-page-provider.h 690ae80ec23b678ecfde7d3949d091df 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-property-page.h e1f2d633f56236a43cb3f828f5360cba 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-preferences-provider.h ad6bb5fd94c18aab3e2823eef87cdf46 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-menu-provider.h 14bcf89270a95ec0e53bc9a61ef6bceb 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-file-info.h 6f99e0dcc5c6d04bf4d2bd4709935478 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx-config.h 4401b558f2ac89460ddf6ca4ff9486c0 1548995747
+obj /usr/include/thunarx-2/thunarx/thunarx.h ba0b8a638cd265bb4408407c0658d3d5 1548995747
+dir /usr/lib64
+obj /usr/lib64/libthunarx-2.so.0.0.0 663c74fb310c437eb5b6026d4d54b024 1548995752
+dir /usr/lib64/Thunar
+obj /usr/lib64/Thunar/thunar-sendto-email 1576f12683e16f9490d4053cad4039b3 1548995752
+obj /usr/lib64/Thunar/ThunarBulkRename e0fccd88646b83d234117201a8eeff50 1548995751
+dir /usr/lib64/xfce4
+dir /usr/lib64/xfce4/panel
+dir /usr/lib64/xfce4/panel/plugins
+obj /usr/lib64/xfce4/panel/plugins/libthunar-tpa.so 9abaf4c2883240981dfb656fbfb9fc2c 1548995752
+obj /usr/lib64/xfce4/panel/plugins/libthunar-tpa.la 1bf97d35da4dd0048aa5ebec2f5f3a33 1548995749
+dir /usr/lib64/thunarx-2
+obj /usr/lib64/thunarx-2/thunar-uca.so ab5bd61fa06191f58db4c1f309bc916e 1548995752
+obj /usr/lib64/thunarx-2/thunar-wallpaper-plugin.so 8b8fd932b67c8d913099edf915c16b2c 1548995752
+obj /usr/lib64/thunarx-2/thunar-sbr.so 325b29957aad58124f2a5b6d32ca89c9 1548995752
+obj /usr/lib64/thunarx-2/thunar-apr.so cdabee80d83fec8cb77d20cb11a12aab 1548995752
+obj /usr/lib64/thunarx-2/thunar-wallpaper-plugin.la ff39f384e8e718b7011d11a32d42be19 1548995751
+obj /usr/lib64/thunarx-2/thunar-uca.la d333e27f7db72ff9e5af9ea51c45ac24 1548995751
+obj /usr/lib64/thunarx-2/thunar-sbr.la 540b769771912573274e71789f297336 1548995751
+obj /usr/lib64/thunarx-2/thunar-apr.la e656173fd7034e27be08050c064602ba 1548995751
+obj /usr/lib64/libthunarx-2.la 7388fc9d9c38646b88c72e3ad7035b5e 1548995747
+sym /usr/lib64/libthunarx-2.so -> libthunarx-2.so.0.0.0 1548995747
+sym /usr/lib64/libthunarx-2.so.0 -> libthunarx-2.so.0.0.0 1548995747
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/thunarx-2.pc 9c9995cdf5b3ddbc5996ff04cf18f363 1548995747
+dir /usr/share
+dir /usr/share/dbus-1
+dir /usr/share/dbus-1/services
+obj /usr/share/dbus-1/services/org.xfce.Thunar.service d683945944ec06bd782c8ed2d3241d80 1548995751
+obj /usr/share/dbus-1/services/org.xfce.FileManager.service 24c13480908b86c34e0cd544b824ca9e 1548995751
+dir /usr/share/polkit-1
+dir /usr/share/polkit-1/actions
+obj /usr/share/polkit-1/actions/org.xfce.thunar.policy 069a7912dafb5e45a9cee25e360d98d5 1548995751
+dir /usr/share/appdata
+obj /usr/share/appdata/thunar.appdata.xml 3f2534fc394fff721bcc94ea04e4d772 1548995751
+dir /usr/share/Thunar
+dir /usr/share/Thunar/sendto
+obj /usr/share/Thunar/sendto/thunar-sendto-email.desktop bf4f39e963faa8e0f379e4abbda58edd 1548995750
+dir /usr/share/xfce4
+dir /usr/share/xfce4/panel
+dir /usr/share/xfce4/panel/plugins
+obj /usr/share/xfce4/panel/plugins/thunar-tpa.desktop c3a46a6e8ec35b7950ef71c0bd58927f 1548995749
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/Thunar.1.bz2 2e5cd6433227478866bbe356448dd7af 1548995748
+dir /usr/share/doc
+dir /usr/share/doc/thunar-1.6.14
+obj /usr/share/doc/thunar-1.6.14/TODO.bz2 d268cab39714856cbaa6a502ab626362 1548995751
+obj /usr/share/doc/thunar-1.6.14/THANKS.bz2 4908daa4ccc675aeab1836c54b1d72f6 1548995751
+obj /usr/share/doc/thunar-1.6.14/NEWS.bz2 bc99f9e75efc59d35ae95e920fbec2ea 1548995751
+obj /usr/share/doc/thunar-1.6.14/README.bz2 11a7749e291aa97c62b4138827187187 1548995751
+obj /usr/share/doc/thunar-1.6.14/HACKING.bz2 26c699c5901afc71f06edfcc7d776f4c 1548995751
+obj /usr/share/doc/thunar-1.6.14/FAQ.bz2 80547aa874aaef69e5f1e61acb708676 1548995751
+obj /usr/share/doc/thunar-1.6.14/AUTHORS.bz2 1cb321da75ca187a2cf27f8e0109c808 1548995751
+obj /usr/share/doc/thunar-1.6.14/ChangeLog.bz2 8ecb774f574c6c48eeb16d5db36671c0 1548995751
+obj /usr/share/doc/thunar-1.6.14/README.gtkrc.bz2 23826ab2bd4f8c9cbf7721ac8eb58be9 1548995748
+dir /usr/share/applications
+obj /usr/share/applications/Thunar-folder-handler.desktop f6b6ad45d830cc04befd17000c7acfe7 1548995751
+obj /usr/share/applications/Thunar-bulk-rename.desktop 59dc972d8a26fed1833399cc5b873393 1548995751
+obj /usr/share/applications/Thunar.desktop b7dec4597836a5845de1ab075a7d94a5 1548995751
+obj /usr/share/applications/thunar-settings.desktop 8149d2c9f46465e253241f8013d3ae5a 1548995747
+dir /usr/share/locale
+dir /usr/share/locale/zh_TW
+dir /usr/share/locale/zh_TW/LC_MESSAGES
+obj /usr/share/locale/zh_TW/LC_MESSAGES/Thunar.mo 3c25865ec0abeaef8b0590ebaae246c1 1548995747
+dir /usr/share/locale/zh_HK
+dir /usr/share/locale/zh_HK/LC_MESSAGES
+obj /usr/share/locale/zh_HK/LC_MESSAGES/Thunar.mo 04eda8bcef5f444dce37db24f4fbc028 1548995747
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/Thunar.mo 34f0ef3d46371d4bc15b74396a570312 1548995747
+dir /usr/share/locale/vi
+dir /usr/share/locale/vi/LC_MESSAGES
+obj /usr/share/locale/vi/LC_MESSAGES/Thunar.mo 5241cfe8f35fd91f8ea1f320cd4235b6 1548995747
+dir /usr/share/locale/ur
+dir /usr/share/locale/ur/LC_MESSAGES
+obj /usr/share/locale/ur/LC_MESSAGES/Thunar.mo be53316339829df6a07fd4a0e035a9ce 1548995747
+dir /usr/share/locale/ur_PK
+dir /usr/share/locale/ur_PK/LC_MESSAGES
+obj /usr/share/locale/ur_PK/LC_MESSAGES/Thunar.mo 9b9a8316ada4efc2f606545784d3d2bc 1548995747
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/Thunar.mo fc4bcb3cf04124596f175e57bd2b7cdd 1548995747
+dir /usr/share/locale/ug
+dir /usr/share/locale/ug/LC_MESSAGES
+obj /usr/share/locale/ug/LC_MESSAGES/Thunar.mo eacb8f34749302ba1278ac49cb4b2c4e 1548995747
+dir /usr/share/locale/tr
+dir /usr/share/locale/tr/LC_MESSAGES
+obj /usr/share/locale/tr/LC_MESSAGES/Thunar.mo f9cfb1aa16d4280f0422169b40a46917 1548995747
+dir /usr/share/locale/th
+dir /usr/share/locale/th/LC_MESSAGES
+obj /usr/share/locale/th/LC_MESSAGES/Thunar.mo 40c2a7acce6a717ed2c89f8ff4b83301 1548995747
+dir /usr/share/locale/te
+dir /usr/share/locale/te/LC_MESSAGES
+obj /usr/share/locale/te/LC_MESSAGES/Thunar.mo cd1471f442d7af99288118aeebd6637c 1548995747
+dir /usr/share/locale/sv
+dir /usr/share/locale/sv/LC_MESSAGES
+obj /usr/share/locale/sv/LC_MESSAGES/Thunar.mo 0ee230f566723a648025db529e5ff481 1548995747
+dir /usr/share/locale/sr
+dir /usr/share/locale/sr/LC_MESSAGES
+obj /usr/share/locale/sr/LC_MESSAGES/Thunar.mo d366e54e3a82ac182e9a249acf869058 1548995747
+dir /usr/share/locale/sq
+dir /usr/share/locale/sq/LC_MESSAGES
+obj /usr/share/locale/sq/LC_MESSAGES/Thunar.mo c119df4f48d9bf065f232877dc1cbfba 1548995747
+dir /usr/share/locale/sl
+dir /usr/share/locale/sl/LC_MESSAGES
+obj /usr/share/locale/sl/LC_MESSAGES/Thunar.mo ac176176fb1ca4b5c5bae87eefe706a2 1548995747
+dir /usr/share/locale/sk
+dir /usr/share/locale/sk/LC_MESSAGES
+obj /usr/share/locale/sk/LC_MESSAGES/Thunar.mo 5478dd80d3853233ac70bf5f7e5e0702 1548995747
+dir /usr/share/locale/si
+dir /usr/share/locale/si/LC_MESSAGES
+obj /usr/share/locale/si/LC_MESSAGES/Thunar.mo 12c419376a5061796b33b828f3217e28 1548995746
+dir /usr/share/locale/ru
+dir /usr/share/locale/ru/LC_MESSAGES
+obj /usr/share/locale/ru/LC_MESSAGES/Thunar.mo e916b30c56fa65a73b1ff96a2257c063 1548995746
+dir /usr/share/locale/ro
+dir /usr/share/locale/ro/LC_MESSAGES
+obj /usr/share/locale/ro/LC_MESSAGES/Thunar.mo 94fd3ffe36d59a9af9319703ea7873c5 1548995746
+dir /usr/share/locale/pt
+dir /usr/share/locale/pt/LC_MESSAGES
+obj /usr/share/locale/pt/LC_MESSAGES/Thunar.mo 89592730a73171726e64f099337b140f 1548995746
+dir /usr/share/locale/pt_BR
+dir /usr/share/locale/pt_BR/LC_MESSAGES
+obj /usr/share/locale/pt_BR/LC_MESSAGES/Thunar.mo d85fe0512bf66226b814ed8a2920fe8c 1548995746
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/Thunar.mo 64f6bf0cda115c4f9c78ced9ca9c6e35 1548995746
+dir /usr/share/locale/pa
+dir /usr/share/locale/pa/LC_MESSAGES
+obj /usr/share/locale/pa/LC_MESSAGES/Thunar.mo 577f8976a9af3b0815f75e69cf5468cc 1548995746
+dir /usr/share/locale/oc
+dir /usr/share/locale/oc/LC_MESSAGES
+obj /usr/share/locale/oc/LC_MESSAGES/Thunar.mo 72e2b51b50f8c03366761510e8b7bfaa 1548995746
+dir /usr/share/locale/nn
+dir /usr/share/locale/nn/LC_MESSAGES
+obj /usr/share/locale/nn/LC_MESSAGES/Thunar.mo ee77d7dafb2f17b7d8eeafb43948ded7 1548995746
+dir /usr/share/locale/nl
+dir /usr/share/locale/nl/LC_MESSAGES
+obj /usr/share/locale/nl/LC_MESSAGES/Thunar.mo c4af6d5f660c9ddafbfc0a90f3ae2a51 1548995746
+dir /usr/share/locale/nb
+dir /usr/share/locale/nb/LC_MESSAGES
+obj /usr/share/locale/nb/LC_MESSAGES/Thunar.mo 7739f4a855c5857032c14475531f4691 1548995746
+dir /usr/share/locale/ms
+dir /usr/share/locale/ms/LC_MESSAGES
+obj /usr/share/locale/ms/LC_MESSAGES/Thunar.mo e4e09f58ee3dd0c06ecf4fbcd58053da 1548995746
+dir /usr/share/locale/lv
+dir /usr/share/locale/lv/LC_MESSAGES
+obj /usr/share/locale/lv/LC_MESSAGES/Thunar.mo 10d7688f693276e1ff15ee96b20bbf68 1548995746
+dir /usr/share/locale/lt
+dir /usr/share/locale/lt/LC_MESSAGES
+obj /usr/share/locale/lt/LC_MESSAGES/Thunar.mo acc0df32dd06a4e4b31c73b29a7d1b6b 1548995746
+dir /usr/share/locale/ko
+dir /usr/share/locale/ko/LC_MESSAGES
+obj /usr/share/locale/ko/LC_MESSAGES/Thunar.mo ff8b75871fefa9e28300545e24b01ca6 1548995746
+dir /usr/share/locale/kk
+dir /usr/share/locale/kk/LC_MESSAGES
+obj /usr/share/locale/kk/LC_MESSAGES/Thunar.mo c66e4e2e52e8328c1ed07b131596451f 1548995746
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/Thunar.mo aaffff7a5a53035446871fab981408cd 1548995746
+dir /usr/share/locale/it
+dir /usr/share/locale/it/LC_MESSAGES
+obj /usr/share/locale/it/LC_MESSAGES/Thunar.mo faebce8cf93f775aee5cd10a757e5f01 1548995746
+dir /usr/share/locale/is
+dir /usr/share/locale/is/LC_MESSAGES
+obj /usr/share/locale/is/LC_MESSAGES/Thunar.mo efe7d578f0ad50311f1377c84080d41a 1548995746
+dir /usr/share/locale/id
+dir /usr/share/locale/id/LC_MESSAGES
+obj /usr/share/locale/id/LC_MESSAGES/Thunar.mo f57a88a797eb9c58265103a3d2747018 1548995746
+dir /usr/share/locale/hu
+dir /usr/share/locale/hu/LC_MESSAGES
+obj /usr/share/locale/hu/LC_MESSAGES/Thunar.mo c9c944da0a205d34b07ae86a29077581 1548995746
+dir /usr/share/locale/hr
+dir /usr/share/locale/hr/LC_MESSAGES
+obj /usr/share/locale/hr/LC_MESSAGES/Thunar.mo 7f44c2cc42719ab26d241e87b597d3cb 1548995746
+dir /usr/share/locale/he
+dir /usr/share/locale/he/LC_MESSAGES
+obj /usr/share/locale/he/LC_MESSAGES/Thunar.mo 20c044f07954131cad39ee11ce5b9895 1548995746
+dir /usr/share/locale/gl
+dir /usr/share/locale/gl/LC_MESSAGES
+obj /usr/share/locale/gl/LC_MESSAGES/Thunar.mo 51bef9489cda76cb2b45e7fdb978734a 1548995746
+dir /usr/share/locale/fr
+dir /usr/share/locale/fr/LC_MESSAGES
+obj /usr/share/locale/fr/LC_MESSAGES/Thunar.mo dc7ca4c5d9ba3da632bf4c06fbfad468 1548995746
+dir /usr/share/locale/fi
+dir /usr/share/locale/fi/LC_MESSAGES
+obj /usr/share/locale/fi/LC_MESSAGES/Thunar.mo 2896086ae0ac256f0d5b7c8671308e4c 1548995746
+dir /usr/share/locale/fa_IR
+dir /usr/share/locale/fa_IR/LC_MESSAGES
+obj /usr/share/locale/fa_IR/LC_MESSAGES/Thunar.mo ce647defc9016381799446f775b816eb 1548995745
+dir /usr/share/locale/eu
+dir /usr/share/locale/eu/LC_MESSAGES
+obj /usr/share/locale/eu/LC_MESSAGES/Thunar.mo 8c996fc10b0bcce0282497aee0204420 1548995745
+dir /usr/share/locale/et
+dir /usr/share/locale/et/LC_MESSAGES
+obj /usr/share/locale/et/LC_MESSAGES/Thunar.mo d89c8aa7035cf8f3b332943b753188b2 1548995745
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/Thunar.mo 15da8bb52b0345d4614c03df1eab89bd 1548995745
+dir /usr/share/locale/eo
+dir /usr/share/locale/eo/LC_MESSAGES
+obj /usr/share/locale/eo/LC_MESSAGES/Thunar.mo 54a0fbfbc53efe75911bb86eca6ad939 1548995745
+dir /usr/share/locale/en_GB
+dir /usr/share/locale/en_GB/LC_MESSAGES
+obj /usr/share/locale/en_GB/LC_MESSAGES/Thunar.mo 4646de3b9dac2fc475e4d78a31a4b335 1548995745
+dir /usr/share/locale/en_AU
+dir /usr/share/locale/en_AU/LC_MESSAGES
+obj /usr/share/locale/en_AU/LC_MESSAGES/Thunar.mo ee34c413fd980197ae27b53788dd837b 1548995745
+dir /usr/share/locale/el
+dir /usr/share/locale/el/LC_MESSAGES
+obj /usr/share/locale/el/LC_MESSAGES/Thunar.mo 5157bb6965d7cf812c6505c5bd816329 1548995745
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/Thunar.mo f4420b5fbb54d360dc08569888bcac98 1548995745
+dir /usr/share/locale/da
+dir /usr/share/locale/da/LC_MESSAGES
+obj /usr/share/locale/da/LC_MESSAGES/Thunar.mo 73b225b65405981c9e84da04b643fd40 1548995745
+dir /usr/share/locale/cs
+dir /usr/share/locale/cs/LC_MESSAGES
+obj /usr/share/locale/cs/LC_MESSAGES/Thunar.mo 0f7cdbeda4bc4f7e2aeeb9a2d87e2ac5 1548995745
+dir /usr/share/locale/ca
+dir /usr/share/locale/ca/LC_MESSAGES
+obj /usr/share/locale/ca/LC_MESSAGES/Thunar.mo 54380d28fcb6c733c711eea642938d0f 1548995745
+dir /usr/share/locale/bn
+dir /usr/share/locale/bn/LC_MESSAGES
+obj /usr/share/locale/bn/LC_MESSAGES/Thunar.mo 5706e68ecd27caecb709d9d71f0968ae 1548995745
+dir /usr/share/locale/bg
+dir /usr/share/locale/bg/LC_MESSAGES
+obj /usr/share/locale/bg/LC_MESSAGES/Thunar.mo 8b032e9bb2d074812e70f349432dfc83 1548995745
+dir /usr/share/locale/be
+dir /usr/share/locale/be/LC_MESSAGES
+obj /usr/share/locale/be/LC_MESSAGES/Thunar.mo 3634d6824726ad5e30255ce13a14eba5 1548995745
+dir /usr/share/locale/ast
+dir /usr/share/locale/ast/LC_MESSAGES
+obj /usr/share/locale/ast/LC_MESSAGES/Thunar.mo 21eb753215a77093534b9e10f0d989bc 1548995745
+dir /usr/share/locale/ar
+dir /usr/share/locale/ar/LC_MESSAGES
+obj /usr/share/locale/ar/LC_MESSAGES/Thunar.mo a3b46914c9fd842cc68768ae5c63bba7 1548995745
+dir /usr/share/locale/am
+dir /usr/share/locale/am/LC_MESSAGES
+obj /usr/share/locale/am/LC_MESSAGES/Thunar.mo 074a96e30051f03b7c87bca969a039f0 1548995745
+dir /usr/share/pixmaps
+dir /usr/share/pixmaps/Thunar
+obj /usr/share/pixmaps/Thunar/Thunar-about-logo.png cf23dcd767aa97eacfb633a886937641 1548995745
+dir /usr/share/icons
+dir /usr/share/icons/hicolor
+dir /usr/share/icons/hicolor/scalable
+dir /usr/share/icons/hicolor/scalable/apps
+obj /usr/share/icons/hicolor/scalable/apps/Thunar.svg e7ceddf9bbe581c751a1a41ae9971a0a 1548995745
+dir /usr/share/icons/hicolor/128x128
+dir /usr/share/icons/hicolor/128x128/apps
+obj /usr/share/icons/hicolor/128x128/apps/Thunar.png dcd4971e9e4563f815edca14bd3d2dcb 1548995745
+dir /usr/share/icons/hicolor/64x64
+dir /usr/share/icons/hicolor/64x64/apps
+obj /usr/share/icons/hicolor/64x64/apps/Thunar.png 7dbe6f8407ec1d2818f191a3a19c5c2b 1548995745
+dir /usr/share/icons/hicolor/48x48
+dir /usr/share/icons/hicolor/48x48/apps
+obj /usr/share/icons/hicolor/48x48/apps/Thunar.png be6763f059ac957b849f14708833163a 1548995745
+dir /usr/share/icons/hicolor/24x24
+dir /usr/share/icons/hicolor/24x24/stock
+dir /usr/share/icons/hicolor/24x24/stock/navigation
+obj /usr/share/icons/hicolor/24x24/stock/navigation/stock_folder-move.png be8c71c3fd835d9d206c83d079d803c8 1548995745
+obj /usr/share/icons/hicolor/24x24/stock/navigation/stock_folder-copy.png 09fdf61d818c73ba4c1f13644e237a0a 1548995745
+dir /usr/share/icons/hicolor/24x24/apps
+obj /usr/share/icons/hicolor/24x24/apps/Thunar.png 7c1d214f7558993cbacbef70ce10df8e 1548995745
+dir /usr/share/icons/hicolor/16x16
+dir /usr/share/icons/hicolor/16x16/apps
+obj /usr/share/icons/hicolor/16x16/apps/Thunar.png 1fe51ecf0e9f10f74b973bdb1e3cf554 1548995745
+dir /usr/share/icons/hicolor/16x16/stock
+dir /usr/share/icons/hicolor/16x16/stock/navigation
+obj /usr/share/icons/hicolor/16x16/stock/navigation/stock_thunar-shortcuts.png bdb4d7ffcbae6a4254ce8bb292bb5832 1548995745
+obj /usr/share/icons/hicolor/16x16/stock/navigation/stock_folder-move.png a7eda94d5a6c1e605bdf494f8c08bc7f 1548995745
+obj /usr/share/icons/hicolor/16x16/stock/navigation/stock_folder-copy.png 47e8dde06b3bd0261fa871d34c3bf3bb 1548995745

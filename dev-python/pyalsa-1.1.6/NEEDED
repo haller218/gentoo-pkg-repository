@@ -1,0 +1,10 @@
+/usr/lib64/python2.7/site-packages/pyalsa/alsacard.so libasound.so.2,libpython2.7.so.1.0,libc.so.6
+/usr/lib64/python2.7/site-packages/pyalsa/alsacontrol.so libasound.so.2,libpython2.7.so.1.0,libc.so.6
+/usr/lib64/python2.7/site-packages/pyalsa/alsamixer.so libasound.so.2,libpython2.7.so.1.0,libc.so.6
+/usr/lib64/python2.7/site-packages/pyalsa/alsahcontrol.so libasound.so.2,libpython2.7.so.1.0,libc.so.6
+/usr/lib64/python2.7/site-packages/pyalsa/alsaseq.so libasound.so.2,libpython2.7.so.1.0,libc.so.6
+/usr/lib64/python3.6/site-packages/pyalsa/alsahcontrol.cpython-36m-x86_64-linux-gnu.so libasound.so.2,libpython3.6m.so.1.0,libc.so.6
+/usr/lib64/python3.6/site-packages/pyalsa/alsacontrol.cpython-36m-x86_64-linux-gnu.so libasound.so.2,libpython3.6m.so.1.0,libc.so.6
+/usr/lib64/python3.6/site-packages/pyalsa/alsacard.cpython-36m-x86_64-linux-gnu.so libasound.so.2,libpython3.6m.so.1.0,libc.so.6
+/usr/lib64/python3.6/site-packages/pyalsa/alsamixer.cpython-36m-x86_64-linux-gnu.so libasound.so.2,libpython3.6m.so.1.0,libc.so.6
+/usr/lib64/python3.6/site-packages/pyalsa/alsaseq.cpython-36m-x86_64-linux-gnu.so libasound.so.2,libpython3.6m.so.1.0,libc.so.6

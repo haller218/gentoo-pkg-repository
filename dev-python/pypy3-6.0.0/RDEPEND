@@ -1,0 +1,1 @@
+>=sys-libs/zlib-1.1.3:0/1= virtual/libffi:0/0= virtual/libintl:0/0= dev-libs/expat:0/0= dev-libs/openssl:0/0=[-bindist] app-arch/bzip2:0/1= sys-libs/gdbm:0/1.13= sys-libs/ncurses:0/6= !dev-python/pypy3-bin:0

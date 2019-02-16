@@ -1,0 +1,265 @@
+dir /usr
+dir /usr/include
+dir /usr/include/unicode
+obj /usr/include/unicode/ustream.h 6a3f303b73d795a0ff9a1b8d2758d88d 1548388105
+obj /usr/include/unicode/ustdio.h 3104e526d3de60538f42c0fd5430adcb 1548388105
+obj /usr/include/unicode/vtzone.h a9053ef95930bd854729360fe00fed7a 1548388105
+obj /usr/include/unicode/utrans.h 7a20730bb6d33441a5b9c886cc7cd0eb 1548388105
+obj /usr/include/unicode/utmscale.h 7c59d91f835bc9f4b805dd64e73851d7 1548388105
+obj /usr/include/unicode/uspoof.h 6c2d471942085f091c8bc748a02f113e 1548388105
+obj /usr/include/unicode/usearch.h fc5b3e0d1096ff69c3a2397ef5b3a036 1548388105
+obj /usr/include/unicode/ureldatefmt.h ce005de78e4c2f7c94470670a7fbaa82 1548388105
+obj /usr/include/unicode/uregion.h a3f28f15972bf18600012815a8c76535 1548388105
+obj /usr/include/unicode/uregex.h d355b9242e8004a635f0887c4172022d 1548388105
+obj /usr/include/unicode/upluralrules.h a9c95228e58150a1f658bb1213d56009 1548388105
+obj /usr/include/unicode/unumsys.h 81751949ba43d3ab715c0dd587df11a4 1548388105
+obj /usr/include/unicode/unumberformatter.h 02311b9055dca33c72e475f083c863a8 1548388105
+obj /usr/include/unicode/unum.h 69dc8bcd429abb7472f8b119bd2752ed 1548388105
+obj /usr/include/unicode/unirepl.h c5eeec0e14a9666262d332c22124803f 1548388105
+obj /usr/include/unicode/umsg.h 298645d31f8d8e209cbb5eb3751e3ceb 1548388105
+obj /usr/include/unicode/ulocdata.h 116fad6a2c0db0d08e3f5ae02d93a035 1548388105
+obj /usr/include/unicode/ulistformatter.h be86224aa6321ab1939e6a3d23f5658b 1548388105
+obj /usr/include/unicode/ugender.h d64c9ad1d5cf04136534e3aca38d2638 1548388105
+obj /usr/include/unicode/uformattable.h cad38a97f9f929ebc28d5e72dc5ec14f 1548388105
+obj /usr/include/unicode/ufieldpositer.h 21f8ba8e285bfea4daa3da8a01911b7e 1548388105
+obj /usr/include/unicode/udatpg.h c0c79d113c5eb9d1aaeb78bbc6122c23 1548388105
+obj /usr/include/unicode/udateintervalformat.h 5e7f9e449b1998a6a966d1352b2e1df1 1548388105
+obj /usr/include/unicode/udat.h 018a71a2ef51ae8fa84a862bc913fdf5 1548388105
+obj /usr/include/unicode/ucsdet.h c7d5b3d36da0c71b0a85a72642439a90 1548388105
+obj /usr/include/unicode/ucoleitr.h b4576706530850666c1cfd2424276b26 1548388105
+obj /usr/include/unicode/ucol.h 0b6d71140d2f8e0cf618e5a54cf251af 1548388105
+obj /usr/include/unicode/ucal.h 7d1fc58b3c1e27a88d0dd7fce7c6d4cf 1548388104
+obj /usr/include/unicode/tztrans.h 6e72d3497b3e68dc9aad510e2b45f781 1548388104
+obj /usr/include/unicode/tzrule.h bcba9c924da93d42e4f18f507c11e8cf 1548388104
+obj /usr/include/unicode/tznames.h b5935a11cb884e2e47ad732ee684037d 1548388104
+obj /usr/include/unicode/tzfmt.h 2cb06301f2376b6802834105060311bf 1548388104
+obj /usr/include/unicode/translit.h 3464c7b8023b7c131b0b533e1b372c3a 1548388104
+obj /usr/include/unicode/tmutfmt.h c344b95b816e04ed0bc895c6da6ef460 1548388104
+obj /usr/include/unicode/tmutamt.h 0890de21bc330b69b00f94c437e0f140 1548388104
+obj /usr/include/unicode/tmunit.h 9a1f159c304e2bd283d7cf61a0807c05 1548388104
+obj /usr/include/unicode/timezone.h 40684ef7bca466f30e133483dd708db1 1548388104
+obj /usr/include/unicode/tblcoll.h 9aad9b68d582e13be85f437f815a3eb1 1548388104
+obj /usr/include/unicode/stsearch.h 33d820eada4a37ceb3f0bd9ff07ed63d 1548388104
+obj /usr/include/unicode/sortkey.h 25af96ad696ab793d62d67debb04c8ba 1548388104
+obj /usr/include/unicode/smpdtfmt.h bf13dad8383ee47bf7edc6d212bcff61 1548388104
+obj /usr/include/unicode/simpletz.h 07c17256943be808b2b2a597d3d27c33 1548388104
+obj /usr/include/unicode/selfmt.h 2457e48d1cf8ff880f1bdaf80a9e2fc7 1548388104
+obj /usr/include/unicode/search.h bee76013db18275ff842e90c6805ae72 1548388104
+obj /usr/include/unicode/scientificnumberformatter.h b0f20bc8a5b53b07a07d4576d3d6d928 1548388104
+obj /usr/include/unicode/reldatefmt.h 944800ccf18e95cb37c9b666795b049a 1548388104
+obj /usr/include/unicode/region.h b0c3e0b2ad6650fbab876495b114b639 1548388104
+obj /usr/include/unicode/regex.h 989f03e9904c4221c33a17c528d417a5 1548388104
+obj /usr/include/unicode/rbtz.h f772120604410ff1f1492b1991d36163 1548388104
+obj /usr/include/unicode/rbnf.h c951102dad30e81d893bc81df09820f5 1548388104
+obj /usr/include/unicode/plurrule.h 4ce36b0b1169259573b5ce41eee6e9a4 1548388104
+obj /usr/include/unicode/plurfmt.h fa64bd7797a74e8e8769a12047c5bf3c 1548388104
+obj /usr/include/unicode/numsys.h 47a82a73d6e0c5d70bb4c49b7710e68a 1548388104
+obj /usr/include/unicode/numfmt.h b74d4505599f9441a4b0f46fa9f06812 1548388104
+obj /usr/include/unicode/numberrangeformatter.h c1269b569b86a48fce3cbc6a9d0e86a6 1548388104
+obj /usr/include/unicode/numberformatter.h c332ae8ed4e389564b0be029f8b65349 1548388104
+obj /usr/include/unicode/nounit.h f6e0d84fc813d45ba2d78a38b7c97300 1548388104
+obj /usr/include/unicode/msgfmt.h 706a077837b917e7e3afb7a519da967a 1548388104
+obj /usr/include/unicode/measure.h 060550ced6b6ceae742c8d47772e190f 1548388104
+obj /usr/include/unicode/measunit.h ccc28cd442d1f16c762df76fa3c2cc40 1548388104
+obj /usr/include/unicode/measfmt.h 92f750760a13ad082efbe99467d68e9f 1548388104
+obj /usr/include/unicode/listformatter.h e7891e6674c476cf19b6fbf25842daa8 1548388104
+obj /usr/include/unicode/gregocal.h 4e746c8c84966372f9e66255e3d05246 1548388104
+obj /usr/include/unicode/gender.h 21d668158f52ab989a8a4711de79f099 1548388104
+obj /usr/include/unicode/fpositer.h 2fdf3d1fa8b84e6ba3c561803de5f595 1548388104
+obj /usr/include/unicode/format.h 71642e006d9e359a5a8b0800d390ec52 1548388104
+obj /usr/include/unicode/fmtable.h c0c5ea7bd3e3a5fded75c2fea543c668 1548388104
+obj /usr/include/unicode/fieldpos.h d42ab3ff641fdc7016cbc3e7526594a1 1548388104
+obj /usr/include/unicode/dtrule.h a2a865734c97d4d5ee2a095ebbd629cf 1548388104
+obj /usr/include/unicode/dtptngen.h 23dbb7aeb65843e385b04b392cbdc079 1548388104
+obj /usr/include/unicode/dtitvinf.h 9374f17b7a9d75568d426ac6b5e2c414 1548388104
+obj /usr/include/unicode/dtitvfmt.h 6dde9d4194927e31d63d562ce64fd0de 1548388104
+obj /usr/include/unicode/dtfmtsym.h c06710d48a792838da0f5e3814b3908a 1548388104
+obj /usr/include/unicode/decimfmt.h 637ce0c8c7e7303455a9fa358470a20f 1548388104
+obj /usr/include/unicode/dcfmtsym.h 3eec16337aeaa8877e966616ac53783a 1548388104
+obj /usr/include/unicode/datefmt.h 91aee102e3fa68c64113645be5b944c4 1548388104
+obj /usr/include/unicode/currunit.h 8e601ca4a10e5a25560436a0e1f6a333 1548388104
+obj /usr/include/unicode/currpinf.h e279f04f8bb9c6a686ede0f4bbc7caf4 1548388104
+obj /usr/include/unicode/curramt.h 8f57c8f5a77ffd6d1f4a9c53b100ee3e 1548388104
+obj /usr/include/unicode/compactdecimalformat.h dd1f639d5c836e200b48ad69ef326fc0 1548388104
+obj /usr/include/unicode/coll.h a60e4d0e20f25015d370bfb3b24e267e 1548388104
+obj /usr/include/unicode/coleitr.h 35cafcefbe5155408aa6166781d4290d 1548388104
+obj /usr/include/unicode/choicfmt.h 38f338fb58eebce7fc999c906aad142e 1548388104
+obj /usr/include/unicode/calendar.h e640b0fd471a5313b85a866871b9df2a 1548388104
+obj /usr/include/unicode/basictz.h 456683947de10ae84e2c069c9fc55e9f 1548388104
+obj /usr/include/unicode/alphaindex.h 7b511fd3f86db2f15f9f7eb6524e7d25 1548388104
+obj /usr/include/unicode/uversion.h af19802ec4e905051d79ab4579a30bcd 1548388104
+obj /usr/include/unicode/uvernum.h abac4aaf28f85866763b92fab4aec906 1548388104
+obj /usr/include/unicode/utypes.h 7510d94bf43cc149faf9402a7cc22e67 1548388104
+obj /usr/include/unicode/utrace.h 35cbc5ec2fd02b703a449e896f48ebfe 1548388104
+obj /usr/include/unicode/utf_old.h c89c03a53abcf83e039ad4217246acd9 1548388104
+obj /usr/include/unicode/utf8.h 2e05d1761d06915ffd33f779e2b63f2b 1548388104
+obj /usr/include/unicode/utf32.h a1fdf74f4bd8808f9fb17df371f886d9 1548388104
+obj /usr/include/unicode/utf16.h d95d304275f6c688b0c4ae5620d57e4c 1548388104
+obj /usr/include/unicode/utf.h 4434eeb75c89a49228884aa247714e1c 1548388104
+obj /usr/include/unicode/utext.h 9ce82f90b5ae0de540244dc3614ca06d 1548388104
+obj /usr/include/unicode/ustringtrie.h 54a28aa9c4e117cd3ebfd0a670324f6c 1548388104
+obj /usr/include/unicode/ustring.h 92f522f8ef62e443c11baa56c32e42e4 1548388104
+obj /usr/include/unicode/usprep.h e88585ae8bdb3a35aa88417993bde732 1548388104
+obj /usr/include/unicode/ushape.h 86fdf709d4312bb17cf95b16f58e1dc4 1548388104
+obj /usr/include/unicode/usetiter.h 36896c874036542390b5a75a04f330c5 1548388104
+obj /usr/include/unicode/uset.h a285e1b480a3abaaee753ba74d245efd 1548388104
+obj /usr/include/unicode/uscript.h 77165044ccd4bbbcad2ce611381b3cec 1548388104
+obj /usr/include/unicode/ures.h 99f6bb2454aad9c4e45928f6a90d7d1c 1548388104
+obj /usr/include/unicode/urep.h 6ada98ac1aa68081f10d17b1abadef6e 1548388104
+obj /usr/include/unicode/urename.h 70fa56f6fbd3f33ceeb55bc1e6161b5e 1548388104
+obj /usr/include/unicode/uobject.h 5564aa46b1e8df599368b7b0ed3d3c9d 1548388104
+obj /usr/include/unicode/unorm2.h e8fff4023ad114b325f346d2cdbbe043 1548388104
+obj /usr/include/unicode/unorm.h 3a1e6dcd474ef8b2c3377b34141bf6d3 1548388104
+obj /usr/include/unicode/unistr.h 8218d0d5916705dd74718f6580a9c21f 1548388104
+obj /usr/include/unicode/uniset.h fa8e5bd94947a260754812019424cf9e 1548388104
+obj /usr/include/unicode/unimatch.h 00eb31b1d65f3e0f03e7d880b1bb79fb 1548388104
+obj /usr/include/unicode/unifunct.h 97d80d81556b54ac674d09643df98cfc 1548388104
+obj /usr/include/unicode/unifilt.h 71e8ecdb31d706e8e0efc4bbdc9f86b5 1548388104
+obj /usr/include/unicode/umutablecptrie.h 4fe0aaad80938fbe881a3fb447be1f24 1548388104
+obj /usr/include/unicode/umisc.h eca71d8c8bf86529ae5bbc5f34598bea 1548388104
+obj /usr/include/unicode/umachine.h b25221a74cab16d993f35108e6da340a 1548388104
+obj /usr/include/unicode/uloc.h b344a11407a95b108ef52a4d88c74d6a 1548388104
+obj /usr/include/unicode/uldnames.h d18634bc73c16b9ae02b6a60fd94d8be 1548388104
+obj /usr/include/unicode/uiter.h 3fea96177f4f814091918f54d1e68ccd 1548388104
+obj /usr/include/unicode/uidna.h 88ee381ec6ec01cb677f3e5222e9cf22 1548388104
+obj /usr/include/unicode/uenum.h 41cce54d4862d5068f4f087b935c0657 1548388104
+obj /usr/include/unicode/udisplaycontext.h 57a269787da52ad6720ff5b1e87b5cdd 1548388104
+obj /usr/include/unicode/udata.h e747b190fadb0749c129aeff7e6eef54 1548388104
+obj /usr/include/unicode/ucurr.h c47b1d8da8a44937c2ff23b2cd62f668 1548388104
+obj /usr/include/unicode/ucptrie.h 9b16abc66b11f53941ec5d90af1df0b0 1548388104
+obj /usr/include/unicode/ucpmap.h a22571c78880dd947efc0ab547061a35 1548388104
+obj /usr/include/unicode/uconfig.h 175e87b8bc75c07104ea42653687ccb1 1548388104
+obj /usr/include/unicode/ucnvsel.h 6e4c5e31c2a89439ef4945cd4a402ef3 1548388104
+obj /usr/include/unicode/ucnv_err.h 6ef0751460140d23ae678ef85c298906 1548388104
+obj /usr/include/unicode/ucnv_cb.h 69c1c5b156028cd623ed7e5b5b4ab730 1548388104
+obj /usr/include/unicode/ucnv.h db701a7a83540ef4dcfc4e780f1da016 1548388104
+obj /usr/include/unicode/uclean.h ef4b9289f510edd0bb6b779d0a299f44 1548388104
+obj /usr/include/unicode/uchriter.h 85c221ab993783ec8f7823713c30758c 1548388104
+obj /usr/include/unicode/ucharstriebuilder.h 52600c017361ee29f21a6fef13667948 1548388104
+obj /usr/include/unicode/ucharstrie.h 644af4172d542594c40face6cbe01b5e 1548388104
+obj /usr/include/unicode/uchar.h 1e3a2a950b29645658fdac6717c20269 1548388104
+obj /usr/include/unicode/ucat.h f412352b86adccba85d7f3e4b4515064 1548388104
+obj /usr/include/unicode/ucasemap.h 2f240e1dc6db1771e843f1a03fd0c8f4 1548388104
+obj /usr/include/unicode/ubrk.h e85002afa629b85ba239135ab11f47f0 1548388103
+obj /usr/include/unicode/ubiditransform.h fab65809ece8816f1a002eb843b80e29 1548388103
+obj /usr/include/unicode/ubidi.h d90a13a2933198f134efefc0ff7563e6 1548388103
+obj /usr/include/unicode/symtable.h 763520aa161c95884efa6f6a5f29eb77 1548388103
+obj /usr/include/unicode/stringtriebuilder.h fc74bea13a3003c79ebeccc442703037 1548388103
+obj /usr/include/unicode/stringpiece.h 4265692d09da7d3cd585bc6776a8a0c7 1548388103
+obj /usr/include/unicode/stringoptions.h d4929224e8d9df2f272f0305780cbacb 1548388103
+obj /usr/include/unicode/strenum.h 2d2998dd8033ac7272c39406cc3f8b51 1548388103
+obj /usr/include/unicode/std_string.h 2300a9ee3296c630373a6e8b685dff88 1548388103
+obj /usr/include/unicode/simpleformatter.h e4f84accd90d4e3515f30def25f9dcf7 1548388103
+obj /usr/include/unicode/schriter.h 9c196272282acc6ccf6cd34544095b63 1548388103
+obj /usr/include/unicode/resbund.h 87a08c1ea0b825d2f99951e9be9f1127 1548388103
+obj /usr/include/unicode/rep.h d29a88e12fd288a0606a41464630a015 1548388103
+obj /usr/include/unicode/rbbi.h e58d47f63fd9e74e900668eb10e05e3c 1548388103
+obj /usr/include/unicode/putil.h ee1c69d5060b8d5754bf8879bb7f10d1 1548388103
+obj /usr/include/unicode/ptypes.h d74097874c82f77331d8e06a5c59d37f 1548388103
+obj /usr/include/unicode/platform.h d6aed91f3114fe877714fc554ad167ae 1548388103
+obj /usr/include/unicode/parsepos.h 92b8a12e18031fcb8c1ce125ef1dc2f1 1548388103
+obj /usr/include/unicode/parseerr.h ce38831411af01eeaf0bbbb6e1cb0153 1548388103
+obj /usr/include/unicode/normlzr.h c974010d56584fcf75f0f2e10e05fe9c 1548388103
+obj /usr/include/unicode/normalizer2.h 909305633321f6cbb76cc88dc8c00c90 1548388103
+obj /usr/include/unicode/messagepattern.h b671e9e96bad09137a7bf186e8d795fc 1548388103
+obj /usr/include/unicode/locid.h 65c7eaaec7bea2a4512bb187ac62e566 1548388103
+obj /usr/include/unicode/locdspnm.h d882d2e82f509756032cdd2c878c27b1 1548388103
+obj /usr/include/unicode/localpointer.h 075b41f2e4c605cbda3f28e2237356fa 1548388103
+obj /usr/include/unicode/idna.h e2bb1287f5f61b37dd11493008d29ef6 1548388103
+obj /usr/include/unicode/icuplug.h 60ad27a2a36284bbc1766f9920769175 1548388103
+obj /usr/include/unicode/icudataver.h d1c480a9eb95aaa058a6b9311074bc33 1548388103
+obj /usr/include/unicode/filteredbrk.h 4ab1ef82654177aea8000c72f6652e40 1548388103
+obj /usr/include/unicode/errorcode.h 6f00859e026be521cff595db38b871db 1548388103
+obj /usr/include/unicode/enumset.h 3bb75fc43c88682895ae98c02e69810d 1548388103
+obj /usr/include/unicode/edits.h 7fd52de9a5c418c48234d1425f22fabc 1548388103
+obj /usr/include/unicode/dtintrv.h fbd96221182d14a74dc331a741cffc7b 1548388103
+obj /usr/include/unicode/docmain.h 97f1c6ad84cb94e73f65b097fa28c92e 1548388103
+obj /usr/include/unicode/dbbi.h 15a312f4cf6c6bc243fd6d32368956a1 1548388103
+obj /usr/include/unicode/chariter.h 463cdd4748695660223db14c27da3e84 1548388103
+obj /usr/include/unicode/char16ptr.h 3bed1c6f219d725f6daf274704427035 1548388103
+obj /usr/include/unicode/casemap.h b40e8878db23b64a72763bf75e4e3e2a 1548388103
+obj /usr/include/unicode/caniter.h 74858b2a33cb2805dea0b0bc480dda7d 1548388103
+obj /usr/include/unicode/bytestriebuilder.h e6649e470ceff3af7ec894aa6031cb21 1548388103
+obj /usr/include/unicode/bytestrie.h 781e30fb8103ba58fdfe4b6704e54347 1548388103
+obj /usr/include/unicode/bytestream.h 8b946f79fb11d18859acdceab1bb5d46 1548388103
+obj /usr/include/unicode/brkiter.h c6f7dc46fa73cdefb6ca782faa83b5a8 1548388103
+obj /usr/include/unicode/appendable.h 713ee4a1c3e3ca090b202ceb81d6ad9f 1548388103
+dir /usr/sbin
+obj /usr/sbin/escapesrc 55e50fbcee31b95f8ede93577eb61bb5 1548388108
+obj /usr/sbin/gennorm2 d18702cd487745dd7453f9d9fe5ac008 1548388108
+obj /usr/sbin/icupkg 80942fec9a733bf599de7e4dbf1d633e 1548388108
+obj /usr/sbin/gencmn 98834603f571486cbfdfcffa9b0d912c 1548388108
+obj /usr/sbin/genccode a02c2f7664637e8458dee068b90e9c19 1548388108
+obj /usr/sbin/gensprep ebbee782704905ccc0b39b358f1c0ea6 1548388108
+dir /usr/bin
+obj /usr/bin/uconv e0c384029d34066ffc138efc217daab7 1548388108
+obj /usr/bin/gendict 4f817374eeef6db85684bb82877be8dd 1548388108
+obj /usr/bin/gencfu c50a44d85c669fbf6a30a33fb2d253e2 1548388108
+obj /usr/bin/pkgdata 7cf1d14f5fe0bb449a7b6e7a003c50f5 1548388108
+obj /usr/bin/icuinfo 1c6df51e35efef81d14ee97c12b99fea 1548388108
+obj /usr/bin/genbrk ddbaec9edd3eee56789715ff326bff09 1548388108
+obj /usr/bin/gencnval 565c653770d6745ff51a8c960695b368 1548388108
+obj /usr/bin/derb e46119961ce862aa9a2d7f070b4ed1e8 1548388108
+obj /usr/bin/genrb 49e19b20620f872869e7dd0984ee06de 1548388108
+obj /usr/bin/makeconv 217a467ea63ff36f9b0f5928a91c2b2a 1548388108
+obj /usr/bin/x86_64-pc-linux-gnu-icu-config a9d50045629452eaf8c6c1bc6273b87b 1548388106
+dir /usr/lib64
+obj /usr/lib64/libicudata.so.63.1 abc0c7bf8bd8eaf2789ee5fd4778d83b 1548388108
+obj /usr/lib64/libicutest.so.63.1 be9fe8f85635574d1989f35d5ff6f746 1548388108
+obj /usr/lib64/libicui18n.so.63.1 55fe286179f855dcb1b32aad8b2bb6a5 1548388107
+obj /usr/lib64/libicuuc.so.63.1 8997e4762255afc7e4a4991ea43d3b5a 1548388107
+obj /usr/lib64/libicutu.so.63.1 3d66284abdd47b44eaa0c5bab86ceb86 1548388107
+obj /usr/lib64/libicuio.so.63.1 d6b15a1c6cc16695a2888a87deaa4217 1548388107
+sym /usr/lib64/libicudata.so -> libicudata.so.63.1 1548388106
+sym /usr/lib64/libicudata.so.63 -> libicudata.so.63.1 1548388106
+sym /usr/lib64/libicutest.so.63 -> libicutest.so.63.1 1548388105
+sym /usr/lib64/libicutest.so -> libicutest.so.63.1 1548388105
+sym /usr/lib64/libicutu.so.63 -> libicutu.so.63.1 1548388105
+sym /usr/lib64/libicutu.so -> libicutu.so.63.1 1548388105
+sym /usr/lib64/libicuio.so.63 -> libicuio.so.63.1 1548388105
+sym /usr/lib64/libicuio.so -> libicuio.so.63.1 1548388105
+sym /usr/lib64/libicui18n.so.63 -> libicui18n.so.63.1 1548388104
+sym /usr/lib64/libicui18n.so -> libicui18n.so.63.1 1548388104
+sym /usr/lib64/libicuuc.so.63 -> libicuuc.so.63.1 1548388103
+sym /usr/lib64/libicuuc.so -> libicuuc.so.63.1 1548388103
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/icu-io.pc df3bef10ea0e3f8d2cff8a491d1ef729 1548388106
+obj /usr/lib64/pkgconfig/icu-i18n.pc c0ffb0d51bbf4d3fc7f4bf6e40b9b8c3 1548388106
+obj /usr/lib64/pkgconfig/icu-uc.pc b2d85965e0059dfabaeca93f978c74f1 1548388106
+dir /usr/lib64/icu
+dir /usr/lib64/icu/63.1
+obj /usr/lib64/icu/63.1/pkgdata.inc 42aca945732e967be36bca119d251e5f 1548388106
+obj /usr/lib64/icu/63.1/Makefile.inc 9afcbe10359ed7b34d16f8b240b86915 1548388106
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/icu-63.1-r1
+dir /usr/share/doc/icu-63.1-r1/html
+obj /usr/share/doc/icu-63.1-r1/html/readme.html e1a2cce92cfbd8102a7a4eb34527f57d 1548388106
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/icupkg.8.bz2 ccd4b8da656f05d5381c7c3be99cfc05 1548388105
+obj /usr/share/man/man8/gencmn.8.bz2 39c6d89a7daa7b07aa41e716e7ea3cca 1548388105
+obj /usr/share/man/man8/gensprep.8.bz2 f22b26061a6b7a709fa5047d86552a4a 1548388105
+obj /usr/share/man/man8/genccode.8.bz2 25f5f3e7725636fe3d4eee4f60115684 1548388105
+dir /usr/share/man/man1
+obj /usr/share/man/man1/icu-config.1.bz2 f32bd911553b45250738785c65056a2c 1548388106
+obj /usr/share/man/man1/uconv.1.bz2 9ded2d29c7ccfdd61f933276736f4260 1548388106
+obj /usr/share/man/man1/pkgdata.1.bz2 d305518b682428d81f67ea4d59bb1e00 1548388105
+obj /usr/share/man/man1/gencfu.1.bz2 73928bd7110c6d5757a7ef64c8f7095e 1548388105
+obj /usr/share/man/man1/gendict.1.bz2 a9f798ef22766198540ecea87affb1a8 1548388105
+obj /usr/share/man/man1/gencnval.1.bz2 0331ea96aa0479999d4f300d7255c545 1548388105
+obj /usr/share/man/man1/genbrk.1.bz2 0031334396de20934db25607a0a77459 1548388105
+obj /usr/share/man/man1/derb.1.bz2 217c89e3d2b1a48bb128fe1f91e30eec 1548388105
+obj /usr/share/man/man1/makeconv.1.bz2 e3e9acb6f9139336d2b5a4b34e623047 1548388105
+obj /usr/share/man/man1/genrb.1.bz2 aaa986df7f38874719842682842bceda 1548388105
+dir /usr/share/icu
+dir /usr/share/icu/63.1
+obj /usr/share/icu/63.1/LICENSE 63752c57bd0b365c9af9f427ef79c819 1548388106
+obj /usr/share/icu/63.1/install-sh 5afe8eb5573965dfb58378e4e46f3813 1548388106
+obj /usr/share/icu/63.1/mkinstalldirs 31c4856b24c8dbc6319819ccd43b4fda 1548388106
+dir /usr/share/icu/63.1/config
+obj /usr/share/icu/63.1/config/mh-linux 7db4645654971d3c6c3559222b6da3dd 1548388106
+sym /usr/lib64/icu/current -> 63.1 1548388106
+sym /usr/lib64/icu/Makefile.inc -> current/Makefile.inc 1548388106
+sym /usr/lib64/icu/pkgdata.inc -> current/pkgdata.inc 1548388106
+sym /usr/bin/icu-config -> x86_64-pc-linux-gnu-icu-config 1548388106

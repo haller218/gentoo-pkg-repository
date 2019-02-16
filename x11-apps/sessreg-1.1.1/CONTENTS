@@ -1,0 +1,12 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/sessreg 76853aa72ceff0b8bfc9769e403757a3 1545800516
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/sessreg-1.1.1
+obj /usr/share/doc/sessreg-1.1.1/AUTHORS.bz2 5349c2e0f9d27e8a549c6115ac5c061e 1545800515
+obj /usr/share/doc/sessreg-1.1.1/README.bz2 cfbe6e7b10dbe85441be6075d05e51b1 1545800515
+obj /usr/share/doc/sessreg-1.1.1/ChangeLog.bz2 e648903596e7e4bf9dfb484c172aacdb 1545800515
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/sessreg.1.bz2 f3212ed56664f27e15caab621e6931ee 1545800515

@@ -1,0 +1,44 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/power_assert-1.1.1
+obj /usr/share/doc/power_assert-1.1.1/README.rdoc.bz2 3ebf9721179f9863b91e1ff71189b930 1545708835
+dir /usr/lib64
+dir /usr/lib64/ruby
+dir /usr/lib64/ruby/gems
+dir /usr/lib64/ruby/gems/2.4.0
+dir /usr/lib64/ruby/gems/2.4.0/gems
+dir /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1
+dir /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert.rb eac4ecde5a9073227ae7f4cc292bd61a 1545708835
+dir /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert/version.rb 0d91b30a986ca1f8ce7cd3a18e1d0fc3 1545708835
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert/parser.rb ef8810fa2d776ab5031d5c83adabd1a6 1545708835
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert/inspector.rb 65d2834fc9a3e5d5529c639e4f3534f6 1545708835
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert/enable_tracepoint_events.rb 7e0d169bb8bb86d3e201bef3c62a61b2 1545708835
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert/context.rb f02c5696777f4c22a3ca01c889fe8de1 1545708835
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert/configuration.rb 3a61b439ec133f1c3b19774affc41ecc 1545708835
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/lib/power_assert/colorize.rb 96b2466652f623f119d463492fa9f041 1545708835
+dir /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/bin
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/bin/setup 6101f6a2b9c9f1717a57ff1b27b88a8f 1545708835
+obj /usr/lib64/ruby/gems/2.4.0/gems/power_assert-1.1.1/bin/console 47250d5f6059d879f2de223872b2ca2a 1545708835
+dir /usr/lib64/ruby/gems/2.4.0/specifications
+obj /usr/lib64/ruby/gems/2.4.0/specifications/power_assert-1.1.1.gemspec 87fc2b08a0030da95f416d3e75870adb 1545708835
+dir /usr/lib64/ruby/gems/2.3.0
+dir /usr/lib64/ruby/gems/2.3.0/gems
+dir /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1
+dir /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert.rb eac4ecde5a9073227ae7f4cc292bd61a 1545708835
+dir /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert/version.rb 0d91b30a986ca1f8ce7cd3a18e1d0fc3 1545708835
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert/parser.rb ef8810fa2d776ab5031d5c83adabd1a6 1545708835
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert/inspector.rb 65d2834fc9a3e5d5529c639e4f3534f6 1545708835
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert/enable_tracepoint_events.rb 7e0d169bb8bb86d3e201bef3c62a61b2 1545708835
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert/context.rb f02c5696777f4c22a3ca01c889fe8de1 1545708835
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert/configuration.rb 3a61b439ec133f1c3b19774affc41ecc 1545708835
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/lib/power_assert/colorize.rb 96b2466652f623f119d463492fa9f041 1545708835
+dir /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/bin
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/bin/setup 6101f6a2b9c9f1717a57ff1b27b88a8f 1545708835
+obj /usr/lib64/ruby/gems/2.3.0/gems/power_assert-1.1.1/bin/console 47250d5f6059d879f2de223872b2ca2a 1545708835
+dir /usr/lib64/ruby/gems/2.3.0/specifications
+obj /usr/lib64/ruby/gems/2.3.0/specifications/power_assert-1.1.1.gemspec 87fc2b08a0030da95f416d3e75870adb 1545708834

@@ -1,0 +1,17 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libXfont2-2.0.3-r1
+obj /usr/share/doc/libXfont2-2.0.3-r1/ChangeLog.bz2 28ee3c00750bc5b4d0b03ed5f706c785 1545800986
+obj /usr/share/doc/libXfont2-2.0.3-r1/AUTHORS.bz2 9f3e01612137cabc0da6ae6670540de0 1545800986
+obj /usr/share/doc/libXfont2-2.0.3-r1/README.bz2 edc683c3f8d7c1753f49673d528d5d45 1545800986
+dir /usr/include
+dir /usr/include/X11
+dir /usr/include/X11/fonts
+obj /usr/include/X11/fonts/libxfont2.h 4cc6a48bedb4064d848c22ded96d0214 1545800985
+dir /usr/lib64
+obj /usr/lib64/libXfont2.so.2.0.0 6b01f0cc657d89f94a978879262b3e42 1545800987
+sym /usr/lib64/libXfont2.so -> libXfont2.so.2.0.0 1545800985
+sym /usr/lib64/libXfont2.so.2 -> libXfont2.so.2.0.0 1545800985
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/xfont2.pc 01c688dea63cf801499f10a55e7ddea7 1545800985

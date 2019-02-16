@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/iputils-20180629
+obj /usr/share/doc/iputils-20180629/INSTALL.md.bz2 35c62c8b4b5490bcb2becab1f39a5b31 1545707302
+dir /usr/share/man
+dir /usr/share/man/man8
+sym /usr/share/man/man8/ping6.8.bz2 -> ping.8.bz2 1545707303
+obj /usr/share/man/man8/ping.8.bz2 881ca51c574bb3d46131d390bdb60729 1545707302
+obj /usr/share/man/man8/arping.8.bz2 d88282f45b7ecf382c1bbe3493d1b0f3 1545707302
+dir /bin
+obj /bin/arping d95c6833fb0a5435a6158590bbcbd8bf 1545707303
+obj /bin/ping 4f7860561bb6bf0eb24e22e10873284f 1545707303
+sym /bin/ping6 -> ping 1545707302
+sym /bin/ping4 -> ping 1545707302

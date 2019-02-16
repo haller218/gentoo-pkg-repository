@@ -1,0 +1,20 @@
+dir /etc
+dir /etc/portage
+dir /etc/portage/savedconfig
+dir /etc/portage/savedconfig/x11-wm
+obj /etc/portage/savedconfig/x11-wm/dwm-6.1-r1 80c4ef2a3eca0fe2d14e2203e3833200 1548469078
+dir /etc/X11
+dir /etc/X11/Sessions
+obj /etc/X11/Sessions/dwm 70573ac4d8ff6763b9358b614d3a024a 1548469078
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/dwm-6.1-r1
+obj /usr/share/doc/dwm-6.1-r1/README.bz2 cc8da2b57c7219d7b651d35e98b99c5c 1548469078
+dir /usr/share/xsessions
+obj /usr/share/xsessions/dwm.desktop 4cc2c2fbee68371f182b7d53e638aaad 1548469078
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/dwm.1.bz2 1e7b17defbdec61668e05b6cb5ac44e2 1548469078
+dir /usr/bin
+obj /usr/bin/dwm 5c83a6e7955867715389466ba2898a0c 1548469079

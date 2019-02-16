@@ -1,0 +1,12 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/exuberant-ctags aa7eaac1dd80d635ced2b817232f1899 1545715711
+obj /usr/bin/readtags 2c78e5ac1d07f66c95323a93838ee91a 1545715711
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/exuberant-ctags.1.bz2 7320e492ed56b4104b04118a06fd7fc7 1545715710
+dir /usr/libexec
+dir /usr/libexec/ctags
+dir /usr/libexec/ctags/drivers
+obj /usr/libexec/ctags/drivers/coffeetags acf843ed9248e576ce195017a5e50edd 1545715710

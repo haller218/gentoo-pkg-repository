@@ -1,0 +1,22 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-misc-cyrillic-1.0.3-r1
+obj /usr/share/doc/font-misc-cyrillic-1.0.3-r1/ChangeLog.bz2 aac1982cf7577f99bca96cdc70e2b836 1545801424
+dir /usr/share/fonts
+dir /usr/share/fonts/cyrillic
+obj /usr/share/fonts/cyrillic/koi9x18.pcf.gz 38365b750e002a19bb9c84f8453f149c 1545801423
+obj /usr/share/fonts/cyrillic/koi9x18b.pcf.gz ab05f6c4f3a2a2201e0fe68d9ad75f23 1545801423
+obj /usr/share/fonts/cyrillic/koi9x15.pcf.gz 5be8b9a154f74f9026cd28d32329e59f 1545801423
+obj /usr/share/fonts/cyrillic/koi9x15b.pcf.gz 48de06eb0c4d4d8caa3a6fac304a8a32 1545801423
+obj /usr/share/fonts/cyrillic/koi8x16.pcf.gz 9a08eaf599cb5c949fb3fa7994eda96c 1545801423
+obj /usr/share/fonts/cyrillic/koi8x16b.pcf.gz ee5927e9208497e2918b463d00c11042 1545801423
+obj /usr/share/fonts/cyrillic/koi8x13.pcf.gz 80f11c5994e73317a02f61ade5fb0d5e 1545801423
+obj /usr/share/fonts/cyrillic/koi7x14.pcf.gz 62e73ffd8d3563c4b92fe35175d85db6 1545801423
+obj /usr/share/fonts/cyrillic/koi7x14b.pcf.gz fb8f9f7e266a460c36123d0b9aba686c 1545801423
+obj /usr/share/fonts/cyrillic/koi6x9.pcf.gz faba06615209658e2403d5377b1a219d 1545801423
+obj /usr/share/fonts/cyrillic/koi6x13.pcf.gz abcf8fe665f6d52266f67b93a917c8fd 1545801423
+obj /usr/share/fonts/cyrillic/koi6x13b.pcf.gz 6b52b3b4870dde99107a57d913848c86 1545801423
+obj /usr/share/fonts/cyrillic/koi5x8.pcf.gz fb744111e0decaf51e5f6e0433934a06 1545801423
+obj /usr/share/fonts/cyrillic/koi12x24.pcf.gz 581436356a3ad8b14a52d95135a0fb25 1545801423
+obj /usr/share/fonts/cyrillic/koi12x24b.pcf.gz c7b69000a3817fca9499b4bb989ee457 1545801423

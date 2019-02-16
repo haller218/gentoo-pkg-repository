@@ -1,0 +1,17 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-video-amdgpu-18.1.0
+obj /usr/share/doc/xf86-video-amdgpu-18.1.0/ChangeLog.bz2 d859dab62c7015562a7451bdce44282b 1545801846
+obj /usr/share/doc/xf86-video-amdgpu-18.1.0/README.bz2 a3a6c8104dbef6b215cb1b484aea1293 1545801846
+dir /usr/share/X11
+dir /usr/share/X11/xorg.conf.d
+obj /usr/share/X11/xorg.conf.d/10-amdgpu.conf f5f0ef9701bd52f31eba4c4da12710c5 1545801845
+dir /usr/share/man
+dir /usr/share/man/man4
+obj /usr/share/man/man4/amdgpu.4.bz2 a7c4a1fb8f88c92600a6111e441aa156 1545801845
+dir /usr/lib64
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/drivers
+obj /usr/lib64/xorg/modules/drivers/amdgpu_drv.so 05109ac896c9c1ce64f61d2aff77fc66 1545801847

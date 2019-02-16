@@ -1,0 +1,54 @@
+dir /usr
+dir /usr/sbin
+dir /usr/lib64
+obj /usr/lib64/libdb_cxx-5.3.a cff2584714e4a06d35712d3711b83121 1536711537
+obj /usr/lib64/libdb_sql-5.3.so 3828a4d7f50242e06f8223bb305653c6 1536711537
+obj /usr/lib64/libdb_stl-5.3.la d9704892e28bf7e6e0d54316ca8ee9ca 1536711516
+obj /usr/lib64/libdb_stl-5.3.so bf59a39926b2958f43a6c1548e100eeb 1536711537
+obj /usr/lib64/libdb_sql-5.3.la 70e558ed65842dd2c065259fa74d9ac6 1536711531
+obj /usr/lib64/libdb-5.3.la b1f3b78c47213e87b0cffac3cca24240 1536711514
+obj /usr/lib64/libdb-5.3.a 72de34f20e5769dc70e22220e0364e1e 1536711537
+obj /usr/lib64/libdb_cxx-5.3.so 4cbe95aa98fd80b4efe4b8386d504c23 1536711537
+obj /usr/lib64/libdb_sql-5.3.a 5bc9b232bd938e2209be70de5ba02556 1536711537
+obj /usr/lib64/libdb-5.3.so a62667c770650340a433a16ce5495d77 1536711537
+obj /usr/lib64/libdb_stl-5.3.a abfc4b7bdb78bd92f922afe6ec324068 1536711537
+obj /usr/lib64/libdb_cxx-5.3.la 7f4ef62d6233ee53fc05885713150315 1536711515
+dir /usr/include
+dir /usr/include/db5.3
+obj /usr/include/db5.3/dbstl_container.h 9c062f846e0403b9c90e8a450eea12b3 1378740904
+obj /usr/include/db5.3/dbstl_map.h 9aa99952a2106698b66aee92e52da37b 1378740904
+obj /usr/include/db5.3/dbsql.h 369a57a487c181044b68b09024b91ce5 1536711533
+obj /usr/include/db5.3/dbstl_set.h 3b1a171683aeb7d19c75ea0b077c08b8 1378740904
+obj /usr/include/db5.3/dbstl_inner_utility.h d08b2071d466e16470be880699298dc9 1378740904
+obj /usr/include/db5.3/db.h 075f7daf0c489ffc8f247cd3c378e9c6 1536711535
+obj /usr/include/db5.3/dbstl_common.h bb9008132c3cd8d19a01c12f5955a99c 1536711445
+obj /usr/include/db5.3/dbstl_dbc.h 1c800b1c44af8260e5a54a73e9b20fe5 1378740904
+obj /usr/include/db5.3/db_185.h 6cbdbca554a7f962a072a488d42849be 1536711445
+obj /usr/include/db5.3/dbstl_vector.h f0068339e2ab347a47d2fccd75648a87 1378740904
+obj /usr/include/db5.3/dbstl_dbt.h 6ebb4118da7b89eb6832d288a24cd419 1378740904
+obj /usr/include/db5.3/dbstl_resource_manager.h fc79b3c90c6cc31df5dbf2ae7e8e93c3 1378740904
+obj /usr/include/db5.3/dbstl_base_iterator.h c53604fed09004e9e350f7cbd7ee4bd3 1378740904
+obj /usr/include/db5.3/dbstl_element_ref.h 92aa4d8f65d80c318fc9654b5ee5be4b 1378740904
+obj /usr/include/db5.3/dbstl_utility.h 4e356f7eee4432ede5d9e54ba7350d8a 1378740904
+obj /usr/include/db5.3/db_cxx.h bca3215874c1af478b65478fbe5514b9 1536711445
+obj /usr/include/db5.3/dbstl_exception.h caf1b50948121c31e1d1dae74c68bace 1378740904
+dir /usr/include/x86_64-pc-linux-gnu
+dir /usr/include/x86_64-pc-linux-gnu/db5.3
+obj /usr/include/x86_64-pc-linux-gnu/db5.3/db.h a96d10f6c029d9bf0daaa001606fad36 1536711445
+dir /usr/bin
+obj /usr/bin/db5.3_archive 11fe4e2d738e4c3ec79ef8a87edac74a 1536711537
+obj /usr/bin/db5.3_hotbackup 2c721e50f52e55f15899b705164e09e4 1536711537
+obj /usr/bin/db5.3_recover 107ccb3fbef5dedcd20b9d7aee70f480 1536711537
+obj /usr/bin/db5.3_upgrade 24aa57d3285d939d194bfeb5090738bb 1536711537
+obj /usr/bin/db5.3_deadlock 872bdc3f1fea2cdc141867d50296cdb9 1536711537
+obj /usr/bin/db5.3_replicate f9481c42bfa617e99f52d3576510ff8f 1536711537
+obj /usr/bin/db5.3_checkpoint 06053266890ea5cab44e982610c1a1ff 1536711537
+obj /usr/bin/db5.3sql bf3441294251324f154709e21ff827f1 1536711537
+obj /usr/bin/db5.3_sql_codegen 4b16bf6be91fe47a91a94a802e0a8c7c 1536711537
+obj /usr/bin/db5.3_printlog b432b2b129846b46b4895b0679bd9978 1536711537
+obj /usr/bin/db5.3_log_verify 1ec477c1bbb5aa0dba26348197a89654 1536711537
+obj /usr/bin/db5.3_dump 90133c5c58d6858cdaed52935c514b13 1536711537
+obj /usr/bin/db5.3_stat bee1f8a10f9f5f9a65717c92fc7723b3 1536711537
+obj /usr/bin/db5.3_tuner 51436b71345b59b9fa9f6404349a846b 1536711537
+obj /usr/bin/db5.3_verify 8356eeb0a686183337d3da26411cd94d 1536711537
+obj /usr/bin/db5.3_load bf9b78bdd43657a93b05af2fb11d4d32 1536711537

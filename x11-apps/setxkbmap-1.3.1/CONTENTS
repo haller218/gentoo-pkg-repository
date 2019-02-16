@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/setxkbmap 5c28ced02f863e53d4a59be60447f293 1545800830
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/setxkbmap-1.3.1
+obj /usr/share/doc/setxkbmap-1.3.1/ChangeLog.bz2 40d81f2a88be23d4c3f4786ca27d5f3c 1545800830
+obj /usr/share/doc/setxkbmap-1.3.1/README.bz2 d62b883bc18e732adca45b9bc0981942 1545800829
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/setxkbmap.1.bz2 5dc5ac44061a5794b037f4e104ded798 1545800829

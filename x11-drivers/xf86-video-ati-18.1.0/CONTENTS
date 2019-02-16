@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-video-ati-18.1.0
+obj /usr/share/doc/xf86-video-ati-18.1.0/ChangeLog.bz2 611e001ccf1a0f151feed1a9fd8200c4 1545801880
+obj /usr/share/doc/xf86-video-ati-18.1.0/README.bz2 f44ac399f0bc3c0a2934129dc123c0b3 1545801879
+dir /usr/share/X11
+dir /usr/share/X11/xorg.conf.d
+obj /usr/share/X11/xorg.conf.d/10-radeon.conf 2cddf2c2c45e73672231c61d79ace717 1545801879
+dir /usr/share/man
+dir /usr/share/man/man4
+obj /usr/share/man/man4/radeon.4.bz2 b95467882caf3689c9aafa0275d67ce5 1545801879
+obj /usr/share/man/man4/ati.4.bz2 1a4a8c7000ec0cd8ad9a5e872d53c68c 1545801879
+dir /usr/lib64
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/drivers
+obj /usr/lib64/xorg/modules/drivers/radeon_drv.so 6638e39758aed5221b1f625893ec5360 1545801881
+obj /usr/lib64/xorg/modules/drivers/ati_drv.so 6ea5a1ee3b50a2d0f46c01c7fb2d7eed 1545801881

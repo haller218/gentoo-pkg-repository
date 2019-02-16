@@ -1,0 +1,5 @@
+/usr/sbin/swap-offset libc.so.6
+/usr/sbin/s2disk liblzo2.so.2,libgcrypt.so.20,libc.so.6
+/usr/sbin/s2ram libx86.so.1,libpci.so.3,libc.so.6
+/usr/sbin/suspend-keygen libgcrypt.so.20,libc.so.6
+/usr/sbin/s2both libx86.so.1,libpci.so.3,liblzo2.so.2,libgcrypt.so.20,libc.so.6

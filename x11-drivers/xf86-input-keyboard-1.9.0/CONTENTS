@@ -1,0 +1,14 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-input-keyboard-1.9.0
+obj /usr/share/doc/xf86-input-keyboard-1.9.0/ChangeLog.bz2 c0b5dc27a59b0e075937918fa0dc5485 1545801736
+obj /usr/share/doc/xf86-input-keyboard-1.9.0/README.bz2 cbd3488e6ea0bf5f555bc12ab2eec1a4 1545801736
+dir /usr/share/man
+dir /usr/share/man/man4
+obj /usr/share/man/man4/kbd.4.bz2 6523d7040841f4294656393a9a43c83a 1545801736
+dir /usr/lib64
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/input
+obj /usr/lib64/xorg/modules/input/kbd_drv.so dc0fc814d7b7c6844526fdfc1bd9f059 1545801737

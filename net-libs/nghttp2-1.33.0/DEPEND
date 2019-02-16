@@ -1,0 +1,1 @@
+>=dev-libs/openssl-1.0.2:0/0=[-bindist,abi_x86_64(-)] dev-libs/boost:0/1.65.0=[abi_x86_64(-),threads] virtual/pkgconfig

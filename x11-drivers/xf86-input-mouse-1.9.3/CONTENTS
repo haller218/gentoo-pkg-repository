@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-input-mouse-1.9.3
+obj /usr/share/doc/xf86-input-mouse-1.9.3/ChangeLog.bz2 d732a72da7a02698672ef1e7ccd3c8e8 1545801749
+obj /usr/share/doc/xf86-input-mouse-1.9.3/README.bz2 0e873d97326e0df3868d166b1c0f7b80 1545801748
+dir /usr/share/man
+dir /usr/share/man/man4
+obj /usr/share/man/man4/mousedrv.4.bz2 261235a9d9d6820388264310491960ba 1545801748
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/xorg-mouse.pc e7f3dfcea3261036ec2769c19182544b 1545801748
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/input
+obj /usr/lib64/xorg/modules/input/mouse_drv.so c30129395b31b7264eb3aefa9ec5eeee 1545801749
+dir /usr/include
+dir /usr/include/xorg
+obj /usr/include/xorg/xf86-mouse-properties.h 6cf317ca88e8e852b0e1c409234df57a 1545801748

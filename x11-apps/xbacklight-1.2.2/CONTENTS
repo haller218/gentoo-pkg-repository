@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xbacklight d0be071a5db4257b176351e77dab9c19 1545801969
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xbacklight-1.2.2
+obj /usr/share/doc/xbacklight-1.2.2/ChangeLog.bz2 92921086984b9ee2a6d34d49cd90892d 1545801968
+obj /usr/share/doc/xbacklight-1.2.2/README.bz2 dce53e2e818e3458e7b42adaf0f076f3 1545801968
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xbacklight.1.bz2 210b955ca73c34fc7b4ce8c332118e52 1545801968

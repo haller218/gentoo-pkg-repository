@@ -1,0 +1,107 @@
+dir /etc
+dir /etc/revdep-rebuild
+obj /etc/revdep-rebuild/10firefox-bin ddc70b89f499a3e7d232d1a82226e489 1548512190
+dir /opt
+dir /opt/firefox
+obj /opt/firefox/all-gentoo.js 1201cba1efff405b9dcdcc9525f7ca01 1548512189
+dir /opt/firefox/distribution
+obj /opt/firefox/distribution/policies.json 2756ce31c6f1fbabd237a268f4339155 1548512189
+obj /opt/firefox/firefox.sig 56007249e12d3a51eb245f1bcedc3d40 1546970499
+obj /opt/firefox/plugin-container.sig fb46578b799e188788e70db8c1f146ef 1546970497
+obj /opt/firefox/firefox-bin.sig c4439cb5f556eb4f3f69ef9508d220a6 1546970499
+obj /opt/firefox/libxul.so.sig 8a84897de05824ed55107108ed8af720 1546970511
+obj /opt/firefox/Throbber-small.gif 40418383947fe6335056fce05abe44a2 1546963865
+obj /opt/firefox/removed-files d41d8cd98f00b204e9800998ecf8427e 1546966483
+obj /opt/firefox/pingsender 5821134d3fe5304b6be32af5e3b2870a 1546969615
+obj /opt/firefox/libplds4.so 22ceed9c212c3c2a2ea241c7fe5a26ee 1546969599
+obj /opt/firefox/libmozavutil.so 38d7d47011fbef3cfa17cf1c95b7c1b4 1546969614
+obj /opt/firefox/application.ini 97bf0fb478732ea9dd6e43bf2b3abc62 1546966722
+obj /opt/firefox/updater.ini c60066f08b5ce93c63763b5e0e118894 1546969595
+obj /opt/firefox/precomplete 81739091fbf32784f9a241a7a926d9b1 1546970511
+obj /opt/firefox/libnss3.so 539ab30f8ddf1b742ee005ca25dba5eb 1546969614
+obj /opt/firefox/libnssdbm3.so a511c4d91105acd48d81bc61498b7a9c 1546969614
+obj /opt/firefox/libmozsqlite3.so 359d711fc03b6a4d6a225de602cac624 1546969614
+obj /opt/firefox/minidump-analyzer b43d989e3799677a04cc01786556bbec 1546969614
+obj /opt/firefox/libsoftokn3.chk 31ca52b27fe3adb3f45e925fa8101e42 1546969615
+obj /opt/firefox/libmozavcodec.so a9d6bc6fa41e1c2c657480b1d8f94325 1546969614
+dir /opt/firefox/browser
+sym /opt/firefox/browser/plugins -> /usr/lib64/nsbrowser/plugins 1548512190
+dir /opt/firefox/browser/chrome
+dir /opt/firefox/browser/chrome/icons
+dir /opt/firefox/browser/chrome/icons/default
+obj /opt/firefox/browser/chrome/icons/default/default48.png cfcf52e42d45152e34b856f624a50f2d 1546963846
+obj /opt/firefox/browser/chrome/icons/default/default128.png 95230b76f097ebfbd52daaf42772035b 1546963846
+obj /opt/firefox/browser/chrome/icons/default/default32.png 883ebf7e5f6d672aad07d61b9bdcc633 1546963846
+obj /opt/firefox/browser/chrome/icons/default/default16.png 275662a8eff715111f7affb772bda2af 1546963846
+obj /opt/firefox/browser/chrome/icons/default/default64.png 7b1d8fb96982a0d301dca6e7959e9db0 1546963846
+obj /opt/firefox/browser/blocklist.xml 06dede1cfa59b80c3e70d3ba481f45f8 1546963846
+obj /opt/firefox/browser/chrome.manifest d41d8cd98f00b204e9800998ecf8427e 1546966475
+dir /opt/firefox/browser/features
+obj /opt/firefox/browser/features/webcompat-reporter@mozilla.org.xpi cbd9ae85b62cbaff2914c89ade138e4b 1546969598
+obj /opt/firefox/browser/features/webcompat@mozilla.org.xpi a1dd429ce0691830c377dfa7d28bc223 1546969598
+obj /opt/firefox/browser/features/screenshots@mozilla.org.xpi eeaf3bc991a683f5cba13ec156de2213 1546969598
+obj /opt/firefox/browser/features/formautofill@mozilla.org.xpi de3c2215925a67bfcac5ed1f2b10ba9f 1546969598
+obj /opt/firefox/browser/crashreporter-override.ini 9524df130a8e1ab4efdfb32b4e68a7b2 1546963846
+obj /opt/firefox/browser/omni.ja c1593fa690fc80c27a32f21d2aad7d6b 1546969599
+obj /opt/firefox/libmozsandbox.so 4214fd66fb03f71e1d87f9fb2d5ef0d4 1546969614
+obj /opt/firefox/updater 13386ee8a120d39bc2a19571464ee396 1546969614
+obj /opt/firefox/liblgpllibs.so 1eaf067068545ce34a10f669bd40eba8 1546969614
+obj /opt/firefox/platform.ini 1c1f3637f36677cda451567872d5f519 1546969584
+obj /opt/firefox/libfreeblpriv3.so d0b3b2fd44ad42bab755cafb717887af 1546969614
+dir /opt/firefox/fonts
+obj /opt/firefox/fonts/TwemojiMozilla.ttf 45e4b56b51ec8e6d931c65813aec86f1 1546963846
+obj /opt/firefox/libnssutil3.so 1131b8be4da44a0ae8f0ef6fbd44bbca 1546969614
+obj /opt/firefox/libnspr4.so f3ef578be543bc46edd5ddf787ce49cf 1546969599
+obj /opt/firefox/crashreporter.ini d3bf8bdf9564e02065a4469a61e87182 1546963865
+dir /opt/firefox/defaults
+dir /opt/firefox/defaults/pref
+obj /opt/firefox/defaults/pref/local-settings.js e1c3f0c6108f981345f0b1ab45373ec7 1548512189
+obj /opt/firefox/defaults/pref/channel-prefs.js c13b7ffae99396fdbcba2f8eb6c90826 1546969596
+obj /opt/firefox/libsmime3.so 287f40de486f8e0e1a63660bcac1faec 1546969614
+obj /opt/firefox/firefox 30a866b7b5b1557f8870cdd7b425cb9a 1546969614
+dir /opt/firefox/gmp-clearkey
+dir /opt/firefox/gmp-clearkey/0.1
+obj /opt/firefox/gmp-clearkey/0.1/libclearkey.so.sig 656e8264fef3a75d89dc877d92920a1e 1546970498
+obj /opt/firefox/gmp-clearkey/0.1/manifest.json 873222c800fe1e1a11656142fd943d4a 1546969584
+obj /opt/firefox/gmp-clearkey/0.1/libclearkey.so 1fe8673078cad50a95c9b344c9f96916 1546969615
+dir /opt/firefox/icons
+obj /opt/firefox/icons/updater.png 19dd4aa931faa43dddd1aff7489163e8 1546963865
+obj /opt/firefox/crashreporter 8ffb7d64f8a91e2deeaa16ac020c6d00 1546969614
+obj /opt/firefox/update-settings.ini 1413131f8cfad1e19d299667bf759087 1546969584
+obj /opt/firefox/libnssckbi.so cee6adb9cb9acf1f4b9c6896ae4522e3 1546969614
+obj /opt/firefox/libplc4.so dddfb2a145eab11e51c5fedf57a4b31f 1546969599
+obj /opt/firefox/plugin-container b62d40cbda4b60aa8c876bbbced9069d 1546969614
+dir /opt/firefox/gtk2
+obj /opt/firefox/gtk2/libmozgtk.so b926bf4ed53d8e25434e480dace656a2 1546969614
+obj /opt/firefox/firefox-bin 1e3436af30ebcc9e4409116af5a312dc 1546969614
+obj /opt/firefox/libssl3.so 323b002ef9a0d4930a1748733a32c291 1546969614
+obj /opt/firefox/chrome.manifest d41d8cd98f00b204e9800998ecf8427e 1546966475
+obj /opt/firefox/libmozgtk.so 31de58fac13ce8e9363e6052c15029f6 1546969614
+obj /opt/firefox/libfreeblpriv3.chk 43f92851b3f71dba56ce9c4b79e44365 1546969615
+obj /opt/firefox/libxul.so 8753b2f97f448067a82f9ab92115229c 1546969613
+obj /opt/firefox/dependentlibs.list e82a68e1fc5d02cb8a9c6775d4ef245b 1546969585
+obj /opt/firefox/libnssdbm3.chk 53073c03512a4fdda4500173f29f73c7 1546969615
+obj /opt/firefox/libsoftokn3.so 0bd04ad788dd3713cb2a47e1849eb4e1 1546969614
+obj /opt/firefox/omni.ja e1647366aee173c3b516a437b95820aa 1546969598
+dir /usr
+dir /usr/bin
+obj /usr/bin/firefox-bin 694c407b10a002edf17448e7d53eefcd 1548512190
+dir /usr/share
+dir /usr/share/applications
+obj /usr/share/applications/firefox-bin.desktop 4eb88073a0e6d9942a65eaa555483d5d 1548512189
+dir /usr/share/pixmaps
+obj /usr/share/pixmaps/firefox-bin.png cfcf52e42d45152e34b856f624a50f2d 1548512189
+dir /usr/share/icons
+dir /usr/share/icons/hicolor
+dir /usr/share/icons/hicolor/128x128
+dir /usr/share/icons/hicolor/128x128/apps
+obj /usr/share/icons/hicolor/128x128/apps/firefox-bin.png 95230b76f097ebfbd52daaf42772035b 1548512189
+dir /usr/share/icons/hicolor/48x48
+dir /usr/share/icons/hicolor/48x48/apps
+obj /usr/share/icons/hicolor/48x48/apps/firefox-bin.png cfcf52e42d45152e34b856f624a50f2d 1548512189
+dir /usr/share/icons/hicolor/32x32
+dir /usr/share/icons/hicolor/32x32/apps
+obj /usr/share/icons/hicolor/32x32/apps/firefox-bin.png 883ebf7e5f6d672aad07d61b9bdcc633 1548512189
+dir /usr/share/icons/hicolor/16x16
+dir /usr/share/icons/hicolor/16x16/apps
+obj /usr/share/icons/hicolor/16x16/apps/firefox-bin.png 275662a8eff715111f7affb772bda2af 1548512188

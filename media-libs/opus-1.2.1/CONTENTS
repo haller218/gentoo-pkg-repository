@@ -1,0 +1,21 @@
+dir /usr
+dir /usr/include
+dir /usr/include/opus
+obj /usr/include/opus/opus_defines.h 179c9bc1827f90f16163c7b3c59b42ad 1548945902
+obj /usr/include/opus/opus_types.h 8bc298e50bd77ba8436d183d533e1192 1548945902
+obj /usr/include/opus/opus_multistream.h 39656f5c2fae0eca8367bde019d765a2 1548945902
+obj /usr/include/opus/opus.h 81d163cbc521e1e38691e02495b6ec4b 1548945902
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/opus-1.2.1
+obj /usr/share/doc/opus-1.2.1/AUTHORS.bz2 2851bf83b3810ed7fe4c80f590f1dcb5 1548945902
+obj /usr/share/doc/opus-1.2.1/README.bz2 df30ebafc9f38314245ebb0063453d99 1548945902
+dir /usr/share/aclocal
+obj /usr/share/aclocal/opus.m4 ba25e8880c3300c1618c4bfbdcfa7d34 1548945902
+dir /usr/lib64
+obj /usr/lib64/libopus.so.0.6.1 2418dd3f11c9846fd6722787bbbdbd2a 1548945903
+obj /usr/lib64/libopus.la 7f74ee0fb0e8bf2ab6e5cd0f3929fe02 1548945902
+sym /usr/lib64/libopus.so -> libopus.so.0.6.1 1548945902
+sym /usr/lib64/libopus.so.0 -> libopus.so.0.6.1 1548945902
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/opus.pc 844f90b89870182453b30e9f350652ed 1548945902

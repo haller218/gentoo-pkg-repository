@@ -1,0 +1,1 @@
+>=media-libs/babl-0.1.10 >=dev-libs/glib-2.28:2 >=x11-libs/gdk-pixbuf-2.18:2 x11-libs/pango sys-libs/zlib >=dev-util/intltool-0.40.1 dev-lang/perl virtual/pkgconfig >=sys-devel/libtool-2.2 >=sys-apps/sed-4 >=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 =sys-devel/automake-1.11* >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4

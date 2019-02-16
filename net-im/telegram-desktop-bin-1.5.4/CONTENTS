@@ -1,0 +1,32 @@
+dir /usr
+dir /usr/share
+dir /usr/share/applications
+obj /usr/share/applications/telegramdesktop.desktop 7f4499cba8b66f98b6c2d8edfc9a98af 1548900980
+dir /usr/share/icons
+dir /usr/share/icons/hicolor
+dir /usr/share/icons/hicolor/512x512
+dir /usr/share/icons/hicolor/512x512/apps
+obj /usr/share/icons/hicolor/512x512/apps/telegram.png 89a405476ec629b0610ffa8c0575e58a 1548900980
+dir /usr/share/icons/hicolor/256x256
+dir /usr/share/icons/hicolor/256x256/apps
+obj /usr/share/icons/hicolor/256x256/apps/telegram.png e6a3c0286bd1478fb830d40e57db5ddf 1548900980
+dir /usr/share/icons/hicolor/128x128
+dir /usr/share/icons/hicolor/128x128/apps
+obj /usr/share/icons/hicolor/128x128/apps/telegram.png 4894872aea6f9a085207670ac6341510 1548900979
+dir /usr/share/icons/hicolor/64x64
+dir /usr/share/icons/hicolor/64x64/apps
+obj /usr/share/icons/hicolor/64x64/apps/telegram.png 3748388f4f7ab62360d1afcfe5330de0 1548900979
+dir /usr/share/icons/hicolor/48x48
+dir /usr/share/icons/hicolor/48x48/apps
+obj /usr/share/icons/hicolor/48x48/apps/telegram.png c2f3831cf1f87f91003d227e42d8055e 1548900979
+dir /usr/share/icons/hicolor/32x32
+dir /usr/share/icons/hicolor/32x32/apps
+obj /usr/share/icons/hicolor/32x32/apps/telegram.png d0da8b1645ee817443cf6dbd99ffdab6 1548900979
+dir /usr/share/icons/hicolor/16x16
+dir /usr/share/icons/hicolor/16x16/apps
+obj /usr/share/icons/hicolor/16x16/apps/telegram.png 5bf41c309886f1e0c6fd220ea6ef3d4d 1548900979
+dir /usr/bin
+obj /usr/bin/telegram-desktop e7eb820c96edbbfb8eab43740debd814 1548900979
+dir /usr/lib
+dir /usr/lib/telegram-desktop-bin
+obj /usr/lib/telegram-desktop-bin/Telegram 1c86e9436c73e6eefb6d2c7a2431208f 1548900979

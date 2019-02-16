@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xkbvleds c20fb94cbd9086c81b0a5a98c5418951 1545801071
+obj /usr/bin/xkbwatch 83f958d685b66ccf856cce23b4cc60a0 1545801071
+obj /usr/bin/xkbbell 08f70fb0dd355fa48efa883a45d09977 1545801071
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xkbutils-1.0.4
+obj /usr/share/doc/xkbutils-1.0.4/ChangeLog.bz2 d143061a020183f232408b3168f3d715 1545801070
+obj /usr/share/doc/xkbutils-1.0.4/README.bz2 3c01e2e1585b8399874e2049bf609eb5 1545801070
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xkbvleds.1.bz2 ee55e5d59f0dd2bde70c819454c3fc8c 1545801070
+obj /usr/share/man/man1/xkbwatch.1.bz2 6cc45ac00e6dc9922a2ca0a61e40c7e8 1545801070
+obj /usr/share/man/man1/xkbbell.1.bz2 c62a364b5b8e94432dbc01a150ee5910 1545801070

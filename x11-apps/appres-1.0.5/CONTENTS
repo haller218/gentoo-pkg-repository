@@ -1,0 +1,12 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/appres 7127d328b8bdd2278aa3792a2a8ffc74 1545800505
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/appres-1.0.5
+obj /usr/share/doc/appres-1.0.5/README.bz2 34b2c8967547092cf5d58246a3fe738b 1545800504
+obj /usr/share/doc/appres-1.0.5/ChangeLog.bz2 4acb3d41cb34164623829edddeae8ba4 1545800504
+obj /usr/share/doc/appres-1.0.5/AUTHORS 1bd7214d4f3cac5278213efbf073fdd3 1545800504
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/appres.1.bz2 a96d76c060754985d193989e7c98a79c 1545800504

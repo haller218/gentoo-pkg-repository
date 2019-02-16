@@ -1,0 +1,13 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-video-nouveau-1.0.15-r1
+obj /usr/share/doc/xf86-video-nouveau-1.0.15-r1/ChangeLog.bz2 2f7d11ed2eeca99a1bbf6e3a4e8e7c02 1545801912
+dir /usr/share/man
+dir /usr/share/man/man4
+obj /usr/share/man/man4/nouveau.4.bz2 6aabe9636ede69460eb75cb1185aa81c 1545801911
+dir /usr/lib64
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/drivers
+obj /usr/lib64/xorg/modules/drivers/nouveau_drv.so 54915a32a573278d2ef4b0b6501b25aa 1545801913

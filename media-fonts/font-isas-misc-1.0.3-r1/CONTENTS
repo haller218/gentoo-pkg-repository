@@ -1,0 +1,10 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-isas-misc-1.0.3-r1
+obj /usr/share/doc/font-isas-misc-1.0.3-r1/ChangeLog.bz2 bea17fb6794e2a2ba61345506269b016 1545801387
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/gb24st.pcf.gz 840ab62bd54d79a7bd305dc8b83ee081 1545801387
+obj /usr/share/fonts/misc/gb16st.pcf.gz 856d3e601097556fb13b9718b9bc790e 1545801387
+obj /usr/share/fonts/misc/gb16fs.pcf.gz 27d338232754fc1a1fe5dc1d1134e240 1545801387

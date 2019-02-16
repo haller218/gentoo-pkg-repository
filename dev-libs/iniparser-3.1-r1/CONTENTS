@@ -1,0 +1,13 @@
+dir /usr
+dir /usr/lib64
+sym /usr/lib64/libiniparser.so -> libiniparser.so.0.0.0 1536710680
+sym /usr/lib64/libiniparser.so.0 -> libiniparser.so.0.0.0 1536710680
+obj /usr/lib64/libiniparser.so.0.0.0 bd90dd1eb1434b8bcc41a00dd7d94495 1536710682
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/iniparser-3.1-r1
+obj /usr/share/doc/iniparser-3.1-r1/README.bz2 408a540dd1bf6e9881e50b9733619850 1536710681
+obj /usr/share/doc/iniparser-3.1-r1/AUTHORS.bz2 b076e96de06199127db1f01e2e536e29 1536710681
+dir /usr/include
+obj /usr/include/iniparser.h 0670cb5fc3c84cb94e15f9ea7289fb10 1536710680
+obj /usr/include/dictionary.h 7b537e2b854bf9390f1783634645f74e 1536710680

@@ -1,0 +1,18 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/fdk-aac-0.1.5
+obj /usr/share/doc/fdk-aac-0.1.5/ChangeLog.bz2 48b3888f9e69febb57c672b58ab9eeec 1548532353
+dir /usr/include
+dir /usr/include/fdk-aac
+obj /usr/include/fdk-aac/aacdecoder_lib.h 62ce4d07305b1d49fec3a36b8c9e8a3a 1548532353
+obj /usr/include/fdk-aac/aacenc_lib.h 890d82289472cda447844af257ec703b 1548532353
+obj /usr/include/fdk-aac/FDK_audio.h fd8997b79cef6fa418bd50c9e349981e 1548532353
+obj /usr/include/fdk-aac/genericStds.h 846bfbabccb455d1fd7dcd66214f77c1 1548532353
+obj /usr/include/fdk-aac/machine_type.h 1ab79fe49f85b0652dc8a0a00b74a8ea 1548532353
+dir /usr/lib64
+obj /usr/lib64/libfdk-aac.so.1.0.0 f01e39fd7abdf81774dde2d8a323e88b 1548532354
+sym /usr/lib64/libfdk-aac.so -> libfdk-aac.so.1.0.0 1548532353
+sym /usr/lib64/libfdk-aac.so.1 -> libfdk-aac.so.1.0.0 1548532353
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/fdk-aac.pc 11b8213177b579e431354633b2577ade 1548532353

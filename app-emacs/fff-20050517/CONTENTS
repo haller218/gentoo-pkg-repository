@@ -1,0 +1,13 @@
+dir /usr
+dir /usr/share
+dir /usr/share/emacs
+dir /usr/share/emacs/site-lisp
+dir /usr/share/emacs/site-lisp/site-gentoo.d
+obj /usr/share/emacs/site-lisp/site-gentoo.d/50fff-gentoo.el d256d96b297d557418f64960f77cc980 1548472755
+dir /usr/share/emacs/site-lisp/fff
+obj /usr/share/emacs/site-lisp/fff/fff-rfc.elc a5413107077b9858c9dc5f69c1e531b8 1548472755
+obj /usr/share/emacs/site-lisp/fff/fff-elisp.elc 9faeebcb25a9399cd3473588fd94462c 1548472755
+obj /usr/share/emacs/site-lisp/fff/fff.elc 7e1084c0b49892b440209ac5fb094223 1548472755
+obj /usr/share/emacs/site-lisp/fff/fff-rfc.el 858c9487e05257799b1160f0f22d1ec4 1548472755
+obj /usr/share/emacs/site-lisp/fff/fff-elisp.el 59d85a71849d468909fdba82c9c0f652 1548472755
+obj /usr/share/emacs/site-lisp/fff/fff.el a7fc3e89e8413bc94131acd9288868c7 1548472755

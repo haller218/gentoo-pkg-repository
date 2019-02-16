@@ -1,0 +1,1 @@
+>=dev-libs/glib-2.36:2[abi_x86_64(-)] >=sys-apps/dbus-1[abi_x86_64(-)] >=dev-libs/gobject-introspection-1.32.0:0/0=

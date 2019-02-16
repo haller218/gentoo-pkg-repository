@@ -1,0 +1,16 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pixman-0.34.0
+obj /usr/share/doc/pixman-0.34.0/README.bz2 ef49684051d90d03290613182cadee2e 1545799627
+obj /usr/share/doc/pixman-0.34.0/ChangeLog d41d8cd98f00b204e9800998ecf8427e 1545799627
+dir /usr/include
+dir /usr/include/pixman-1
+obj /usr/include/pixman-1/pixman-version.h 2bd3916b1cf977cf5379d0757fdb0a65 1545799627
+obj /usr/include/pixman-1/pixman.h 186d75ab934bdb5b463af52167cbff27 1545799627
+dir /usr/lib64
+obj /usr/lib64/libpixman-1.so.0.34.0 5f209d4752578b073ffb7594dce4ce53 1545799628
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/pixman-1.pc b424b7720b6cc80871da59c6de327bf1 1545799627
+sym /usr/lib64/libpixman-1.so -> libpixman-1.so.0.34.0 1545799627
+sym /usr/lib64/libpixman-1.so.0 -> libpixman-1.so.0.34.0 1545799627

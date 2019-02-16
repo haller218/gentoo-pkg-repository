@@ -1,0 +1,30 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/zstd-1.3.4-r1
+obj /usr/share/doc/zstd-1.3.4-r1/NEWS.bz2 d5753736bb7e6281ef96e200f51ada26 1545750788
+obj /usr/share/doc/zstd-1.3.4-r1/README.md.bz2 37b2b4e4edfa5e01bfb7415c71a1c70c 1545750788
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/zstd.1.bz2 428c9f2d3970d281dfc4253b1fca8d12 1545750788
+dir /usr/bin
+obj /usr/bin/pzstd f85f3848d0236186eb853e8a9eef0a0e 1545750789
+obj /usr/bin/zstd e3b2a679d0e5101cf42d4b140929ea80 1545750789
+obj /usr/bin/zstdgrep 2c5a79566708e1571e0c28880dc27262 1545750788
+obj /usr/bin/zstdless a412a00e7fb3d605ecd9f45d507d1184 1545750788
+sym /usr/bin/zstdmt -> zstd 1545750788
+sym /usr/bin/unzstd -> zstd 1545750788
+sym /usr/bin/zstdcat -> zstd 1545750788
+dir /usr/include
+obj /usr/include/zdict.h ec46b9aa60f9341bc031a4ff7a605cb1 1545750788
+obj /usr/include/zbuff.h 44b0d7f80a45d705e9f8bdf1a507ab0d 1545750788
+obj /usr/include/zstd_errors.h f5facd4d5302b44b75065162b6156a5b 1545750788
+obj /usr/include/zstd.h bcaf117c5e7ebfd4ddcf891d62114142 1545750788
+dir /usr/lib64
+obj /usr/lib64/libzstd.so.1.3.4 9483f4fe19a8a8466b37dbecf57b7dad 1545750789
+sym /usr/lib64/libzstd.so -> libzstd.so.1.3.4 1545750788
+sym /usr/lib64/libzstd.so.1 -> libzstd.so.1.3.4 1545750788
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libzstd.pc 03599aae84bedd25fed0453ac6bdd77a 1545750788
+sym /usr/share/man/man1/zstdcat.1.bz2 -> zstd.1.bz2 1545750789
+sym /usr/share/man/man1/unzstd.1.bz2 -> zstd.1.bz2 1545750789

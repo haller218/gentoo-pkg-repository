@@ -1,0 +1,20 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pax-utils-1.2.3
+obj /usr/share/doc/pax-utils-1.2.3/BUGS.bz2 0b99c47ea222937bff1676459969839e 1545788377
+obj /usr/share/doc/pax-utils-1.2.3/README.md.bz2 d201c68ee0ab56ba8ee1a2febd0a8d9f 1545788377
+obj /usr/share/doc/pax-utils-1.2.3/TODO.bz2 58dc934f717b9d811d41eda10f825bab 1545788377
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/scanmacho.1.bz2 53a0179bdb5cc425936a0fbe33b23fe7 1545788377
+obj /usr/share/man/man1/dumpelf.1.bz2 348454133cf0a818351c406fd989878e 1545788377
+obj /usr/share/man/man1/pspax.1.bz2 d315a0e461d895fbdabf3f2347500a0b 1545788377
+obj /usr/share/man/man1/scanelf.1.bz2 a71d41d1f86e54fe7160ccddec014b9a 1545788377
+dir /usr/bin
+obj /usr/bin/pspax b0613027ae329a1c1ca29b14ea2c62a7 1545788378
+obj /usr/bin/scanmacho c044243f3d8b86abe4fd626b00107b77 1545788378
+obj /usr/bin/scanelf 51aa1ac100766d817a55dadfec0d042a 1545788378
+obj /usr/bin/dumpelf b32250825924c356052e6740bde6e953 1545788378
+obj /usr/bin/lddtree 842cc50a1fb768d416bccb7c9da515ba 1545788377
+obj /usr/bin/symtree 022b624ac422d8300fac67209c88b4c4 1545788377

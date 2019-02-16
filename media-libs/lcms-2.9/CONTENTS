@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/transicc ce27a13c9f465aa5d816b8aff38d0a0d 1546012854
+obj /usr/bin/psicc 36ebb925859373b0a9c7a6843c346914 1546012854
+obj /usr/bin/linkicc 809aa43531505962db10fd2648e13b45 1546012854
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/jpgicc.1.bz2 e923929d1b3759c22fd2c15e859ce29a 1546012853
+obj /usr/share/man/man1/tificc.1.bz2 e63e4d2acc9de437bbfe2a9c60ca9e91 1546012853
+dir /usr/include
+obj /usr/include/lcms2_plugin.h 664e4322b2e6e915d47f66e8ba7b570a 1546012852
+obj /usr/include/lcms2.h 5e8d34c681c52fc62218e003f6cafa5b 1546012852
+dir /usr/lib64
+obj /usr/lib64/liblcms2.so.2.0.8 460c251de92907798e63ba98781250f0 1546012854
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/lcms2.pc 4420bdbd51439f49e5903cc135a02b54 1546012853
+sym /usr/lib64/liblcms2.so -> liblcms2.so.2.0.8 1546012852
+sym /usr/lib64/liblcms2.so.2 -> liblcms2.so.2.0.8 1546012852

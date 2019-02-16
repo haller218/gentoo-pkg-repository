@@ -1,0 +1,36 @@
+dir /usr
+dir /usr/include
+obj /usr/include/wayland-cursor.hpp 28843f726625941de8df2db26aff5c4e 1524413822
+obj /usr/include/wayland-egl.hpp 3d62814aa3d9f6d020759966af467166 1524413822
+obj /usr/include/wayland-client-protocol-extra.hpp 789085cc2c6c182e3cd673db8c710e3c 1545792616
+obj /usr/include/wayland-version.hpp 87859881f8076f55146200ca807a66d6 1545792610
+obj /usr/include/wayland-client-protocol.hpp c08c48ab037cd090f56d99de7d1ff420 1545792616
+obj /usr/include/wayland-util.hpp 8c10cb7935d400fae7ec0b3c7eae6512 1524413822
+obj /usr/include/wayland-client.hpp abdf09290b980966680af0bd024116a7 1524413822
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/waylandpp-0.2.3
+obj /usr/share/doc/waylandpp-0.2.3/README.md.bz2 a7e558f0e7c7b77d5c6a9c51a761025e 1545792622
+dir /usr/share/waylandpp
+dir /usr/share/waylandpp/protocols
+obj /usr/share/waylandpp/protocols/xdg-shell.xml 9658abdfc097d97cddfa571b524ccfb2 1524413822
+obj /usr/share/waylandpp/protocols/viewporter.xml 1d5f412f3354cc6f069fa8ad84eaff60 1524413822
+obj /usr/share/waylandpp/protocols/presentation-time.xml 5638ba84d0a3f0aec0e15be63a906c8c 1524413822
+obj /usr/share/waylandpp/protocols/wayland.xml 186daeb237915ac9d9e806d9c68461c1 1524413822
+dir /usr/lib64
+obj /usr/lib64/libwayland-cursor++.so.0.2 3ba21b693d5ffbe066ee0c6504c54b16 1545792623
+obj /usr/lib64/libwayland-client++.so.0.2 0a6b14effdb72914ee8dc615bf26498e 1545792623
+obj /usr/lib64/libwayland-client-extra++.so.0.2 4d02a8879d9334cee00e001e77f17cf7 1545792623
+obj /usr/lib64/libwayland-egl++.so.0.2 ecb542b7a54ad2c3484360d141288298 1545792623
+sym /usr/lib64/libwayland-cursor++.so -> libwayland-cursor++.so.0.2 1545792622
+sym /usr/lib64/libwayland-egl++.so -> libwayland-egl++.so.0.2 1545792622
+sym /usr/lib64/libwayland-client-extra++.so -> libwayland-client-extra++.so.0.2 1545792622
+sym /usr/lib64/libwayland-client++.so -> libwayland-client++.so.0.2 1545792622
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/wayland-cursor++.pc bfcefb167893267f2f1d294e6f4e7702 1545792610
+obj /usr/lib64/pkgconfig/wayland-egl++.pc 37841d6555ad30ffecc4e521ca27cc9e 1545792610
+obj /usr/lib64/pkgconfig/wayland-client-extra++.pc 1da51b211968033d92c4bb1b96828630 1545792610
+obj /usr/lib64/pkgconfig/wayland-client++.pc eec4d4b0a0949d70544731f3428558d5 1545792610
+obj /usr/lib64/pkgconfig/wayland-scanner++.pc a5fc42433756cfa4cc572544e26af737 1545792610
+dir /usr/bin
+obj /usr/bin/wayland-scanner++ 302ecee0618c88fb5239c4540725893a 1545792623

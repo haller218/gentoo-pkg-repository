@@ -1,0 +1,36 @@
+dir /usr
+dir /usr/include
+dir /usr/include/libpng16
+obj /usr/include/libpng16/pngconf.h 62a42dfff8661a6dd587880f1b4c41bf 1545799416
+obj /usr/include/libpng16/png.h 1f16dd889fa15ecbd45c33c073b27976 1545799416
+obj /usr/include/libpng16/pnglibconf.h 30a01d56b77e4d7ac17eb84fb218d703 1545799416
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libpng-1.6.35-r1
+obj /usr/share/doc/libpng-1.6.35-r1/TODO.bz2 c70762a53d5cbc4ab085e8de978af6e6 1545799416
+obj /usr/share/doc/libpng-1.6.35-r1/README.bz2 dc986daa4c0926182286bfd566d1b5df 1545799416
+obj /usr/share/doc/libpng-1.6.35-r1/libpng-manual.txt.bz2 175770db811e1eb442d692f7818c0faa 1545799416
+obj /usr/share/doc/libpng-1.6.35-r1/CHANGES.bz2 a4bb1db6d3f70d4104c08efaa9747cbf 1545799416
+obj /usr/share/doc/libpng-1.6.35-r1/ANNOUNCE.bz2 faa81bd0fa3657f208a5bfb1a1807897 1545799416
+dir /usr/share/man
+dir /usr/share/man/man5
+obj /usr/share/man/man5/png.5.bz2 60f368aff6048e84ef43b843dc6b0288 1545799416
+dir /usr/share/man/man3
+obj /usr/share/man/man3/libpng.3.bz2 0bf87f0c4a94b7fe3e0cc59171c7d355 1545799416
+obj /usr/share/man/man3/libpngpf.3.bz2 aee5a6d321f2a81d7ad3a5990a20a98e 1545799416
+dir /usr/bin
+obj /usr/bin/pngfix 9dbd0800abe2e9af6c0c0b3b8dcab96c 1545799417
+obj /usr/bin/png-fix-itxt e95d052ebcc1a0aa92f3fe3311dfb280 1545799417
+obj /usr/bin/libpng16-config 3c401d91ec32eba59edf2a51d8765454 1545799416
+dir /usr/lib64
+obj /usr/lib64/libpng16.so.16.35.0 84559a11258f66537f1bdc94fb82da51 1545799417
+sym /usr/lib64/libpng16.so -> libpng16.so.16.35.0 1545799416
+sym /usr/lib64/libpng16.so.16 -> libpng16.so.16.35.0 1545799416
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libpng16.pc bdca23dac296bb270fbbeb49f4a42454 1545799416
+sym /usr/lib64/pkgconfig/libpng.pc -> libpng16.pc 1545799416
+sym /usr/lib64/libpng.so -> libpng16.so 1545799416
+sym /usr/bin/libpng-config -> libpng16-config 1545799416
+sym /usr/include/pnglibconf.h -> libpng16/pnglibconf.h 1545799416
+sym /usr/include/png.h -> libpng16/png.h 1545799416
+sym /usr/include/pngconf.h -> libpng16/pngconf.h 1545799416

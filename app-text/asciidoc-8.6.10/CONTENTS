@@ -1,0 +1,123 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/asciidoc-8.6.10
+obj /usr/share/doc/asciidoc-8.6.10/code-filter-readme.txt.bz2 08532dcd63c9ab5a8eb7a5a6d881d9cc 1545750802
+obj /usr/share/doc/asciidoc-8.6.10/dblatex-readme.txt.bz2 7c324cab0bff2b3c3dd64e2ed23d8e0d 1545750802
+obj /usr/share/doc/asciidoc-8.6.10/asciidoc-docbook-xsl.txt.bz2 98b3a45824c1d298d99120ee7fcf1798 1545750802
+obj /usr/share/doc/asciidoc-8.6.10/README.asciidoc.bz2 027488b41bff3bd452908ceb76b72d60 1545750802
+obj /usr/share/doc/asciidoc-8.6.10/CHANGELOG.txt.bz2 f1c4b2b5a4910340b14e1ce43f992b8d 1545750802
+obj /usr/share/doc/asciidoc-8.6.10/BUGS.txt.bz2 3757ff9ed2a46031444357f4bb75fbc8 1545750802
+obj /usr/share/doc/asciidoc-8.6.10/README.gentoo 4c6eb07a6f7fb2debe896887edd343af 1545750802
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/a2x.1.bz2 412ba604bb4f97cb9509a97fe7a4e78f 1545750802
+obj /usr/share/man/man1/asciidoc.1.bz2 5adf0571e923995317e80fda9022c15f 1545750802
+dir /usr/share/asciidoc
+dir /usr/share/asciidoc/themes
+dir /usr/share/asciidoc/themes/volnitsky
+obj /usr/share/asciidoc/themes/volnitsky/volnitsky.css 5357e653a56711ff375cf2a7db833b92 1545750802
+dir /usr/share/asciidoc/themes/flask
+obj /usr/share/asciidoc/themes/flask/flask.css 6f64441e4c251c192ac943b4cedc85f4 1545750802
+dir /usr/share/asciidoc/images
+dir /usr/share/asciidoc/images/icons
+obj /usr/share/asciidoc/images/icons/README cc2da9a46253cf21d608a1a6f2901cb8 1545750802
+obj /usr/share/asciidoc/images/icons/note.png 25bf06d6517e45872dc9c8590e885c14 1545750802
+obj /usr/share/asciidoc/images/icons/warning.png 2e61325f811e5bfec08786b9b0751d09 1545750802
+obj /usr/share/asciidoc/images/icons/up.png a56ca5ed6852297c4fb40b38e28ee087 1545750802
+obj /usr/share/asciidoc/images/icons/important.png 5287a2a7f4f0bd77f37fdc4cd3be9fac 1545750802
+obj /usr/share/asciidoc/images/icons/prev.png 63bc36e300f3f29a1d4dd66779405713 1545750802
+obj /usr/share/asciidoc/images/icons/home.png c1419eddcf4fe625bade5b99cdcb38c9 1545750802
+obj /usr/share/asciidoc/images/icons/caution.png abb064ef2ca142facd503271b07ec480 1545750802
+obj /usr/share/asciidoc/images/icons/next.png ba02402f79193ee2caed63be315cae2d 1545750802
+obj /usr/share/asciidoc/images/icons/example.png 047c21092de17250c8fc0eb085cb1e96 1545750802
+obj /usr/share/asciidoc/images/icons/tip.png 74d8c9f1e3abf89003c4d68db9a5eba5 1545750802
+dir /usr/share/asciidoc/images/icons/callouts
+obj /usr/share/asciidoc/images/icons/callouts/5.png 489005941fbb522369466ca850189c59 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/1.png 0f67842b8cc059137a88288e95115a18 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/13.png dc7a4be9918b62932980292cf4a7c40a 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/14.png c4ca7e994f2842b88c914f85b9544d56 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/2.png 782f998bab59d0221977c1c0eaa676c8 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/15.png c98123e95a83670c84ba0e3975ea7adf 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/9.png 5ba16a0731d050493bd7e0b95244aafc 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/4.png 3d412b47729eb73afc7aa430feeb7da0 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/10.png 29fd9e419eee2efa4ef6ce493ca51a9c 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/6.png f64cfcfac0c4219edebc96d6d043c84c 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/12.png 100767337f65f71951dc2f04091838ff 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/7.png 0def94f52c5e45256232320aaffeb1ce 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/3.png 35dcf1dd29a802080c984e52d76e5b1f 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/11.png 253393cb367ad6078c80c3ee1ced0b10 1545750802
+obj /usr/share/asciidoc/images/icons/callouts/8.png 2f899cf0909049b0472654d7357eaeb3 1545750802
+dir /usr/share/asciidoc/javascripts
+obj /usr/share/asciidoc/javascripts/ASCIIMathML.js 757580d7ed354c5eb74736afcd73e662 1545750802
+obj /usr/share/asciidoc/javascripts/LaTeXMathML.js e41f1c71df297a659c4820ccf5d195a0 1545750802
+obj /usr/share/asciidoc/javascripts/toc.js 568429e1aa3a49258b9937e2dcd6c105 1545750802
+obj /usr/share/asciidoc/javascripts/slidy.js ab5d867acded4a013b2dc682f555001e 1545750802
+obj /usr/share/asciidoc/javascripts/asciidoc.js fc9fd576875615fc136fe5ee1b82c21d 1545750802
+dir /usr/share/asciidoc/stylesheets
+obj /usr/share/asciidoc/stylesheets/toc2.css 35dcb04ddda0544d55cc4c7099db0520 1545750802
+obj /usr/share/asciidoc/stylesheets/slidy.css 6cf87818bce49506c20cbc7e31660ea6 1545750802
+obj /usr/share/asciidoc/stylesheets/pygments.css e038f8558cde845b559fed17f11a23fa 1545750802
+obj /usr/share/asciidoc/stylesheets/asciidoc.css d72724c4b9c330c3d0a0a74842ec61ad 1545750802
+obj /usr/share/asciidoc/stylesheets/xhtml11-quirks.css 57e55a86b5a72f3954da766599fb9fe8 1545750802
+obj /usr/share/asciidoc/stylesheets/docbook-xsl.css d1bef887dda419f230d07612c268aa31 1545750802
+dir /usr/share/asciidoc/dblatex
+obj /usr/share/asciidoc/dblatex/asciidoc-dblatex.sty 50e31882725075edbb756b64e58147ea 1545750802
+obj /usr/share/asciidoc/dblatex/asciidoc-dblatex.xsl d70fe2903490853dea263154eee0d727 1545750802
+dir /usr/share/asciidoc/docbook-xsl
+obj /usr/share/asciidoc/docbook-xsl/htmlhelp.xsl 80408464f68bf6b58b60e3bcb4031132 1545750802
+obj /usr/share/asciidoc/docbook-xsl/text.xsl cccb03212d7efc5f7dfdaffd16bcb37f 1545750802
+obj /usr/share/asciidoc/docbook-xsl/common.xsl 80bcfa36d260127db64d292fdc711ed3 1545750802
+obj /usr/share/asciidoc/docbook-xsl/manpage.xsl ad00b39aa5655659505aba73f2dcdec2 1545750802
+obj /usr/share/asciidoc/docbook-xsl/chunked.xsl 385824ad137d02409ca8510bbc42987d 1545750802
+obj /usr/share/asciidoc/docbook-xsl/epub.xsl f0b2aca9068b39da6a21ad5a72981dd6 1545750802
+obj /usr/share/asciidoc/docbook-xsl/fo.xsl 098bff50eda72c5a385f85c10754c692 1545750802
+obj /usr/share/asciidoc/docbook-xsl/xhtml.xsl d48d41c68beabf84f63c2374dead40e0 1545750802
+obj /usr/share/asciidoc/lang-ja.conf a4c322d331b29f28fa6f4ef5b502f412 1545750802
+obj /usr/share/asciidoc/lang-fr.conf 10ae1c4f55ebe08f245aeba788e7684c 1545750802
+obj /usr/share/asciidoc/xhtml11.conf e7b302e736ca89cfa26b2253d581aab0 1545750802
+obj /usr/share/asciidoc/lang-pt-BR.conf 9aee441575d1e80ca3c7683fb592e8ac 1545750802
+obj /usr/share/asciidoc/lang-ru.conf 3f72b254049a21a5ecf82d5121cd9786 1545750802
+obj /usr/share/asciidoc/lang-hu.conf b1e53a03bd5465588ce75e764dbddcbb 1545750802
+obj /usr/share/asciidoc/lang-nl.conf e18bdd87fed54c11c962b83a120d04cd 1545750802
+obj /usr/share/asciidoc/lang-it.conf 188d6788e472026833f47cb692df327e 1545750802
+obj /usr/share/asciidoc/lang-fi.conf 70d06988274128347dba137511572c8a 1545750802
+obj /usr/share/asciidoc/lang-el.conf 28d3f380daaa327d9858c5461cf3e5b6 1545750802
+obj /usr/share/asciidoc/text.conf 3a52c6f5856eeda90088ec0a8abfa9d1 1545750802
+obj /usr/share/asciidoc/lang-pl.conf a5376ddf821d517fa9aa9d7e69c75be6 1545750802
+obj /usr/share/asciidoc/lang-uk.conf fbf5a1ac60fbfff16edd9760ad8d173a 1545750802
+obj /usr/share/asciidoc/lang-de.conf 68c9c95e361ba64b73a27cb126e356d1 1545750802
+obj /usr/share/asciidoc/xhtml11-quirks.conf e5e186997590dfac54e93706d82f586c 1545750802
+obj /usr/share/asciidoc/docbook45.conf 656815732f2fdc9b01b83d8d7ab9cc62 1545750802
+obj /usr/share/asciidoc/html5.conf c44a36e02a0aaa1d7d3c4f12948db9e0 1545750802
+obj /usr/share/asciidoc/lang-cs.conf 49e767e25efec56c6750edd82a43a032 1545750802
+obj /usr/share/asciidoc/lang-id.conf 143b10f502c749c529a3e22484787738 1545750802
+obj /usr/share/asciidoc/html4.conf 90bdce5c97301428835949aeb89cd0b3 1545750802
+obj /usr/share/asciidoc/latex.conf 72e209e5121276e618f5d50bd629915c 1545750802
+obj /usr/share/asciidoc/help.conf 34e84b8ac8282c438412f835ba1ca9d1 1545750802
+obj /usr/share/asciidoc/lang-en.conf d9527fbd3590160f8bfd9351c635384b 1545750802
+obj /usr/share/asciidoc/lang-ro.conf 3035f43654b17ddaa0581866df4b8408 1545750802
+obj /usr/share/asciidoc/slidy.conf 5294414c7937b753c1c3fe943e733e8f 1545750802
+obj /usr/share/asciidoc/lang-es.conf 5e3843895816855f92e0c6c07de2fff1 1545750802
+obj /usr/share/asciidoc/lang-sv.conf 69312ce79611ecb52824701e447ee08f 1545750802
+obj /usr/share/asciidoc/asciidoc.conf 910d1293febf84489ecf64016e725d22 1545750802
+dir /usr/share/asciidoc/filters
+dir /usr/share/asciidoc/filters/source
+obj /usr/share/asciidoc/filters/source/source-highlight-filter.conf 669f91c348f198244ceeaacd12da7c0c 1545750802
+dir /usr/share/asciidoc/filters/latex
+obj /usr/share/asciidoc/filters/latex/latex-filter.conf fb118d3f9abb7d625824d004ced4d490 1545750802
+obj /usr/share/asciidoc/filters/latex/latex2img.py 0ac6f28677a372feb8ad32eaf7b568fd 1545750802
+dir /usr/share/asciidoc/filters/graphviz
+obj /usr/share/asciidoc/filters/graphviz/graphviz-filter.conf dfa71898f1b58d78f2e05b1cddbf2009 1545750802
+obj /usr/share/asciidoc/filters/graphviz/graphviz2png.py 9170c6fdf794c38203eab4889ebc706c 1545750802
+dir /usr/share/asciidoc/filters/music
+obj /usr/share/asciidoc/filters/music/music-filter.conf 2f5203e5c8f82538ee18b1d85b823c54 1545750802
+obj /usr/share/asciidoc/filters/music/music2png.py c066783935e582a2c7485a8ccec76650 1545750802
+dir /usr/share/asciidoc/filters/code
+obj /usr/share/asciidoc/filters/code/code-filter.conf a85c842e88e11d0e30684650f87a575a 1545750802
+obj /usr/share/asciidoc/filters/code/code-filter.py 28b986c071a72756ddec6866de83b563 1545750802
+dir /usr/bin
+obj /usr/bin/asciidoc.py 8dac4ab54a4bdde533ed3d6220a32d5c 1545750802
+obj /usr/bin/a2x.py ec963405f084d2bd39ad05efa0b35685 1545750802
+sym /usr/bin/a2x -> a2x.py 1545750802
+sym /usr/bin/asciidoc -> asciidoc.py 1545750802

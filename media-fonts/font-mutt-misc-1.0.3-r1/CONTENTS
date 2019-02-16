@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-mutt-misc-1.0.3-r1
+obj /usr/share/doc/font-mutt-misc-1.0.3-r1/ChangeLog.bz2 bfd6dbd0a1ede68c1f293e123f69bbcd 1545801459
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/cu-pua12.pcf.gz 33e9628482b87e3e5b00efa33670398a 1545801459
+obj /usr/share/fonts/misc/cu-lig12.pcf.gz 3dfd65e41e8bb86fe9880562a7bb6feb 1545801459
+obj /usr/share/fonts/misc/cudevnag12.pcf.gz c7501fdafe72f15309028551db8bfba5 1545801459
+obj /usr/share/fonts/misc/cu-devnag12.pcf.gz d8c7f0406abe33988810434466f3ee9a 1545801459
+obj /usr/share/fonts/misc/cuarabic12.pcf.gz 3e9563a3457feccdd6997f01b4f49356 1545801459
+obj /usr/share/fonts/misc/cu-arabic12.pcf.gz b487048333e535c50ab7611f66b6adbc 1545801459
+obj /usr/share/fonts/misc/cu-alt12.pcf.gz d980b15ac855083eb6bf6a1422c9a67b 1545801459
+obj /usr/share/fonts/misc/cu12.pcf.gz b579ed067787cbd8663c54b3b34de408 1545801459

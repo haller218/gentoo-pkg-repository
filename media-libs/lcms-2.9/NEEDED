@@ -1,0 +1,4 @@
+/usr/lib64/liblcms2.so.2.0.8 libm.so.6,libpthread.so.0,libc.so.6
+/usr/bin/linkicc liblcms2.so.2,libpthread.so.0,libc.so.6
+/usr/bin/psicc liblcms2.so.2,libpthread.so.0,libc.so.6
+/usr/bin/transicc liblcms2.so.2,libm.so.6,libpthread.so.0,libc.so.6

@@ -1,0 +1,14 @@
+dir /etc
+dir /etc/init.d
+obj /etc/init.d/opentmpfiles-dev 1c8e97be71f826ee5707563c996ac5d6 1543535615
+obj /etc/init.d/opentmpfiles-setup bb0fbed11193d8d0982584517d6b2718 1543535615
+dir /etc/conf.d
+obj /etc/conf.d/opentmpfiles-dev fe2cac5a143f8d2375b8300bde50713d 1543535615
+obj /etc/conf.d/opentmpfiles-setup fe2cac5a143f8d2375b8300bde50713d 1543535615
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/opentmpfiles-0.2
+obj /usr/share/doc/opentmpfiles-0.2/README.md.bz2 1a4390e8bc0b54700107f3b9f4343de8 1543535615
+dir /bin
+obj /bin/tmpfiles bd7e861000326feeb0466345087009d2 1543535614

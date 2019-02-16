@@ -1,0 +1,14 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-video-fbdev-0.5.0
+obj /usr/share/doc/xf86-video-fbdev-0.5.0/ChangeLog.bz2 2b899a8ad6068cd7be5fa89cf7e073b6 1545801816
+obj /usr/share/doc/xf86-video-fbdev-0.5.0/README.bz2 fdf07210ed1b5cd0d069785fb0ca9aa0 1545801815
+dir /usr/share/man
+dir /usr/share/man/man4
+obj /usr/share/man/man4/fbdev.4.bz2 09f35bbce3187899f23bf4b1222bb76e 1545801815
+dir /usr/lib64
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/drivers
+obj /usr/lib64/xorg/modules/drivers/fbdev_drv.so 2615c3a4194dae5d555b21509907ee1f 1545801816

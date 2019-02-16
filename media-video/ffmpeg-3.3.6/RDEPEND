@@ -1,0 +1,1 @@
+>=app-arch/bzip2-1.0.6-r4[abi_x86_64(-)] >=virtual/libiconv-0-r1[abi_x86_64(-)] >=sys-libs/zlib-1.2.8-r1[abi_x86_64(-)] !media-video/qt-faststart !media-libs/libpostproc

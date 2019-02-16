@@ -1,0 +1,1 @@
+sfperms unmerge-orphans news fixlafiles xattr preserve-libs protect-owned userpriv sandbox usersandbox strict ebuild-locks unmerge-logs config-protect-if-modified binpkg-logs userfetch distlocks parallel-fetch multilib-strict merge-sync assume-digests unknown-features-warn usersync

@@ -1,0 +1,24 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libxkbcommon-0.8.2
+obj /usr/share/doc/libxkbcommon-0.8.2/NEWS.bz2 b3e2635a0f10880fdb429edf6664a1bf 1545839257
+obj /usr/share/doc/libxkbcommon-0.8.2/README.md.bz2 1d284c4cea3cdc709eca3079a566b15d 1545839257
+dir /usr/include
+dir /usr/include/xkbcommon
+obj /usr/include/xkbcommon/xkbcommon-names.h 10fedda2f75a254daf645e9ad4d6fc53 1545839256
+obj /usr/include/xkbcommon/xkbcommon-keysyms.h 73a727af03b3eaf6604cefc3820b59e6 1545839256
+obj /usr/include/xkbcommon/xkbcommon-compose.h b200e381c9a6a136c829c2cd0ee4ba8b 1545839256
+obj /usr/include/xkbcommon/xkbcommon-compat.h b07292505eb1a4861a72d2cfb4da7cf8 1545839256
+obj /usr/include/xkbcommon/xkbcommon.h 2787994c926d89d935b3d80781deeccb 1545839256
+obj /usr/include/xkbcommon/xkbcommon-x11.h bcc447cfba2668cba6024fa5265ab2c6 1545839256
+dir /usr/lib64
+obj /usr/lib64/libxkbcommon.so.0.0.0 b7feb76681bf11a065373983b112265e 1545839257
+obj /usr/lib64/libxkbcommon-x11.so.0.0.0 b51067afb0509b9fcc32720aee3872ed 1545839257
+sym /usr/lib64/libxkbcommon-x11.so -> libxkbcommon-x11.so.0.0.0 1545839256
+sym /usr/lib64/libxkbcommon-x11.so.0 -> libxkbcommon-x11.so.0.0.0 1545839256
+sym /usr/lib64/libxkbcommon.so -> libxkbcommon.so.0.0.0 1545839256
+sym /usr/lib64/libxkbcommon.so.0 -> libxkbcommon.so.0.0.0 1545839256
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/xkbcommon-x11.pc 0313cf38319fcce323cd126d14ba58d5 1545839256
+obj /usr/lib64/pkgconfig/xkbcommon.pc 860cd44d4afd217f287b531ff6ed6a2b 1545839256

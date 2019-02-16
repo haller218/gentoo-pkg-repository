@@ -1,0 +1,20 @@
+dir /lib
+dir /lib/firmware
+obj /lib/firmware/regulatory.db.p7s 092a4fa98904de56b82381e1f571362f 1545743529
+obj /lib/firmware/regulatory.db a371944a7910389e421e0a538b995f37 1545743529
+dir /etc
+dir /etc/wireless-regdb
+dir /etc/wireless-regdb/pubkeys
+obj /etc/wireless-regdb/pubkeys/sforshee.key.pub.pem c07af6508171b271fb7ca88b73006b0f 1545743529
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/wireless-regdb-20181024
+obj /usr/share/doc/wireless-regdb-20181024/db.txt.bz2 8841fb8b74dc56c2d0ef1caceb162443 1545743529
+obj /usr/share/doc/wireless-regdb-20181024/README.bz2 9d8e34fa33e12cb048f8b330cbc3aab9 1545743529
+dir /usr/share/man
+dir /usr/share/man/man5
+obj /usr/share/man/man5/regulatory.bin.5.bz2 160d1b7a45b658b7464995709c230fae 1545743529
+dir /usr/lib
+dir /usr/lib/crda
+obj /usr/lib/crda/regulatory.bin 3dfd98e88fb9703ab1c132e35ff3f2c5 1545743529

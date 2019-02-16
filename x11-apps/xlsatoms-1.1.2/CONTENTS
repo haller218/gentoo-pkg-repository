@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xlsatoms 4fbd4dbba5026125cc39072f9028f9a1 1545800564
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xlsatoms-1.1.2
+obj /usr/share/doc/xlsatoms-1.1.2/ChangeLog.bz2 1f1d23c2530b4f5d983bc29bccf71bb4 1545800563
+obj /usr/share/doc/xlsatoms-1.1.2/README.bz2 dca0839c02b0cb179034a1b9a2fa7844 1545800563
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xlsatoms.1.bz2 23da2d314cb08093a36c0eb46a727a88 1545800563

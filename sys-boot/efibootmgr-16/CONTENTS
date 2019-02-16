@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/efibootmgr-16
+obj /usr/share/doc/efibootmgr-16/TODO.bz2 e9b1afec7702f85bfdcb94a29bf3df7e 1548512171
+obj /usr/share/doc/efibootmgr-16/AUTHORS.bz2 eddcbc94ab2322b52df2881ba8b3adac 1548512171
+obj /usr/share/doc/efibootmgr-16/README.bz2 d0f763bedea777c52d4666c1da8d01b6 1548512171
+obj /usr/share/doc/efibootmgr-16/README.md.bz2 413ede27c7de81cbda887fe9b08067f9 1548512171
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/efibootdump.8.bz2 5f7e5e3b76ff7523dcb6e19cc6612f5a 1548512171
+obj /usr/share/man/man8/efibootmgr.8.bz2 e0b1e19ba92054821cd0c4c275c953ef 1548512171
+dir /usr/sbin
+obj /usr/sbin/efibootmgr 30cfd2819ab33243bdf674d4fd58ae09 1548512172
+obj /usr/sbin/efibootdump 201cbcf6b37e70f9590d7c2758cc5256 1548512172

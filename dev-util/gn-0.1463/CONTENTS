@@ -1,0 +1,8 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/gn-0.1463
+obj /usr/share/doc/gn-0.1463/AUTHORS.bz2 bece8b3e6b4515c53cc9891e7e24d35d 1548946015
+obj /usr/share/doc/gn-0.1463/README.md.bz2 6471924c31e657d3f1d25ac50ee465c9 1548946015
+dir /usr/bin
+obj /usr/bin/gn 4f1cf6809d8067dbb92e72730e0c6bd1 1548946016

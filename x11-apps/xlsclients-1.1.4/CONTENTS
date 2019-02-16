@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xlsclients 6a8dc5d44f16800d1441ff39b447b317 1545801959
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xlsclients-1.1.4
+obj /usr/share/doc/xlsclients-1.1.4/ChangeLog.bz2 785024429c08c41eb39d2e6a632246aa 1545801959
+obj /usr/share/doc/xlsclients-1.1.4/README.bz2 b5f42777b3327b918e0becc195c8b6e9 1545801958
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xlsclients.1.bz2 73b795b74031b79ce75ec1509914d0b1 1545801958

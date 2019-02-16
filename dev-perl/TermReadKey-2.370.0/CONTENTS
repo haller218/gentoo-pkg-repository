@@ -1,0 +1,18 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/perl5
+dir /usr/lib64/perl5/vendor_perl
+dir /usr/lib64/perl5/vendor_perl/5.24.3
+dir /usr/lib64/perl5/vendor_perl/5.24.3/x86_64-linux
+dir /usr/lib64/perl5/vendor_perl/5.24.3/x86_64-linux/Term
+obj /usr/lib64/perl5/vendor_perl/5.24.3/x86_64-linux/Term/ReadKey.pm c7489fe85eed7ba0d68baf92fee7c533 1543536371
+dir /usr/lib64/perl5/vendor_perl/5.24.3/x86_64-linux/auto
+dir /usr/lib64/perl5/vendor_perl/5.24.3/x86_64-linux/auto/Term
+dir /usr/lib64/perl5/vendor_perl/5.24.3/x86_64-linux/auto/Term/ReadKey
+obj /usr/lib64/perl5/vendor_perl/5.24.3/x86_64-linux/auto/Term/ReadKey/.packlist a4363c1d901872d25d41d49955b4a267 1543536371
+obj /usr/lib64/perl5/vendor_perl/5.24.3/x86_64-linux/auto/Term/ReadKey/ReadKey.so 0fb74618662cff9476f45c47a2f91ba7 1543536372
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/TermReadKey-2.370.0
+obj /usr/share/doc/TermReadKey-2.370.0/Changes.bz2 60ce12c3e5c940aba1b501ef874d3423 1543536371
+obj /usr/share/doc/TermReadKey-2.370.0/README.bz2 7fd93cfa37873074711d4b335c56c0e6 1543536371

@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-video-dummy-0.3.8
+obj /usr/share/doc/xf86-video-dummy-0.3.8/ChangeLog.bz2 c884903ab76f6c4a64e8c0481b45dfbc 1545801857
+obj /usr/share/doc/xf86-video-dummy-0.3.8/README.bz2 5681061bbfc140894bcaf9d519dae3cb 1545801857
+dir /usr/lib64
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/drivers
+obj /usr/lib64/xorg/modules/drivers/dummy_drv.so 5dc190234ec662059689f4741246e4e6 1545801858

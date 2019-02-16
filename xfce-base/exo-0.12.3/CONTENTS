@@ -1,0 +1,389 @@
+dir /etc
+dir /etc/xdg
+dir /etc/xdg/xfce4
+obj /etc/xdg/xfce4/helpers.rc 9fcb0bb9abf11511cc7bb974659faf03 1548995616
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/exo-0.12.3
+obj /usr/share/doc/exo-0.12.3/THANKS.bz2 dfeebd104a2baa0e3d70c238442a2fe4 1548995620
+obj /usr/share/doc/exo-0.12.3/AUTHORS.bz2 6d9e5ceb7cd5bbac6a45eb7a3bb2ab62 1548995620
+obj /usr/share/doc/exo-0.12.3/TODO.bz2 29cc6058484f6eb57935f3fcd22159e2 1548995620
+obj /usr/share/doc/exo-0.12.3/NEWS.bz2 0828734d7477aa00566e23fda50d79c1 1548995620
+obj /usr/share/doc/exo-0.12.3/ChangeLog.bz2 fdfccec7dc5bb9b4b67b0765ef0834a7 1548995620
+obj /usr/share/doc/exo-0.12.3/README.bz2 5e8cc8b3dd5aaaf0bb7a5075662e58c5 1548995620
+dir /usr/share/locale
+dir /usr/share/locale/zh_TW
+dir /usr/share/locale/zh_TW/LC_MESSAGES
+obj /usr/share/locale/zh_TW/LC_MESSAGES/exo-1.mo f9c355e8895d647ff29397bfd0d873b6 1548995619
+dir /usr/share/locale/zh_HK
+dir /usr/share/locale/zh_HK/LC_MESSAGES
+obj /usr/share/locale/zh_HK/LC_MESSAGES/exo-1.mo 0ce9fe23c11fad0db5c18906f94bacaf 1548995619
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/exo-1.mo 84cca32dc017c54f0bd735c0627f2b4b 1548995619
+dir /usr/share/locale/vi
+dir /usr/share/locale/vi/LC_MESSAGES
+obj /usr/share/locale/vi/LC_MESSAGES/exo-1.mo 19bad4b8f742dfd2cb8772a104410640 1548995619
+dir /usr/share/locale/ur
+dir /usr/share/locale/ur/LC_MESSAGES
+obj /usr/share/locale/ur/LC_MESSAGES/exo-1.mo a5c0a0218936b16f1f25fa55199e7784 1548995619
+dir /usr/share/locale/ur_PK
+dir /usr/share/locale/ur_PK/LC_MESSAGES
+obj /usr/share/locale/ur_PK/LC_MESSAGES/exo-1.mo 3a0f2e2184b801a920c12b118ad11ac5 1548995619
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/exo-1.mo 18146b938f655688edfc983264fb1d30 1548995619
+dir /usr/share/locale/ug
+dir /usr/share/locale/ug/LC_MESSAGES
+obj /usr/share/locale/ug/LC_MESSAGES/exo-1.mo 6c0fcc2665546e27b0dc0787068691a9 1548995619
+dir /usr/share/locale/tr
+dir /usr/share/locale/tr/LC_MESSAGES
+obj /usr/share/locale/tr/LC_MESSAGES/exo-1.mo b199516293a179c830fb383485f5e0d7 1548995619
+dir /usr/share/locale/th
+dir /usr/share/locale/th/LC_MESSAGES
+obj /usr/share/locale/th/LC_MESSAGES/exo-1.mo b4557835fddad33a5962763a3d870c61 1548995619
+dir /usr/share/locale/te
+dir /usr/share/locale/te/LC_MESSAGES
+obj /usr/share/locale/te/LC_MESSAGES/exo-1.mo 6580eeadf67f459b6af3ea6375bd962d 1548995619
+dir /usr/share/locale/sv
+dir /usr/share/locale/sv/LC_MESSAGES
+obj /usr/share/locale/sv/LC_MESSAGES/exo-1.mo 6ee25abe0ba39de7537d5179566edada 1548995619
+dir /usr/share/locale/sr
+dir /usr/share/locale/sr/LC_MESSAGES
+obj /usr/share/locale/sr/LC_MESSAGES/exo-1.mo 56c3c1e10199e6fb2618a99e77d6429a 1548995619
+dir /usr/share/locale/sq
+dir /usr/share/locale/sq/LC_MESSAGES
+obj /usr/share/locale/sq/LC_MESSAGES/exo-1.mo ab87556b0a878bfa7fc56b1f4889ff7d 1548995619
+dir /usr/share/locale/sl
+dir /usr/share/locale/sl/LC_MESSAGES
+obj /usr/share/locale/sl/LC_MESSAGES/exo-1.mo 532395b63fe8f15132a465cb99ad623c 1548995619
+dir /usr/share/locale/sk
+dir /usr/share/locale/sk/LC_MESSAGES
+obj /usr/share/locale/sk/LC_MESSAGES/exo-1.mo da51973fb895b74f3d394e9348723d18 1548995619
+dir /usr/share/locale/si
+dir /usr/share/locale/si/LC_MESSAGES
+obj /usr/share/locale/si/LC_MESSAGES/exo-1.mo 8382041857db00baf7c3f62f1a83ffee 1548995619
+dir /usr/share/locale/ru
+dir /usr/share/locale/ru/LC_MESSAGES
+obj /usr/share/locale/ru/LC_MESSAGES/exo-1.mo fad8377188e8e07da25aba3a61c2af24 1548995619
+dir /usr/share/locale/ro
+dir /usr/share/locale/ro/LC_MESSAGES
+obj /usr/share/locale/ro/LC_MESSAGES/exo-1.mo e25214e90a768a48aa318f8dba1cee1d 1548995619
+dir /usr/share/locale/pt
+dir /usr/share/locale/pt/LC_MESSAGES
+obj /usr/share/locale/pt/LC_MESSAGES/exo-1.mo b1cc4da52a6da85b9e963c14a16abccc 1548995619
+dir /usr/share/locale/pt_BR
+dir /usr/share/locale/pt_BR/LC_MESSAGES
+obj /usr/share/locale/pt_BR/LC_MESSAGES/exo-1.mo c850e2dc4be765a317a1a83daa56d677 1548995619
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/exo-1.mo 56eb897958a1b66ac9e636932db99775 1548995619
+dir /usr/share/locale/pa
+dir /usr/share/locale/pa/LC_MESSAGES
+obj /usr/share/locale/pa/LC_MESSAGES/exo-1.mo 7fe4df471fe70f42fee877a49f2c4853 1548995619
+dir /usr/share/locale/oc
+dir /usr/share/locale/oc/LC_MESSAGES
+obj /usr/share/locale/oc/LC_MESSAGES/exo-1.mo 45c76f9aa5ca88d3c93a16fcf9097fcf 1548995619
+dir /usr/share/locale/nn
+dir /usr/share/locale/nn/LC_MESSAGES
+obj /usr/share/locale/nn/LC_MESSAGES/exo-1.mo ad0351fe6e671ed2f3e688248e1a0f0c 1548995619
+dir /usr/share/locale/nl
+dir /usr/share/locale/nl/LC_MESSAGES
+obj /usr/share/locale/nl/LC_MESSAGES/exo-1.mo 323d2593d7508d8150438ba138ae6f89 1548995619
+dir /usr/share/locale/nb
+dir /usr/share/locale/nb/LC_MESSAGES
+obj /usr/share/locale/nb/LC_MESSAGES/exo-1.mo 1820ad1ed47979b0857d1906bd086393 1548995618
+dir /usr/share/locale/ms
+dir /usr/share/locale/ms/LC_MESSAGES
+obj /usr/share/locale/ms/LC_MESSAGES/exo-1.mo 9a7065834fc359d01c1d30cec3cebbae 1548995618
+dir /usr/share/locale/lv
+dir /usr/share/locale/lv/LC_MESSAGES
+obj /usr/share/locale/lv/LC_MESSAGES/exo-1.mo 56775137bbb23c5304b567222c7a978d 1548995618
+dir /usr/share/locale/lt
+dir /usr/share/locale/lt/LC_MESSAGES
+obj /usr/share/locale/lt/LC_MESSAGES/exo-1.mo ce52bc9992db764e2ccb9153de091336 1548995618
+dir /usr/share/locale/ko
+dir /usr/share/locale/ko/LC_MESSAGES
+obj /usr/share/locale/ko/LC_MESSAGES/exo-1.mo 91295cbc030757743b92a11195b7da9a 1548995618
+dir /usr/share/locale/kn
+dir /usr/share/locale/kn/LC_MESSAGES
+obj /usr/share/locale/kn/LC_MESSAGES/exo-1.mo 5e4d76afe35773a7109259bd154a9652 1548995618
+dir /usr/share/locale/kk
+dir /usr/share/locale/kk/LC_MESSAGES
+obj /usr/share/locale/kk/LC_MESSAGES/exo-1.mo 22416c8afd39c1bdad1f18547173a503 1548995618
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/exo-1.mo 26b80fb9ce5151a8793924b188d415e3 1548995618
+dir /usr/share/locale/it
+dir /usr/share/locale/it/LC_MESSAGES
+obj /usr/share/locale/it/LC_MESSAGES/exo-1.mo 9a03f36b67c78fc663183bcd18305e6f 1548995618
+dir /usr/share/locale/is
+dir /usr/share/locale/is/LC_MESSAGES
+obj /usr/share/locale/is/LC_MESSAGES/exo-1.mo 7edd418a574cc79cdb4ba1b3ad5daf88 1548995618
+dir /usr/share/locale/id
+dir /usr/share/locale/id/LC_MESSAGES
+obj /usr/share/locale/id/LC_MESSAGES/exo-1.mo e30f8d7f44e3294b543b85f5d404c49e 1548995618
+dir /usr/share/locale/hu
+dir /usr/share/locale/hu/LC_MESSAGES
+obj /usr/share/locale/hu/LC_MESSAGES/exo-1.mo a87c7d172da21bf3d2d89329207b9d79 1548995618
+dir /usr/share/locale/hr
+dir /usr/share/locale/hr/LC_MESSAGES
+obj /usr/share/locale/hr/LC_MESSAGES/exo-1.mo af3f8094d2164b0b5e07797bc89360be 1548995618
+dir /usr/share/locale/he
+dir /usr/share/locale/he/LC_MESSAGES
+obj /usr/share/locale/he/LC_MESSAGES/exo-1.mo eb5b17b2b6179644cff2e0c024f6cd56 1548995618
+dir /usr/share/locale/gl
+dir /usr/share/locale/gl/LC_MESSAGES
+obj /usr/share/locale/gl/LC_MESSAGES/exo-1.mo 1f019b308992feca7679298b81eb7683 1548995618
+dir /usr/share/locale/fr
+dir /usr/share/locale/fr/LC_MESSAGES
+obj /usr/share/locale/fr/LC_MESSAGES/exo-1.mo e4d729c3f96109b5ca31c0017edb4cc5 1548995618
+dir /usr/share/locale/fi
+dir /usr/share/locale/fi/LC_MESSAGES
+obj /usr/share/locale/fi/LC_MESSAGES/exo-1.mo 264167d6e91b4229d3d6fe71c3b03b06 1548995618
+dir /usr/share/locale/eu
+dir /usr/share/locale/eu/LC_MESSAGES
+obj /usr/share/locale/eu/LC_MESSAGES/exo-1.mo bf892f211646b478dfefca925134b3ff 1548995618
+dir /usr/share/locale/et
+dir /usr/share/locale/et/LC_MESSAGES
+obj /usr/share/locale/et/LC_MESSAGES/exo-1.mo f05ca160484f6010bcb2e58b144cb01b 1548995618
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/exo-1.mo 4dd305bcc1f6693651ff6d2704d9ba59 1548995618
+dir /usr/share/locale/en_GB
+dir /usr/share/locale/en_GB/LC_MESSAGES
+obj /usr/share/locale/en_GB/LC_MESSAGES/exo-1.mo 33af02d379ae4dde8f7346ddce0dd94d 1548995618
+dir /usr/share/locale/en_AU
+dir /usr/share/locale/en_AU/LC_MESSAGES
+obj /usr/share/locale/en_AU/LC_MESSAGES/exo-1.mo 48d32f1d91a4ff7fbc88658250771441 1548995618
+dir /usr/share/locale/el
+dir /usr/share/locale/el/LC_MESSAGES
+obj /usr/share/locale/el/LC_MESSAGES/exo-1.mo dc9b535eb6b478908e5f23ba55fe669c 1548995618
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/exo-1.mo 4e5c5e0405fe26085bfdddd41d3d478a 1548995618
+dir /usr/share/locale/da
+dir /usr/share/locale/da/LC_MESSAGES
+obj /usr/share/locale/da/LC_MESSAGES/exo-1.mo 9e8a0a1d002265bb6eff611431e82083 1548995618
+dir /usr/share/locale/cs
+dir /usr/share/locale/cs/LC_MESSAGES
+obj /usr/share/locale/cs/LC_MESSAGES/exo-1.mo 69f6fea298c55b327bc02eac98211527 1548995618
+dir /usr/share/locale/ca
+dir /usr/share/locale/ca/LC_MESSAGES
+obj /usr/share/locale/ca/LC_MESSAGES/exo-1.mo 275719b8d574684df15f0475cc98cdfe 1548995618
+dir /usr/share/locale/bn
+dir /usr/share/locale/bn/LC_MESSAGES
+obj /usr/share/locale/bn/LC_MESSAGES/exo-1.mo 7c73b9a6a1e71ca4446456e5415939cb 1548995618
+dir /usr/share/locale/bg
+dir /usr/share/locale/bg/LC_MESSAGES
+obj /usr/share/locale/bg/LC_MESSAGES/exo-1.mo 229da625d4139006735fff68fd6da282 1548995617
+dir /usr/share/locale/be
+dir /usr/share/locale/be/LC_MESSAGES
+obj /usr/share/locale/be/LC_MESSAGES/exo-1.mo d5b3e6b1c6b7f63c3c85308925673af9 1548995617
+dir /usr/share/locale/ast
+dir /usr/share/locale/ast/LC_MESSAGES
+obj /usr/share/locale/ast/LC_MESSAGES/exo-1.mo 20e3b5e04f32f8f924f48ba5e65a73ad 1548995617
+dir /usr/share/locale/ar
+dir /usr/share/locale/ar/LC_MESSAGES
+obj /usr/share/locale/ar/LC_MESSAGES/exo-1.mo a8a13bc9e248bbc2aae56c93cc068e7d 1548995617
+dir /usr/share/locale/am
+dir /usr/share/locale/am/LC_MESSAGES
+obj /usr/share/locale/am/LC_MESSAGES/exo-1.mo 7f91ff9a1c8f5f89ca1550f86526ecbb 1548995617
+dir /usr/share/pixmaps
+dir /usr/share/pixmaps/exo-1
+obj /usr/share/pixmaps/exo-1/exo-thumbnail-frame.png e97ab50ba7ea50a3f73f6f924a1062d6 1548995617
+dir /usr/share/icons
+dir /usr/share/icons/hicolor
+dir /usr/share/icons/hicolor/48x48
+dir /usr/share/icons/hicolor/48x48/apps
+obj /usr/share/icons/hicolor/48x48/apps/preferences-desktop-default-applications.png 6bee9ccaabcc676deed628bd0312d565 1548995617
+dir /usr/share/icons/hicolor/24x24
+dir /usr/share/icons/hicolor/24x24/apps
+obj /usr/share/icons/hicolor/24x24/apps/preferences-desktop-default-applications.png 6b2bf9671a3c3031e491c5d1d571bbae 1548995617
+dir /usr/share/gtk-doc
+dir /usr/share/gtk-doc/html
+dir /usr/share/gtk-doc/html/exo-1
+obj /usr/share/gtk-doc/html/exo-1/ix14.html 38b7fb0bf2dd5bf5f89cf7cc82cf9632 1548995617
+obj /usr/share/gtk-doc/html/exo-1/index.html ddd6f7422874e3586e30104de100dcd5 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-widgets.html 56e01567445c7b875ddcb4793b8bf9f9 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-tools.html 7dbd168c2995354e52580747bbaefcb4 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-toolbars.html e54f02a160d03e3188a9e0df4017e168 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-overview.html eafdb856ccde8b5c19fc92142c1daa4f 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-miscelleanous.html 82538c00d8f012d46da5186e88f9ba6d 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-jobs.html 1c946ec2e934f8bd402c218fecbe13f0 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-extensions.html 32b3ff91fe70889c66f559b0ff74ae2f 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-csource.html ddb6a545c3a6980169b56d220a1441f0 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-cell-renderers.html 3eb77ff9cdc2ba9150f73686f5604b4d 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-Version-Information.html 15344d09311ed28dcbf878ebd3cc3425 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-String-Utility-Functions.html f1d71aa3df8362f638a029e08250abdd 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-Miscellaneous-Utility-Functions.html a9106ba8d68cdb81c54bb569d6231d65 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-Extensions-to-gdk-pixbuf.html 5fead01ff3c5e208a04d9fb0a7a153c0 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-Extensions-to-Gtk.html cb5d831e903403fd7bd203d1309a98c9 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-Extensions-to-GObject.html 0197edfb5e762a21192bb0ad944fc064 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-Executing-Applications.html f5247b0d3ce7d01d53d73b1bf224b1fe 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-Binding-Properties-Functions.html 43a305910ba776ce44e6f5a2711a37e7 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ch02.html 94c36fb2fae7b189a7afdc43598203d5 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ch01.html 3bd06f347ba49f4ae45b61606fcce4d8 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoXsessionClient.html 09eb1f33292043253c6d0594e3904970 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoWrapTable.html cd5d2065aca622c47acc7dd93e7672c0 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoTreeView.html f1b75ed82a2956080390821d0f1bec3b 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoToolbarsView.html 94c3fb630566900661361571a6e64518 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoToolbarsModel.html fbc5175e0209ab798b079a0afcf1e71a 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoToolbarsEditorDialog.html f6e3bdf785701d1af49de792c3357dd3 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoToolbarsEditor.html ffb0f6ea459b487c81661d585b404cbc 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoSimpleJob.html 5bb9daa7ac898a511b1090fe0cd487ff 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoJob.html d6aba9608e061d2004a7deca684866b6 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoIconView.html 60069db1d24d3ce865eff1ad8172ae36 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoIconChooserDialog.html 65531afa3e7afd308466f93f7fee3776 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoIconBar.html 57d6928ac456277a148b9c5b6e70dcb8 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoCellRendererIcon.html f954f64724999d27822667f5cc1ecd29 1548995617
+obj /usr/share/gtk-doc/html/exo-1/ExoCellRendererEllipsizedText.html b24717d7d12b9f2e8ab76b3a876a6288 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-1.devhelp2 9498c2186289741706ab54b219985ec0 1548995617
+obj /usr/share/gtk-doc/html/exo-1/up.png 87f814036fc5519aab94850896a37f16 1548995617
+obj /usr/share/gtk-doc/html/exo-1/up-insensitive.png 4c5def48f26f45b5a3e6fae0a10d2445 1548995617
+obj /usr/share/gtk-doc/html/exo-1/style.css 35face3722735c3abaaa328e2720272b 1548995617
+obj /usr/share/gtk-doc/html/exo-1/right.png a8c0e2eaa4ca245307e30e6ed27fc53e 1548995617
+obj /usr/share/gtk-doc/html/exo-1/right-insensitive.png f7c9d76b2b56196d1890737b85b3284f 1548995617
+obj /usr/share/gtk-doc/html/exo-1/left.png 28e5f88647a00928f86a8613f5c98e29 1548995617
+obj /usr/share/gtk-doc/html/exo-1/left-insensitive.png 58176300a31276fd17b377905ea1af96 1548995617
+obj /usr/share/gtk-doc/html/exo-1/home.png d854753f7e7a1b73608f5e45c7fa3aa5 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-wrap-table.png 9f932a3e2765fe8d734316ff40f0d043 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-toolbars-view.png 07284e2db986237dd34d066cdf8eedd1 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-toolbars-editor.png b6d0fd0e3fcac06eb9bc125d3a60e984 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-toolbars-editor-dialog.png 00c7a5d13422a4482cb2dff1d47213ee 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-icon-chooser-dialog.png 3758aa375141d96ddc59c88560fbde43 1548995617
+obj /usr/share/gtk-doc/html/exo-1/exo-gtk-file-chooser-add-thumbnail-preview.png d055160854196d5ae508419f3c5834b0 1548995617
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/exo-open.1.bz2 63ce3ff24ce6125bfcb7138f7fb43169 1548995617
+obj /usr/share/man/man1/exo-csource.1.bz2 8e35c4be66f8f623f30328cec4c751c7 1548995617
+dir /usr/share/applications
+obj /usr/share/applications/exo-web-browser.desktop e0a2b30bb55e03045704669bd6ccd9cf 1548995616
+obj /usr/share/applications/exo-terminal-emulator.desktop 633bd4a83c6662e25d2ef54c556f9fa5 1548995616
+obj /usr/share/applications/exo-mail-reader.desktop 918dfc6767529e93ee6c7c4a1019a97f 1548995616
+obj /usr/share/applications/exo-file-manager.desktop 1ab5b5dbcef9e4764e97e10f0f9cc3e3 1548995616
+obj /usr/share/applications/exo-preferred-applications.desktop eae7964a26c3bc66003f44447adc6aad 1548995616
+dir /usr/share/xfce4
+dir /usr/share/xfce4/helpers
+obj /usr/share/xfce4/helpers/xterm.desktop 4eb92852f8f3db7c889eb57727532e05 1548995616
+obj /usr/share/xfce4/helpers/xfe.desktop 7c232651e93c1cd9d902d5adbfe7859f 1548995616
+obj /usr/share/xfce4/helpers/xfce4-terminal.desktop 520478e53c5cae47857737f651add472 1548995616
+obj /usr/share/xfce4/helpers/w3m.desktop 854e411133ee9e055b631eefa508795e 1548995616
+obj /usr/share/xfce4/helpers/vimprobable2.desktop 9874339e4ceb008a7d309ed30e2bd737 1548995616
+obj /usr/share/xfce4/helpers/urxvt.desktop eb4dce0dfa8d8a7496c1737c9b541812 1548995616
+obj /usr/share/xfce4/helpers/thunderbird.desktop af33f5b9ef031439eaa23ba51d1882f9 1548995616
+obj /usr/share/xfce4/helpers/Thunar.desktop b5e719c2302b9c98bc60aefb58fce8be 1548995616
+obj /usr/share/xfce4/helpers/terminator.desktop 0e183d5dbe761973dabb6303ec0735c6 1548995616
+obj /usr/share/xfce4/helpers/sylpheed-claws.desktop b453ab7aba20b4694944a9f7273e87a5 1548995616
+obj /usr/share/xfce4/helpers/sylpheed.desktop cd1849be870e4726ad9b294b5df21296 1548995616
+obj /usr/share/xfce4/helpers/surf.desktop 5deee6eefb5c94178e00dd6c2b21f3cf 1548995616
+obj /usr/share/xfce4/helpers/sakura.desktop e9a44c9759e06441a6acd949f5e1d6be 1548995616
+obj /usr/share/xfce4/helpers/rox-filer.desktop 9b065e008d5b57f5f72a213278955b62 1548995616
+obj /usr/share/xfce4/helpers/rodent.desktop a30e97aa8a06fbc55763b5ba9adc3401 1548995616
+obj /usr/share/xfce4/helpers/qupzilla.desktop 58680d07524145e31811740da3a1c850 1548995616
+obj /usr/share/xfce4/helpers/qtfm.desktop b3f62e9814b8c5f30182bf941120045d 1548995616
+obj /usr/share/xfce4/helpers/qterminal.desktop 4b7c314aadb959f4e1d4023b28d38526 1548995616
+obj /usr/share/xfce4/helpers/pcmanfm-qt.desktop f1e2acbab15e3c1c139c7a22913c62e7 1548995616
+obj /usr/share/xfce4/helpers/pcmanfm.desktop df3b2c8e5a701bdf1f6e61bad4acb1ec 1548995616
+obj /usr/share/xfce4/helpers/opera-browser.desktop 7c445a1cef449e35306ebf30bb317299 1548995616
+obj /usr/share/xfce4/helpers/nxterm.desktop 1dd7f0b632095e63a8959f617522b2ae 1548995616
+obj /usr/share/xfce4/helpers/netscape-navigator.desktop 46f0be5bac5cfa6945ee44a8693cd0f6 1548995616
+obj /usr/share/xfce4/helpers/nautilus.desktop c5050ff689fe8dd6f7ec38580ba5e109 1548995616
+obj /usr/share/xfce4/helpers/mutt.desktop 8d6c57737a93ff6f73785d106f92d9f5 1548995616
+obj /usr/share/xfce4/helpers/mozilla-mailer.desktop 3cd1788890589901c97bb3b2521c446f 1548995616
+obj /usr/share/xfce4/helpers/mozilla-browser.desktop 10940431f9d977f1cff8808edf56275f 1548995616
+obj /usr/share/xfce4/helpers/midori.desktop 8e1eeba10de7f991c8e0e783aae674fd 1548995616
+obj /usr/share/xfce4/helpers/lynx.desktop 510ea652c1aaa9cb898d40874c90bef0 1548995616
+obj /usr/share/xfce4/helpers/links.desktop b383e6e08726c81e268461f8190b4382 1548995616
+obj /usr/share/xfce4/helpers/konqueror.desktop dfce6c900715e4523d49c98e33099afc 1548995616
+obj /usr/share/xfce4/helpers/kmail.desktop c0bc4f1f72a2b2c0eeb48ba41660ce61 1548995616
+obj /usr/share/xfce4/helpers/jumanji.desktop 223d8a0940c6126bc6ea2434bfcb4a58 1548995616
+obj /usr/share/xfce4/helpers/iceweasel.desktop 88f9bc814329849ca47d5861e90d7324 1548995616
+obj /usr/share/xfce4/helpers/icedove.desktop ca7d11f897e50e2ea9ac533169d08079 1548995616
+obj /usr/share/xfce4/helpers/icecat.desktop ba488fc1b9cd0c8ebdfb349439ac1349 1548995616
+obj /usr/share/xfce4/helpers/gnome-terminal.desktop c5e4d15cb511d5962355d3bba9861331 1548995616
+obj /usr/share/xfce4/helpers/google-chrome.desktop cdb35128efc0a8ef4cc924de5b2cb23a 1548995616
+obj /usr/share/xfce4/helpers/geary.desktop 180cec7f09c0f074e83555ac1d1431d6 1548995616
+obj /usr/share/xfce4/helpers/galeon.desktop b38b58f3f585998464e4d0405e1bef12 1548995616
+obj /usr/share/xfce4/helpers/firefox.desktop 91b62b96d60ca8285bf0edb340840403 1548995616
+obj /usr/share/xfce4/helpers/evolution.desktop 188ff51d7ee54c8e1178c96d589b4824 1548995616
+obj /usr/share/xfce4/helpers/eterm.desktop 7be93873c1146ab3b1093a11f9b189a7 1548995616
+obj /usr/share/xfce4/helpers/epiphany.desktop 97af873044dde312f872e2832db32342 1548995616
+obj /usr/share/xfce4/helpers/encompass.desktop 3dcbc0cda932921ab38fc985effc3d8c 1548995616
+obj /usr/share/xfce4/helpers/dillo.desktop 20e1fcfc9f88d5e165608bfc9cb8f95a 1548995616
+obj /usr/share/xfce4/helpers/debian-x-terminal-emulator.desktop b68d871902b32c5031c5b057810658d1 1548995616
+obj /usr/share/xfce4/helpers/debian-sensible-browser.desktop 444c9dc587a3d455db8e4d872afff225 1548995616
+obj /usr/share/xfce4/helpers/chromium.desktop 22e80a1cad9dab75b75f089f56bbd9d3 1548995616
+obj /usr/share/xfce4/helpers/caja.desktop 3126f4ed3fd14e2fc19920538d0c2671 1548995616
+obj /usr/share/xfce4/helpers/brave.desktop 5729787aa73a61a1d55613e64e81e752 1548995616
+obj /usr/share/xfce4/helpers/balsa.desktop d7293c3c07573a83f49645a464d951e3 1548995616
+obj /usr/share/xfce4/helpers/aterm.desktop 2d84f4dc17baec1bae7ea6d3e554db45 1548995616
+dir /usr/bin
+obj /usr/bin/exo-open 3464f782ed3d76e6d78a0c4173c8620c 1548995622
+obj /usr/bin/exo-csource c007492c27ff73f2f97cb09b1cdcc8e5 1548995622
+obj /usr/bin/exo-desktop-item-edit 775d31e46e2ce74569cd0dd0e3cf1dbd 1548995622
+obj /usr/bin/exo-preferred-applications 5e44ae21560d574dad1a210e032cbf02 1548995616
+dir /usr/include
+dir /usr/include/exo-1
+dir /usr/include/exo-1/exo
+obj /usr/include/exo-1/exo/exo-config.h 0beddee881475adf98cbd853fe058286 1548995616
+obj /usr/include/exo-1/exo/exo.h f55e9d2d013f256bed2b23ab26655b60 1548995616
+obj /usr/include/exo-1/exo/exo-xsession-client.h 929d696a1821c417eff09d3d7214ec07 1548995616
+obj /usr/include/exo-1/exo/exo-wrap-table.h 1e72d78a26a6e70eebf3bf3d4a865d06 1548995616
+obj /usr/include/exo-1/exo/exo-utils.h e382a121dc28e50d019ce56aed25238c 1548995616
+obj /usr/include/exo-1/exo/exo-tree-view.h dbea105481976d71f3803d783b2172c9 1548995616
+obj /usr/include/exo-1/exo/exo-toolbars-view.h 6a8132794736d53fe4d15e1b80155579 1548995616
+obj /usr/include/exo-1/exo/exo-toolbars-model.h e977b214fad7b7ec851afe9453c8e4dc 1548995616
+obj /usr/include/exo-1/exo/exo-toolbars-editor.h 07b111bdbbac7921b20c1923913aecab 1548995616
+obj /usr/include/exo-1/exo/exo-toolbars-editor-dialog.h 6a372e6cd884b6b2dfc1691640379be5 1548995616
+obj /usr/include/exo-1/exo/exo-string.h cd8372132599208ce01633fa15ef7e34 1548995616
+obj /usr/include/exo-1/exo/exo-simple-job.h 2b1a4cb84bac3041cf43352680d7e976 1548995616
+obj /usr/include/exo-1/exo/exo-job.h 32d966c72caf03a0d8db52adde4eb150 1548995616
+obj /usr/include/exo-1/exo/exo-icon-view.h bb51ea6cfdd582e9b836263b981cf944 1548995616
+obj /usr/include/exo-1/exo/exo-icon-chooser-dialog.h 74bfc2aebceed49a1be2cc51240df58e 1548995616
+obj /usr/include/exo-1/exo/exo-icon-bar.h e8094837f0f5e032b938c58ac9fc69ab 1548995616
+obj /usr/include/exo-1/exo/exo-gobject-extensions.h de26eecf5a3c61d4d43211040574f04f 1548995616
+obj /usr/include/exo-1/exo/exo-gtk-extensions.h 4d3739e2649da6ee46bf3d4c6c58ba62 1548995616
+obj /usr/include/exo-1/exo/exo-gdk-pixbuf-extensions.h 96d35bfc27ed071ea592fedfbda267c3 1548995616
+obj /usr/include/exo-1/exo/exo-execute.h 43ee1e86c7d9af8a3d567e254bdcad8a 1548995616
+obj /usr/include/exo-1/exo/exo-cell-renderer-icon.h eff111eaa777a23988cefcf872c39e5b 1548995616
+obj /usr/include/exo-1/exo/exo-cell-renderer-ellipsized-text.h 3d2a97836064a8cda736bb947eec94f8 1548995616
+obj /usr/include/exo-1/exo/exo-binding.h c0c7fce92627c8df780007e83d25ad9c 1548995616
+obj /usr/include/exo-1/exo/exo-enum-types.h 738b0441ee5611318af09b4fdef80c2b 1548995616
+dir /usr/include/exo-2
+dir /usr/include/exo-2/exo
+obj /usr/include/exo-2/exo/exo-tree-view.h dbea105481976d71f3803d783b2172c9 1548995616
+obj /usr/include/exo-2/exo/exo-thumbnail-preview.h 6705df55a2c75e1869cddaad2e778202 1548995616
+obj /usr/include/exo-2/exo/exo-thumbnail.h fa3da81dc34de8964c4f43563e080437 1548995616
+obj /usr/include/exo-2/exo/exo-cell-renderer-icon.h eff111eaa777a23988cefcf872c39e5b 1548995616
+obj /usr/include/exo-2/exo/exo-toolbars-model.h e977b214fad7b7ec851afe9453c8e4dc 1548995616
+obj /usr/include/exo-2/exo/exo-enum-types.h 738b0441ee5611318af09b4fdef80c2b 1548995616
+obj /usr/include/exo-2/exo/exo-icon-view.h bb51ea6cfdd582e9b836263b981cf944 1548995616
+obj /usr/include/exo-2/exo/exo-icon-chooser-model.h f293f1720d9ee4c4fab2676522d98130 1548995616
+obj /usr/include/exo-2/exo/exo-icon-chooser-dialog.h 74bfc2aebceed49a1be2cc51240df58e 1548995616
+obj /usr/include/exo-2/exo/exo-utils.h e382a121dc28e50d019ce56aed25238c 1548995616
+obj /usr/include/exo-2/exo/exo-string.h cd8372132599208ce01633fa15ef7e34 1548995616
+obj /usr/include/exo-2/exo/exo-simple-job.h 2b1a4cb84bac3041cf43352680d7e976 1548995616
+obj /usr/include/exo-2/exo/exo-job.h 32d966c72caf03a0d8db52adde4eb150 1548995616
+obj /usr/include/exo-2/exo/exo-gobject-extensions.h de26eecf5a3c61d4d43211040574f04f 1548995616
+obj /usr/include/exo-2/exo/exo-gtk-extensions.h 4d3739e2649da6ee46bf3d4c6c58ba62 1548995616
+obj /usr/include/exo-2/exo/exo-gdk-pixbuf-extensions.h 96d35bfc27ed071ea592fedfbda267c3 1548995616
+obj /usr/include/exo-2/exo/exo-execute.h 43ee1e86c7d9af8a3d567e254bdcad8a 1548995616
+obj /usr/include/exo-2/exo/exo-config.h 0beddee881475adf98cbd853fe058286 1548995616
+obj /usr/include/exo-2/exo/exo-binding.h c0c7fce92627c8df780007e83d25ad9c 1548995616
+obj /usr/include/exo-2/exo/exo.h f55e9d2d013f256bed2b23ab26655b60 1548995616
+dir /usr/lib64
+obj /usr/lib64/libexo-1.so.0.1.0 9d24f22b18b11b46e24ab2c0ff667c2b 1548995622
+obj /usr/lib64/libexo-2.so.0.1.0 85461e3989bfb122a67a625e3e8c31d5 1548995622
+dir /usr/lib64/xfce4
+dir /usr/lib64/xfce4/exo-1
+obj /usr/lib64/xfce4/exo-1/exo-helper-1 b4ac7146d70c5a70c04231d41e688ad4 1548995622
+obj /usr/lib64/xfce4/exo-1/exo-compose-mail-1 f294cb13499a030cdef2ef992b7e38b8 1548995616
+sym /usr/lib64/libexo-2.so -> libexo-2.so.0.1.0 1548995616
+sym /usr/lib64/libexo-2.so.0 -> libexo-2.so.0.1.0 1548995616
+sym /usr/lib64/libexo-1.so -> libexo-1.so.0.1.0 1548995616
+sym /usr/lib64/libexo-1.so.0 -> libexo-1.so.0.1.0 1548995616
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/exo-2.pc 3155a1db22f0009c56bd3b1f00dec85f 1548995616
+obj /usr/lib64/pkgconfig/exo-1.pc eed81fc2feae90151f1b741d7bb42cd7 1548995616

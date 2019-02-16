@@ -1,0 +1,37 @@
+dir /etc
+dir /etc/conf.d
+obj /etc/conf.d/pciparm ef920c23349a80a5af86a5cc2851ce97 1545799091
+dir /etc/init.d
+obj /etc/init.d/pciparm 6dc100dc1d3a0a935baa7215f90bdf3a 1545799091
+dir /usr
+dir /usr/include
+dir /usr/include/x86_64-pc-linux-gnu
+dir /usr/include/x86_64-pc-linux-gnu/pci
+obj /usr/include/x86_64-pc-linux-gnu/pci/config.h 3babee1443cefd897cdfc86350a6a602 1545799090
+dir /usr/include/pci
+obj /usr/include/pci/config.h 268e382dd013e49f3c7ea63714d36c05 1545799090
+obj /usr/include/pci/types.h dc061d7941d96c8a0b2dc995f8d7a716 1545799090
+obj /usr/include/pci/pci.h 47fb11085372ac9a5cb1d8c445586d7d 1545799090
+obj /usr/include/pci/header.h a1a7931c1dbe0a018004cd90e27ae4e2 1545799090
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pciutils-3.5.6
+obj /usr/share/doc/pciutils-3.5.6/TODO.bz2 af2db5159afdb41d9d73ee3a6b8938de 1545799091
+obj /usr/share/doc/pciutils-3.5.6/README.bz2 2701edb0c6ad3a8ca6b3e6191a36fcd9 1545799091
+obj /usr/share/doc/pciutils-3.5.6/ChangeLog.bz2 450328240d6aec8358501d44d0126ba3 1545799091
+dir /usr/share/man
+dir /usr/share/man/man7
+obj /usr/share/man/man7/pcilib.7.bz2 8e6154a20b2a0a1ff4b37b8649e71cef 1545799090
+dir /usr/share/man/man8
+obj /usr/share/man/man8/setpci.8.bz2 5a6296f41a8622277b2300319bde5201 1545799090
+obj /usr/share/man/man8/lspci.8.bz2 80560a14cca68e3bb9638bd1f607e136 1545799090
+dir /usr/share/misc
+dir /usr/sbin
+obj /usr/sbin/setpci c15520afab14597fb6c7cd824c05d5ef 1545799092
+obj /usr/sbin/lspci 289301d53739d6933eb0328154b528af 1545799092
+dir /usr/lib64
+obj /usr/lib64/libpci.so.3.5.6 52e847818c5145e3a84a3723fef1494a 1545799092
+sym /usr/lib64/libpci.so.3 -> libpci.so.3.5.6 1545799090
+sym /usr/lib64/libpci.so -> libpci.so.3 1545799090
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libpci.pc 93fe53c2f88603bb5fc5dde87a4b42a4 1545799090

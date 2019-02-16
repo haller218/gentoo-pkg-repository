@@ -1,0 +1,13 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/ragel-6.10
+obj /usr/share/doc/ragel-6.10/TODO.bz2 5e938a8f05776f4487fb7910d913d330 1545708337
+obj /usr/share/doc/ragel-6.10/CREDITS.bz2 c504a7fff8c7c59bee63b46bd6054a6f 1545708337
+obj /usr/share/doc/ragel-6.10/ChangeLog.bz2 60d482cbd3d6a2c1cf73cc52f4ff1d5e 1545708337
+obj /usr/share/doc/ragel-6.10/README.bz2 a1cd3754f302d3ce474a90405360b8b6 1545708337
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/ragel.1.bz2 ef7630ae8013daf44ad51bd64e1c57d5 1545708337
+dir /usr/bin
+obj /usr/bin/ragel d36a002d4cbb2d4e676281420f71d0c4 1545708338

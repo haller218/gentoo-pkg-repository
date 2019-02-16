@@ -1,0 +1,47 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/wayland-scanner 30b640a60f0e079c86c03327e697e62e 1546291096
+dir /usr/include
+obj /usr/include/wayland-client-protocol.h 67a5eeb801e7b55304a722bf573fa569 1546291094
+obj /usr/include/wayland-server-protocol.h fffbc113fe9b7957e82b77851f34bfe7 1546291094
+obj /usr/include/wayland-egl-backend.h 2ba7fdc73417d6fff04535f409b08a23 1546291094
+obj /usr/include/wayland-egl-core.h f26805ee1121df5138de7e68fb36e89d 1546291094
+obj /usr/include/wayland-egl.h a03f691bb8cbcecb9707119f6b077633 1546291094
+obj /usr/include/wayland-cursor.h 661aa968d1986dbd74d45a7d00988642 1546291094
+obj /usr/include/wayland-version.h 2179c799f70ed2a7bb44bbe1cf7dc12d 1546291094
+obj /usr/include/wayland-client-core.h 9604bcb11867972b69cbf9e38aca5269 1546291094
+obj /usr/include/wayland-client.h da7ca3df0ddd6ca83805f35c08e07788 1546291094
+obj /usr/include/wayland-server-core.h 1f5da8daf4bbb751dcc4d8b82fd1ccc4 1546291094
+obj /usr/include/wayland-server.h a26ca1a141cc0169c57862e9ba9d7c06 1546291094
+obj /usr/include/wayland-util.h ed34ba2dd476dc45bbe9a8cbf93d3d85 1546291094
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/wayland-1.16.0
+obj /usr/share/doc/wayland-1.16.0/TODO.bz2 601915a9c554ee7a443ec4aa69970a05 1546291094
+obj /usr/share/doc/wayland-1.16.0/README.bz2 b3d512ed73484a93dbe6c97af018d457 1546291094
+dir /usr/share/wayland
+obj /usr/share/wayland/wayland.dtd fbae2de8d3dcc32099a3e4eee8d93636 1546291094
+obj /usr/share/wayland/wayland.xml 131ab5e18d6315e6ceabdcc50547e539 1546291094
+obj /usr/share/wayland/wayland-scanner.mk 2c2a360e4c4a3a99a95b975417d6af7f 1546291094
+dir /usr/share/aclocal
+obj /usr/share/aclocal/wayland-scanner.m4 bed4d5dd1e0e42e16f0cea76be97cfda 1546291094
+dir /usr/lib64
+obj /usr/lib64/libwayland-cursor.so.0.0.0 0175049cd789dc5cda703510ad80b4d1 1546291096
+obj /usr/lib64/libwayland-server.so.0.1.0 b0efd3ffb439a5c00f3fc664c24c5edf 1546291096
+obj /usr/lib64/libwayland-client.so.0.3.0 fc263ed017c2b703e1e38389dbfc4364 1546291096
+obj /usr/lib64/libwayland-egl.so.1.0.0 87061cd0e4e26722a519ef6d23f06e0d 1546291096
+sym /usr/lib64/libwayland-egl.so -> libwayland-egl.so.1.0.0 1546291094
+sym /usr/lib64/libwayland-egl.so.1 -> libwayland-egl.so.1.0.0 1546291094
+sym /usr/lib64/libwayland-cursor.so -> libwayland-cursor.so.0.0.0 1546291094
+sym /usr/lib64/libwayland-cursor.so.0 -> libwayland-cursor.so.0.0.0 1546291094
+sym /usr/lib64/libwayland-client.so -> libwayland-client.so.0.3.0 1546291094
+sym /usr/lib64/libwayland-client.so.0 -> libwayland-client.so.0.3.0 1546291094
+sym /usr/lib64/libwayland-server.so -> libwayland-server.so.0.1.0 1546291094
+sym /usr/lib64/libwayland-server.so.0 -> libwayland-server.so.0.1.0 1546291094
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/wayland-egl-backend.pc cf2e974f579f4f8887c4ef2f66a6df61 1546291094
+obj /usr/lib64/pkgconfig/wayland-egl.pc 134ec59e508e8e6621c0df5a89a63c33 1546291094
+obj /usr/lib64/pkgconfig/wayland-cursor.pc a66851be2ebc74fe9bc3e82f7682e497 1546291094
+obj /usr/lib64/pkgconfig/wayland-server.pc b13a7b6938717d3e36dd66f09b631367 1546291094
+obj /usr/lib64/pkgconfig/wayland-client.pc 9c98aee9b7679ca18d64f583625c0159 1546291094
+obj /usr/lib64/pkgconfig/wayland-scanner.pc 93bdb3efc581e4f38e2acbd2fa5d3a63 1546291094

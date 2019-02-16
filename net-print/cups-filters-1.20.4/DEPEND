@@ -1,0 +1,1 @@
+>=app-text/poppler-0.32:0/73=[cxx,lcms,utils] >=app-text/qpdf-3.0.2:0/18= dev-libs/glib:2 media-libs/fontconfig media-libs/freetype:2 media-libs/lcms:2 >=net-print/cups-1.7.3 !<=net-print/cups-1.5.9999 sys-devel/bc sys-libs/zlib !net-print/foomatic-filters >=app-text/ghostscript-gpl-9.09[cups] dev-util/gdbus-codegen virtual/pkgconfig

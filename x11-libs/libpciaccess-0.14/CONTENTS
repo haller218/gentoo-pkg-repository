@@ -1,0 +1,17 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libpciaccess-0.14
+obj /usr/share/doc/libpciaccess-0.14/ChangeLog.bz2 bf43b9068f4ef2813588fce728e446ed 1545789359
+obj /usr/share/doc/libpciaccess-0.14/README.bz2 b9cac31ee3938f7552c11997d3caf469 1545789358
+obj /usr/share/doc/libpciaccess-0.14/AUTHORS 01639a3a5d4ed97cdd395d6ef771ac77 1545789358
+dir /usr/bin
+obj /usr/bin/scanpci 71c387d996bb210ffea672b401744074 1545789359
+dir /usr/lib64
+obj /usr/lib64/libpciaccess.so.0.11.1 0cec0fac675744f228a06de8299ffe91 1545789359
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/pciaccess.pc 9626c5784b71ca2c2058db3ed177b969 1545789358
+sym /usr/lib64/libpciaccess.so -> libpciaccess.so.0.11.1 1545789358
+sym /usr/lib64/libpciaccess.so.0 -> libpciaccess.so.0.11.1 1545789358
+dir /usr/include
+obj /usr/include/pciaccess.h 1a4bfed27f908f7e889d53398cc66a09 1545789358

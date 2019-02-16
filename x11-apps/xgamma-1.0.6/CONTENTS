@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xgamma cc0dde5ff5bc6b58d0fbddc4a3de2a5e 1545800555
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xgamma-1.0.6
+obj /usr/share/doc/xgamma-1.0.6/ChangeLog.bz2 e6f9d59ce9757a9624a72bdb766cfc4c 1545800554
+obj /usr/share/doc/xgamma-1.0.6/README.bz2 c6c294199e7f252a113869f48f46aa50 1545800554
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xgamma.1.bz2 7c5c23d6ac68997fd8d67c82695a2d46 1545800554

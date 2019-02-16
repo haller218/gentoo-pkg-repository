@@ -1,0 +1,805 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/vlc-wrapper 6da5c29b5f264fd02b0d0c0c44932b7c 1548390259
+obj /usr/bin/vlc a8e0a1ead7f3cac5aac68bc0f88e1e67 1548390259
+obj /usr/bin/nvlc f620068e2d5a72a11050698d3fbc2efb 1548390253
+obj /usr/bin/qvlc d7383ffde9bf16d8032f6849f0249e81 1548390253
+obj /usr/bin/rvlc 94b0abf0e07ed7a7e392c82f16b7bc39 1548390253
+obj /usr/bin/cvlc 0995f7bc841e3e623cdd6197578cca48 1548390253
+dir /usr/include
+dir /usr/include/vlc
+obj /usr/include/vlc/vlc.h f8fb4255c4847aa1db41d13f678c7bf0 1548390252
+obj /usr/include/vlc/libvlc_renderer_discoverer.h db6a6a6e6cf40e4b5c3a7aeafd68a1ab 1548390252
+obj /usr/include/vlc/libvlc_vlm.h 450ba4f7a6fc6cb82cfcb75555f89e17 1548390252
+obj /usr/include/vlc/libvlc_media_player.h 3fe9a14d882cd46255879fde3e672109 1548390252
+obj /usr/include/vlc/libvlc_media_list_player.h 564444f6a2611d6233a81e3aee8b3632 1548390252
+obj /usr/include/vlc/libvlc_media_list.h e6d5706021fa4f3a128d6497bab56e9b 1548390252
+obj /usr/include/vlc/libvlc_media_library.h a4f4919125c875bcc06934f73ed47e0a 1548390252
+obj /usr/include/vlc/libvlc_media_discoverer.h 175f18360e33778169346c8cf01a7525 1548390252
+obj /usr/include/vlc/libvlc_media.h a1c74320c0bf0badec86274bd3a2b48a 1548390252
+obj /usr/include/vlc/libvlc_events.h 9dd72c99d19ce9f898076e31f5d145c7 1548390252
+obj /usr/include/vlc/libvlc_dialog.h 3a0fa0e0efec6e933a508f5b93869cb6 1548390252
+obj /usr/include/vlc/libvlc.h ee023ff8a9d6fdf9d2d39eb6ba70d8cb 1548390252
+obj /usr/include/vlc/deprecated.h a0ea5354670cda222a3fa66af903d38d 1548390252
+obj /usr/include/vlc/libvlc_version.h 75f164a86b4c42e07867889d0fa8c840 1548390252
+dir /usr/include/vlc/plugins
+obj /usr/include/vlc/plugins/vlc_xlib.h 88cedb0828ad69879dccbcabf554369d 1548390192
+obj /usr/include/vlc/plugins/vlc_xml.h 2a67f0d10abd163fbdc218af961944b2 1548390192
+obj /usr/include/vlc/plugins/vlc_vout_window.h 6e9907235517a22a4a35bead699b7dcc 1548390192
+obj /usr/include/vlc/plugins/vlc_vout_osd.h 229ee5aeb6c1a31124ebfc71a2b40237 1548390192
+obj /usr/include/vlc/plugins/vlc_vout_display.h f9dadf7410b7ee37739baabf406e9082 1548390192
+obj /usr/include/vlc/plugins/vlc_vout.h 287c29989cab97db10336dbd53d2ce69 1548390192
+obj /usr/include/vlc/plugins/vlc_video_splitter.h 66cddbb1cd03e3f3990392b9fff594bb 1548390192
+obj /usr/include/vlc/plugins/vlc_vlm.h a3b85f6c37a20cf85948246a4c957e90 1548390192
+obj /usr/include/vlc/plugins/vlc_viewpoint.h adad48157d1cb9e147ad1a5ee898f6e1 1548390192
+obj /usr/include/vlc/plugins/vlc_variables.h 6583c85f51460dec1670be9f9a43853a 1548390192
+obj /usr/include/vlc/plugins/vlc_url.h 0b44ac63eb9f4575075a7580d32bf206 1548390192
+obj /usr/include/vlc/plugins/vlc_tls.h 38845cb2463131777eb2a3f9a0d86f29 1548390192
+obj /usr/include/vlc/plugins/vlc_timestamp_helper.h ef45bae27a4df2cb3b725a1dc349af22 1548390192
+obj /usr/include/vlc/plugins/vlc_threads.h a6c94c6ad923d23cf113f33355f28a1a 1548390192
+obj /usr/include/vlc/plugins/vlc_text_style.h e40fecf08b897cc46dcd1fef4cc0819a 1548390192
+obj /usr/include/vlc/plugins/vlc_subpicture.h b1f96a3835c2ed18f6ddf1c3e0e53952 1548390192
+obj /usr/include/vlc/plugins/vlc_strings.h 2537c40f6684a15fc1ac0322d6aea901 1548390192
+obj /usr/include/vlc/plugins/vlc_stream_extractor.h 42fd9f9976d6bb561c6b43b6e7b4484d 1548390192
+obj /usr/include/vlc/plugins/vlc_stream.h 7ac4bc781b841a6725a8a2a477c9327b 1548390192
+obj /usr/include/vlc/plugins/vlc_spu.h c6076c2a2dfdf943282a7cc6ac5256ab 1548390192
+obj /usr/include/vlc/plugins/vlc_sout.h 7bfca90df822c16a191e2968600470a2 1548390192
+obj /usr/include/vlc/plugins/vlc_renderer_discovery.h 7969f440a89102f8b7ca15da9de9de0c 1548390192
+obj /usr/include/vlc/plugins/vlc_interrupt.h a3bb02b9ab73bf960785754fe82dd76d 1548390192
+obj /usr/include/vlc/plugins/vlc_fingerprinter.h 98d2a2af8589f10e763b8919376b4140 1548390192
+obj /usr/include/vlc/plugins/vlc_services_discovery.h da75291d403b687c49f89b9af556948c 1548390192
+obj /usr/include/vlc/plugins/vlc_rand.h 73168075affb74bf2304761146444ead 1548390192
+obj /usr/include/vlc/plugins/vlc_probe.h 4fa5d641972f685aa6516ebe4f6f257e 1548390192
+obj /usr/include/vlc/plugins/vlc_plugin.h c9405e5af857eabc145d8cd767f4fc7b 1548390192
+obj /usr/include/vlc/plugins/vlc_playlist.h ce7cb85f93dcef78ae370ae8d86ce75e 1548390192
+obj /usr/include/vlc/plugins/vlc_picture_pool.h 6bec48651eeddf84a1d7ef7e4db61a4e 1548390192
+obj /usr/include/vlc/plugins/vlc_picture_fifo.h 4f16d993bbd63497ecfa7d6c2c1cc557 1548390192
+obj /usr/include/vlc/plugins/vlc_picture.h f2503dd52045d443051eeac09253de4b 1548390192
+obj /usr/include/vlc/plugins/vlc_objects.h eb1aa4d18d371e1955c600637423e57f 1548390192
+obj /usr/include/vlc/plugins/vlc_network.h 9b368ebcfbf1bd0d3bbfa61ccbd414f5 1548390192
+obj /usr/include/vlc/plugins/vlc_mtime.h 35dab8be0aa1614408e10c14711e4acf 1548390192
+obj /usr/include/vlc/plugins/vlc_mouse.h 7361f0be587d8bb5cff829cbb822fc45 1548390192
+obj /usr/include/vlc/plugins/vlc_modules.h 4c64c70f4438f5ad9c6de4d79206d5fc 1548390192
+obj /usr/include/vlc/plugins/vlc_mime.h d1d6f11929aac413a51247bda42146d2 1548390192
+obj /usr/include/vlc/plugins/vlc_memstream.h 7f8f1af8914e85d415474796d2b29f31 1548390192
+obj /usr/include/vlc/plugins/vlc_media_library.h 6d842d31019a0ee8ee8d37ab8d13a58b 1548390192
+obj /usr/include/vlc/plugins/vlc_meta_fetcher.h 5a7d3058e837af446a79257ff537e129 1548390192
+obj /usr/include/vlc/plugins/vlc_meta.h 5ac4bebed4b55d8bada1dd41f2192e4d 1548390192
+obj /usr/include/vlc/plugins/vlc_messages.h da13b2c47ec39139b8d13496b73e7381 1548390192
+obj /usr/include/vlc/plugins/vlc_md5.h 5be4237dd1fafa0cedc21cb5eff44d86 1548390192
+obj /usr/include/vlc/plugins/vlc_main.h 910b5ad29ddf84249c9f576e0c82f68a 1548390192
+obj /usr/include/vlc/plugins/vlc_keystore.h 9cb7d934d5eeaadd8557cfa11e7adbe3 1548390192
+obj /usr/include/vlc/plugins/vlc_interface.h bef42d751e9860612207ac2ac93eb558 1548390192
+obj /usr/include/vlc/plugins/vlc_input_item.h ef3f83f044ff11a1a32d2b3475c97ecc 1548390192
+obj /usr/include/vlc/plugins/vlc_input.h 71789b048ba53bc195a3a7fb2c2649af 1548390192
+obj /usr/include/vlc/plugins/vlc_inhibit.h a35f37cf1416781ed14825b5e77e9f1f 1548390192
+obj /usr/include/vlc/plugins/vlc_image.h ad124e1a0438ad0731940fa5360f147c 1548390192
+obj /usr/include/vlc/plugins/vlc_httpd.h 87cf39678b17053e0c9960eaf8bf4cbb 1548390192
+obj /usr/include/vlc/plugins/vlc_http.h 52a04c61ad0c14cc5b288a0c12fbdad0 1548390192
+obj /usr/include/vlc/plugins/vlc_opengl.h db7f43eae7f79a85ff4eab1a4e28057b 1548390192
+obj /usr/include/vlc/plugins/vlc_gcrypt.h 92aa7ad3e5afc68fd743886d072d6373 1548390192
+obj /usr/include/vlc/plugins/vlc_fs.h c84d435668928517d9ba75c6d1c098de 1548390192
+obj /usr/include/vlc/plugins/vlc_fourcc.h 0a2e64028d0d3743bdea4e823c338154 1548390192
+obj /usr/include/vlc/plugins/vlc_filter.h e39d45be2e59d439fab59413d98b5ffb 1548390192
+obj /usr/include/vlc/plugins/vlc_events.h 72a370a44a7e736bc351671252b530ec 1548390192
+obj /usr/include/vlc/plugins/vlc_es_out.h eaa1350a55026b4f53c7166c1c5f35b6 1548390192
+obj /usr/include/vlc/plugins/vlc_es.h 295cfb78c1fe12cef332ec48ca96ad57 1548390192
+obj /usr/include/vlc/plugins/vlc_epg.h 2e89c9fee1a39a0a6e6ab58ddd3b6891 1548390192
+obj /usr/include/vlc/plugins/vlc_demux.h 175c4f766951b961bd8d8f626a3cdc77 1548390192
+obj /usr/include/vlc/plugins/vlc_dialog.h 5b769a97dcd711ca6130fba71ee89d1d 1548390192
+obj /usr/include/vlc/plugins/vlc_cpu.h dad178570c740906296216ebe3b45e3d 1548390192
+obj /usr/include/vlc/plugins/vlc_configuration.h 5148deebf6786e9727be1495b608db4d 1548390192
+obj /usr/include/vlc/plugins/vlc_config_cat.h 196e0ea03e3200d02ec386c709c947e7 1548390192
+obj /usr/include/vlc/plugins/vlc_config.h de66df7927568a67ad301d7a89fd83ef 1548390192
+obj /usr/include/vlc/plugins/vlc_common.h 3701ac2b1e697ada732fbefb095b81df 1548390192
+obj /usr/include/vlc/plugins/vlc_codec.h ba8924bea2a8fd3aa7e8f1382eb1d4ef 1548390192
+obj /usr/include/vlc/plugins/vlc_charset.h a53596a5066f2a0b8cd2a59898908fdd 1548390192
+obj /usr/include/vlc/plugins/vlc_boxes.h f5606d9b2c55bdd9d5b58ad56dd1b0db 1548390192
+obj /usr/include/vlc/plugins/vlc_block_helper.h 2cda26cdcba3d50031633c7b3d256425 1548390192
+obj /usr/include/vlc/plugins/vlc_block.h 271cce88adf82b0a4f173aa460f2ab78 1548390192
+obj /usr/include/vlc/plugins/vlc_bits.h d4003ceb622c5f10018edcbeff8ee159 1548390192
+obj /usr/include/vlc/plugins/vlc_avcodec.h 212b7f51db0bea7502127b5cff5986c8 1548390192
+obj /usr/include/vlc/plugins/vlc_atomic.h 95efff5ce8f479dba81541304f5d5703 1548390192
+obj /usr/include/vlc/plugins/vlc_arrays.h 7e7e6852ef92615d1580909b2eeac0f1 1548390192
+obj /usr/include/vlc/plugins/vlc_aout_volume.h a3b6530c29d4274cbcce344bbc40b262 1548390192
+obj /usr/include/vlc/plugins/vlc_aout.h 2214e80b4f87401f65f764402d52bd69 1548390192
+obj /usr/include/vlc/plugins/vlc_addons.h 9312166fa96dd139afe3953b108754ce 1548390192
+obj /usr/include/vlc/plugins/vlc_actions.h bf9fed598651e76c914155fc1deb23b0 1548390192
+obj /usr/include/vlc/plugins/vlc_access.h 16317954807c1eab2632e27a1eded3b0 1548390192
+obj /usr/include/vlc/plugins/vlc_about.h 6a76c411d61391b92094da1af19cab2c 1548390192
+dir /usr/share
+dir /usr/share/kde4
+dir /usr/share/kde4/apps
+dir /usr/share/kde4/apps/solid
+dir /usr/share/kde4/apps/solid/actions
+obj /usr/share/kde4/apps/solid/actions/vlc-openvcd.desktop 56f96662953ddca2b3cacd0300a4bcfc 1548390192
+obj /usr/share/kde4/apps/solid/actions/vlc-opendvd.desktop 9a2cea43b729ac43077ae19ca4fb718b 1548390192
+obj /usr/share/kde4/apps/solid/actions/vlc-opencda.desktop 6fd0d6ef27c2aa7c7efa91b281dede2d 1548390192
+obj /usr/share/kde4/apps/solid/actions/vlc-openbd.desktop d3b224997a87adedc5e66beb3b9e6757 1548390192
+dir /usr/share/vlc
+dir /usr/share/vlc/utils
+obj /usr/share/vlc/utils/video-vlc-default.sh 9e70a45059b7f4ba437d085e0d1f4ca8 1548390192
+obj /usr/share/vlc/utils/audio-vlc-default.sh 9345f78e8e961bc169557164195a4b12 1548390192
+obj /usr/share/vlc/utils/gnome-vlc-default.sh 2370fbb91d451a105cad30377a35d2cd 1548390192
+obj /usr/share/vlc/vlc.ico 3f06061e0600712128b17caed76dad0c 1548390192
+dir /usr/share/applications
+obj /usr/share/applications/vlc.desktop 4e3cb16aed433499143526e9f00f88c0 1548390192
+dir /usr/share/icons
+dir /usr/share/icons/hicolor
+dir /usr/share/icons/hicolor/48x48
+dir /usr/share/icons/hicolor/48x48/apps
+obj /usr/share/icons/hicolor/48x48/apps/vlc-xmas.png 1a82afd02992d1b1f701555d0aca17e4 1548390192
+obj /usr/share/icons/hicolor/48x48/apps/vlc.png 8409f3c01d9a26b09fc8de5911f263a1 1548390192
+dir /usr/share/icons/hicolor/32x32
+dir /usr/share/icons/hicolor/32x32/apps
+obj /usr/share/icons/hicolor/32x32/apps/vlc-xmas.xpm fc1bd133df0cf22d9bdcd8393ee06ac1 1548390192
+obj /usr/share/icons/hicolor/32x32/apps/vlc.xpm 8139fb1c22ee07bcba5f72a2cdc03886 1548390192
+obj /usr/share/icons/hicolor/32x32/apps/vlc.png 2cc6e1cc4000c750a23596b3dbeaf47c 1548390192
+dir /usr/share/icons/hicolor/256x256
+dir /usr/share/icons/hicolor/256x256/apps
+obj /usr/share/icons/hicolor/256x256/apps/vlc.png b396ed0788aa57c51aaa514d3bf4b05e 1548390192
+dir /usr/share/icons/hicolor/16x16
+dir /usr/share/icons/hicolor/16x16/apps
+obj /usr/share/icons/hicolor/16x16/apps/vlc.xpm a08e07c6269ed32da2978b115b4362ad 1548390192
+obj /usr/share/icons/hicolor/16x16/apps/vlc.png 28219046aa007a04696d0de017bc7691 1548390192
+dir /usr/share/icons/hicolor/128x128
+dir /usr/share/icons/hicolor/128x128/apps
+obj /usr/share/icons/hicolor/128x128/apps/vlc-kb.png 581c9db75fb12c85f0d2a9d27480f624 1548390192
+obj /usr/share/icons/hicolor/128x128/apps/vlc-xmas.png a062d1ce156baa12022d7e604c522f33 1548390192
+obj /usr/share/icons/hicolor/128x128/apps/vlc.png 4bc61fc36dfe84f904218699c1e6c6da 1548390192
+dir /usr/share/metainfo
+obj /usr/share/metainfo/vlc.appdata.xml f0c7e3064264c091397a45713332f16a 1548390192
+dir /usr/share/locale
+dir /usr/share/locale/zu
+dir /usr/share/locale/zu/LC_MESSAGES
+obj /usr/share/locale/zu/LC_MESSAGES/vlc.mo 58acd7a01077a791ad6087d49dccd866 1548390191
+dir /usr/share/locale/zh_TW
+dir /usr/share/locale/zh_TW/LC_MESSAGES
+obj /usr/share/locale/zh_TW/LC_MESSAGES/vlc.mo 02f5f02e5cab589a5d4d79e866cea347 1548390191
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/vlc.mo b3cd901bfac992f6686c9a6a8695fa98 1548390191
+dir /usr/share/locale/wa
+dir /usr/share/locale/wa/LC_MESSAGES
+obj /usr/share/locale/wa/LC_MESSAGES/vlc.mo 550eda43d6bdeefec0670a1a5e0efc89 1548390191
+dir /usr/share/locale/vi
+dir /usr/share/locale/vi/LC_MESSAGES
+obj /usr/share/locale/vi/LC_MESSAGES/vlc.mo a8b98fc321bf69eb6e72bd7852ed1c55 1548390191
+dir /usr/share/locale/uz
+dir /usr/share/locale/uz/LC_MESSAGES
+obj /usr/share/locale/uz/LC_MESSAGES/vlc.mo f0bac7004cbd6bf4081e6ed0214e2ce4 1548390191
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/vlc.mo 3e037b2b50a02ae9f3be5b7849b0afc6 1548390191
+dir /usr/share/locale/ug
+dir /usr/share/locale/ug/LC_MESSAGES
+obj /usr/share/locale/ug/LC_MESSAGES/vlc.mo 1eb27e40c3f6621594b6c65517782ce8 1548390191
+dir /usr/share/locale/tr
+dir /usr/share/locale/tr/LC_MESSAGES
+obj /usr/share/locale/tr/LC_MESSAGES/vlc.mo 761ec23be8b27d9989993cb7857f25dc 1548390191
+dir /usr/share/locale/tl
+dir /usr/share/locale/tl/LC_MESSAGES
+obj /usr/share/locale/tl/LC_MESSAGES/vlc.mo 8fb10dedbe42c77d52a3420b1df53215 1548390191
+dir /usr/share/locale/th
+dir /usr/share/locale/th/LC_MESSAGES
+obj /usr/share/locale/th/LC_MESSAGES/vlc.mo 649128e04d8882ac84877c330274f7d0 1548390191
+dir /usr/share/locale/tet
+dir /usr/share/locale/tet/LC_MESSAGES
+obj /usr/share/locale/tet/LC_MESSAGES/vlc.mo 005c6b5dc85c36b825bb60f87a09cfde 1548390191
+dir /usr/share/locale/te
+dir /usr/share/locale/te/LC_MESSAGES
+obj /usr/share/locale/te/LC_MESSAGES/vlc.mo b48dbe36c5144b756257534eab7a9365 1548390191
+dir /usr/share/locale/ta
+dir /usr/share/locale/ta/LC_MESSAGES
+obj /usr/share/locale/ta/LC_MESSAGES/vlc.mo aaf1a88fb7041094bb0942f4c478d21d 1548390191
+dir /usr/share/locale/sv
+dir /usr/share/locale/sv/LC_MESSAGES
+obj /usr/share/locale/sv/LC_MESSAGES/vlc.mo c29d10d6f0351e4909b89beaa294d29f 1548390191
+dir /usr/share/locale/sr
+dir /usr/share/locale/sr/LC_MESSAGES
+obj /usr/share/locale/sr/LC_MESSAGES/vlc.mo 83bc8973a1584bc813a8c305018b1e5c 1548390191
+dir /usr/share/locale/sq
+dir /usr/share/locale/sq/LC_MESSAGES
+obj /usr/share/locale/sq/LC_MESSAGES/vlc.mo 9c7b67c9b8300b674a3d9e9edec332b2 1548390191
+dir /usr/share/locale/sl
+dir /usr/share/locale/sl/LC_MESSAGES
+obj /usr/share/locale/sl/LC_MESSAGES/vlc.mo 893ce929fa2645d8f96509d49872dc8d 1548390191
+dir /usr/share/locale/sk
+dir /usr/share/locale/sk/LC_MESSAGES
+obj /usr/share/locale/sk/LC_MESSAGES/vlc.mo 914be16ca03c664c5e45bd4bdb7d9f46 1548390191
+dir /usr/share/locale/si
+dir /usr/share/locale/si/LC_MESSAGES
+obj /usr/share/locale/si/LC_MESSAGES/vlc.mo c9d14b51edc1593328565e6bf41a5499 1548390191
+dir /usr/share/locale/ru
+dir /usr/share/locale/ru/LC_MESSAGES
+obj /usr/share/locale/ru/LC_MESSAGES/vlc.mo f4d4afa45ef09812c21007d593cf2c42 1548390191
+dir /usr/share/locale/ro
+dir /usr/share/locale/ro/LC_MESSAGES
+obj /usr/share/locale/ro/LC_MESSAGES/vlc.mo 523a1f10140aa839a763a2ff2480734b 1548390191
+dir /usr/share/locale/pt_PT
+dir /usr/share/locale/pt_PT/LC_MESSAGES
+obj /usr/share/locale/pt_PT/LC_MESSAGES/vlc.mo b5584ff60797a57929e22ad90dc778f6 1548390191
+dir /usr/share/locale/pt_BR
+dir /usr/share/locale/pt_BR/LC_MESSAGES
+obj /usr/share/locale/pt_BR/LC_MESSAGES/vlc.mo 6358064cbf6d066c6fce062c0f9cee48 1548390191
+dir /usr/share/locale/ps
+dir /usr/share/locale/ps/LC_MESSAGES
+obj /usr/share/locale/ps/LC_MESSAGES/vlc.mo 90a33bfd947d2526c704d15c7c727b06 1548390191
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/vlc.mo cdb37ae68688d7d1bcd552fb9d6615ef 1548390191
+dir /usr/share/locale/pa
+dir /usr/share/locale/pa/LC_MESSAGES
+obj /usr/share/locale/pa/LC_MESSAGES/vlc.mo 05c8acae8a513c33bf11e02783e7bd0b 1548390191
+dir /usr/share/locale/or
+dir /usr/share/locale/or/LC_MESSAGES
+obj /usr/share/locale/or/LC_MESSAGES/vlc.mo ef2ecfe95c1ed34ccf5762cdbe2a4f62 1548390191
+dir /usr/share/locale/oc
+dir /usr/share/locale/oc/LC_MESSAGES
+obj /usr/share/locale/oc/LC_MESSAGES/vlc.mo 87c9cb75349bc2935eec895b2637dbf4 1548390191
+dir /usr/share/locale/nn
+dir /usr/share/locale/nn/LC_MESSAGES
+obj /usr/share/locale/nn/LC_MESSAGES/vlc.mo 8f3b82160d1296bfd090f4edd2b8f8b1 1548390191
+dir /usr/share/locale/nl
+dir /usr/share/locale/nl/LC_MESSAGES
+obj /usr/share/locale/nl/LC_MESSAGES/vlc.mo 24598b73ff14abee41b6254f12a3d09e 1548390191
+dir /usr/share/locale/ne
+dir /usr/share/locale/ne/LC_MESSAGES
+obj /usr/share/locale/ne/LC_MESSAGES/vlc.mo c1b37364e35e018d5526a0238f8a905c 1548390191
+dir /usr/share/locale/nb
+dir /usr/share/locale/nb/LC_MESSAGES
+obj /usr/share/locale/nb/LC_MESSAGES/vlc.mo f93adb61000a656d90c50785b7f31451 1548390191
+dir /usr/share/locale/my
+dir /usr/share/locale/my/LC_MESSAGES
+obj /usr/share/locale/my/LC_MESSAGES/vlc.mo 156e3f0c566d6a692d025ff8cda90c2c 1548390191
+dir /usr/share/locale/ms
+dir /usr/share/locale/ms/LC_MESSAGES
+obj /usr/share/locale/ms/LC_MESSAGES/vlc.mo 66527e8cd8f767324cc90d59a120c564 1548390191
+dir /usr/share/locale/mr
+dir /usr/share/locale/mr/LC_MESSAGES
+obj /usr/share/locale/mr/LC_MESSAGES/vlc.mo 14ba7cd3d35ae32cc0b0d88f396aec7c 1548390191
+dir /usr/share/locale/mn
+dir /usr/share/locale/mn/LC_MESSAGES
+obj /usr/share/locale/mn/LC_MESSAGES/vlc.mo bd358a7fa11c6584497725c43c40d9c9 1548390191
+dir /usr/share/locale/ml
+dir /usr/share/locale/ml/LC_MESSAGES
+obj /usr/share/locale/ml/LC_MESSAGES/vlc.mo 6ba5d91247422a7c5fec381bd302bfc2 1548390191
+dir /usr/share/locale/mk
+dir /usr/share/locale/mk/LC_MESSAGES
+obj /usr/share/locale/mk/LC_MESSAGES/vlc.mo 782dfda39896d0064496070aaf35e76b 1548390191
+dir /usr/share/locale/mai
+dir /usr/share/locale/mai/LC_MESSAGES
+obj /usr/share/locale/mai/LC_MESSAGES/vlc.mo a581b936b8c711b70457c58523241335 1548390191
+dir /usr/share/locale/lv
+dir /usr/share/locale/lv/LC_MESSAGES
+obj /usr/share/locale/lv/LC_MESSAGES/vlc.mo fa9d8550c261f6fd79928e8e8ff5a503 1548390191
+dir /usr/share/locale/lt
+dir /usr/share/locale/lt/LC_MESSAGES
+obj /usr/share/locale/lt/LC_MESSAGES/vlc.mo 621cffc0e994b84f746bdac3083b4aa2 1548390191
+dir /usr/share/locale/lg
+dir /usr/share/locale/lg/LC_MESSAGES
+obj /usr/share/locale/lg/LC_MESSAGES/vlc.mo 56a190999ef7c1f2dbb6e992039b7fa5 1548390191
+dir /usr/share/locale/ky
+dir /usr/share/locale/ky/LC_MESSAGES
+obj /usr/share/locale/ky/LC_MESSAGES/vlc.mo a34ce73cf46da940171dc7963a7d3c5a 1548390191
+dir /usr/share/locale/ks_IN
+dir /usr/share/locale/ks_IN/LC_MESSAGES
+obj /usr/share/locale/ks_IN/LC_MESSAGES/vlc.mo db93c5537d301d61e5e285cf5f0a2c74 1548390191
+dir /usr/share/locale/ko
+dir /usr/share/locale/ko/LC_MESSAGES
+obj /usr/share/locale/ko/LC_MESSAGES/vlc.mo eead67718c8c7136b9056820b9c421d2 1548390191
+dir /usr/share/locale/kn
+dir /usr/share/locale/kn/LC_MESSAGES
+obj /usr/share/locale/kn/LC_MESSAGES/vlc.mo 3f46dc42f66dfe8dfa23c0f6e252384c 1548390191
+dir /usr/share/locale/km
+dir /usr/share/locale/km/LC_MESSAGES
+obj /usr/share/locale/km/LC_MESSAGES/vlc.mo 0168201ec5a72286a26cdecae0729579 1548390191
+dir /usr/share/locale/kk
+dir /usr/share/locale/kk/LC_MESSAGES
+obj /usr/share/locale/kk/LC_MESSAGES/vlc.mo 94c1f0f6a2fdde7ea015513eeecca9b7 1548390191
+dir /usr/share/locale/ka
+dir /usr/share/locale/ka/LC_MESSAGES
+obj /usr/share/locale/ka/LC_MESSAGES/vlc.mo 78e2c66886376a40c4f56ed7ef98d3e1 1548390191
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/vlc.mo 163f55cbb276411eeabb8dd52eb21240 1548390191
+dir /usr/share/locale/it
+dir /usr/share/locale/it/LC_MESSAGES
+obj /usr/share/locale/it/LC_MESSAGES/vlc.mo c44b253a0ec60f3d17ce8a38af546f23 1548390190
+dir /usr/share/locale/is
+dir /usr/share/locale/is/LC_MESSAGES
+obj /usr/share/locale/is/LC_MESSAGES/vlc.mo de5e5f53821c4975f706b13dfaca45e1 1548390190
+dir /usr/share/locale/id
+dir /usr/share/locale/id/LC_MESSAGES
+obj /usr/share/locale/id/LC_MESSAGES/vlc.mo 6c55199dae9831fcadbd6f17138cc879 1548390190
+dir /usr/share/locale/ia
+dir /usr/share/locale/ia/LC_MESSAGES
+obj /usr/share/locale/ia/LC_MESSAGES/vlc.mo 0ea0d11b62a7a2f7c0a362d2d89cd7a0 1548390190
+dir /usr/share/locale/hy
+dir /usr/share/locale/hy/LC_MESSAGES
+obj /usr/share/locale/hy/LC_MESSAGES/vlc.mo f0f899c90c62940aa7c3f65c7030da6c 1548390190
+dir /usr/share/locale/hu
+dir /usr/share/locale/hu/LC_MESSAGES
+obj /usr/share/locale/hu/LC_MESSAGES/vlc.mo 7f798d76f7e65830ade26024759b7341 1548390190
+dir /usr/share/locale/hr
+dir /usr/share/locale/hr/LC_MESSAGES
+obj /usr/share/locale/hr/LC_MESSAGES/vlc.mo 445ee9a55d4cbf8aa1e25e40cf2b656f 1548390190
+dir /usr/share/locale/hi
+dir /usr/share/locale/hi/LC_MESSAGES
+obj /usr/share/locale/hi/LC_MESSAGES/vlc.mo daa702d84d564bbf02b8a001d68bb418 1548390190
+dir /usr/share/locale/he
+dir /usr/share/locale/he/LC_MESSAGES
+obj /usr/share/locale/he/LC_MESSAGES/vlc.mo 622d030b5e94cd05fd502407fefb0886 1548390190
+dir /usr/share/locale/gu
+dir /usr/share/locale/gu/LC_MESSAGES
+obj /usr/share/locale/gu/LC_MESSAGES/vlc.mo 19a255f561d8efb826feb99b1dc03ba1 1548390190
+dir /usr/share/locale/gl
+dir /usr/share/locale/gl/LC_MESSAGES
+obj /usr/share/locale/gl/LC_MESSAGES/vlc.mo 366806e5dba63beae25042ec5f013350 1548390190
+dir /usr/share/locale/gd
+dir /usr/share/locale/gd/LC_MESSAGES
+obj /usr/share/locale/gd/LC_MESSAGES/vlc.mo ebb18a25da1fe304d267fd2a041ecb3a 1548390190
+dir /usr/share/locale/ga
+dir /usr/share/locale/ga/LC_MESSAGES
+obj /usr/share/locale/ga/LC_MESSAGES/vlc.mo 62161131e979039fdac0997b16d9fa3d 1548390190
+dir /usr/share/locale/fy
+dir /usr/share/locale/fy/LC_MESSAGES
+obj /usr/share/locale/fy/LC_MESSAGES/vlc.mo c8288958197937a1e98a534ec37dc753 1548390190
+dir /usr/share/locale/fur
+dir /usr/share/locale/fur/LC_MESSAGES
+obj /usr/share/locale/fur/LC_MESSAGES/vlc.mo 3bcb1af2c503f6ac19efb3148fb3952b 1548390190
+dir /usr/share/locale/fr
+dir /usr/share/locale/fr/LC_MESSAGES
+obj /usr/share/locale/fr/LC_MESSAGES/vlc.mo 6130e8a127b3d16b2e29aa3712525c0a 1548390190
+dir /usr/share/locale/fi
+dir /usr/share/locale/fi/LC_MESSAGES
+obj /usr/share/locale/fi/LC_MESSAGES/vlc.mo 0065b34cdc3c626fab2aab43ef025eac 1548390190
+dir /usr/share/locale/ff
+dir /usr/share/locale/ff/LC_MESSAGES
+obj /usr/share/locale/ff/LC_MESSAGES/vlc.mo de0c57fa7189799cbaa6e3ba91a5c720 1548390190
+dir /usr/share/locale/fa
+dir /usr/share/locale/fa/LC_MESSAGES
+obj /usr/share/locale/fa/LC_MESSAGES/vlc.mo c1d33ea202c02de66e0fd6761f17f0c5 1548390190
+dir /usr/share/locale/eu
+dir /usr/share/locale/eu/LC_MESSAGES
+obj /usr/share/locale/eu/LC_MESSAGES/vlc.mo 398fa01e689ce7787f7322053e1815c9 1548390190
+dir /usr/share/locale/et
+dir /usr/share/locale/et/LC_MESSAGES
+obj /usr/share/locale/et/LC_MESSAGES/vlc.mo 9886b802f99aaf1b95d2db9e0b405b35 1548390190
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/vlc.mo 936e2a827b7eafbd26f50333a6af1f2a 1548390190
+dir /usr/share/locale/en_GB
+dir /usr/share/locale/en_GB/LC_MESSAGES
+obj /usr/share/locale/en_GB/LC_MESSAGES/vlc.mo a5763d6c832b206e7dc5f93ec90009f7 1548390190
+dir /usr/share/locale/el
+dir /usr/share/locale/el/LC_MESSAGES
+obj /usr/share/locale/el/LC_MESSAGES/vlc.mo edb2fddc2bb54293893fe049ec0c3d6b 1548390190
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/vlc.mo 0d4c7f122c54de41ce57ac54401d252e 1548390190
+dir /usr/share/locale/da
+dir /usr/share/locale/da/LC_MESSAGES
+obj /usr/share/locale/da/LC_MESSAGES/vlc.mo 9fb59887e4ca1e60919d9416c33311a2 1548390190
+dir /usr/share/locale/cy
+dir /usr/share/locale/cy/LC_MESSAGES
+obj /usr/share/locale/cy/LC_MESSAGES/vlc.mo 86c3a3bdc1a1aeac98bbcd7bbd7fae8c 1548390190
+dir /usr/share/locale/cs
+dir /usr/share/locale/cs/LC_MESSAGES
+obj /usr/share/locale/cs/LC_MESSAGES/vlc.mo ebeeee957c526d37928a9de5ed1afa6e 1548390190
+dir /usr/share/locale/co
+dir /usr/share/locale/co/LC_MESSAGES
+obj /usr/share/locale/co/LC_MESSAGES/vlc.mo 6a2faa0b823d0b7a7b7c0ef328f60f3c 1548390190
+dir /usr/share/locale/ckb
+dir /usr/share/locale/ckb/LC_MESSAGES
+obj /usr/share/locale/ckb/LC_MESSAGES/vlc.mo 91749b20ec9a6be49b2bb4e39baf0129 1548390190
+dir /usr/share/locale/cgg
+dir /usr/share/locale/cgg/LC_MESSAGES
+obj /usr/share/locale/cgg/LC_MESSAGES/vlc.mo abd85a86c7e1a554899e2b45995560ac 1548390190
+dir /usr/share/locale/ca
+dir /usr/share/locale/ca/LC_MESSAGES
+obj /usr/share/locale/ca/LC_MESSAGES/vlc.mo 25df95c88c1dcb42b98b5d47edb57a4c 1548390190
+dir /usr/share/locale/bs
+dir /usr/share/locale/bs/LC_MESSAGES
+obj /usr/share/locale/bs/LC_MESSAGES/vlc.mo 3980058631ee9b490d5e69d1d6bf8f83 1548390190
+dir /usr/share/locale/brx
+dir /usr/share/locale/brx/LC_MESSAGES
+obj /usr/share/locale/brx/LC_MESSAGES/vlc.mo 95d8e350dba45af2b4cf7c453e4b52a3 1548390190
+dir /usr/share/locale/br
+dir /usr/share/locale/br/LC_MESSAGES
+obj /usr/share/locale/br/LC_MESSAGES/vlc.mo 0d164456e9d45314d4ab751f8c81d947 1548390190
+dir /usr/share/locale/bn
+dir /usr/share/locale/bn/LC_MESSAGES
+obj /usr/share/locale/bn/LC_MESSAGES/vlc.mo 0c47c11258e362bcccf8693918516b98 1548390190
+dir /usr/share/locale/bn_IN
+dir /usr/share/locale/bn_IN/LC_MESSAGES
+obj /usr/share/locale/bn_IN/LC_MESSAGES/vlc.mo afb642bebeecf77e8e5bfdd4076ffac7 1548390190
+dir /usr/share/locale/bg
+dir /usr/share/locale/bg/LC_MESSAGES
+obj /usr/share/locale/bg/LC_MESSAGES/vlc.mo 8b9a1a37fe07329191ad6da776794b63 1548390190
+dir /usr/share/locale/be
+dir /usr/share/locale/be/LC_MESSAGES
+obj /usr/share/locale/be/LC_MESSAGES/vlc.mo fb0cd500bdd9b0dd5488ed9a67d409fa 1548390190
+dir /usr/share/locale/az
+dir /usr/share/locale/az/LC_MESSAGES
+obj /usr/share/locale/az/LC_MESSAGES/vlc.mo 124f8ab238eec7dfdfd6f803969c3b4f 1548390190
+dir /usr/share/locale/ast
+dir /usr/share/locale/ast/LC_MESSAGES
+obj /usr/share/locale/ast/LC_MESSAGES/vlc.mo f162d2cdf8b99669c79cbef186a1fe94 1548390190
+dir /usr/share/locale/as_IN
+dir /usr/share/locale/as_IN/LC_MESSAGES
+obj /usr/share/locale/as_IN/LC_MESSAGES/vlc.mo f3a1ca034df5c54851d1f7a099a16bfa 1548390190
+dir /usr/share/locale/ar
+dir /usr/share/locale/ar/LC_MESSAGES
+obj /usr/share/locale/ar/LC_MESSAGES/vlc.mo 346df426f4e4dd77842587cb7ffc4dfb 1548390190
+dir /usr/share/locale/an
+dir /usr/share/locale/an/LC_MESSAGES
+obj /usr/share/locale/an/LC_MESSAGES/vlc.mo f3cf44f13072a7f87447d0aa08249790 1548390190
+dir /usr/share/locale/am
+dir /usr/share/locale/am/LC_MESSAGES
+obj /usr/share/locale/am/LC_MESSAGES/vlc.mo 15d5c8283f49b1b418a593455e67bae6 1548390190
+dir /usr/share/locale/af
+dir /usr/share/locale/af/LC_MESSAGES
+obj /usr/share/locale/af/LC_MESSAGES/vlc.mo 21d2042cdea7d93ef31ef6f3cd1d1879 1548390190
+dir /usr/share/locale/ach
+dir /usr/share/locale/ach/LC_MESSAGES
+obj /usr/share/locale/ach/LC_MESSAGES/vlc.mo aa2d51dab87149209cf6516738bb4a3e 1548390190
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/vlc-wrapper.1.bz2 07fc21adecdc149a03bbecc805e143e1 1548390190
+obj /usr/share/man/man1/vlc.1.bz2 a92f0a41c31f51da865476594c79de62 1548390190
+dir /usr/share/doc
+dir /usr/share/doc/vlc-3.0.4
+obj /usr/share/doc/vlc-3.0.4/fortunes.txt.bz2 6f40a927f08ffc3f6d1021c843442c35 1548390253
+obj /usr/share/doc/vlc-3.0.4/README.bz2 7892d5082f8b2eb0246fe5e81372bab2 1548390253
+obj /usr/share/doc/vlc-3.0.4/NEWS.bz2 337af0ece7df71e211af8969fc48405a 1548390253
+obj /usr/share/doc/vlc-3.0.4/AUTHORS.bz2 3985e3bd6531d354e3eaa7b02b970f8a 1548390253
+obj /usr/share/doc/vlc-3.0.4/THANKS.bz2 2de7ca17ab52314e629c0001072e8796 1548390253
+dir /usr/share/doc/vlc-3.0.4/libvlc
+obj /usr/share/doc/vlc-3.0.4/libvlc/wx_player.cpp.bz2 9695718113a418881b5e88bbec166ef9 1548390190
+obj /usr/share/doc/vlc-3.0.4/libvlc/libvlc_DVD_ripper.c.bz2 7812fb2fd038d7f7fb90675fccd06e5c 1548390190
+obj /usr/share/doc/vlc-3.0.4/libvlc/vlc-thumb.c.bz2 fc58cd8488d7389a828a94b3ab7649ea 1548390190
+obj /usr/share/doc/vlc-3.0.4/libvlc/gtk_player.c.bz2 427c82850bbbeee479ea206502321eca 1548390190
+dir /usr/share/doc/vlc-3.0.4/libvlc/QtPlayer
+obj /usr/share/doc/vlc-3.0.4/libvlc/QtPlayer/QtVLC.pro.bz2 e1ac2319045431901090f6296d328784 1548390190
+obj /usr/share/doc/vlc-3.0.4/libvlc/QtPlayer/main.cpp.bz2 87e195fcc5f38e1c3eded841818d665d 1548390190
+obj /usr/share/doc/vlc-3.0.4/libvlc/QtPlayer/player.h.bz2 7a7c4edbcf6f8194a713ec0e5d6ba0cd 1548390190
+obj /usr/share/doc/vlc-3.0.4/libvlc/QtPlayer/player.cpp.bz2 410c378121aa9e65d66c40d308298eb8 1548390190
+obj /usr/share/doc/vlc-3.0.4/libvlc/QtPlayer/LICENSE.bz2 e1501cc0f9eda142ab310801e5273bc9 1548390190
+dir /usr/lib64
+obj /usr/lib64/libvlc.so.5.6.0 3b41b5902efed4392596b2372d4dc1b1 1548390259
+obj /usr/lib64/libvlccore.so.9.0.0 6082eab748c70afc79bad81b1ad9152f 1548390256
+sym /usr/lib64/libvlc.so -> libvlc.so.5.6.0 1548390253
+sym /usr/lib64/libvlc.so.5 -> libvlc.so.5.6.0 1548390253
+sym /usr/lib64/libvlccore.so -> libvlccore.so.9.0.0 1548390192
+sym /usr/lib64/libvlccore.so.9 -> libvlccore.so.9.0.0 1548390192
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libvlc.pc 684c75d87aad6a8612db35895664fef2 1548390252
+obj /usr/lib64/pkgconfig/vlc-plugin.pc d10c773098b628a29f90f33754184627 1548390192
+dir /usr/lib64/vlc
+obj /usr/lib64/vlc/vlc-cache-gen 84611229dbec3e0d2b42d64c92a65552 1548390259
+obj /usr/lib64/vlc/libvlc_xcb_events.so.0.0.0 d9475e93a30d32b58fc83fab818c3ac9 1548390256
+obj /usr/lib64/vlc/libcompat.a c6706b1f9800aceee2d8cdf282d17792 1548390256
+sym /usr/lib64/vlc/libvlc_xcb_events.so -> libvlc_xcb_events.so.0.0.0 1548390193
+sym /usr/lib64/vlc/libvlc_xcb_events.so.0 -> libvlc_xcb_events.so.0.0.0 1548390193
+dir /usr/lib64/vlc/plugins
+dir /usr/lib64/vlc/plugins/video_output
+obj /usr/lib64/vlc/plugins/video_output/libyuv_plugin.so eb5d5f4eb599785ab13b0c675dccc79d 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libvmem_plugin.so aadf63190a59c0a21f8d603a71d9599b 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libvdummy_plugin.so 4530e3ab54b305b3722cccd3b2f608dc 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libflaschen_plugin.so 0fb301ff4eba27cd9cdcce79460b035b 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libfb_plugin.so 6729d044124ff6765b6e8af15239126f 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libglx_plugin.so 2880091f145b2482eca0d2ad6ca6b74d 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libegl_x11_plugin.so 781fb0b45ab3dbaffde350fd748e6c5e 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libxcb_xv_plugin.so cfa822f8d73fd14a6dc4ceee4eec1476 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libxcb_window_plugin.so 5eb8e8ed9a345449d145cf494a69e2ec 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libxcb_x11_plugin.so 9c9d14c8e1d608ec9d0c170cb9eec72c 1548390259
+obj /usr/lib64/vlc/plugins/video_output/libgl_plugin.so 4542219c38f0fbfd05e9e03d90ab1473 1548390259
+dir /usr/lib64/vlc/plugins/visualization
+obj /usr/lib64/vlc/plugins/visualization/libvisual_plugin.so 9be894f29c09894ca1475f63ac656e16 1548390259
+obj /usr/lib64/vlc/plugins/visualization/libglspectrum_plugin.so 3c866bd319cc91271a27666aa43b842d 1548390258
+dir /usr/lib64/vlc/plugins/video_filter
+obj /usr/lib64/vlc/plugins/video_filter/libblend_plugin.so b4ecea47a0993efad31c9120846c3170 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libdeinterlace_plugin.so 44d447039d5ac2768525d9f09b03eb85 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/librotate_plugin.so c13c24ac4173ea4b4ed9ad63a8eee3db 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libpuzzle_plugin.so 97ff8226a7f424a61aabc6047259f4cd 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libfreeze_plugin.so 996b26b2497ddccc28308f8534c866b5 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libfps_plugin.so 5f44018858563a15e9c7d44c3927526b 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libvhs_plugin.so 8bf8bf449d55c958f8bdd12ddd57647f 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libanaglyph_plugin.so cf9dc657d31c3772496d2d51739aedf5 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/liboldmovie_plugin.so 6e87a9969d909448be3dd1b2e361f7fd 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libhqdn3d_plugin.so f48bed906e649d206a9100c53ebe43fc 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libantiflicker_plugin.so 01b7870a310a3fc1060fb68b6892fcb9 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libgradfun_plugin.so efdc72f5855a87a2cb44be796a7e60ae 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libwave_plugin.so dbe33b3f360a3e6965858a84ab2b67e8 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libtransform_plugin.so 78521eec5cc230f1aa52a3d65c1b9a40 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libsharpen_plugin.so cbfbe3324855a2f7f70f1746dccac99c 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libsepia_plugin.so b531e733ce411a2d54e1d1851a2bb769 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libscene_plugin.so 5a1132af7413ec85e49678c7d163453a 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libscale_plugin.so 575ae070b3f22d88904d728c4a7e83fb 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libripple_plugin.so 77a266cdee50f4e2f692d376e25bb9be 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libpsychedelic_plugin.so 3eed082898a24be6028ca4a44661e7bc 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libposterize_plugin.so 4cc65569a4728b6f6b41096d359e2644 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libmotiondetect_plugin.so 94b0fc24dc1c1e8ab0d5dd0e6631316d 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libmotionblur_plugin.so 1d7ba2f55692cd2f0e9e75e9a9ade82e 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libmirror_plugin.so ab3caa80cbe683e8c9f9e96ec323eaf5 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libmagnify_plugin.so 1043f809fa20eb395f4a62e56831f5fe 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libinvert_plugin.so 3a27b855e620348dd709de7cc9e45c35 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libgaussianblur_plugin.so f90eaca2176b6e3d9071c1c5f0bac9ca 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libgrain_plugin.so 63b41400ce5d6fed9aad0e0d737d3cd3 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libgradient_plugin.so e61de5ec64dd2d2338b4387667843452 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libextract_plugin.so 721450f815be96bfc6a330dd499d1e23 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/liberase_plugin.so 43dcd8b099a87d5a0a2b81356f5fe1ba 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libedgedetection_plugin.so a640e82365ee5c8205733fb5ef4f2cc1 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libcroppadd_plugin.so 924a62cc9dd7e0aecd6b675f6df444b8 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libcolorthres_plugin.so 2da856e8249118e8769e2933c4717eeb 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libcanvas_plugin.so a3d30a00cb3d8ef31c5be5265f4fc628 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libbluescreen_plugin.so 12c8719b2a017edd2f81644874a72b9f 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libblendbench_plugin.so 06df09abe28de2ea19da6be7522be712 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libball_plugin.so 189ccf41ca6624cf43621e40a68f13bc 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libalphamask_plugin.so 9651fd607a525e893d4b28813359bc0e 1548390259
+obj /usr/lib64/vlc/plugins/video_filter/libadjust_plugin.so 4232ab695b8581888e59bd43b20ce7da 1548390259
+dir /usr/lib64/vlc/plugins/text_renderer
+obj /usr/lib64/vlc/plugins/text_renderer/libtdummy_plugin.so 35eb9a3bd036f2e152f7625af80f896e 1548390258
+dir /usr/lib64/vlc/plugins/stream_filter
+obj /usr/lib64/vlc/plugins/stream_filter/libskiptags_plugin.so aa8e9080d487aa097c6cd615dec59a90 1548390258
+obj /usr/lib64/vlc/plugins/stream_filter/libadf_plugin.so 2df609451435eacee21d6644090b8964 1548390258
+obj /usr/lib64/vlc/plugins/stream_filter/librecord_plugin.so 81ff96612095ac934b87d82caff29b4f 1548390258
+obj /usr/lib64/vlc/plugins/stream_filter/libhds_plugin.so 15a3e5abaf3c59a483acea0514e9239e 1548390258
+obj /usr/lib64/vlc/plugins/stream_filter/libprefetch_plugin.so 02c869167abff65f691fdbbc1118d514 1548390258
+obj /usr/lib64/vlc/plugins/stream_filter/libinflate_plugin.so b0ac43bf5c06fffe2136bce8392f86fc 1548390258
+obj /usr/lib64/vlc/plugins/stream_filter/libdecomp_plugin.so 937a86f621e32e216a2864ae6af85ff5 1548390258
+obj /usr/lib64/vlc/plugins/stream_filter/libcache_block_plugin.so d22a6997aa9407830e3c1c51173bf493 1548390258
+obj /usr/lib64/vlc/plugins/stream_filter/libcache_read_plugin.so 9c137a85420bc5d7e7c506f0eb7aabcd 1548390258
+dir /usr/lib64/vlc/plugins/spu
+obj /usr/lib64/vlc/plugins/spu/libremoteosd_plugin.so 70496889b9644e917f8ed57a9a824869 1548390258
+obj /usr/lib64/vlc/plugins/spu/libdynamicoverlay_plugin.so aca034f8c295dfcfe113ae2e49519251 1548390258
+obj /usr/lib64/vlc/plugins/spu/librss_plugin.so 999dc0381c980f9d2744e3745761435c 1548390258
+obj /usr/lib64/vlc/plugins/spu/libmosaic_plugin.so 866c129da0afa954690ac3933c2fc302 1548390258
+obj /usr/lib64/vlc/plugins/spu/libmarq_plugin.so c05520220b234e65c26468b72c3459d3 1548390258
+obj /usr/lib64/vlc/plugins/spu/liblogo_plugin.so 791f614bb06889d50b704bacc435010f 1548390258
+obj /usr/lib64/vlc/plugins/spu/libaudiobargraph_v_plugin.so b97ac17208bf2b66d754f75e800ab25c 1548390258
+obj /usr/lib64/vlc/plugins/spu/libsubsdelay_plugin.so a75368f1ab96ae147fe367872801d5d2 1548390258
+dir /usr/lib64/vlc/plugins/video_splitter
+obj /usr/lib64/vlc/plugins/video_splitter/libpanoramix_plugin.so 289c32ccbefd251c030a4a2141638f22 1548390258
+obj /usr/lib64/vlc/plugins/video_splitter/libwall_plugin.so 0de71a55ebb2b2d0f6b1245866646d8f 1548390258
+obj /usr/lib64/vlc/plugins/video_splitter/libclone_plugin.so 247fb63f688170fe77224a441f96a327 1548390258
+dir /usr/lib64/vlc/plugins/stream_out
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_rtp_plugin.so 2f8b6dda3527f5fd7bb579ea6789b79b 1548390259
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_transcode_plugin.so 063b4323907ba8c870b8b2266dcf5c7b 1548390259
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_setid_plugin.so fbb89191ad7f0935470890fd591e18ff 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_smem_plugin.so 3ccccbe1c45d10933b73febc99f841cf 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_record_plugin.so 5667510ff2c60a7e159c9452c4df9411 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_autodel_plugin.so bf4155f37ac5b02ee34c02da26717460 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_mosaic_bridge_plugin.so 9c7763596a2768b5dda9534776b21b5e 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_bridge_plugin.so 80f71f9869b61f179d5fae73485fac4e 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_gather_plugin.so 2a8a4c33a47235ceb4b38295fc11ce49 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_display_plugin.so 824715786124e80992361428ac970e41 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_es_plugin.so b49506ddab27d8019f8cfaf88446c0de 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_duplicate_plugin.so 3bdf7cf158334e9b67a36994defb74b0 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_standard_plugin.so b7947906bf8a860c65c459935d531c1a 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_description_plugin.so 7c0fbe491d25406ecde8d47103ba3d9b 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_stats_plugin.so 99e178d1836bf38e1224b8b7f01333fd 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_delay_plugin.so 320a25cf609fdfddd425af53e8158215 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_cycle_plugin.so 8d01876145f9bff060ae5e69558c9c0e 1548390258
+obj /usr/lib64/vlc/plugins/stream_out/libstream_out_dummy_plugin.so ff15b0c7609019da907b7694ae622ce3 1548390258
+dir /usr/lib64/vlc/plugins/services_discovery
+obj /usr/lib64/vlc/plugins/services_discovery/libxcb_apps_plugin.so e39c6b26bc33915097a65c0225e3a9e7 1548390258
+obj /usr/lib64/vlc/plugins/services_discovery/libsap_plugin.so 86ee299fd6ed261147d54345a74808d0 1548390258
+obj /usr/lib64/vlc/plugins/services_discovery/libpodcast_plugin.so d8ce506b8e461bda8da004c384456c7e 1548390258
+obj /usr/lib64/vlc/plugins/services_discovery/libmediadirs_plugin.so fbe9e74af40c8f7cfecd7442311ad7e6 1548390258
+dir /usr/lib64/vlc/plugins/packetizer
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_avparser_plugin.so 5150571b5722f8b1952975fba55a9efb 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_dts_plugin.so 878527063bc47bea147165946d4c2af7 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_a52_plugin.so 171559ef3d8d10b6bb1613482631e09d 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_copy_plugin.so 5fc6c3e0d4a9c01df3e2e2255f8b73e0 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_hevc_plugin.so 5e4a71d72be37ec48c5434fd716978fc 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_flac_plugin.so 8e2d57f365139670e2727220da9d30f8 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_dirac_plugin.so 41c90548af58bb148633928f717846c4 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_mlp_plugin.so 523c5d95d5b01f0c499d9f936a8777ea 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_vc1_plugin.so a67061d2e4b6b0a7aa165ccf7ee531c1 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_h264_plugin.so 02e246542f4cfe48b9c7506c366448dd 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_mpegaudio_plugin.so 3c070cbd87c7a313d82d66fbbd4292b9 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_mpeg4audio_plugin.so 0e82e63e6dcd4ebf50f90722b4ffeeb4 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_mpeg4video_plugin.so c0610ba82bb4e4794300c954187ec54f 1548390258
+obj /usr/lib64/vlc/plugins/packetizer/libpacketizer_mpegvideo_plugin.so 15fcb3f7721d3696a4362bd48c9cb231 1548390258
+dir /usr/lib64/vlc/plugins/mux
+obj /usr/lib64/vlc/plugins/mux/libmux_ts_plugin.so 070509578d8951295de4100b960ca11a 1548390258
+obj /usr/lib64/vlc/plugins/mux/libmux_ogg_plugin.so 8566b3f32843f1c29256f3ec7d928405 1548390258
+obj /usr/lib64/vlc/plugins/mux/libmux_wav_plugin.so 3fb955a2af8306f39f8fd145082f59a7 1548390258
+obj /usr/lib64/vlc/plugins/mux/libmux_ps_plugin.so 19df4d88c01443dc84cdf1e3bda0615d 1548390258
+obj /usr/lib64/vlc/plugins/mux/libmux_mpjpeg_plugin.so 09e045a83c7205763de28c6c3b0fb4f3 1548390258
+obj /usr/lib64/vlc/plugins/mux/libmux_mp4_plugin.so e4be93c31c2f7d63302094ace5c5b4ac 1548390258
+obj /usr/lib64/vlc/plugins/mux/libmux_avi_plugin.so 8b1ae61510a0fb4c070755540d183312 1548390258
+obj /usr/lib64/vlc/plugins/mux/libmux_asf_plugin.so 6c3d84e2771cc0b6375ab31f61caff87 1548390258
+obj /usr/lib64/vlc/plugins/mux/libmux_dummy_plugin.so 776ce4f04e5b041f366e3e1a195112b8 1548390257
+dir /usr/lib64/vlc/plugins/misc
+obj /usr/lib64/vlc/plugins/misc/libvod_rtsp_plugin.so a264bc01731236c041ac25bc1e97aea5 1548390258
+obj /usr/lib64/vlc/plugins/misc/libaddonsfsstorage_plugin.so 469d05ea30f699b18bbf3f69d80951ab 1548390258
+obj /usr/lib64/vlc/plugins/misc/libaddonsvorepository_plugin.so eb7957f9109a208b54d66268976422f3 1548390258
+obj /usr/lib64/vlc/plugins/misc/libdbus_screensaver_plugin.so bf2e3f0b708178b8f5afd279f33fe5dd 1548390258
+obj /usr/lib64/vlc/plugins/misc/libxdg_screensaver_plugin.so 2061644579f251196b5dbb1125c2ca2e 1548390258
+obj /usr/lib64/vlc/plugins/misc/libgnutls_plugin.so ca2c489492115a5e617e9a4430548f54 1548390258
+obj /usr/lib64/vlc/plugins/misc/libfingerprinter_plugin.so 25d809ae333c3d2c1ef6e68ec9c7eb59 1548390258
+obj /usr/lib64/vlc/plugins/misc/libexport_plugin.so 4adbd06da1daf2a07724ec5b748437be 1548390258
+obj /usr/lib64/vlc/plugins/misc/libaudioscrobbler_plugin.so 57bedaa7be4d233c4d7ade29e331ef0a 1548390258
+obj /usr/lib64/vlc/plugins/misc/libstats_plugin.so d4d3962e3744c109aff4972b1f21aa9c 1548390258
+obj /usr/lib64/vlc/plugins/misc/liblogger_plugin.so e462a6d06404ef6403dfd12a6bab6da3 1548390257
+dir /usr/lib64/vlc/plugins/meta_engine
+obj /usr/lib64/vlc/plugins/meta_engine/libfolder_plugin.so 489392fe1d2768438576e611fc1d6030 1548390257
+dir /usr/lib64/vlc/plugins/logger
+obj /usr/lib64/vlc/plugins/logger/libsyslog_plugin.so 94dee91e3f7e3ebad629a0f1f7cb75d8 1548390257
+obj /usr/lib64/vlc/plugins/logger/libfile_logger_plugin.so 71649cfc1840e1730819892ddd06a5aa 1548390257
+obj /usr/lib64/vlc/plugins/logger/libconsole_logger_plugin.so 863031090a178ed421d1666f7c574cb7 1548390257
+dir /usr/lib64/vlc/plugins/keystore
+obj /usr/lib64/vlc/plugins/keystore/libkwallet_plugin.so 916b98b6a5560e94612a88a67d322d71 1548390257
+obj /usr/lib64/vlc/plugins/keystore/libfile_keystore_plugin.so 4fc86573483106f463a16a447820d12e 1548390257
+obj /usr/lib64/vlc/plugins/keystore/libmemory_keystore_plugin.so 625df0402513ee34d80d26f1c4e459c9 1548390257
+dir /usr/lib64/vlc/plugins/gui
+obj /usr/lib64/vlc/plugins/gui/libqt_plugin.so df007da0a3f72a5551df77fe849937e0 1548390257
+obj /usr/lib64/vlc/plugins/gui/libncurses_plugin.so 9171f2758417d1ecc62f8a143b2ff5ea 1548390257
+dir /usr/lib64/vlc/plugins/demux
+obj /usr/lib64/vlc/plugins/demux/libnoseek_plugin.so e576bfdcd8125ed99e38bb7521a333d8 1548390259
+obj /usr/lib64/vlc/plugins/demux/libadaptive_plugin.so bd5c22666573f7e4aa94459b08c012df 1548390259
+obj /usr/lib64/vlc/plugins/demux/libts_plugin.so 5bdf42ca5e4114f9bbc0ca43aefb0231 1548390259
+obj /usr/lib64/vlc/plugins/demux/libplaylist_plugin.so 54211d17fa82d2374f2bc33dcaca0fd0 1548390259
+obj /usr/lib64/vlc/plugins/demux/libmpgv_plugin.so 39c6051064b772b664896787f6c1ebf3 1548390258
+obj /usr/lib64/vlc/plugins/demux/libmp4_plugin.so 4b3e1ae45f62f849fd9cfb7b14f60aae 1548390258
+obj /usr/lib64/vlc/plugins/demux/libh26x_plugin.so 6dd2ac8bddee050a52ac2f2982c63b38 1548390258
+obj /usr/lib64/vlc/plugins/demux/libes_plugin.so 291946305ff706e62da83310087cc59e 1548390258
+obj /usr/lib64/vlc/plugins/demux/libdirectory_demux_plugin.so 112ed5a49dfdd4cd43a8cc829a036e5a 1548390258
+obj /usr/lib64/vlc/plugins/demux/libavformat_plugin.so fb88b429ed789e9ec46c732d497023bf 1548390258
+obj /usr/lib64/vlc/plugins/demux/libcaf_plugin.so e1b174c49e0c3d1979a808528cb4291a 1548390258
+obj /usr/lib64/vlc/plugins/demux/libavi_plugin.so 38d9d4f7d690dc875421c0a1a6d33cab 1548390258
+obj /usr/lib64/vlc/plugins/demux/libasf_plugin.so 512e124584f17dd87edf9667cf5116c9 1548390258
+obj /usr/lib64/vlc/plugins/demux/libdemux_stl_plugin.so 6cd9a61748ed065a568e932022ef06d2 1548390258
+obj /usr/lib64/vlc/plugins/demux/libimage_plugin.so 615f107f7393f7e31441aff9fffce0b7 1548390258
+obj /usr/lib64/vlc/plugins/demux/libdiracsys_plugin.so 7efa98984675e1d5d4f791b65853e6bc 1548390258
+obj /usr/lib64/vlc/plugins/demux/libsmf_plugin.so a0999df87904297a03c9d93876b76b1a 1548390258
+obj /usr/lib64/vlc/plugins/demux/libdemux_cdg_plugin.so 392bad31f13320aeaad30926ceb54470 1548390258
+obj /usr/lib64/vlc/plugins/demux/libvc1_plugin.so 0e6b73ec0c2c0882c513010184d1cabc 1548390258
+obj /usr/lib64/vlc/plugins/demux/libtta_plugin.so 56233321b7d6105959f65647dc114396 1548390258
+obj /usr/lib64/vlc/plugins/demux/libnsc_plugin.so ef53e9c9835d8978cd9cd875728c9520 1548390258
+obj /usr/lib64/vlc/plugins/demux/libnuv_plugin.so e52df0d78969820abeaba843dc55f4bf 1548390258
+obj /usr/lib64/vlc/plugins/demux/libxa_plugin.so 12ead4b6ba85157dd2ae0d0c2b8175b5 1548390258
+obj /usr/lib64/vlc/plugins/demux/libvoc_plugin.so e0eb42758bef523f49ff6ee0d5075c3f 1548390258
+obj /usr/lib64/vlc/plugins/demux/libvobsub_plugin.so 2ee0f68ae261d681bec08b0434245d26 1548390258
+obj /usr/lib64/vlc/plugins/demux/libty_plugin.so bf1708bd015c9787037aee803432849d 1548390258
+obj /usr/lib64/vlc/plugins/demux/libsubtitle_plugin.so 25b30fb12496e313413ea44c35723450 1548390258
+obj /usr/lib64/vlc/plugins/demux/libmjpeg_plugin.so 38f35e91fb9e465b4600bc0c82e49da8 1548390258
+obj /usr/lib64/vlc/plugins/demux/libaiff_plugin.so af0ca67adf8ef26e0f72d89e22ab62de 1548390258
+obj /usr/lib64/vlc/plugins/demux/libpva_plugin.so 3924c6c8c27d9dc42698c47d5351cfb9 1548390258
+obj /usr/lib64/vlc/plugins/demux/libps_plugin.so 07e93c6f9ee8610093f837ae97a6a615 1548390257
+obj /usr/lib64/vlc/plugins/demux/libreal_plugin.so c14dbc3a901d37f0d3ce04b30a629149 1548390257
+obj /usr/lib64/vlc/plugins/demux/libnsv_plugin.so fb5809f92c2352b92155d1846de237b9 1548390257
+obj /usr/lib64/vlc/plugins/demux/libwav_plugin.so 48c1813a7b9023520cff6f8212ba0cf6 1548390257
+obj /usr/lib64/vlc/plugins/demux/librawaud_plugin.so 93553b509dcc2750e6bc62a2c958caf1 1548390257
+obj /usr/lib64/vlc/plugins/demux/libau_plugin.so 80a0b8da53c3acbdf496bca21555c0f0 1548390257
+obj /usr/lib64/vlc/plugins/demux/librawvid_plugin.so 429cbe0b35c2c91be5e866f54fa5a377 1548390257
+obj /usr/lib64/vlc/plugins/demux/librawdv_plugin.so 80d837dcb9946b28dd2732bca0e8c49e 1548390257
+obj /usr/lib64/vlc/plugins/demux/libdemuxdump_plugin.so 8a9e9e40fea3298460d14173e95a8702 1548390257
+obj /usr/lib64/vlc/plugins/demux/libogg_plugin.so e91fcb2f14896e0bc9ef27039e6983e4 1548390257
+obj /usr/lib64/vlc/plugins/demux/libflacsys_plugin.so 2c33263390bf81e443abdc8d15c80550 1548390257
+dir /usr/lib64/vlc/plugins/control
+obj /usr/lib64/vlc/plugins/control/libxcb_hotkeys_plugin.so dec3f60d4c2aaba0a68e5b877673960d 1548390257
+obj /usr/lib64/vlc/plugins/control/libdbus_plugin.so 08e93fb2d775a64d9f26b6212caf5e22 1548390257
+obj /usr/lib64/vlc/plugins/control/libmotion_plugin.so 427da4d54ec234b0e9d73d155b0dde9e 1548390257
+obj /usr/lib64/vlc/plugins/control/liboldrc_plugin.so 362c5a154a6da5b4782d97bb882248cf 1548390257
+obj /usr/lib64/vlc/plugins/control/libnetsync_plugin.so 39a8f90de9f6b9205b88dd1680867665 1548390257
+obj /usr/lib64/vlc/plugins/control/libhotkeys_plugin.so decd09c8b2bc2a54e7964d4bbdd3b05c 1548390257
+obj /usr/lib64/vlc/plugins/control/libgestures_plugin.so 5a248676c03630277234d82cc5a4ddc1 1548390257
+obj /usr/lib64/vlc/plugins/control/libdummy_plugin.so 44059382d8aa96b5214db40a5a1b23f7 1548390257
+dir /usr/lib64/vlc/plugins/codec
+obj /usr/lib64/vlc/plugins/codec/libavcodec_plugin.so 36ca292aae2b35eb094cf6dc15e1812a 1548390258
+obj /usr/lib64/vlc/plugins/codec/liboggspots_plugin.so 76fcdaf2cce8d25af0cf14c3ff6d5708 1548390257
+obj /usr/lib64/vlc/plugins/codec/libvorbis_plugin.so 0513d10d93b431232860656d8f0562c9 1548390257
+obj /usr/lib64/vlc/plugins/codec/libsubstx3g_plugin.so 8093a11450077e6f27a4bf726d5c1abd 1548390257
+obj /usr/lib64/vlc/plugins/codec/libtextst_plugin.so 512ca709f3171749e2dd6f8579744cce 1548390257
+obj /usr/lib64/vlc/plugins/codec/libtelx_plugin.so 076e50ecc9ad0d8afa41401e90d8aa88 1548390257
+obj /usr/lib64/vlc/plugins/codec/libt140_plugin.so 09b592dec1aba8caeed49bcf8334c797 1548390257
+obj /usr/lib64/vlc/plugins/codec/libsvcdsub_plugin.so 87549e25c4662b155e01df20ba519bb6 1548390257
+obj /usr/lib64/vlc/plugins/codec/libwebvtt_plugin.so f086e866ad03aa87b5efed312671fe0b 1548390257
+obj /usr/lib64/vlc/plugins/codec/libttml_plugin.so 90b68dcd3011f5968cc70367f2fbf4ac 1548390257
+obj /usr/lib64/vlc/plugins/codec/libsubsusf_plugin.so 38191759432184dad6de57d5b0566753 1548390257
+obj /usr/lib64/vlc/plugins/codec/libsubsdec_plugin.so 4600e4d5663f23ab89326bf6a5399f8d 1548390257
+obj /usr/lib64/vlc/plugins/codec/libstl_plugin.so 06b68753c413c807af78ad0f3987beb8 1548390257
+obj /usr/lib64/vlc/plugins/codec/libspudec_plugin.so f615db32307054d77b470037b58a8824 1548390257
+obj /usr/lib64/vlc/plugins/codec/libscte27_plugin.so 914abc561908016e71e499715e7284fe 1548390257
+obj /usr/lib64/vlc/plugins/codec/libscte18_plugin.so 7f48ab6002d4eb8f0e68f0b0cf11a389 1548390257
+obj /usr/lib64/vlc/plugins/codec/libdvbsub_plugin.so 77f5d82c41d938e3f1e3847c051930bf 1548390257
+obj /usr/lib64/vlc/plugins/codec/libcvdsub_plugin.so bb3b293f0d783ba57aecc0d075339470 1548390257
+obj /usr/lib64/vlc/plugins/codec/libcc_plugin.so df7a0154baaec06486c3d44f7acf666c 1548390257
+obj /usr/lib64/vlc/plugins/codec/libxwd_plugin.so 3ae22edb3e863d8fc248ca5e4a68de74 1548390257
+obj /usr/lib64/vlc/plugins/codec/librtpvideo_plugin.so 3651876eebd74a585b440446768b1f28 1548390257
+obj /usr/lib64/vlc/plugins/codec/librawvideo_plugin.so 9d0624f740c1ba57fb2062fc3a0be030 1548390257
+obj /usr/lib64/vlc/plugins/codec/libcdg_plugin.so 455f0114011ea98ae2b62004c074e3c3 1548390257
+obj /usr/lib64/vlc/plugins/codec/libuleaddvaudio_plugin.so f8a375aa1e5f8b246c3c7fd015eaed31 1548390257
+obj /usr/lib64/vlc/plugins/codec/liblpcm_plugin.so a2aba3431812bd1fade8e57f9ce134fa 1548390257
+obj /usr/lib64/vlc/plugins/codec/libg711_plugin.so ae981ec975112b8a61409341c9149340 1548390257
+obj /usr/lib64/vlc/plugins/codec/libaraw_plugin.so 6185c3f44645b1eedd3aebafa2800fde 1548390257
+obj /usr/lib64/vlc/plugins/codec/libaes3_plugin.so 0cb0be8135a06b901fc9a62e1dc97805 1548390257
+obj /usr/lib64/vlc/plugins/codec/libadpcm_plugin.so 1e11432cc10fe0489967a10dd28fab94 1548390257
+obj /usr/lib64/vlc/plugins/codec/libspdif_plugin.so 8a8d1d5684bb9cf82c702745291233f3 1548390257
+obj /usr/lib64/vlc/plugins/codec/libedummy_plugin.so 786d475ef5c363b5f24a341bd8e6ca6a 1548390256
+obj /usr/lib64/vlc/plugins/codec/libddummy_plugin.so d4a44d1b0d39c7132cd17c0e3e49915b 1548390256
+dir /usr/lib64/vlc/plugins/video_chroma
+obj /usr/lib64/vlc/plugins/video_chroma/libi422_yuy2_sse2_plugin.so e94551fb2aff98b32afa5df3ecc9ffed 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi420_yuy2_sse2_plugin.so 680c33645d11aec7237270cd229ca53d 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi420_rgb_sse2_plugin.so 3413a971def8a63973cdff81ae4ada9f 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi422_yuy2_mmx_plugin.so b609ca71f3a02550adf64dc475fc6291 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi420_yuy2_mmx_plugin.so 9a10815fb4db04c0e5b6937ab14410b0 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi420_rgb_mmx_plugin.so 8faa8e554246e3422d8bc00e5f95b3a2 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libswscale_plugin.so c67fa5a7e3e0fb56523767ca235ca197 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libyuvp_plugin.so dd33ac868685d7a901d28cb86423c602 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libchain_plugin.so 82c3d3f743fda4e24f393173c86fd5d9 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/librv32_plugin.so ec36bdbcca82d328f6acbccc1df690de 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libyuy2_i422_plugin.so 1ac3db58865427a5834501fd73d38bbe 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libyuy2_i420_plugin.so f00edc056566b795681d9dfe98bb309b 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libgrey_yuv_plugin.so 9e3e86ea66f2ec8467a10dfcf5aed3e1 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi422_yuy2_plugin.so 01a3450f3f116379df07506d3eae15f3 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi422_i420_plugin.so b69ef03a81ee6c1b6903dbc5326ce00c 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi420_10_p010_plugin.so 184300bc6a5edbdac1966197bf6838c9 1548390257
+obj /usr/lib64/vlc/plugins/video_chroma/libi420_nv12_plugin.so e2450ff4ee460a4108cadb6f4d3a3e1d 1548390256
+obj /usr/lib64/vlc/plugins/video_chroma/libi420_yuy2_plugin.so c213e542d8dc4f5d0d9a8c48b9ddfc5c 1548390256
+obj /usr/lib64/vlc/plugins/video_chroma/libi420_rgb_plugin.so 1211c560197fb9319f4fe39bca7e0fba 1548390256
+dir /usr/lib64/vlc/plugins/audio_mixer
+obj /usr/lib64/vlc/plugins/audio_mixer/libinteger_mixer_plugin.so f09c76f5d8ebaa2a89b182930d7b586f 1548390256
+obj /usr/lib64/vlc/plugins/audio_mixer/libfloat_mixer_plugin.so 1106e106f1a7d526bea9b32b7cbf16d4 1548390256
+dir /usr/lib64/vlc/plugins/audio_filter
+obj /usr/lib64/vlc/plugins/audio_filter/libugly_resampler_plugin.so b24263dcaf3c4e781d8fc3176b75e1dc 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libsamplerate_plugin.so a3a5d73ba503a6f590c19eb4cadcf238 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libaudio_format_plugin.so 1cd133f68ae11c8c57f598b284d8eb16 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libtospdif_plugin.so c9117fd07f2b0aa03b4318c7a5f3668a 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libtrivial_channel_mixer_plugin.so 7e45e6aa7b5726a8de85c41bde01e896 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libsimple_channel_mixer_plugin.so eec997eb64b5f815ec73831ae80ad69f 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libremap_plugin.so f4c09b77f006188fbacde82622ae4129 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libmono_plugin.so 4c198d083939c8eaac96823217c6558f 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libheadphone_channel_mixer_plugin.so e451ba61b8dfcba2ab4869e2c680f11a 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libdolby_surround_decoder_plugin.so 73ef0d4d86b6e3456925745b486818ae 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libstereo_widen_plugin.so 4ed84bccfde8a97fe642f5d80ba85acd 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libspatializer_plugin.so 2d4e9117f708cadb9862c78b35b10ebd 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libscaletempo_pitch_plugin.so 723a20dd603b394f0e312ac3bbb56127 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libscaletempo_plugin.so be985d10c2b803d7a3f1554f3b8b5e10 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libparam_eq_plugin.so 3d0ebfbf31144eaef112305723bd613d 1548390257
+obj /usr/lib64/vlc/plugins/audio_filter/libgain_plugin.so 012db1c8441772d3a2686a21e45f2673 1548390256
+obj /usr/lib64/vlc/plugins/audio_filter/libnormvol_plugin.so e4065cb0c5080bf60387941c14010b46 1548390256
+obj /usr/lib64/vlc/plugins/audio_filter/libkaraoke_plugin.so d107f04f779b8331501e4fb03900c7e3 1548390256
+obj /usr/lib64/vlc/plugins/audio_filter/libequalizer_plugin.so 6b5f8d77e2d03c04c127aa6b9d4c13c0 1548390256
+obj /usr/lib64/vlc/plugins/audio_filter/libcompressor_plugin.so 68dd5dacb0366aaa0d3991d21eb563d4 1548390256
+obj /usr/lib64/vlc/plugins/audio_filter/libchorus_flanger_plugin.so e7a1f9d67856269a0173e9d412fc5f05 1548390256
+obj /usr/lib64/vlc/plugins/audio_filter/libaudiobargraph_a_plugin.so cc8cac19fa0a20ac38092cc7c0d7a6e1 1548390256
+dir /usr/lib64/vlc/plugins/access_output
+obj /usr/lib64/vlc/plugins/access_output/libaccess_output_livehttp_plugin.so 0aa1be3cd3e7a57adfbc8726dc0bc4d9 1548390256
+obj /usr/lib64/vlc/plugins/access_output/libaccess_output_udp_plugin.so 4cf26d43044e393ba14a305b96cd0d9c 1548390256
+obj /usr/lib64/vlc/plugins/access_output/libaccess_output_http_plugin.so 87c016969dc9c260754ec98a19b8a4e6 1548390256
+obj /usr/lib64/vlc/plugins/access_output/libaccess_output_file_plugin.so 617eb004a179ade9d077bb59c615f114 1548390256
+obj /usr/lib64/vlc/plugins/access_output/libaccess_output_dummy_plugin.so 51643444f2e8184de944dacca74c1956 1548390256
+dir /usr/lib64/vlc/plugins/audio_output
+obj /usr/lib64/vlc/plugins/audio_output/libamem_plugin.so 7f6897c5b72abd956a5f2e32e7419815 1548390256
+obj /usr/lib64/vlc/plugins/audio_output/libafile_plugin.so f3a758005f0eccf1d44df2bc4846ff4e 1548390256
+obj /usr/lib64/vlc/plugins/audio_output/libadummy_plugin.so c2e91fdc673d1e33301b6330c54e5891 1548390256
+dir /usr/lib64/vlc/plugins/access
+obj /usr/lib64/vlc/plugins/access/librtp_plugin.so 2ee2da2ff7898d3322f1529f363242b1 1548390257
+obj /usr/lib64/vlc/plugins/access/libhttps_plugin.so c4f59bee2e59c6410bd71e63bb74b9c4 1548390257
+obj /usr/lib64/vlc/plugins/access/libaccess_concat_plugin.so 843082d1393fcb8c65efeef380a23689 1548390257
+obj /usr/lib64/vlc/plugins/access/libsatip_plugin.so adb953f39aa3e3cf19709a369e50d4dd 1548390257
+obj /usr/lib64/vlc/plugins/access/libavio_plugin.so 05f10c00427d9112d144da98625cc8cb 1548390257
+obj /usr/lib64/vlc/plugins/access/libudp_plugin.so 0a27dcc99d57a0168683709a82a4822e 1548390257
+obj /usr/lib64/vlc/plugins/access/libtcp_plugin.so df22d9527278169ef0565d0a029f4bba 1548390257
+obj /usr/lib64/vlc/plugins/access/libaccess_mms_plugin.so 234c2ad0b165de63b4b0c99f6e020204 1548390257
+obj /usr/lib64/vlc/plugins/access/libhttp_plugin.so 4725879bf340090ab3b2f6e6a9422823 1548390257
+obj /usr/lib64/vlc/plugins/access/libftp_plugin.so 09767ab53ac34d2817863e051cb7a4ba 1548390257
+obj /usr/lib64/vlc/plugins/access/libdvb_plugin.so ddee55b9943c583eea5b2bd59b8b3b2d 1548390257
+obj /usr/lib64/vlc/plugins/access/libdtv_plugin.so ededde4a41e5952294a22a496a95363e 1548390257
+obj /usr/lib64/vlc/plugins/access/libvcd_plugin.so 2a6ad4047e02ef8535417dfe056483d8 1548390257
+obj /usr/lib64/vlc/plugins/access/libcdda_plugin.so 7a32c5e1ad1e87c678d44e24843accbc 1548390257
+obj /usr/lib64/vlc/plugins/access/libxcb_screen_plugin.so 5982e28deed690f9b59ea5578b7bc7fc 1548390257
+obj /usr/lib64/vlc/plugins/access/libshm_plugin.so f917d94e873452de6ec3bba82549d13b 1548390257
+obj /usr/lib64/vlc/plugins/access/libvdr_plugin.so dc1fbba03245050b2fb4f6976b8fa020 1548390256
+obj /usr/lib64/vlc/plugins/access/libtimecode_plugin.so a6a8fe557575efc863e8ad0c2b9428ea 1548390256
+obj /usr/lib64/vlc/plugins/access/libsdp_plugin.so 95cd0d4f423eb39901f265b5b7a9ae8d 1548390256
+obj /usr/lib64/vlc/plugins/access/libaccess_imem_plugin.so 0bdc901d9161f1e51c9a6e04bf96a16e 1548390256
+obj /usr/lib64/vlc/plugins/access/libimem_plugin.so 61375ea346f18f135dfc93760d556e4a 1548390256
+obj /usr/lib64/vlc/plugins/access/libidummy_plugin.so 1078831c820c0ebf1b42e4ae2b769a9e 1548390256
+obj /usr/lib64/vlc/plugins/access/libfilesystem_plugin.so 6fdd00f7f39b9938e3dead53a70955d2 1548390256
+obj /usr/lib64/vlc/plugins/access/libattachment_plugin.so 68e91235778fddfdb8017a741378a100 1548390256

@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xwininfo b7a58d743dceef0318d17af08b697cc4 1545800615
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xwininfo-1.1.4
+obj /usr/share/doc/xwininfo-1.1.4/ChangeLog.bz2 b60d5439bf189bd163082b62b2d8c476 1545800614
+obj /usr/share/doc/xwininfo-1.1.4/README.bz2 3b35fa73e0cc35142bb4ede0dc7d7afe 1545800614
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xwininfo.1.bz2 a900d120597e6dfbd56dfebad42d0076 1545800613

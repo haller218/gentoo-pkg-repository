@@ -1,0 +1,7 @@
+dir /usr
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/reswrap.1.bz2 8fb2add4d3c07e391f3c99418fdcd4d7 1548471160
+dir /usr/bin
+obj /usr/bin/reswrap 5855f488508e14b664d49f7e941ce449 1548471161

@@ -1,0 +1,40 @@
+dir /lib
+dir /lib/systemd
+dir /lib/systemd/system
+obj /lib/systemd/system/wpa_supplicant-wired@.service e07acdcf5a7b4d5b2b5deadccc6ac1b0 1545743632
+obj /lib/systemd/system/wpa_supplicant-nl80211@.service 947836d46b75fc3fa2cf5d18d494cff3 1545743632
+obj /lib/systemd/system/wpa_supplicant@.service 7aeef5a962e5b21cbebe6390b35d3366 1545743632
+dir /etc
+dir /etc/wpa_supplicant
+obj /etc/wpa_supplicant/wpa_cli.sh b8d6208c094ce7260f70d00df2e2cf22 1545743632
+dir /etc/conf.d
+obj /etc/conf.d/wpa_supplicant 0ee6f3a41ea8376ff43d5f057c4c5404 1545743632
+dir /etc/init.d
+obj /etc/init.d/wpa_supplicant 81e607b82ff5965f9ea6c004ea7287c2 1545743632
+dir /usr
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/wpa_supplicant.8.bz2 cf3fc723ca9fc1170b941b6f3dda5014 1545743632
+obj /usr/share/man/man8/wpa_priv.8.bz2 c73a6dc5cfe86acc28fb4ee63656b04c 1545743632
+obj /usr/share/man/man8/wpa_passphrase.8.bz2 c00a92efa5c79bc40efc0a398b6b43b1 1545743632
+obj /usr/share/man/man8/wpa_cli.8.bz2 8f1b625f261925d0971ec95c66bb2851 1545743632
+obj /usr/share/man/man8/wpa_background.8.bz2 e579dd507dc9ff86c0b977581979fc49 1545743632
+obj /usr/share/man/man8/eapol_test.8.bz2 f2aed5ae325798fe570b7f5d64b78350 1545743632
+dir /usr/share/man/man5
+obj /usr/share/man/man5/wpa_supplicant.conf.5.bz2 cb10591909fbab29b7bda8c5ae205884 1545743632
+dir /usr/share/doc
+dir /usr/share/doc/wpa_supplicant-2.6-r10
+obj /usr/share/doc/wpa_supplicant-2.6-r10/build-config.bz2 bd6917b4772b29a8f8672da43e5e0c60 1545743632
+obj /usr/share/doc/wpa_supplicant-2.6-r10/wpa_supplicant.conf.bz2 c1fa4953c00994d9e51eb87f9a839ba5 1545743632
+obj /usr/share/doc/wpa_supplicant-2.6-r10/README-WPS.bz2 d2d88aa9fc3c2edc98592dd004cf7fbe 1545743632
+obj /usr/share/doc/wpa_supplicant-2.6-r10/README.bz2 febdfa9a68db1baf163d62d4bed94ed0 1545743632
+obj /usr/share/doc/wpa_supplicant-2.6-r10/todo.txt.bz2 ad20ada645b8d8c24f91da1c4b0594e8 1545743632
+obj /usr/share/doc/wpa_supplicant-2.6-r10/eap_testing.txt.bz2 7f347aa10332e119c26bdffe94e2aa69 1545743632
+obj /usr/share/doc/wpa_supplicant-2.6-r10/ChangeLog.bz2 a45c83afdb96e3cca2f79190db7c420a 1545743632
+obj /usr/share/doc/wpa_supplicant-2.6-r10/README.gentoo.bz2 d7b6af5b1b63976bf70b46162e0b557e 1545743632
+dir /usr/bin
+obj /usr/bin/wpa_passphrase f57c25d7440cf2b973adc70700e6cec1 1545743633
+obj /usr/bin/wpa_cli 341b1203545352d234beb4371881aacd 1545743633
+dir /usr/sbin
+obj /usr/sbin/wpa_supplicant 4534c70b7804c46efd8411717c2c5a2c 1545743633

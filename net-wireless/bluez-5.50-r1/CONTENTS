@@ -1,0 +1,78 @@
+dir /var
+dir /var/lib
+dir /var/lib/bluetooth
+obj /var/lib/bluetooth/.keep_net-wireless_bluez-0 d41d8cd98f00b204e9800998ecf8427e 1548532535
+dir /lib
+dir /lib/udev
+obj /lib/udev/hid2hci a4cb002a6537eda9f2ef0bad0f9a7d82 1548532537
+dir /lib/udev/rules.d
+obj /lib/udev/rules.d/97-hid2hci.rules 1e4a3f3823e26d0cf25eedb8875cda01 1548532534
+dir /etc
+dir /etc/init.d
+obj /etc/init.d/bluetooth 4b2a4e6c3cd3fed451e257b8e8b8608c 1548532535
+dir /etc/bluetooth
+obj /etc/bluetooth/main.conf d7e9768fd6f70e9d8c13cd4faa82b1cf 1548532535
+obj /etc/bluetooth/network.conf 0c7497c405b963382ff71789d0730abd 1548532535
+obj /etc/bluetooth/input.conf 9f85017f861ac34d983fa76fa715f9c3 1548532535
+dir /etc/dbus-1
+dir /etc/dbus-1/system.d
+obj /etc/dbus-1/system.d/bluetooth.conf fd2ff20e8d3c71a3c200c1edc93f1b6f 1548532534
+dir /usr
+dir /usr/bin
+obj /usr/bin/btattach 42d71733f9f8912b84a4db441679856a 1548532537
+obj /usr/bin/hex2hcd 05920c3ce0649ea7837fa40946582e90 1548532537
+obj /usr/bin/mpris-proxy 54747d251a8a0cd9316cdab7e9ec7c67 1548532537
+obj /usr/bin/bluemoon 7cb30e0c48bb75d4d93818327c3ef95b 1548532537
+obj /usr/bin/bccmd 18f3df30820c7266d0421e52445ae513 1548532537
+obj /usr/bin/l2ping eccfa00d9f9487d55a4530e15d691c45 1548532537
+obj /usr/bin/l2test 6577ae2f49d51750efe6810bd7589f3c 1548532537
+obj /usr/bin/rctest bee64d132ecb3ebfc8aa045d90920da7 1548532537
+obj /usr/bin/btmon 6ea0504160a6027b9fb7d1bd5e6a46c0 1548532537
+obj /usr/bin/meshctl a4de167fd406705aa83ea1c6e341e72c 1548532537
+obj /usr/bin/bluetoothctl a2751479a6c9964efdfdf3e048078108 1548532537
+dir /usr/include
+dir /usr/include/bluetooth
+obj /usr/include/bluetooth/hidp.h 3c0d932234ffe3ea9ca699a54572518b 1548532534
+obj /usr/include/bluetooth/cmtp.h 6c57557977d030fb29c2024cf35d6bed 1548532534
+obj /usr/include/bluetooth/bnep.h e64af5abefec457ec50e2eac654814e8 1548532534
+obj /usr/include/bluetooth/rfcomm.h 0abcd0f80bc37d41453ac935049c73d6 1548532534
+obj /usr/include/bluetooth/sdp_lib.h a4394de137f34c152e6831be56d40f13 1548532534
+obj /usr/include/bluetooth/sdp.h 23edf552f2c12cd9a421015939491770 1548532534
+obj /usr/include/bluetooth/l2cap.h 98e9767696924cce1282798a061eae84 1548532534
+obj /usr/include/bluetooth/sco.h dd6fac08fed5247be6f616cacf0a5288 1548532534
+obj /usr/include/bluetooth/hci_lib.h 6a33a1fe9ea7218ed5820df5d1fbc8f4 1548532534
+obj /usr/include/bluetooth/hci.h 891552439f0c1690b2aa915c9e76cf6c 1548532534
+obj /usr/include/bluetooth/bluetooth.h 360bf949036b7a1355e12b7c9c45af0e 1548532534
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/bluez-5.50-r1
+obj /usr/share/doc/bluez-5.50-r1/TODO.bz2 97d0f52bbb449acc27f822541f3983b6 1548532536
+obj /usr/share/doc/bluez-5.50-r1/AUTHORS.bz2 2290c47ef67dac1bcb123e81d8ffbb85 1548532535
+obj /usr/share/doc/bluez-5.50-r1/README.bz2 ea10346f7275b2601ac8c55829b29678 1548532535
+obj /usr/share/doc/bluez-5.50-r1/ChangeLog.bz2 a6041b408fcfb07779e4af2c6f105aba 1548532535
+obj /usr/share/doc/bluez-5.50-r1/README.gentoo 672f0a444bf9b74d8642c93894bef86f 1548532536
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/bluetoothd.8.bz2 a7629efc501564ee68a77b311bae3643 1548532534
+dir /usr/share/man/man1
+obj /usr/share/man/man1/hid2hci.1.bz2 22b1e14667f7766e22e162baaaa99f0b 1548532534
+obj /usr/share/man/man1/l2ping.1.bz2 668fdceccf9de45d95beffa19771151e 1548532534
+obj /usr/share/man/man1/btattach.1.bz2 334c9729b2b645a25206a6a93942bd0a 1548532534
+obj /usr/share/man/man1/bccmd.1.bz2 3c890f2c5ed6b37f43ce759df67fc891 1548532534
+obj /usr/share/man/man1/rctest.1.bz2 3126fe5f83ea20afd6d7200a9e5d4b1a 1548532534
+dir /usr/share/dbus-1
+dir /usr/share/dbus-1/services
+obj /usr/share/dbus-1/services/org.bluez.obex.service 03d8a795f6f56828c8a6419415fd0672 1548532534
+dir /usr/libexec
+dir /usr/libexec/bluetooth
+obj /usr/libexec/bluetooth/bluetoothd a4a5f2d078221df3d146a125bae361a1 1548532537
+obj /usr/libexec/bluetooth/obexd 58b719abaf8d11df3c3914672d382cc4 1548532537
+dir /usr/lib64
+obj /usr/lib64/libbluetooth.so.3.18.16 0566be5d774ff1afef50248131c216be 1548532537
+dir /usr/lib64/bluetooth
+dir /usr/lib64/bluetooth/plugins
+obj /usr/lib64/bluetooth/plugins/sixaxis.so a84f64f848a712a22ce7f731853ff5b3 1548532537
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/bluez.pc 45015888513338d6a0e6d7b797303767 1548532534
+sym /usr/lib64/libbluetooth.so -> libbluetooth.so.3.18.16 1548532534
+sym /usr/lib64/libbluetooth.so.3 -> libbluetooth.so.3.18.16 1548532534

@@ -1,0 +1,46 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libwebp-0.5.2
+obj /usr/share/doc/libwebp-0.5.2/README.mux.bz2 d8d7ba4d776cc96b1dffd48fc5a72b5d 1548946973
+obj /usr/share/doc/libwebp-0.5.2/README.bz2 057767b175d48a8100a193c63ff9bb59 1548946973
+obj /usr/share/doc/libwebp-0.5.2/webp-lossless-bitstream-spec.txt.bz2 7a3558af749b9e4dec54cb40eef0c377 1548946973
+obj /usr/share/doc/libwebp-0.5.2/NEWS.bz2 0d29bbe5f794827ce2ce78a7e365eae4 1548946973
+obj /usr/share/doc/libwebp-0.5.2/ChangeLog.bz2 a31aa5eed09bd1896d6bd9b9252da932 1548946973
+obj /usr/share/doc/libwebp-0.5.2/webp-container-spec.txt.bz2 68548d8ac436e27aebaed70ca550d87e 1548946973
+obj /usr/share/doc/libwebp-0.5.2/AUTHORS.bz2 6302143eca5c0770a09b3693b1ed923a 1548946973
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/webpmux.1.bz2 6646bfe3de3c97a63d2afb3e0b00d228 1548946973
+obj /usr/share/man/man1/dwebp.1.bz2 7151f7e47cf302842f30f62e5ae0ce1b 1548946973
+obj /usr/share/man/man1/cwebp.1.bz2 138088dd9cce7af5b03d50ef9728b7dc 1548946973
+dir /usr/bin
+obj /usr/bin/webpmux 419d854fadf9d312190e04f453d0e158 1548946975
+obj /usr/bin/cwebp c530216678057fafa3d0a59d46adacf1 1548946975
+obj /usr/bin/dwebp 24bcee94e70c9b5e78ec18176c028494 1548946975
+dir /usr/lib64
+obj /usr/lib64/libwebp.so.6.0.2 e80ed0f0fbd46393b77172077937170d 1548946974
+obj /usr/lib64/libwebpdecoder.so.2.0.2 acd2f2ed8f907bbb7d4a84c57dc032e9 1548946974
+obj /usr/lib64/libwebpdemux.so.2.0.1 845338aeb8d25c793c379e0c9dd80ecc 1548946974
+obj /usr/lib64/libwebpmux.so.2.0.2 526d597624983935294e3d90da6337cc 1548946974
+sym /usr/lib64/libwebpdemux.so -> libwebpdemux.so.2.0.1 1548946973
+sym /usr/lib64/libwebpdemux.so.2 -> libwebpdemux.so.2.0.1 1548946973
+sym /usr/lib64/libwebpmux.so -> libwebpmux.so.2.0.2 1548946973
+sym /usr/lib64/libwebpmux.so.2 -> libwebpmux.so.2.0.2 1548946973
+sym /usr/lib64/libwebpdecoder.so -> libwebpdecoder.so.2.0.2 1548946972
+sym /usr/lib64/libwebpdecoder.so.2 -> libwebpdecoder.so.2.0.2 1548946972
+sym /usr/lib64/libwebp.so -> libwebp.so.6.0.2 1548946972
+sym /usr/lib64/libwebp.so.6 -> libwebp.so.6.0.2 1548946972
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libwebpdemux.pc 47a81d3fbbd549f78c54ed2a82532163 1548946973
+obj /usr/lib64/pkgconfig/libwebpmux.pc 378d521a48cd1879570d0b0998ac45de 1548946972
+obj /usr/lib64/pkgconfig/libwebpdecoder.pc 3e91925309248d16d412cb14f4b4b8a5 1548946972
+obj /usr/lib64/pkgconfig/libwebp.pc f8dab84569e2b79256fcce9a5ab37360 1548946972
+dir /usr/include
+dir /usr/include/webp
+obj /usr/include/webp/types.h f4a226a03c4bff147a221ee6c02dd905 1548946973
+obj /usr/include/webp/mux_types.h 4b92b7b8a576a4d22e210fdf7c1a4077 1548946973
+obj /usr/include/webp/demux.h 2725cf1ada43cf5bb56e951398064337 1548946973
+obj /usr/include/webp/mux.h 8662befdedfd90bb3f8af8103f979979 1548946972
+obj /usr/include/webp/encode.h 4b5956b3134b5885f78b563c929c6905 1548946972
+obj /usr/include/webp/decode.h 471f0bdd52bdb8a1b4a10294b43bfff6 1548946972

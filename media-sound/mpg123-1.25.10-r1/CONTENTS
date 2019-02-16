@@ -1,0 +1,34 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/mpg123-strip c6cd6e3d75a548dc923fc4e5d7c6cf37 1548532595
+obj /usr/bin/mpg123-id3dump ab55c4f6bcb834947a3b4ffed635660f 1548532595
+obj /usr/bin/out123 424c5b41c4fc69859fd25fddbafd1f42 1548532595
+obj /usr/bin/mpg123-mpg123 78c6f68a15604f8e7585742185f2da12 1548532595
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/mpg123-1.25.10-r1
+obj /usr/share/doc/mpg123-1.25.10-r1/README.bz2 3f948c016bf92e5957645fd37b6f2a9d 1548532594
+obj /usr/share/doc/mpg123-1.25.10-r1/NEWS.libmpg123.bz2 2f46cd189e9f799fabc76e4a982a6cb7 1548532594
+obj /usr/share/doc/mpg123-1.25.10-r1/AUTHORS.bz2 d145a6278e4abaec2f01b6f05f9b5c3d 1548532594
+obj /usr/share/doc/mpg123-1.25.10-r1/NEWS.bz2 507d9a3eadf871ad19a21ba2d9c91157 1548532594
+obj /usr/share/doc/mpg123-1.25.10-r1/ChangeLog 053201d4db6505d8c7bd0c8563777f7f 1548532594
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/out123.1.bz2 69e3dddbee150144ac9a2b7228550a09 1548532594
+obj /usr/share/man/man1/mpg123.1.bz2 5700f1ffd9034a4bec9020ee1f32f9eb 1548532594
+dir /usr/include
+obj /usr/include/out123.h 4dc3f388cde4181169f27497569e5655 1548532594
+obj /usr/include/mpg123.h 259846efcd290835ae91fa917457520a 1548532594
+obj /usr/include/fmt123.h 288126336ab8fc1790f14b856c466411 1548532594
+dir /usr/lib64
+obj /usr/lib64/libmpg123.so.0.44.8 9b8c8dff62cd1ef6b9896fb12e091d5a 1548532595
+obj /usr/lib64/libout123.so.0.2.2 29c5db734f67ae7031a421a10ca20109 1548532595
+sym /usr/lib64/libout123.so -> libout123.so.0.2.2 1548532594
+sym /usr/lib64/libout123.so.0 -> libout123.so.0.2.2 1548532594
+sym /usr/lib64/libmpg123.so -> libmpg123.so.0.44.8 1548532594
+sym /usr/lib64/libmpg123.so.0 -> libmpg123.so.0.44.8 1548532594
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libout123.pc b7af1010eb81231626c7f6c328723e51 1548532594
+obj /usr/lib64/pkgconfig/libmpg123.pc 1c56bc1be7e5abdc0d572df872cb3078 1548532594
+dir /usr/lib64/mpg123
+obj /usr/lib64/mpg123/output_dummy.so ce5d30a0ab8ee41c1e4fa509aaa91d90 1548532595

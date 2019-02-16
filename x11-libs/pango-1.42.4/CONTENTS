@@ -1,0 +1,129 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/pango-view cf6016d4e851d06959568322ec110a03 1545799871
+obj /usr/bin/pango-list de13eb9c545316c657bc46af2de1eea5 1545799871
+dir /usr/include
+dir /usr/include/pango-1.0
+dir /usr/include/pango-1.0/pango
+obj /usr/include/pango-1.0/pango/pangocairo.h b6fbc0ca920c4f5f4776ef0b62c1beb3 1545799868
+obj /usr/include/pango-1.0/pango/pangoxft-render.h e47ac8475bab80b62d1b7eb49162982b 1545799868
+obj /usr/include/pango-1.0/pango/pangoxft.h a93fb480c916cbc1a883a8b7aabd9cf4 1545799868
+obj /usr/include/pango-1.0/pango/pangoft2.h e77499284312b6bc753618ccfcd62613 1545799868
+obj /usr/include/pango-1.0/pango/pangofc-decoder.h 7000bf4f9cdc000657ea3ff6c4536df5 1545799868
+obj /usr/include/pango-1.0/pango/pangofc-fontmap.h 388cc80b811f22862f3eddf72c28371b 1545799868
+obj /usr/include/pango-1.0/pango/pangofc-font.h efd728dbf5391c6c7824cb01dca48082 1545799868
+obj /usr/include/pango-1.0/pango/pango-ot.h 8925b733661eb43c164301dac000faf3 1545799868
+obj /usr/include/pango-1.0/pango/pango-enum-types.h 8227a0c35bef1913a95846fd6e08b562 1545799868
+obj /usr/include/pango-1.0/pango/pango-features.h 6868d6e5908e0898b7e4d2ed882209dc 1545799868
+obj /usr/include/pango-1.0/pango/pango-version-macros.h 6207987c464ddb4ea06d0e226a4f5a00 1545799868
+obj /usr/include/pango-1.0/pango/pango-utils.h d37e33cb99e0a295c1121b373ff73cb3 1545799868
+obj /usr/include/pango-1.0/pango/pango-types.h d5499f8737c175f0db20d25e9dffb9a4 1545799868
+obj /usr/include/pango-1.0/pango/pango-tabs.h 75004e2f2b5e1488268bbc6e8cc77a38 1545799868
+obj /usr/include/pango-1.0/pango/pango-script.h 8a89fb7cfdef1025cd2500a4c2c8bae8 1545799868
+obj /usr/include/pango-1.0/pango/pango-renderer.h ff37854fc1ea852b2e8ae76e2b86f448 1545799868
+obj /usr/include/pango-1.0/pango/pango-modules.h 0314b02f7c233d3127344027828ec526 1545799868
+obj /usr/include/pango-1.0/pango/pango-matrix.h 464928d580a7036c6f0e45fa4a9b8497 1545799868
+obj /usr/include/pango-1.0/pango/pango-layout.h b45418da505968abfd4c4af8502bbf85 1545799868
+obj /usr/include/pango-1.0/pango/pango-language.h 3f78670cbd59bd08f64a93dd9d10f716 1545799868
+obj /usr/include/pango-1.0/pango/pango-item.h e2b9d63ef974d432fef0b7e6224658ad 1545799868
+obj /usr/include/pango-1.0/pango/pango-gravity.h bddf4faa5d01ec41236b69e652ea7171 1545799868
+obj /usr/include/pango-1.0/pango/pango-glyph-item.h 56e216836fa06406a202dee849227482 1545799868
+obj /usr/include/pango-1.0/pango/pango-glyph.h a36be4056acbfaacb6d68722278894ee 1545799868
+obj /usr/include/pango-1.0/pango/pango-fontset.h 93bcfb38d3008ed198bd3d75d4a2bee9 1545799868
+obj /usr/include/pango-1.0/pango/pango-fontmap.h ce69427df9d729445a3fb321c4d40843 1545799868
+obj /usr/include/pango-1.0/pango/pango-font.h e15ef4a1a9b307b65b7f52de799f5492 1545799868
+obj /usr/include/pango-1.0/pango/pango-engine.h d43894b1213927e56ff8dfe2de633ada 1545799868
+obj /usr/include/pango-1.0/pango/pango-coverage.h 93d3c3aed599758171cdca032fdc87bd 1545799868
+obj /usr/include/pango-1.0/pango/pango-context.h 4122d8bf3d6002daf0b139584cddda02 1545799868
+obj /usr/include/pango-1.0/pango/pango-break.h ed30fa87a8824e0e35833d8f14e79081 1545799868
+obj /usr/include/pango-1.0/pango/pango-bidi-type.h d154ea3f286d0e040208b3a59dd4adb8 1545799868
+obj /usr/include/pango-1.0/pango/pango-attributes.h 75e4ba327b51a25f6bd26424ee5a0f25 1545799868
+obj /usr/include/pango-1.0/pango/pango.h e703e7654c0975bd660552bc9d522bd7 1545799868
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pango-1.42.4
+obj /usr/share/doc/pango-1.42.4/THANKS.bz2 1f2c75826d4517b0cf02b8f3e1ba4027 1545799870
+obj /usr/share/doc/pango-1.42.4/NEWS.bz2 0f10ccfdc424690b2b4202ab3e97d3c3 1545799870
+obj /usr/share/doc/pango-1.42.4/ChangeLog.bz2 f9d52967e99cbc04f1497bf78436e223 1545799870
+obj /usr/share/doc/pango-1.42.4/README.bz2 55e5b8df25d0cbcfeb745a7dafbcd72a 1545799870
+obj /usr/share/doc/pango-1.42.4/README.win32.bz2 1abd5a50dbebcfa4ab68f8fe51cb38b8 1545799870
+obj /usr/share/doc/pango-1.42.4/AUTHORS f69b2373a26e8ed6c550ea8c30494650 1545799870
+dir /usr/share/gtk-doc
+dir /usr/share/gtk-doc/html
+dir /usr/share/gtk-doc/html/pango
+obj /usr/share/gtk-doc/html/pango/rendering.html bfc7b74981eafac409a6e36359de58c5 1545799869
+obj /usr/share/gtk-doc/html/pango/pango.html f9a78dac4303bcf24f85ad7c03b43645 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-hierarchy.html 052459e01f6410184ab920b7214a3ee2 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Xft-Fonts-and-Rendering.html 0bec02bcd51591811badb2de3c2f64ab 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Win32-Fonts-and-Rendering.html cc3323d655fafab1b70b1b173603151f 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Vertical-Text.html a3c456ae4c6bea5c1369dc2b2c3e668b 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Version-Checking.html f0db09c83f602ab8d7401e2fd81ebd27 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Text-Processing.html fba34a94ac975e291c636551dafad739 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Text-Attributes.html e1052dae3368e708ad36107070fcace5 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Tab-Stops.html 7b7cc6b5e87d4391e7b40fc70d7ed855 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Scripts-and-Languages.html 541321ddd93b9b2fc98e8d5776973db8 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-OpenType-Font-Handling.html 4dcbadfa869eaacd26f69488eaaaa942 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Modules.html f7470030705242a8ba84e190d96b707e 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Miscellaneous-Utilities.html e95594646774e55b21f5d5378abc8ab1 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Layout-Objects.html b76c85ff53bda58a2c4ada02afcd0ccd 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Glyph-Storage.html 71d1c00ed534a6131375c59d6f912cd8 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-FreeType-Fonts-and-Rendering.html ff5c19e73474cbdf7ebcc186ab287b22 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Fonts.html 56658462c8bfd3b2a0dc03acb9db817a 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Engines.html 63f2ba2926fd49114cdc5f9e40c456ac 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Coverage-Maps.html be31358103f2f3b7be4c2af7ad2549bd 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-CoreText-Fonts.html 93fac9a3ce2d9fbb29157762ffe73adb 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Cairo-Rendering.html 30ae9c86da664c4f330ac2851db876f9 1545799869
+obj /usr/share/gtk-doc/html/pango/pango-Bidirectional-Text.html 550b7e8587dcefdec093096d377fa169 1545799869
+obj /usr/share/gtk-doc/html/pango/lowlevel.html fc24f0d5a120f673bf0742d29661ffcd 1545799869
+obj /usr/share/gtk-doc/html/pango/index.html 6a770db27f6b02aaf9faca2a744f1265 1545799869
+obj /usr/share/gtk-doc/html/pango/api-index-full.html 5c063099b1939c458112b828b4277066 1545799869
+obj /usr/share/gtk-doc/html/pango/annotation-glossary.html e5dd84c25d851895af82f845b920085f 1545799869
+obj /usr/share/gtk-doc/html/pango/PangoRenderer.html eb2b8d5e926e2d58ffc58ef442c62018 1545799869
+obj /usr/share/gtk-doc/html/pango/PangoMarkupFormat.html 65c9b7f0e06cb944f02ea9979a913428 1545799869
+obj /usr/share/gtk-doc/html/pango/PangoFcFontMap.html 334fba552001fd4346fb779273f343a9 1545799869
+obj /usr/share/gtk-doc/html/pango/PangoFcFont.html 4702c8be150330b5911cb2e66813fc5d 1545799869
+obj /usr/share/gtk-doc/html/pango/PangoFcDecoder.html 20fb7689178d7d444953f80ae07ca7a4 1545799869
+obj /usr/share/gtk-doc/html/pango/PangoEngineShape.html 283d9ebc93c030c5d38691dc0385ffb9 1545799869
+obj /usr/share/gtk-doc/html/pango/PangoEngineLang.html 9515af852ae70eb5dbfe5a6217c847f3 1545799869
+obj /usr/share/gtk-doc/html/pango/up.png 81854a03247e9ba6981eed0b909b9c42 1545799869
+obj /usr/share/gtk-doc/html/pango/up-insensitive.png 97c742a19428c428c552a380ad9fde9f 1545799869
+obj /usr/share/gtk-doc/html/pango/style.css 35face3722735c3abaaa328e2720272b 1545799869
+obj /usr/share/gtk-doc/html/pango/rotated-text.png 873baeb0e4d968f272982ffbc51a5aea 1545799869
+obj /usr/share/gtk-doc/html/pango/right.png bd51fef29caa82cb560340be392b37a2 1545799869
+obj /usr/share/gtk-doc/html/pango/right-insensitive.png 987cf4ad9491f01e8db264d38098a576 1545799869
+obj /usr/share/gtk-doc/html/pango/pango.devhelp2 a1bd7c5fb7c55acc576746561f70c31f 1545799869
+obj /usr/share/gtk-doc/html/pango/left.png 0cc08008324009bebc947c6af6dd52c1 1545799869
+obj /usr/share/gtk-doc/html/pango/left-insensitive.png b992596e1683a40d89d15dc8dcb58c38 1545799869
+obj /usr/share/gtk-doc/html/pango/layout.gif 7920788a8e2632a40704f4760819dc26 1545799869
+obj /usr/share/gtk-doc/html/pango/home.png 83cdd16d5fc01d8d7dfaf97df1120bc8 1545799869
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/pango-view.1.bz2 3462529e332d1743805b4aff2e51ab22 1545799869
+dir /usr/share/gir-1.0
+obj /usr/share/gir-1.0/PangoCairo-1.0.gir 77c9caaee67c0574f18670dbd854613c 1545799868
+obj /usr/share/gir-1.0/PangoXft-1.0.gir 2b36479fda4848383998faa562d12966 1545799868
+obj /usr/share/gir-1.0/PangoFT2-1.0.gir 34d1cb607fdd48d3b41c86a758ef6e8d 1545799868
+obj /usr/share/gir-1.0/Pango-1.0.gir 2f4760b3e2a8fe1782b397f3968005e3 1545799868
+dir /usr/lib64
+obj /usr/lib64/libpango-1.0.so.0.4200.4 0d343920d17bf931b00cfad569fb608f 1545799871
+obj /usr/lib64/libpangoxft-1.0.so.0.4200.4 277072788c52ed19c251a99f95ae4125 1545799871
+obj /usr/lib64/libpangocairo-1.0.so.0.4200.4 905881c403bebed28da4ee5926e6659c 1545799871
+obj /usr/lib64/libpangoft2-1.0.so.0.4200.4 db018f5b7b552ae9f7298aaea746fd2a 1545799871
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/pangoft2.pc 728db3f95d0c951959cfcf9e8c861493 1545799869
+obj /usr/lib64/pkgconfig/pangoxft.pc 55b465db8092f01d7688b27ec9d40679 1545799869
+obj /usr/lib64/pkgconfig/pangocairo.pc 2d2ddeca9221fe56c711203f725a2574 1545799869
+obj /usr/lib64/pkgconfig/pango.pc 9ba4547a7fa5028456b832d28d862cc1 1545799869
+sym /usr/lib64/libpangocairo-1.0.so -> libpangocairo-1.0.so.0.4200.4 1545799869
+sym /usr/lib64/libpangocairo-1.0.so.0 -> libpangocairo-1.0.so.0.4200.4 1545799869
+sym /usr/lib64/libpangoxft-1.0.so -> libpangoxft-1.0.so.0.4200.4 1545799868
+sym /usr/lib64/libpangoxft-1.0.so.0 -> libpangoxft-1.0.so.0.4200.4 1545799868
+sym /usr/lib64/libpangoft2-1.0.so -> libpangoft2-1.0.so.0.4200.4 1545799868
+sym /usr/lib64/libpangoft2-1.0.so.0 -> libpangoft2-1.0.so.0.4200.4 1545799868
+sym /usr/lib64/libpango-1.0.so -> libpango-1.0.so.0.4200.4 1545799868
+sym /usr/lib64/libpango-1.0.so.0 -> libpango-1.0.so.0.4200.4 1545799868
+dir /usr/lib64/girepository-1.0
+obj /usr/lib64/girepository-1.0/PangoCairo-1.0.typelib d13326d4cd193d9cd476463b7225f1b9 1545799868
+obj /usr/lib64/girepository-1.0/PangoXft-1.0.typelib 769dd558b0e75e78da72a5af55d9c588 1545799868
+obj /usr/lib64/girepository-1.0/PangoFT2-1.0.typelib de2012158d23b40da18b3f09282df237 1545799868
+obj /usr/lib64/girepository-1.0/Pango-1.0.typelib e555d39dd4305ef93d12703c65930726 1545799868

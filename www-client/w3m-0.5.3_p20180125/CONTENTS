@@ -1,0 +1,86 @@
+dir /etc
+dir /etc/w3m
+obj /etc/w3m/mailcap fe00c489702ba1bd12a5b40d580600fa 1548947263
+dir /usr
+dir /usr/libexec
+dir /usr/libexec/w3m
+obj /usr/libexec/w3m/inflate 6df6a8313f86c905750d55f716b6e5c5 1548947266
+obj /usr/libexec/w3m/xface2xpm 94532e0c539adcea27e6f4f73f6f8d9f 1548947263
+dir /usr/libexec/w3m/cgi-bin
+obj /usr/libexec/w3m/cgi-bin/w3mhelperpanel 4a74137dbc42419d4a7553af3571c00c 1548947266
+obj /usr/libexec/w3m/cgi-bin/w3mbookmark 1a77cbe0c6c35f41fa70ec71c2f8b975 1548947266
+obj /usr/libexec/w3m/cgi-bin/w3mman2html.cgi f415cfc64048f7defef85cc1f02b6971 1548947263
+obj /usr/libexec/w3m/cgi-bin/multipart.cgi ee14058f8b914807f2cc56602efc02d8 1548947263
+obj /usr/libexec/w3m/cgi-bin/w3mmail.cgi fd8868aa88454abe6e73de2a26373520 1548947263
+obj /usr/libexec/w3m/cgi-bin/w3mhelp.cgi 26f408c146f8a63292c340af5849a424 1548947263
+obj /usr/libexec/w3m/cgi-bin/dirlist.cgi 27e3898d5f9543f9b7ac42be2e5e02db 1548947263
+obj /usr/libexec/w3m/cgi-bin/w3mdict.cgi d5a18783892cc905671ce5f55ffbb887 1548947263
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/w3m-0.5.3_p20180125
+obj /usr/share/doc/w3m-0.5.3_p20180125/TODO.bz2 1d64a5ba7913ed82ec760e865d99e197 1548947263
+obj /usr/share/doc/w3m-0.5.3_p20180125/NEWS.bz2 86db5adb77305bea4341435367c305d7 1548947263
+obj /usr/share/doc/w3m-0.5.3_p20180125/README.bz2 17cbcf81758dd74ddbce7ef070fcfa22 1548947263
+obj /usr/share/doc/w3m-0.5.3_p20180125/ChangeLog.bz2 49022865e5a66ffa89d293dbd92a47f2 1548947263
+dir /usr/share/doc/w3m-0.5.3_p20180125/html
+dir /usr/share/doc/w3m-0.5.3_p20180125/html/en
+obj /usr/share/doc/w3m-0.5.3_p20180125/html/en/STORY.html 3b71362924b226e97526117e2ece1ac2 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/html/en/MANUAL.html d0ae12826f26d3af63a1d36989e8a588 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/html/en/FAQ.html dc73e8ebd2ccc51559e755d46e8e4068 1548947264
+dir /usr/share/doc/w3m-0.5.3_p20180125/en
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.Bonus.bz2 634fbc77cf726801821de27acb0fddd3 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/menu.submenu.bz2 efd204d2cef7ee4f131e20d7960219af 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/menu.default.bz2 4c8d7bac83a998175ceff15ba457c063 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/keymap.lynx.bz2 0234739a3148f796f0f7e76d71cb1525 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/keymap.default.bz2 9578ffc8dbf39f3aa65469e66a044519 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.tab.bz2 da9f2e0b0313760b9b24466caaf9b9bd 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.sixel.bz2 36320abf9fe48a0f6d2e062512884394 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.siteconf.bz2 6f03e45edcffea52e00b1dc6804aa856 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.pre_form.bz2 7578c313cab6b3e58d9c6ac9fa10d50a 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.mouse.bz2 355ce78c11b23df5ba68db85129d2aa0 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.passwd.bz2 3da2b3f1e597168ebc5e1162edd31c6d 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.img.bz2 c26f5b38f98972da6d1842e1bdef7bfc 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.m17n.bz2 e1768b3625c170e32588f99c9a7aeca5 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.func.bz2 33b3ef7c20b0b027c336257185a27da0 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.cygwin.bz2 5367e592159aad9d19264e51ae197071 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.dict.bz2 7084bc0f171debb4d137f3ad9cc6b306 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.cookie.bz2 1447d598bf91f1abb58b2e37b33c3473 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/README.bz2 0dfcafd60aff6e48dd393cf4f3993cfe 1548947264
+obj /usr/share/doc/w3m-0.5.3_p20180125/en/HISTORY.bz2 08e648b6d03e6839cf6b57c1feb49efd 1548947264
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/w3m.1.bz2 0bb42aedc47aa812edcbb1dfac855a46 1548947263
+obj /usr/share/man/man1/w3mman.1.bz2 21740e299becb22c1860c7842b4e40c3 1548947263
+dir /usr/share/w3m
+dir /usr/share/w3m/Bonus
+obj /usr/share/w3m/Bonus/makeref 9e1802c3f4b67b652f71c08886d46f5d 1548947264
+obj /usr/share/w3m/Bonus/htmldump a860185934b9a98ccd36f0700c6fb72c 1548947264
+obj /usr/share/w3m/Bonus/html2latex a9c7346d7987276858d2833d87160dd3 1548947264
+obj /usr/share/w3m/Bonus/scanhist.rb 76e1e2ee910f7e7340b7a61fd0b5a8bf 1548947264
+obj /usr/share/w3m/Bonus/utf8.cgi 4d6a637db9de123e02abf65c2ea237a3 1548947264
+obj /usr/share/w3m/Bonus/smb.cgi 1b2b6214705ca394a81a17693c676fd6 1548947264
+obj /usr/share/w3m/Bonus/google.cgi 233ad4db6a7f4066bf19d6f38c4b9e60 1548947263
+obj /usr/share/w3m/Bonus/goodict.cgi 08289372d347ff78f7f41c886fc5e80e 1548947263
+obj /usr/share/w3m/Bonus/backslash_to_slash.cgi a793ec4efc233beaac8dc4315f0ced6d 1548947263
+obj /usr/share/w3m/Bonus/2ch.cgi ced1b79b6837559641f1ba2bbb92e2fa 1548947263
+obj /usr/share/w3m/w3mhelp-funcname.pl f0af0b9bd940d3b0aead31de2dbeb8d3 1548947263
+obj /usr/share/w3m/w3mhelp-funcdesc.ja.pl 0462fb5c83837ef0fe5d20299655de72 1548947263
+obj /usr/share/w3m/w3mhelp-funcdesc.en.pl ae2a1cef0f885915800e6afbc9db18e0 1548947263
+obj /usr/share/w3m/w3mhelp-funcdesc.de.pl 372f574655129236a088d9c791889c42 1548947263
+obj /usr/share/w3m/w3mhelp.html 05fb7317a54d193c062e2e6871ffae8c 1548947263
+dir /usr/share/locale
+dir /usr/share/locale/zh_TW
+dir /usr/share/locale/zh_TW/LC_MESSAGES
+obj /usr/share/locale/zh_TW/LC_MESSAGES/w3m.mo 23d7c1a2b22b694fc57f52c155f6452f 1548947263
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/w3m.mo 10dfbf6221a11faf295c0d74ae318990 1548947263
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/w3m.mo 729757edce6660b95b67113b2e857382 1548947263
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/w3m.mo b889d6a0894ec88199a1ef0d100cb556 1548947263
+dir /usr/bin
+obj /usr/bin/w3m d221b3c3e3540c89df81045a7065aac2 1548947266
+obj /usr/bin/w3mman 29a14b6c59bc603c44a20133bf188e53 1548947263

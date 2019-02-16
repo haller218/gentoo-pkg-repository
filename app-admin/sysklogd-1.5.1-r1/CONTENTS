@@ -1,0 +1,32 @@
+dir /etc
+dir /etc/conf.d
+obj /etc/conf.d/sysklogd e25d7b583b7e4bd8be503b89e1771e90 1545744107
+dir /etc/init.d
+obj /etc/init.d/sysklogd 40b705c8a698615b2000402a11c96649 1545744107
+dir /etc/cron.weekly
+obj /etc/cron.weekly/syslog 0b1ffc7c0e804c51ea0cbda013265162 1545744107
+dir /etc/cron.daily
+obj /etc/cron.daily/syslog b653761d584222acdc52b4e5604d46ea 1545744107
+obj /etc/syslog.conf 1f0848030ec0495afef5034b9f24e0a0 1545744107
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/sysklogd-1.5.1-r1
+obj /usr/share/doc/sysklogd-1.5.1-r1/README.linux.bz2 6fcafd94b780368ba3e1d06535511622 1545744107
+obj /usr/share/doc/sysklogd-1.5.1-r1/README.1st.bz2 75c4979dc76301ef6cc134b5d1dd370c 1545744107
+obj /usr/share/doc/sysklogd-1.5.1-r1/NEWS.bz2 bfe35bcbb3479692c64bd5892ce24b62 1545744107
+obj /usr/share/doc/sysklogd-1.5.1-r1/CHANGES.bz2 fbc2df9f2d624fdfd3c9bc0b3458c0f6 1545744107
+obj /usr/share/doc/sysklogd-1.5.1-r1/ANNOUNCE.bz2 c6aef88372f6c1b400503b538dfc4b0b 1545744107
+dir /usr/share/man
+dir /usr/share/man/man5
+obj /usr/share/man/man5/syslog.conf.5.bz2 20db77bb4148c921d75d726d046461b3 1545744106
+dir /usr/share/man/man8
+obj /usr/share/man/man8/syslogd-listfiles.8.bz2 ad5c6c101d90d2b26e65d57d9406f44b 1545744106
+obj /usr/share/man/man8/sysklogd.8.bz2 12adb3aca4e319a6f57580fa2f20926b 1545744106
+obj /usr/share/man/man8/klogd.8.bz2 4f3667f1848f63f63e62c54b861e3a77 1545744106
+obj /usr/share/man/man8/syslogd.8 aad31acb2bd87da2d44407e5ab268d1a 1545744106
+dir /usr/sbin
+obj /usr/sbin/klogd 5329c8c35007759d23b69a3d49a72ef9 1545744107
+obj /usr/sbin/syslogd 73969ae29850c089c68ebd2085f6ca6d 1545744107
+obj /usr/sbin/syslogd-listfiles e41d56dc417cf01616b65758901ef3b6 1545744106
+obj /usr/sbin/syslog-facility 3802aa6f85e6959239aef13efa3147f0 1545744106

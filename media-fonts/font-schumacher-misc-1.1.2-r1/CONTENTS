@@ -1,0 +1,52 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-schumacher-misc-1.1.2-r1
+obj /usr/share/doc/font-schumacher-misc-1.1.2-r1/ChangeLog.bz2 d7b9a8454b45a51a19245c4ce2fb2634 1545801471
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/clR6x12-KOI8-R.pcf.gz e0a3e0dfc84770b92e3a9b54361e9c3e 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-16.pcf.gz 10fe7d3880726ec2ea6b3a4229d4c672 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-15.pcf.gz 64b1d5121f2681e6a1dbdd395495cdc2 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-14.pcf.gz 23e9e431fd8d6c26bd2e7211744a95c3 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-13.pcf.gz 47bae585eb178f1e9e28acd77e5d4971 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-10.pcf.gz c8671370cba7bcb84e791ef43f8a5ca2 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-9.pcf.gz 9347fe922a1ad68969c64289a135dad8 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-8.pcf.gz 29dfe449aa4307ed55f9c3027f556aad 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-7.pcf.gz e0b5d2198898183a0c50673069a92b1e 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-5.pcf.gz 0fe13bf8e704f4cd5b9fb2c3b839c088 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-4.pcf.gz 61c68f65430546092f9a63273fba7dce 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-3.pcf.gz 2e7b918c6f670ec9fe78568f44e01cbb 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-2.pcf.gz d9e14d732d4af0ba5ce30b7baec24ecd 1545801471
+obj /usr/share/fonts/misc/clR6x12-ISO8859-1.pcf.gz 12c4c2566bfa5d6283b05ceb08bd7a0b 1545801471
+obj /usr/share/fonts/misc/clR9x15.pcf.gz 8684f7562b7f0d945e631636abb4c983 1545801471
+obj /usr/share/fonts/misc/clR8x8.pcf.gz 9a042b2c7b627ea9c162f79bde926dbe 1545801471
+obj /usr/share/fonts/misc/clR8x16.pcf.gz e960ebf50830c8f40207b21dd1f61eaa 1545801471
+obj /usr/share/fonts/misc/clR8x14.pcf.gz bca87228f2c1254128e542b70383fbfb 1545801471
+obj /usr/share/fonts/misc/clR8x13.pcf.gz 4b07add823f57cd749fa17b35e781f81 1545801471
+obj /usr/share/fonts/misc/clR8x12.pcf.gz b978b589dc9fc502522521aa6019bd51 1545801471
+obj /usr/share/fonts/misc/clR8x10.pcf.gz 0446dc50d706f51d564893f9dc40bc0c 1545801471
+obj /usr/share/fonts/misc/clR7x8.pcf.gz 819cdfbdc4d4c19dde2b5fea59a18ee5 1545801471
+obj /usr/share/fonts/misc/clR7x14.pcf.gz f5e24d1d73224572516f7930db5fe891 1545801471
+obj /usr/share/fonts/misc/clR7x12.pcf.gz 11be10ab3cf2f35b380d32a79b958829 1545801471
+obj /usr/share/fonts/misc/clR7x10.pcf.gz 5b311a5babf20701b321f4cf934e6b9b 1545801471
+obj /usr/share/fonts/misc/clR6x8.pcf.gz 29a251475b87e8291dfcc5c6fd727393 1545801471
+obj /usr/share/fonts/misc/clR6x6.pcf.gz 15f0629c884e0d45a5129e36b7b14a5c 1545801471
+obj /usr/share/fonts/misc/clR6x13.pcf.gz 6dd14e0ff4de8d30ded7103162dd87b6 1545801471
+obj /usr/share/fonts/misc/clR6x10.pcf.gz 0d83ac390f24ecc0b8007d6aa3bc9f01 1545801471
+obj /usr/share/fonts/misc/clR5x8.pcf.gz 842a036928b28023d0006ab3ae6edf15 1545801471
+obj /usr/share/fonts/misc/clR5x6.pcf.gz 163ef2b04b04e9074c2d27e7df6aeac3 1545801471
+obj /usr/share/fonts/misc/clR5x10.pcf.gz fbd130670b8197c1c44467fb194deb0f 1545801471
+obj /usr/share/fonts/misc/clR4x6.pcf.gz aaadf93622c744be02d66e1d8e71b392 1545801471
+obj /usr/share/fonts/misc/clI8x8.pcf.gz b526a1510c880714baf3bec93c61e4a6 1545801471
+obj /usr/share/fonts/misc/clI6x12.pcf.gz 7b8ef7c0cbcb0212fafa103075059769 1545801471
+obj /usr/share/fonts/misc/clB9x15.pcf.gz 748b856655170c8c71ea8d2da3ac94ca 1545801471
+obj /usr/share/fonts/misc/clB8x8.pcf.gz 9f61e434529c46b708a7e6a93398cbbb 1545801471
+obj /usr/share/fonts/misc/clB8x16.pcf.gz fc9ef1a17bdeacdebe4e9d4342c6070c 1545801471
+obj /usr/share/fonts/misc/clB8x14.pcf.gz 09fcfdf77af5e8ef9d07c8d06e62b0e6 1545801471
+obj /usr/share/fonts/misc/clB8x13.pcf.gz 993e951efeef33bc7387fde4d5817521 1545801471
+obj /usr/share/fonts/misc/clB8x12.pcf.gz 262ec0e034cab0d582760ee80f66ead9 1545801471
+obj /usr/share/fonts/misc/clB8x10.pcf.gz 293ce20ceb78251304320ece49cc6807 1545801471
+obj /usr/share/fonts/misc/clB6x12.pcf.gz 712d208378d4333346de636012720594 1545801471
+obj /usr/share/fonts/misc/clB6x10.pcf.gz 06342f1aa391425effc72c7d815ffc10 1545801471
+obj /usr/share/fonts/misc/clR6x12.pcf.gz 1fed1b92d84b174ce240a3a6e8fd0488 1545801471

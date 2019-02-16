@@ -1,0 +1,1 @@
+sys-libs/zlib dev-libs/tinyxml2:0/6= >=media-libs/libzen-0.4.37[-static-libs]

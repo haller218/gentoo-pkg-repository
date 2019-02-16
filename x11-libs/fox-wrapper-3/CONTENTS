@@ -1,0 +1,6 @@
+dir /usr
+dir /usr/bin
+dir /usr/lib
+dir /usr/lib/misc
+obj /usr/lib/misc/fox-wrapper.sh ac300338c12e17a620256680cff867e2 1548471059
+sym /usr/bin/fox-config -> ../lib/misc/fox-wrapper.sh 1548471059

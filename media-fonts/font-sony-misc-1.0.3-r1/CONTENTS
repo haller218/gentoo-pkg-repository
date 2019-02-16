@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-sony-misc-1.0.3-r1
+obj /usr/share/doc/font-sony-misc-1.0.3-r1/ChangeLog.bz2 11090b61f9c6ebb68d3c2f5ae61fee04 1545801495
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/8x16rk.pcf.gz dffe188b9e086147213533752fa2827e 1545801495
+obj /usr/share/fonts/misc/8x16.pcf.gz 0340d08ef3540ed03083648c5f90149d 1545801495
+obj /usr/share/fonts/misc/12x24rk.pcf.gz 9767c6e22cb4ac603191a2703e54501f 1545801495
+obj /usr/share/fonts/misc/12x24.pcf.gz dd333704184bbfd90c96df657afb97e4 1545801495

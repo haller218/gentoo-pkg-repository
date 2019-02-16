@@ -1,0 +1,14 @@
+dir /usr
+dir /usr/include
+obj /usr/include/tinyxml2.h 250698322be7b6fe8264a9490c953510 1522994963
+dir /usr/lib64
+obj /usr/lib64/libtinyxml2.so.6.2.0 6549bea80521318d71359c19d45df1a5 1548475761
+dir /usr/lib64/cmake
+dir /usr/lib64/cmake/tinyxml2
+obj /usr/lib64/cmake/tinyxml2/tinyxml2Targets-gentoo.cmake 4e06e1b4605287761a2449d2c36c6a69 1548475758
+obj /usr/lib64/cmake/tinyxml2/tinyxml2Targets.cmake f0eb49e560f2f225de2d24a254e52d8e 1548475758
+obj /usr/lib64/cmake/tinyxml2/tinyxml2Config.cmake 3163796e0ad55b517e81bc53abb897fe 1548475758
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/tinyxml2.pc b1244ffdb5e85de5d3dceb85c2fbf714 1548475758
+sym /usr/lib64/libtinyxml2.so.6 -> libtinyxml2.so.6.2.0 1548475760
+sym /usr/lib64/libtinyxml2.so -> libtinyxml2.so.6 1548475760

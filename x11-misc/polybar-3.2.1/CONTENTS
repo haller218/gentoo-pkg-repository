@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/polybar 3721f8793f6a1d6bf50c48336708222e 1550153154
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/polybar.1.bz2 a9eea66c50784bd597bff6d997aae0c8 1532934348
+dir /usr/share/zsh
+dir /usr/share/zsh/site-functions
+obj /usr/share/zsh/site-functions/_polybar_msg ff39ef0f8f3600e7e95543cefacece72 1532934348
+obj /usr/share/zsh/site-functions/_polybar 91552a497598c032726f3b6706503979 1532934348
+dir /usr/share/bash-completion
+dir /usr/share/bash-completion/completions
+obj /usr/share/bash-completion/completions/polybar bde5900c5ac97f1e9e1b0143dad9c525 1532934348
+dir /usr/share/doc
+dir /usr/share/doc/polybar-3.2.1
+obj /usr/share/doc/polybar-3.2.1/README.md.bz2 7cbf66df39edd3a012ab2839505e84e5 1550153153
+dir /usr/share/doc/polybar
+obj /usr/share/doc/polybar/config.bz2 1acbe31aa9674160e14cf306b4561891 1550153058

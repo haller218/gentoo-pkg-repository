@@ -1,0 +1,65 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/markupsafe-0.23
+obj /usr/share/doc/markupsafe-0.23/AUTHORS.bz2 ae333fef2781ecfaf3f9170f8c720646 1545789252
+obj /usr/share/doc/markupsafe-0.23/README.rst.bz2 22a370f05072d287de6e849e5c83179e 1545789252
+dir /usr/lib64
+dir /usr/lib64/python3.6
+dir /usr/lib64/python3.6/site-packages
+dir /usr/lib64/python3.6/site-packages/MarkupSafe-0.23-py3.6.egg-info
+obj /usr/lib64/python3.6/site-packages/MarkupSafe-0.23-py3.6.egg-info/top_level.txt 5862354c9fbb5b15204672c79808e25c 1545789251
+obj /usr/lib64/python3.6/site-packages/MarkupSafe-0.23-py3.6.egg-info/SOURCES.txt 850838e185ce6a82a7cf2f2acb8fe366 1545789251
+obj /usr/lib64/python3.6/site-packages/MarkupSafe-0.23-py3.6.egg-info/PKG-INFO 5ba70eca0b57127e4e501418631ad5e2 1545789251
+obj /usr/lib64/python3.6/site-packages/MarkupSafe-0.23-py3.6.egg-info/not-zip-safe 68b329da9893e34099c7d8ad5cb9c940 1369066173
+obj /usr/lib64/python3.6/site-packages/MarkupSafe-0.23-py3.6.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1545789251
+dir /usr/lib64/python3.6/site-packages/markupsafe
+obj /usr/lib64/python3.6/site-packages/markupsafe/_speedups.cpython-36m-x86_64-linux-gnu.so 41d72c6e18eab6ac2f5ac7f45f8bd3d2 1545789253
+dir /usr/lib64/python3.6/site-packages/markupsafe/__pycache__
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/tests.cpython-36.opt-2.pyc 55e3e27e707706f7443affaf5c6240f1 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_native.cpython-36.opt-2.pyc 919a9e1b612566385cb3b2dc0ad4469b 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_constants.cpython-36.opt-2.pyc a6b85a18d10dd57de2435089c871b862 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_compat.cpython-36.opt-2.pyc 825384433f025a015810de11672f809a 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/__init__.cpython-36.opt-2.pyc 18e49e011dc2d7ceee95dcf6d4810964 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/tests.cpython-36.opt-1.pyc 55e3e27e707706f7443affaf5c6240f1 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_native.cpython-36.opt-1.pyc 919a9e1b612566385cb3b2dc0ad4469b 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_constants.cpython-36.opt-1.pyc a6b85a18d10dd57de2435089c871b862 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_compat.cpython-36.opt-1.pyc 825384433f025a015810de11672f809a 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/__init__.cpython-36.opt-1.pyc 18e49e011dc2d7ceee95dcf6d4810964 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/tests.cpython-36.pyc 52e71a2f39fef0f6bae973425a55c42a 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_native.cpython-36.pyc cd8745fb1f614c45a16d773f9a90ad19 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_constants.cpython-36.pyc 1f65231ed8fc345d68bbc55c6df29171 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/_compat.cpython-36.pyc 1a6080f197ca36129a6d8f423585d4c6 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/__pycache__/__init__.cpython-36.pyc d6e349b5be74d1a9aa8cb9010341b6f8 1545789251
+obj /usr/lib64/python3.6/site-packages/markupsafe/_speedups.c ee125f044d390b16d50d4f36d4419e67 1369066115
+obj /usr/lib64/python3.6/site-packages/markupsafe/tests.py 8ecb90ab57a36f7485c693fd8b4f456a 1399561108
+obj /usr/lib64/python3.6/site-packages/markupsafe/_native.py fd769add6002b38bfaff3996475bacb6 1369071922
+obj /usr/lib64/python3.6/site-packages/markupsafe/_constants.py b58b1233567f885d78e73de91c95283a 1369066115
+obj /usr/lib64/python3.6/site-packages/markupsafe/_compat.py c0dfe0b27e175b17d5e35171b31056ff 1397725260
+obj /usr/lib64/python3.6/site-packages/markupsafe/__init__.py 25d1b407fd8bc06b05fe2e05576af586 1399560754
+dir /usr/lib64/python2.7
+dir /usr/lib64/python2.7/site-packages
+dir /usr/lib64/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info
+obj /usr/lib64/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/top_level.txt 5862354c9fbb5b15204672c79808e25c 1545789251
+obj /usr/lib64/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/SOURCES.txt 850838e185ce6a82a7cf2f2acb8fe366 1545789251
+obj /usr/lib64/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/PKG-INFO 5ba70eca0b57127e4e501418631ad5e2 1545789251
+obj /usr/lib64/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/not-zip-safe 68b329da9893e34099c7d8ad5cb9c940 1369066173
+obj /usr/lib64/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1545789251
+dir /usr/lib64/python2.7/site-packages/markupsafe
+obj /usr/lib64/python2.7/site-packages/markupsafe/_speedups.so dd4c73f1698d97ec7274a6d839cd070a 1545789253
+obj /usr/lib64/python2.7/site-packages/markupsafe/tests.pyo c2f5aa5e05084992322501b9ceb64e1e 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/_native.pyo e222326f4aeb013174c42a6a16715293 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/_constants.pyo 275a47d22365656b8e728f66b3fe7622 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/_compat.pyo c34cedc3fc88c9fd3ed35a8074bd1c91 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/__init__.pyo 1e49a09196702cafef62790275ba8530 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/tests.pyc 5e287e38100404e3af731ff24eaf2355 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/_native.pyc 5724f2a55d877c2fc3db85b731b2b1c7 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/_constants.pyc ecc4b61239c4a4a9510842bbdde19fde 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/_compat.pyc 4d85362459746b895c08fa0b0b6bcee2 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/__init__.pyc 47a631c478216ef04ddfb7f1d72e9091 1545789251
+obj /usr/lib64/python2.7/site-packages/markupsafe/_speedups.c ee125f044d390b16d50d4f36d4419e67 1369066115
+obj /usr/lib64/python2.7/site-packages/markupsafe/tests.py 8ecb90ab57a36f7485c693fd8b4f456a 1399561108
+obj /usr/lib64/python2.7/site-packages/markupsafe/_native.py fd769add6002b38bfaff3996475bacb6 1369071922
+obj /usr/lib64/python2.7/site-packages/markupsafe/_constants.py b58b1233567f885d78e73de91c95283a 1369066115
+obj /usr/lib64/python2.7/site-packages/markupsafe/_compat.py c0dfe0b27e175b17d5e35171b31056ff 1397725260
+obj /usr/lib64/python2.7/site-packages/markupsafe/__init__.py 25d1b407fd8bc06b05fe2e05576af586 1399560754

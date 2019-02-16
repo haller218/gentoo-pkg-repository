@@ -1,0 +1,1 @@
+-berkdb +caps dlz dnstap doc dnsrps fixed-rrset geoip gost gssapi idn ipv6 json ldap libidn2 libressl lmdb mysql odbc postgres python rpz seccomp selinux ssl static-libs +threads urandom xml +zlib python_targets_python2_7 python_targets_python3_4 python_targets_python3_5 python_targets_python3_6 python_targets_python3_7

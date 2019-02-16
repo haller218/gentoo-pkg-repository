@@ -1,0 +1,22 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xf86-input-libinput-0.28.1
+obj /usr/share/doc/xf86-input-libinput-0.28.1/ChangeLog.bz2 d9afb264bdb26b507e4f023db1d9f626 1546282127
+obj /usr/share/doc/xf86-input-libinput-0.28.1/README.md.bz2 18379e741d2941801185f0ab3657a0de 1546282127
+dir /usr/share/X11
+dir /usr/share/X11/xorg.conf.d
+obj /usr/share/X11/xorg.conf.d/40-libinput.conf 30fbd8d53c103ef29b7336ead05d9eaf 1546282127
+dir /usr/share/man
+dir /usr/share/man/man4
+obj /usr/share/man/man4/libinput.4.bz2 6472ab0b4ee009c7f33f701fb625c661 1546282127
+dir /usr/include
+dir /usr/include/xorg
+obj /usr/include/xorg/libinput-properties.h e886c433724688398878644541124bff 1546282127
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/xorg-libinput.pc 02a3fe708fca602cae88c118c4196e00 1546282127
+dir /usr/lib64/xorg
+dir /usr/lib64/xorg/modules
+dir /usr/lib64/xorg/modules/input
+obj /usr/lib64/xorg/modules/input/libinput_drv.so 9e0d13539d526adfc8563148d3cbef26 1546282128

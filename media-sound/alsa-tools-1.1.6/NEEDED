@@ -1,0 +1,8 @@
+/usr/bin/sbiload libasound.so.2,libpthread.so.0,libc.so.6
+/usr/bin/as10k1 libc.so.6
+/usr/bin/hda-verb libc.so.6
+/usr/bin/us428control libasound.so.2,libstdc++.so.6,libgcc_s.so.1,libc.so.6
+/usr/bin/lo10k1 liblo10k1.so.0,libc.so.6
+/usr/lib64/liblo10k1.so.0.0.0 libpthread.so.0,libc.so.6
+/usr/sbin/dl10k1 libasound.so.2,libc.so.6
+/usr/sbin/ld10k1 libasound.so.2,libpthread.so.0,libc.so.6

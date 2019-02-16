@@ -1,0 +1,13 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xpr-1.0.5
+obj /usr/share/doc/xpr-1.0.5/README.bz2 c246333a44b56c7c9ae7933de8953a43 1545800907
+obj /usr/share/doc/xpr-1.0.5/ChangeLog.bz2 1bf5991a1d2c536e4c7fb531d76874e0 1545800907
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xpr.1.bz2 9c27a8edd657394809bec0348d20ca5f 1545800907
+obj /usr/share/man/man1/xdpr.1.bz2 8d404642fcd42b0ef3af76cde3b5cea6 1545800907
+dir /usr/bin
+obj /usr/bin/xpr a97aca8101306565d6eda577a1c10188 1545800908
+obj /usr/bin/xdpr cac91237a447f8e8d5738cdb7b9622e6 1545800907

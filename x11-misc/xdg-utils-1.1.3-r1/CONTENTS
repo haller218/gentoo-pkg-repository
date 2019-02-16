@@ -1,0 +1,31 @@
+dir /etc
+dir /etc/env.d
+obj /etc/env.d/90xdg-data-base 28b29ad46663dc9e6f573d8787a49bd0 1548947533
+obj /etc/env.d/30xdg-data-local 53f58fcf7c22971d937a7f74205648e1 1548947533
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xdg-utils-1.1.3-r1
+obj /usr/share/doc/xdg-utils-1.1.3-r1/TODO.bz2 4655091db4ca681ed8131d6d88c37ca5 1548947532
+obj /usr/share/doc/xdg-utils-1.1.3-r1/RELEASE_NOTES.bz2 f5b6c3a04da65422cadabc81677719c5 1548947532
+obj /usr/share/doc/xdg-utils-1.1.3-r1/README.xsl.bz2 db639a297c9f44071c98a29fe883681e 1548947533
+obj /usr/share/doc/xdg-utils-1.1.3-r1/README.bz2 f23c77a997e08ce28e1d4879f4440292 1548947532
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xdg-email.1.bz2 12247660e402b0afb55a8cc6e8ea83ec 1548947532
+obj /usr/share/man/man1/xdg-settings.1.bz2 b6c35a68ecdb3c8e20deab4bfb69962c 1548947532
+obj /usr/share/man/man1/xdg-screensaver.1.bz2 07b46602c6a293e0268fdbf4d77addc3 1548947532
+obj /usr/share/man/man1/xdg-open.1.bz2 577a378dde405b6a685396ccda3f01c7 1548947532
+obj /usr/share/man/man1/xdg-mime.1.bz2 854beda0d0e54a24d6cd944eda89a25a 1548947532
+obj /usr/share/man/man1/xdg-icon-resource.1.bz2 f684ac24d1b1d78996c4ea7d4844f417 1548947532
+obj /usr/share/man/man1/xdg-desktop-icon.1.bz2 cfae3747b059d8c3fee87b659facf6cd 1548947532
+obj /usr/share/man/man1/xdg-desktop-menu.1.bz2 a99609708011cc74ce376bc3a0dc0eba 1548947532
+dir /usr/bin
+obj /usr/bin/xdg-settings 6b4ef54c9279fbee8c2c4a3a20f30e3f 1548947532
+obj /usr/bin/xdg-screensaver a285cd3e74f54d44e1d89467815ffc09 1548947532
+obj /usr/bin/xdg-email 0e33c880b39142a0512b312b55478955 1548947532
+obj /usr/bin/xdg-open 9e5c3b2e4a05dfd074a07a13877d98e3 1548947532
+obj /usr/bin/xdg-icon-resource 5c28f8ea91af85ab848b05a05765a603 1548947532
+obj /usr/bin/xdg-mime 95c5583471e2e8a63140d18579df8ba1 1548947532
+obj /usr/bin/xdg-desktop-icon 0e6f565c1b6425a10f1fd50d2cb7ab3e 1548947532
+obj /usr/bin/xdg-desktop-menu c293cb47aa609905c31b25c1ac679d67 1548947532

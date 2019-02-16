@@ -1,0 +1,92 @@
+dir /usr
+dir /usr/share
+dir /usr/share/applications
+obj /usr/share/applications/subl.desktop 753f6568a301f1d0627b5a23db84ba29 1550121370
+dir /usr/share/icons
+dir /usr/share/icons/hicolor
+dir /usr/share/icons/hicolor/256x256
+dir /usr/share/icons/hicolor/256x256/apps
+dir /usr/share/icons/hicolor/128x128
+dir /usr/share/icons/hicolor/128x128/apps
+dir /usr/share/icons/hicolor/48x48
+dir /usr/share/icons/hicolor/48x48/apps
+dir /usr/share/icons/hicolor/32x32
+dir /usr/share/icons/hicolor/32x32/apps
+dir /usr/bin
+dir /opt
+dir /opt/sublime-text3
+obj /opt/sublime-text3/sublime_text 394cae2fb2797193768a32e0a485e9bc 1550121370
+obj /opt/sublime-text3/plugin_host 5ed004cdf072f44ab37b000197e752f8 1550121370
+obj /opt/sublime-text3/crash_reporter e268e513d91d2a6f2ab3056a09895187 1550121370
+obj /opt/sublime-text3/python3.3.zip de5987ee76eda6c296350c8998f11e38 1550121370
+obj /opt/sublime-text3/sublime.py dd03e2ed7b5e909f1866cfa27c4a2a16 1550121370
+obj /opt/sublime-text3/sublime_plugin.py 219469fd4c0a3921cde4af6d376653c3 1550121370
+obj /opt/sublime-text3/changelog.txt ea9e1e8cf1e75cde66f01e1fe6b48b9e 1550121370
+dir /opt/sublime-text3/Icon
+dir /opt/sublime-text3/Icon/48x48
+obj /opt/sublime-text3/Icon/48x48/sublime-text.png fdef159aa10a82314204fb118487d13b 1550121369
+dir /opt/sublime-text3/Icon/128x128
+obj /opt/sublime-text3/Icon/128x128/sublime-text.png 5a46c258a4ed6502f5ea77e38be4b792 1550121369
+dir /opt/sublime-text3/Icon/256x256
+obj /opt/sublime-text3/Icon/256x256/sublime-text.png b024e1b08d747e4f24c0db80456757c4 1550121369
+dir /opt/sublime-text3/Icon/32x32
+obj /opt/sublime-text3/Icon/32x32/sublime-text.png 5e8f8df3764130b58d0a779a230b8f9e 1550121369
+dir /opt/sublime-text3/Icon/16x16
+obj /opt/sublime-text3/Icon/16x16/sublime-text.png 8e677a376c0935c8bca436ea4dfd3c64 1550121369
+dir /opt/sublime-text3/Packages
+obj /opt/sublime-text3/Packages/Perl.sublime-package 45fc35e164baec75dd5a5b43c9106a0c 1550121369
+obj /opt/sublime-text3/Packages/Graphviz.sublime-package 9fd964e4fd471d3a2b272d7229d6037b 1550121369
+obj /opt/sublime-text3/Packages/Git Formats.sublime-package 441292e2d3d7d38614287881393aa4a3 1550121369
+obj /opt/sublime-text3/Packages/XML.sublime-package c2582d4b34a79af9387dd6e117b4790e 1550121369
+obj /opt/sublime-text3/Packages/D.sublime-package c05a5680384621c4fa4647363d8770c5 1550121369
+obj /opt/sublime-text3/Packages/C++.sublime-package 7603c916464a782b02ad50be4d5977c8 1550121369
+obj /opt/sublime-text3/Packages/Ruby.sublime-package 6f4180b6edfd3896d77fbda63a7fbe00 1550121369
+obj /opt/sublime-text3/Packages/Pascal.sublime-package 38bfaa9cede7abe280fffd040798381d 1550121369
+obj /opt/sublime-text3/Packages/Lua.sublime-package ccc4962388d3371c7a46813554225c2b 1550121369
+obj /opt/sublime-text3/Packages/Erlang.sublime-package 0f83de7117f3a16e25048ffeb46f808b 1550121369
+obj /opt/sublime-text3/Packages/Objective-C.sublime-package 44ab6d5539fb1b4a05e5d308bfdd0254 1550121369
+obj /opt/sublime-text3/Packages/Batch File.sublime-package 53593f3ab729a88d40ef43902da3a552 1550121369
+obj /opt/sublime-text3/Packages/YAML.sublime-package 445130554d8d83347f3df34801cd1233 1550121369
+obj /opt/sublime-text3/Packages/Groovy.sublime-package ee3a0447d6f4160b06b331daf1c2de76 1550121369
+obj /opt/sublime-text3/Packages/TCL.sublime-package c05df4b207bf0c9c4932a01f3722970e 1550121369
+obj /opt/sublime-text3/Packages/ShellScript.sublime-package 85f664417a4e919d062538ee4139c43f 1550121369
+obj /opt/sublime-text3/Packages/HTML.sublime-package dca31e1a42bed3e655d2b75ab024fa3e 1550121369
+obj /opt/sublime-text3/Packages/Regular Expressions.sublime-package 8fcd9b114537d578b5f45aed0a6b1688 1550121369
+obj /opt/sublime-text3/Packages/Java.sublime-package 0a221a2707971ffc3867c6ea34a8dfcd 1550121369
+obj /opt/sublime-text3/Packages/AppleScript.sublime-package 071b3c151a5ab00a3ea0fa3fc1dc72b3 1550121369
+obj /opt/sublime-text3/Packages/Language - English.sublime-package 9f97474f9158367e6b1b6ce4899b0c8f 1550121369
+obj /opt/sublime-text3/Packages/Makefile.sublime-package 074c538a63d94f962f386db5547ff3ef 1550121369
+obj /opt/sublime-text3/Packages/Go.sublime-package e6afcbb7444fc80f1ffdf6242b2329f3 1550121369
+obj /opt/sublime-text3/Packages/Scala.sublime-package 7d6d580a368fc059a7565aa9cfd579b5 1550121369
+obj /opt/sublime-text3/Packages/RestructuredText.sublime-package 68494021fde6bc51c9ed2614c26c57f5 1550121369
+obj /opt/sublime-text3/Packages/Default.sublime-package c463b334d1313eb731c37c820f4f09ad 1550121369
+obj /opt/sublime-text3/Packages/JavaScript.sublime-package c06f3cabd6641e8f1d5cc587707df603 1550121369
+obj /opt/sublime-text3/Packages/Rails.sublime-package d26bae962479ab4c3754f62ffb2e64f4 1550121369
+obj /opt/sublime-text3/Packages/Markdown.sublime-package 79273fdb7965b0c03134693eb065bf1c 1550121369
+obj /opt/sublime-text3/Packages/Theme - Default.sublime-package de68bfeb3e56f2844704fd7f26775d2e 1550121369
+obj /opt/sublime-text3/Packages/Lisp.sublime-package 441d5ca5535f1476a39b15866d0d37af 1550121369
+obj /opt/sublime-text3/Packages/Python.sublime-package 193e40608d331b780b017eb6c76c9e1d 1550121369
+obj /opt/sublime-text3/Packages/LaTeX.sublime-package 0e30185ce32006e050980813f7a1ac7f 1550121369
+obj /opt/sublime-text3/Packages/Vintage.sublime-package 2e4915d4140217258c581b05438dde44 1550121369
+obj /opt/sublime-text3/Packages/Color Scheme - Legacy.sublime-package 06e43d44f4765932dd9468413be17f85 1550121369
+obj /opt/sublime-text3/Packages/Rust.sublime-package b71332cf982922532e4f6759aad644fa 1550121369
+obj /opt/sublime-text3/Packages/CSS.sublime-package b23429bbed1caf2a889fad08dd34b63a 1550121369
+obj /opt/sublime-text3/Packages/Matlab.sublime-package 3640721470929f3e165d993993b77b18 1550121369
+obj /opt/sublime-text3/Packages/Color Scheme - Default.sublime-package bba3014c452dbf82ba16f42e3760af45 1550121369
+obj /opt/sublime-text3/Packages/ASP.sublime-package 51246db453ca3d3041ca4951623b5632 1550121369
+obj /opt/sublime-text3/Packages/C#.sublime-package 6d74471ac4fbd7cb5fccb9ae45d51661 1550121369
+obj /opt/sublime-text3/Packages/OCaml.sublime-package d688d41a6b4c9f9488a22b9ecbda53c1 1550121369
+obj /opt/sublime-text3/Packages/R.sublime-package 7cb972d1d0ee56c0cd0d68e25a72991e 1550121369
+obj /opt/sublime-text3/Packages/ActionScript.sublime-package b26cd8c0b97a7cff4a7f870d365e1fd1 1550121369
+obj /opt/sublime-text3/Packages/Clojure.sublime-package 6d196d165ec08f52ac95623326cfc549 1550121369
+obj /opt/sublime-text3/Packages/SQL.sublime-package dc7797d674089ff9ee93b7917bd94c75 1550121369
+obj /opt/sublime-text3/Packages/Textile.sublime-package e2b4db54cec4bef7e6967559a6bdfbf6 1550121369
+obj /opt/sublime-text3/Packages/Text.sublime-package 5f1c959768f393366f84b1952999e350 1550121369
+obj /opt/sublime-text3/Packages/Diff.sublime-package 5ec267c519c3d944cf647cb470df1d4b 1550121369
+obj /opt/sublime-text3/Packages/PHP.sublime-package f129ef774c61e588691c2c4246ace294 1550121369
+obj /opt/sublime-text3/Packages/Haskell.sublime-package e792f2ad9215bcf5c89e5d2305b0f383 1550121369
+sym /usr/bin/subl -> ../../opt/sublime-text3/sublime_text 1550121370
+sym /usr/share/icons/hicolor/32x32/apps/subl.png -> ../../../../../../opt/sublime-text3/Icon/32x32/sublime-text.png 1550121370
+sym /usr/share/icons/hicolor/48x48/apps/subl.png -> ../../../../../../opt/sublime-text3/Icon/48x48/sublime-text.png 1550121370
+sym /usr/share/icons/hicolor/128x128/apps/subl.png -> ../../../../../../opt/sublime-text3/Icon/128x128/sublime-text.png 1550121370
+sym /usr/share/icons/hicolor/256x256/apps/subl.png -> ../../../../../../opt/sublime-text3/Icon/256x256/sublime-text.png 1550121370

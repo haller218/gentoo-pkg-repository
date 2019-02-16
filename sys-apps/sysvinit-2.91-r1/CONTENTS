@@ -1,0 +1,45 @@
+dir /sbin
+obj /sbin/halt 8e7068d5cc98cbd56b107abd1c602e5c 1543535766
+obj /sbin/killall5 44415cfaedf287ed1ef376ce2d1fed87 1543535766
+obj /sbin/runlevel 762c0d099840424506923037d52708ef 1543535766
+obj /sbin/init 8da14e748752cfb38a016529bc4abfbc 1543535766
+sym /sbin/reboot -> halt 1543535764
+sym /sbin/telinit -> init 1543535764
+obj /sbin/bootlogd 40bc83a34f3744fd26669fd85ae79d37 1543535766
+obj /sbin/fstab-decode c20efb20870ca3e14731b6ecc9e0ce17 1543535766
+sym /sbin/poweroff -> halt 1543535764
+obj /sbin/shutdown 65a0583b840fa3092f6d0bac6bf5b328 1543535766
+dir /etc
+obj /etc/inittab 83d8878b8f67915d65c219ffdac66208 1543535765
+dir /usr
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/reboot.8 c110fcf623c40e86c2d2e95786e8b62e 1543535764
+obj /usr/share/man/man8/init.8.bz2 f9a1ff0ad63406013ae5de3c9794ebe7 1543535764
+obj /usr/share/man/man8/shutdown.8.bz2 31d129bbea6c16ba7bc048f86e44a2bb 1543535764
+obj /usr/share/man/man8/halt.8.bz2 16b1a34648d645a796f2eea9dce4d225 1543535764
+obj /usr/share/man/man8/runlevel.8.bz2 3a12fd5633e55f2cb50e6fc7c5fdec4d 1543535764
+obj /usr/share/man/man8/telinit.8 e19260a7fc396a9819e57927b9b4e32f 1543535764
+obj /usr/share/man/man8/fstab-decode.8.bz2 21ea70b46319c0541dcefb5a71ce072f 1543535765
+obj /usr/share/man/man8/killall5.8.bz2 f078a831ccb08f0b433bb1998174d8ec 1543535764
+obj /usr/share/man/man8/bootlogd.8.bz2 e2ad3777cfadacd305356d675b748ce4 1543535765
+obj /usr/share/man/man8/poweroff.8 c110fcf623c40e86c2d2e95786e8b62e 1543535764
+dir /usr/share/man/man5
+obj /usr/share/man/man5/initctl.5.bz2 731ef4249a9dcf37bdb04544cc28dbed 1543535764
+obj /usr/share/man/man5/initscript.5.bz2 5cffed580b9bd3066930e0f896bbbdbd 1543535764
+obj /usr/share/man/man5/inittab.5.bz2 7be9210cc135443464c057b8d2fd5092 1543535764
+dir /usr/share/man/man1
+dir /usr/share/doc
+dir /usr/share/doc/sysvinit-2.91-r1
+obj /usr/share/doc/sysvinit-2.91-r1/Changelog.bz2 26f0e1fd293b515b532f2e01a375bac5 1543535765
+obj /usr/share/doc/sysvinit-2.91-r1/README.bz2 103c1325918ee693d69d40553f0b640b 1543535765
+obj /usr/share/doc/sysvinit-2.91-r1/Install.bz2 93a5c07d7c4c6af0d0fe7eddfc2417f7 1543535765
+obj /usr/share/doc/sysvinit-2.91-r1/Propaganda.bz2 9ae06bcb730db088ad75eaf9d39ebfe4 1543535765
+obj /usr/share/doc/sysvinit-2.91-r1/initscript.sample.bz2 f25db1c54ea95d7d2f0ec9e067209bce 1543535765
+obj /usr/share/doc/sysvinit-2.91-r1/bootlogd.README.bz2 7f0da52be10dd0681d66edb80736eeeb 1543535765
+obj /usr/share/doc/sysvinit-2.91-r1/initctl.bz2 9a17ffeb1f8b1e29a34affa04ad4b0ca 1543535765
+dir /usr/include
+obj /usr/include/initreq.h 65ce7f52ea846ff6cc9795b995f88d82 1543535764
+dir /usr/bin
+dir /bin

@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xprop efe871ee90c24931e0c6477926ec7627 1545800584
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xprop-1.2.3
+obj /usr/share/doc/xprop-1.2.3/ChangeLog.bz2 961d78756a78dc318d4c859528308eb4 1545800583
+obj /usr/share/doc/xprop-1.2.3/README.bz2 63278ade4e5a81cd3cefe709778752c4 1545800583
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xprop.1.bz2 ca3adb09b7a145f7eb9c339b369486d3 1545800583

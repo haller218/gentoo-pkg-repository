@@ -1,0 +1,24 @@
+dir /etc
+dir /etc/wireless-regdb
+dir /etc/wireless-regdb/pubkeys
+obj /etc/wireless-regdb/pubkeys/.keep_net-wireless_crda-0 d41d8cd98f00b204e9800998ecf8427e 1545743611
+dir /lib
+dir /lib/udev
+dir /lib/udev/rules.d
+obj /lib/udev/rules.d/85-regulatory.rules b10dd1ab80741b24c68a96a7ebad56a1 1545743611
+dir /usr
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/regdbdump.8.bz2 d3777f8e0462504900f543c5ade539df 1545743611
+obj /usr/share/man/man8/crda.8.bz2 de4e9e086f51d2c7bdcd05443c863256 1545743611
+dir /usr/sbin
+obj /usr/sbin/regdbdump 96e2676b06d31cbeb67cfe51c9d5a7a0 1545743612
+obj /usr/sbin/crda 94e1bc39be9a5ce39b2592ffe090ad58 1545743612
+dir /usr/include
+dir /usr/include/reglib
+obj /usr/include/reglib/reglib.h 5aaffed69a7151798b94d7123b444f00 1545743611
+obj /usr/include/reglib/regdb.h c0f9ac35a408c8c4ff547a7021883873 1545743611
+obj /usr/include/reglib/nl80211.h 2ad290761ace4ff20f8730977f9f6a7f 1545743611
+dir /usr/lib64
+obj /usr/lib64/libreg.so d6484bd66951a1552c3bbd39d2d463dd 1545743612

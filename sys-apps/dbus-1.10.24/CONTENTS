@@ -1,0 +1,107 @@
+dir /var
+dir /var/lib
+dir /var/lib/dbus
+obj /var/lib/dbus/.keep_sys-apps_dbus-0 d41d8cd98f00b204e9800998ecf8427e 1545708079
+dir /etc
+dir /etc/init.d
+obj /etc/init.d/dbus 779e0690de06451c05371c4fd47c67c2 1545708079
+dir /etc/dbus-1
+dir /etc/dbus-1/system.d
+obj /etc/dbus-1/system.d/.keep_sys-apps_dbus-0 d41d8cd98f00b204e9800998ecf8427e 1545708079
+dir /etc/dbus-1/session.d
+obj /etc/dbus-1/session.d/.keep_sys-apps_dbus-0 d41d8cd98f00b204e9800998ecf8427e 1545708079
+obj /etc/dbus-1/system.conf ba0df1208e214a87771671053c29dbe7 1545708078
+obj /etc/dbus-1/session.conf cc8ea0872ace9945b8fcfc232c316be2 1545708078
+dir /usr
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/dbus-update-activation-environment.1.bz2 ff7f9619a9310de2e55a44b9718acd95 1545708079
+obj /usr/share/man/man1/dbus-uuidgen.1.bz2 1c04f5a75932b638ff33168433395b0b 1545708079
+obj /usr/share/man/man1/dbus-test-tool.1.bz2 c8333bb22254c987dc0b5035c8ba4772 1545708079
+obj /usr/share/man/man1/dbus-send.1.bz2 9c1a7f7448733b40680f6fb2723fe605 1545708079
+obj /usr/share/man/man1/dbus-monitor.1.bz2 df17df53bdb3154b397b602c6d312ad6 1545708079
+obj /usr/share/man/man1/dbus-run-session.1.bz2 6bf8de1adf6169d3863f55371b59f4df 1545708079
+obj /usr/share/man/man1/dbus-launch.1.bz2 bdb13c2f2af41904a6fc8327d784ffc1 1545708079
+obj /usr/share/man/man1/dbus-daemon.1.bz2 257293733944841981ade9ee2fbffcb3 1545708079
+obj /usr/share/man/man1/dbus-cleanup-sockets.1.bz2 ddda972b5d1e522546ad99e4356c9dca 1545708079
+dir /usr/share/doc
+dir /usr/share/doc/dbus-1.10.24
+obj /usr/share/doc/dbus-1.10.24/README.bz2 223b8b18dc3bb4230124a8ebef77f709 1545708079
+obj /usr/share/doc/dbus-1.10.24/TODO.bz2 184746d9efb774bc3a4fe784eba61abc 1545708079
+obj /usr/share/doc/dbus-1.10.24/NEWS.bz2 dc52d7c757228e808848f4eb4abdf015 1545708079
+obj /usr/share/doc/dbus-1.10.24/HACKING.bz2 d299ded31429f05ef7062c1c8d679bf0 1545708079
+obj /usr/share/doc/dbus-1.10.24/ChangeLog.bz2 80e532a74d95c794b8a4d22ac738d363 1545708079
+obj /usr/share/doc/dbus-1.10.24/AUTHORS.bz2 c810b26beebd4bc583da3d356890a23d 1545708079
+obj /usr/share/doc/dbus-1.10.24/system-activation.txt.bz2 2ee28171cb168f21458312f1ad48f76a 1545708079
+obj /usr/share/doc/dbus-1.10.24/README.gentoo 5fa4120ca103cc1ef8118363a91e35d4 1545708079
+dir /usr/share/doc/dbus-1.10.24/html
+obj /usr/share/doc/dbus-1.10.24/html/dbus-uuidgen.1.html 4579e53fd63b085ee3260ca3eedfa29e 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-update-activation-environment.1.html 565ac77229d49f03cf11db4f9b982680 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-test-tool.1.html f0d159cf6caedf777b4b976ec616df13 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-send.1.html 3b1dac9e097082cfcfa7d2faa1194073 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-run-session.1.html 8ae5c5dc61a7715cc3042a9551a4c391 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-monitor.1.html 0efe09c0a2096ec7e9190caf832a9ca8 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-launch.1.html 9c8d334da344149147a2d4ca7440d568 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-daemon.1.html 30def5eb5039cad09084a7f8b759fe5a 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-cleanup-sockets.1.html 6db6642deeac539a7574b472d95fb255 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-tutorial.html 751fcb83db4136346d2331e82b941b58 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-test-plan.html 0ac2036aa7f5a851e6c176a7322de842 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-specification.html 81238858183cac91a026993553c2c6d8 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/dbus-faq.html c842264862d07c332f5d9884cf3f846f 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/diagram.svg 0780bbe3d553cd4d055abf70f759f6bc 1545708079
+obj /usr/share/doc/dbus-1.10.24/html/diagram.png fd03c2cc19d6c3e22794db6e555339da 1545708079
+dir /usr/share/doc/dbus-1.10.24/examples
+obj /usr/share/doc/dbus-1.10.24/examples/GetAllMatchRules.py.bz2 a5f7f6dcfe797eb5e47ae80331d46ab8 1545708078
+obj /usr/share/doc/dbus-1.10.24/examples/example-session-disable-stats.conf.bz2 0b0f7121d2c0f9f5c2024336d377c886 1545708078
+obj /usr/share/doc/dbus-1.10.24/examples/example-system-enable-stats.conf.bz2 5b54c3a2d1beff3e34c1e0c754e3f517 1545708078
+dir /usr/share/dbus-1
+dir /usr/share/dbus-1/system-services
+dir /usr/share/dbus-1/system.d
+dir /usr/share/dbus-1/services
+obj /usr/share/dbus-1/services/.keep_sys-apps_dbus-0 d41d8cd98f00b204e9800998ecf8427e 1545708079
+dir /usr/share/dbus-1/session.d
+obj /usr/share/dbus-1/system.conf 7c556f5f6e4fa1260f357dc9469da35f 1545708078
+obj /usr/share/dbus-1/session.conf b64279d83119ecfbf867a8a0ee9d96fa 1545708078
+dir /usr/libexec
+obj /usr/libexec/dbus-daemon-launch-helper 518465b1858ec56a9bb0dd1d5cacfbba 1545708080
+dir /usr/bin
+obj /usr/bin/dbus-uuidgen 674043dd5463c521af4f2372775adef9 1545708080
+obj /usr/bin/dbus-cleanup-sockets 8958c4db5d17bcf71b391091d5ceeb21 1545708080
+obj /usr/bin/dbus-run-session 1dbf29d0a3ee5fc853849e83a953edca 1545708080
+obj /usr/bin/dbus-update-activation-environment 8a30bcefe3b4b24c0fae8c84d0c7082c 1545708080
+obj /usr/bin/dbus-test-tool 855e9106d8904987a78901f167b41f18 1545708080
+obj /usr/bin/dbus-monitor 617826050aa8ce36c261ecdad77101e6 1545708080
+obj /usr/bin/dbus-send 9b829035c01f47a1418478b70b5748b4 1545708080
+obj /usr/bin/dbus-daemon 53b29b7b95a314e56af62942865dcc29 1545708080
+obj /usr/bin/dbus-launch cc8a67666d885a11dab920b039d19b4e 1545708080
+dir /usr/include
+dir /usr/include/dbus-1.0
+dir /usr/include/dbus-1.0/dbus
+obj /usr/include/dbus-1.0/dbus/dbus-types.h 35fb897060f5c0d55d18dda9048e9aae 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-threads.h ea676b7002c10afe92c71ff1dc81a284 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-syntax.h 9cbd11c92aeb88f4e55a96cb2ebb253a 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-signature.h 08a600fedec41bc980ecfdeba2d9a42c 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-shared.h 2f2a8115aae3bd7cdd7f60430eb8c770 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-server.h e8e05b9ab7f9b42a39221c034f47246d 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-protocol.h 10b7e06d0b382a4b09edbbd79c909c3b 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-pending-call.h 164c47aac69e9a1c1291c73a57f5d0da 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-misc.h d2004f0518d0506d329c02db16d3df26 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-message.h 03bbf1db547e8a70d4fb2f2f68eda821 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-memory.h f904923e10ecbcfcae33ffbe249a0e7a 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-macros.h 4cd800df342e22403a547475fecb7f4b 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-errors.h 91dd91d38e2f1e422d5e7fec40dea57e 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-connection.h 53574842742b77bcf2345177538be900 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-bus.h 4dfdeb4b8f491affbf3027fd2fbbad63 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus-address.h 7be92bba2922e4b63eb847c831e1e2f8 1545708078
+obj /usr/include/dbus-1.0/dbus/dbus.h 487a5572c0414eb7e5f99ba910cc9cb3 1545708078
+dir /usr/lib64
+obj /usr/lib64/libdbus-1.so.3.14.14 3385f3088b558ba8b8a4e29889f1989c 1545708080
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/dbus-1.pc cbe41b02b7ccd32341ac76bf3d60811c 1545708079
+sym /usr/lib64/libdbus-1.so -> libdbus-1.so.3.14.14 1545708078
+sym /usr/lib64/libdbus-1.so.3 -> libdbus-1.so.3.14.14 1545708078
+dir /usr/lib64/dbus-1.0
+dir /usr/lib64/dbus-1.0/include
+dir /usr/lib64/dbus-1.0/include/dbus
+obj /usr/lib64/dbus-1.0/include/dbus/dbus-arch-deps.h 805ada5837cf536450c6fa3359c4e43b 1545708078

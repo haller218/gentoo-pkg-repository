@@ -1,0 +1,1 @@
+-march=native -O0 -pipe -std=gnu++11

@@ -1,0 +1,39 @@
+dir /usr
+dir /usr/include
+dir /usr/include/keybinder-3.0
+obj /usr/include/keybinder-3.0/keybinder.h 39f8b78215473a9f50001b563ddd6700 1545826877
+dir /usr/lib64
+obj /usr/lib64/libkeybinder-3.0.so.0.0.0 3e5277c1abe15e42e878a77c1072568e 1545826880
+sym /usr/lib64/libkeybinder-3.0.so -> libkeybinder-3.0.so.0.0.0 1545826877
+sym /usr/lib64/libkeybinder-3.0.so.0 -> libkeybinder-3.0.so.0.0.0 1545826877
+dir /usr/lib64/girepository-1.0
+obj /usr/lib64/girepository-1.0/Keybinder-3.0.typelib f2cb5348709785602910d3b0ecb14b8c 1545826877
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/keybinder-3.0.pc 348d2e252d0b0550ae213d5ae89ccce9 1545826877
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/keybinder-0.3.2-r300
+obj /usr/share/doc/keybinder-0.3.2-r300/NEWS.bz2 3cfe49f659fef7fa934a596921401a74 1545826879
+obj /usr/share/doc/keybinder-0.3.2-r300/AUTHORS.bz2 2f732ae038bb0da27a2be84d3864e524 1545826879
+obj /usr/share/doc/keybinder-0.3.2-r300/README.bz2 c5dbd7af77442bc205c24cddb55c0e82 1545826879
+dir /usr/share/gtk-doc
+dir /usr/share/gtk-doc/html
+dir /usr/share/gtk-doc/html/keybinder-3.0
+obj /usr/share/gtk-doc/html/keybinder-3.0/object-tree.html a6ebd6f0f75b57c3a00e361d52a4b565 1545826879
+obj /usr/share/gtk-doc/html/keybinder-3.0/keybinder-keybinder.html 4e669737ec33bbdac90133fdbaac1ff5 1545826879
+obj /usr/share/gtk-doc/html/keybinder-3.0/index.html ad540aaca5158d69daf41554c9d7461d 1545826879
+obj /usr/share/gtk-doc/html/keybinder-3.0/deprecated-api-index.html f118293f85fd3557ae9084ed77d8457c 1545826879
+obj /usr/share/gtk-doc/html/keybinder-3.0/ch01.html 14e3c2f327db73b91a4a4d8c7f8e6326 1545826879
+obj /usr/share/gtk-doc/html/keybinder-3.0/api-index-full.html f53bbd2b9c27419a8110706c947a5df1 1545826879
+obj /usr/share/gtk-doc/html/keybinder-3.0/annotation-glossary.html 24958cad372f02492d26d2a20e680e9b 1545826879
+obj /usr/share/gtk-doc/html/keybinder-3.0/keybinder-3.0.devhelp2 17adb76d5155ae7175e14a7b78a58524 1545826877
+obj /usr/share/gtk-doc/html/keybinder-3.0/up.png 93ec432b45970347133504f4dc82fe8d 1545826877
+obj /usr/share/gtk-doc/html/keybinder-3.0/up-insensitive.png b08bcfdf902952a699092ce67df50e92 1545826877
+obj /usr/share/gtk-doc/html/keybinder-3.0/style.css 7ecec4d4ad66d1ea924c1a17b492117e 1545826877
+obj /usr/share/gtk-doc/html/keybinder-3.0/right.png edeff323ae7dfac796b2c5cd332500e9 1545826877
+obj /usr/share/gtk-doc/html/keybinder-3.0/right-insensitive.png 04b99338354aa12993e03f1fbad41d72 1545826877
+obj /usr/share/gtk-doc/html/keybinder-3.0/left.png 7d5aebed7c2f7bda13b5cf6773bd260b 1545826877
+obj /usr/share/gtk-doc/html/keybinder-3.0/left-insensitive.png 6e82ca3fa42b7fa594993cd431b79a48 1545826877
+obj /usr/share/gtk-doc/html/keybinder-3.0/home.png 02ec7cd5cde590eb07ca43b87674ca0a 1545826877
+dir /usr/share/gir-1.0
+obj /usr/share/gir-1.0/Keybinder-3.0.gir 7d4f5a4395ed4947ede25f468195fc0d 1545826877

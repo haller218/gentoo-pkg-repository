@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xrefresh aa8d39be0ba292323bee2cd87b7d2a26 1545800604
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xrefresh-1.0.6
+obj /usr/share/doc/xrefresh-1.0.6/ChangeLog.bz2 2f83f6101274f588ef3457f9df070e88 1545800603
+obj /usr/share/doc/xrefresh-1.0.6/README.bz2 51c72b10932e16b0c6b60c784e4f16e8 1545800603
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xrefresh.1.bz2 c2a1eba1c20bb68a862a292851d58c29 1545800603

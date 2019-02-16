@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xcb-util-xrm-1.3
+obj /usr/share/doc/xcb-util-xrm-1.3/ChangeLog.bz2 440e5fe8bcfafcd0d723ea3a84591abb 1550152977
+obj /usr/share/doc/xcb-util-xrm-1.3/README.bz2 3518d0781dd54ef46deae3a4ba8b8f12 1550152976
+dir /usr/include
+dir /usr/include/xcb
+obj /usr/include/xcb/xcb_xrm.h fa5a08e8c13b5071be9a62c5245f9f9b 1550152976
+dir /usr/lib64
+obj /usr/lib64/libxcb-xrm.so.0.0.0 3b3249da06b0bf17959bb9710bcf0bbe 1550152978
+sym /usr/lib64/libxcb-xrm.so -> libxcb-xrm.so.0.0.0 1550152976
+sym /usr/lib64/libxcb-xrm.so.0 -> libxcb-xrm.so.0.0.0 1550152976
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/xcb-xrm.pc ccf02831471429302885c6a616e21c5a 1550152976

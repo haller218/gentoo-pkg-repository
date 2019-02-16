@@ -1,0 +1,144 @@
+dir /etc
+obj /etc/rmt 9571f0a7864334a6c6bb069f647558fa 1548511412
+dir /bin
+obj /bin/tar b8649bf97586dbb9343bf949d98e5b83 1548511414
+dir /usr
+dir /usr/sbin
+obj /usr/sbin/rmt 9315c38087ee9be8d65be1cb8818d4bc 1548511414
+obj /usr/sbin/restore-tar 3a3a65cd823386997d13938e608f9aca 1548511411
+obj /usr/sbin/backup-tar 653f38ec7ccecd97bad5fdbf4cfc2ec1 1548511411
+obj /usr/sbin/dump-remind edfe7d6049da2ce05fc076261fa55d81 1548511411
+obj /usr/sbin/backup.sh eafd29173f1bac5630312a3aa12c4d7d 1548511411
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/tar-1.31-r1
+obj /usr/share/doc/tar-1.31-r1/THANKS.bz2 30d42df5c02e86b90595bd7590f1c7af 1548511412
+obj /usr/share/doc/tar-1.31-r1/TODO.bz2 4b9b1c01339de5d4d5d4da70c42c891a 1548511412
+obj /usr/share/doc/tar-1.31-r1/NEWS.bz2 41bf50605d8343441db3a9cee383389b 1548511412
+obj /usr/share/doc/tar-1.31-r1/AUTHORS.bz2 4b1cdbae3b6a3ff76e68120cbc08b10e 1548511412
+obj /usr/share/doc/tar-1.31-r1/ChangeLog.bz2 571ae4aa5cd84bcb9a8eff7795138121 1548511412
+obj /usr/share/doc/tar-1.31-r1/README.bz2 b1eba91e4544c8a76264a2f32b6ccbf0 1548511412
+dir /usr/share/locale
+dir /usr/share/locale/zh_TW
+dir /usr/share/locale/zh_TW/LC_MESSAGES
+obj /usr/share/locale/zh_TW/LC_MESSAGES/tar.mo dc4e9ff21a6b9f27b183e82af8e281fa 1548511412
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/tar.mo 5302b85f44f3ec764e2c3706be3e8693 1548511412
+dir /usr/share/locale/vi
+dir /usr/share/locale/vi/LC_MESSAGES
+obj /usr/share/locale/vi/LC_MESSAGES/tar.mo 6ec48d288c5c941b4a7c4601e256c4a0 1548511412
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/tar.mo 72d6f4dc7d1a36b7ce59a9097405799a 1548511412
+dir /usr/share/locale/tr
+dir /usr/share/locale/tr/LC_MESSAGES
+obj /usr/share/locale/tr/LC_MESSAGES/tar.mo 9e9857e08801b9e629826f3010f87bee 1548511412
+dir /usr/share/locale/sv
+dir /usr/share/locale/sv/LC_MESSAGES
+obj /usr/share/locale/sv/LC_MESSAGES/tar.mo 3160baea7863f36b65b4edb17d4d6853 1548511412
+dir /usr/share/locale/sr
+dir /usr/share/locale/sr/LC_MESSAGES
+obj /usr/share/locale/sr/LC_MESSAGES/tar.mo ddc6a19dd2eb6870a6db5cfa09ad3b18 1548511412
+dir /usr/share/locale/sl
+dir /usr/share/locale/sl/LC_MESSAGES
+obj /usr/share/locale/sl/LC_MESSAGES/tar.mo 8dcb767d2c38a7765647cb7400f63fe0 1548511412
+dir /usr/share/locale/sk
+dir /usr/share/locale/sk/LC_MESSAGES
+obj /usr/share/locale/sk/LC_MESSAGES/tar.mo bba846f1ab87bfac26abdb4d448fb018 1548511412
+dir /usr/share/locale/ru
+dir /usr/share/locale/ru/LC_MESSAGES
+obj /usr/share/locale/ru/LC_MESSAGES/tar.mo 33b999fe6945b1aa43734138b7d31d7e 1548511412
+dir /usr/share/locale/ro
+dir /usr/share/locale/ro/LC_MESSAGES
+obj /usr/share/locale/ro/LC_MESSAGES/tar.mo e48b917dafb7906ff98548c78c3b3ec8 1548511412
+dir /usr/share/locale/pt_BR
+dir /usr/share/locale/pt_BR/LC_MESSAGES
+obj /usr/share/locale/pt_BR/LC_MESSAGES/tar.mo af29b7c025bfcf0020f5d5b03a8ee6a9 1548511411
+dir /usr/share/locale/pt
+dir /usr/share/locale/pt/LC_MESSAGES
+obj /usr/share/locale/pt/LC_MESSAGES/tar.mo aac9d5b5ff317decc2080f8bb32509b3 1548511411
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/tar.mo 6a293fe912cde6b50ad1ccb08897ff38 1548511411
+dir /usr/share/locale/nl
+dir /usr/share/locale/nl/LC_MESSAGES
+obj /usr/share/locale/nl/LC_MESSAGES/tar.mo 0264fc53bcb28b4f06176bc73f7e1b6a 1548511411
+dir /usr/share/locale/nb
+dir /usr/share/locale/nb/LC_MESSAGES
+obj /usr/share/locale/nb/LC_MESSAGES/tar.mo 89232c37a4d12168b8365942e4104202 1548511411
+dir /usr/share/locale/ms
+dir /usr/share/locale/ms/LC_MESSAGES
+obj /usr/share/locale/ms/LC_MESSAGES/tar.mo 46bb3c740f95b87673dd42dcecf4d763 1548511411
+dir /usr/share/locale/ky
+dir /usr/share/locale/ky/LC_MESSAGES
+obj /usr/share/locale/ky/LC_MESSAGES/tar.mo 62642e185de7256ee9eead74f189e35a 1548511411
+dir /usr/share/locale/ko
+dir /usr/share/locale/ko/LC_MESSAGES
+obj /usr/share/locale/ko/LC_MESSAGES/tar.mo 95ee2904c64b8acc9f562f72d0f6e012 1548511411
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/tar.mo b34b241c865e19e87908dd76de30636f 1548511411
+dir /usr/share/locale/it
+dir /usr/share/locale/it/LC_MESSAGES
+obj /usr/share/locale/it/LC_MESSAGES/tar.mo f7362c498c9168e72fa474cb938df510 1548511411
+dir /usr/share/locale/id
+dir /usr/share/locale/id/LC_MESSAGES
+obj /usr/share/locale/id/LC_MESSAGES/tar.mo 04e5ab3e10c879096eed0eccd8288c6b 1548511411
+dir /usr/share/locale/hu
+dir /usr/share/locale/hu/LC_MESSAGES
+obj /usr/share/locale/hu/LC_MESSAGES/tar.mo 72e58eef2e4e8316956429a1d9b06aee 1548511411
+dir /usr/share/locale/hr
+dir /usr/share/locale/hr/LC_MESSAGES
+obj /usr/share/locale/hr/LC_MESSAGES/tar.mo 1e128a58042a0f8beae67bdaac149d37 1548511411
+dir /usr/share/locale/gl
+dir /usr/share/locale/gl/LC_MESSAGES
+obj /usr/share/locale/gl/LC_MESSAGES/tar.mo 3d8dea34bd715d05af23fb77cfc12302 1548511411
+dir /usr/share/locale/ga
+dir /usr/share/locale/ga/LC_MESSAGES
+obj /usr/share/locale/ga/LC_MESSAGES/tar.mo 8588758270255dbe4cbb3e134df99392 1548511411
+dir /usr/share/locale/fr
+dir /usr/share/locale/fr/LC_MESSAGES
+obj /usr/share/locale/fr/LC_MESSAGES/tar.mo 09004b2c07c59a95e83aba0ea0d78104 1548511411
+dir /usr/share/locale/fi
+dir /usr/share/locale/fi/LC_MESSAGES
+obj /usr/share/locale/fi/LC_MESSAGES/tar.mo 7fb69f6666fb572472aeef55bf0cf946 1548511411
+dir /usr/share/locale/eu
+dir /usr/share/locale/eu/LC_MESSAGES
+obj /usr/share/locale/eu/LC_MESSAGES/tar.mo 4fba70f7806c459a4b1c6ba4cea48753 1548511411
+dir /usr/share/locale/et
+dir /usr/share/locale/et/LC_MESSAGES
+obj /usr/share/locale/et/LC_MESSAGES/tar.mo 44607a56d5224c0e4474cccdca960804 1548511411
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/tar.mo 569982b80a478dae84e3587055fe80b9 1548511411
+dir /usr/share/locale/eo
+dir /usr/share/locale/eo/LC_MESSAGES
+obj /usr/share/locale/eo/LC_MESSAGES/tar.mo 767c0a0bd6ae33ba9acf82f7c3ba0fc8 1548511411
+dir /usr/share/locale/el
+dir /usr/share/locale/el/LC_MESSAGES
+obj /usr/share/locale/el/LC_MESSAGES/tar.mo 7cf9af18e03977a636fad6e43e9d5b0f 1548511411
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/tar.mo 43dbbf5c8e1dc0550f87ce4a96f90736 1548511411
+dir /usr/share/locale/da
+dir /usr/share/locale/da/LC_MESSAGES
+obj /usr/share/locale/da/LC_MESSAGES/tar.mo f862825f2165fd15a33a85007525786e 1548511411
+dir /usr/share/locale/cs
+dir /usr/share/locale/cs/LC_MESSAGES
+obj /usr/share/locale/cs/LC_MESSAGES/tar.mo cefac02acac43f5d5e5b812e137c252d 1548511411
+dir /usr/share/locale/ca
+dir /usr/share/locale/ca/LC_MESSAGES
+obj /usr/share/locale/ca/LC_MESSAGES/tar.mo dcbcb30ecaa35db707d50b750adabc68 1548511411
+dir /usr/share/locale/bg
+dir /usr/share/locale/bg/LC_MESSAGES
+obj /usr/share/locale/bg/LC_MESSAGES/tar.mo dcd490a49bbfdef33d036b00e842efb8 1548511411
+dir /usr/share/info
+obj /usr/share/info/tar.info-2.bz2 3628b21c921da47a8f26bae874df1e41 1548511411
+obj /usr/share/info/tar.info.bz2 4ecb8a8396d33e73f7f0ab7a64bc405e 1548511411
+obj /usr/share/info/tar.info-1.bz2 4c3c80eddc86bea0484ac75b507e4104 1548511411
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/rmt.8.bz2 50aa3b8b6de7ae21f0142997567e5a6a 1548511411
+dir /usr/share/man/man1
+obj /usr/share/man/man1/tar.1.bz2 da25649c8ada52dc8bb1ff2d7706a642 1548511411

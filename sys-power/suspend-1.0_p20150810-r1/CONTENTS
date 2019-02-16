@@ -1,0 +1,27 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/suspend
+obj /usr/lib64/suspend/resume 8ba0154af130e07520e3597e1e5eb397 1549217617
+dir /usr/sbin
+obj /usr/sbin/s2both 96c98cd17cc2bf1a5059d7c311286c70 1549217617
+obj /usr/sbin/suspend-keygen e45848f0155ca7141b1efb88dc8c806a 1549217617
+obj /usr/sbin/s2ram 6005d4f3ec0f77ccf03e83e71dcf5a7c 1549217617
+obj /usr/sbin/s2disk 86029fdf2828f4daa5b4f3a3800db6ef 1549217617
+obj /usr/sbin/swap-offset e01b139efbe728a84cbba6dd28100ba4 1549217617
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/suspend-1.0_p20150810-r1
+obj /usr/share/doc/suspend-1.0_p20150810-r1/README.s2ram-whitelist.bz2 38dff866ec81d6ab0659de9b1dc12442 1549217616
+obj /usr/share/doc/suspend-1.0_p20150810-r1/README.encryption.bz2 7ada5f115cc26b1aa6122e47bd23e3bf 1549217616
+obj /usr/share/doc/suspend-1.0_p20150810-r1/README.bz2 10296e905e2a20b0b00bd3c3d6072f60 1549217616
+obj /usr/share/doc/suspend-1.0_p20150810-r1/HOWTO.bz2 1e9288500e6f0122980b98a0c8fbe6d6 1549217616
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/swap-offset.8.bz2 a503b2264eb87a54106b98f4357e3d3f 1549217616
+obj /usr/share/man/man8/s2ram.8.bz2 354d16b49a3662f27975df8b387fdd13 1549217616
+obj /usr/share/man/man8/s2disk.8.bz2 326b925621b6c6f3c7a5d850f470a576 1549217616
+obj /usr/share/man/man8/suspend-keygen.8.bz2 c6ffb6e4d1fde47e48e9464c21623f83 1549217616
+dir /usr/share/man/man5
+obj /usr/share/man/man5/suspend.conf.5.bz2 bad7739218ef8fa29b4d4458f50b1f33 1549217616
+dir /etc
+obj /etc/suspend.conf c6832fe46c0bc15d11a6e196ad722439 1549217616

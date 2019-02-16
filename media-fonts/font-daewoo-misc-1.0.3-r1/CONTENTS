@@ -1,0 +1,10 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-daewoo-misc-1.0.3-r1
+obj /usr/share/doc/font-daewoo-misc-1.0.3-r1/ChangeLog.bz2 2489aa26e02dc022f12cd7337716de12 1545801351
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/hanglm24.pcf.gz 9f7a8c87cc0f03308a457909585f76c3 1545801351
+obj /usr/share/fonts/misc/hanglm16.pcf.gz dcee2897c89fe18b8bda293a007c34ae 1545801351
+obj /usr/share/fonts/misc/hanglg16.pcf.gz 8bf99b01c4946e75c48641c603e6d5c8 1545801351

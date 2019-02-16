@@ -1,0 +1,1 @@
+dev-libs/icu:0/63.1= x11-libs/libX11 x11-libs/libXext media-libs/glm dev-util/ninja >=dev-util/cmake-3.9.6

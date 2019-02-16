@@ -1,0 +1,13 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/imlib2_loaders-1.5.1
+obj /usr/share/doc/imlib2_loaders-1.5.1/README.in.bz2 2c85731b937fdc6fc4d814bf3c965de2 1548475111
+obj /usr/share/doc/imlib2_loaders-1.5.1/ChangeLog.bz2 f93335719ee04be27de75e65a995c3cc 1548475111
+obj /usr/share/doc/imlib2_loaders-1.5.1/AUTHORS.bz2 4df550d45c3e23984a8a075c6c14d4ae 1548475111
+obj /usr/share/doc/imlib2_loaders-1.5.1/README.bz2 d10f17b11fda975edb623406e429ff57 1548475111
+dir /usr/lib64
+dir /usr/lib64/imlib2
+dir /usr/lib64/imlib2/loaders
+obj /usr/lib64/imlib2/loaders/ico.so 6d57d337da0a4aaf2dccea9f3d55da66 1548475112
+obj /usr/lib64/imlib2/loaders/ani.so ee0ae0208575fa060c374620148272a1 1548475112

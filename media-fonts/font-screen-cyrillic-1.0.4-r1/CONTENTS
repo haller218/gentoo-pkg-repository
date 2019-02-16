@@ -1,0 +1,9 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-screen-cyrillic-1.0.4-r1
+obj /usr/share/doc/font-screen-cyrillic-1.0.4-r1/ChangeLog.bz2 6be846686fc1cacc2bacb851107da6ab 1545801483
+dir /usr/share/fonts
+dir /usr/share/fonts/cyrillic
+obj /usr/share/fonts/cyrillic/screen8x16.pcf.gz 8582bd63bc9dd1dab133a87a771f507b 1545801483
+obj /usr/share/fonts/cyrillic/screen8x16b.pcf.gz 2f7d11060e4ce491be1ad85adf2d852e 1545801483

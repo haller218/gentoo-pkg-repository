@@ -1,0 +1,1 @@
+media-libs/freetype:2[abi_x86_64(-)] app-arch/bzip2[abi_x86_64(-)] sys-devel/gettext x11-libs/libX11[abi_x86_64(-)] x11-libs/libXext[abi_x86_64(-)] sys-libs/zlib[abi_x86_64(-)] virtual/pkgconfig[abi_x86_64(-)] x11-base/xorg-proto

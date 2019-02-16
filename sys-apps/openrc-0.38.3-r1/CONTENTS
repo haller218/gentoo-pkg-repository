@@ -1,0 +1,347 @@
+dir /sbin
+obj /sbin/rc df6a00a00ee9c76e84ef37abd9a01399 1544745953
+obj /sbin/openrc-shutdown 01a7ff140e175df0c5fdd1d69613f75d 1544745953
+obj /sbin/runscript ac23c72644e41a27435bc909b5120108 1544745953
+obj /sbin/openrc df6a00a00ee9c76e84ef37abd9a01399 1544745953
+obj /sbin/rc-update cb1d197aa61b8c0a8b2050359429dc3a 1544745953
+obj /sbin/rc-service 296ba836fbcf7f2e1be6e36afc552494 1544745953
+obj /sbin/openrc-init 2356c6d11ea00430f01cb99589dcf60a 1544745953
+obj /sbin/start-stop-daemon c01949cf61c640a1a0ac20775db0d891 1544745953
+obj /sbin/openrc-run ac23c72644e41a27435bc909b5120108 1544745953
+obj /sbin/supervise-daemon 2b96bb98cb079012aa5e044653bdbf69 1544745953
+dir /lib64
+obj /lib64/librc.so.1 fd9322846509289e776e58762c8a6465 1544745953
+obj /lib64/libeinfo.so.1 8f77631efcea51ca5ff484bd12e0dc25 1544745953
+sym /lib64/libeinfo.so -> libeinfo.so.1 1544745944
+dir /etc
+dir /etc/pam.d
+obj /etc/pam.d/start-stop-daemon 4fd1c2439b3bf3d91e5a7be7101a1544 1544745947
+obj /etc/pam.d/supervise-daemon 4fd1c2439b3bf3d91e5a7be7101a1544 1544745948
+dir /etc/sysctl.d
+obj /etc/sysctl.d/README 06447156223f0f9a93f095ddd7b043b4 1544745946
+dir /etc/init.d
+obj /etc/init.d/consolefont 5796dca63623c064742d913196f46917 1544745943
+obj /etc/init.d/mtab 0986d6995db34a0d1c2a1c9accb2eddd 1544745943
+obj /etc/init.d/netmount 19bfe6522edfc425618e513e4288f14b 1544745943
+obj /etc/init.d/procfs 09a1e89e75e2ee15b8379ced3c84bfd4 1544745943
+obj /etc/init.d/binfmt 5f1adaa7c69dc9fa47287de66372ef9e 1544745943
+obj /etc/init.d/agetty a789089797c9aecd5cb697a5e34ba123 1544745943
+obj /etc/init.d/mount-ro f69f9f7d4342a10dd832d34afc09f64c 1544745943
+obj /etc/init.d/urandom e98239f4c601263c91bae7db7200ca28 1544745943
+obj /etc/init.d/killprocs 6a4fb9d77c51f0c85cfc39837980f620 1544745943
+obj /etc/init.d/bootmisc f4c38d11f906cadd2c330f9c9c6d1501 1544745943
+obj /etc/init.d/hostname b476e6f0140b3e6c7ccad05f2fb0a709 1544745943
+obj /etc/init.d/savecache 95d6ca1674ffd029be6572fc65c810b0 1544745943
+obj /etc/init.d/sysfs 6c813c913098ba8c473b074df0cb0daa 1544745943
+obj /etc/init.d/swap 8fb391541ab1d17e259a7ada9ddbc038 1544745943
+obj /etc/init.d/termencoding ffd3915a09d1e42e63c757e032d42925 1544745943
+obj /etc/init.d/loopback ad811880d17938f6968aa77a05918b1c 1544745943
+obj /etc/init.d/cgroups 83c4f14a791b5285307d770fc5d733cb 1544745943
+obj /etc/init.d/localmount 5075b6497a023c6ec6b6f660c046cac3 1544745943
+obj /etc/init.d/net-online e3a9f3bb0850d8551bee8d0782960bd4 1544745943
+obj /etc/init.d/hwclock 24f22f6c42801380547ca551a19f7ac0 1544745943
+obj /etc/init.d/osclock 5b15ac18f632cd5b1bd5e08158b6631f 1544745943
+obj /etc/init.d/dmesg 158047dfe431636d8b652cb75060d527 1544745943
+obj /etc/init.d/root ab02dd828d49d7a76dab36ab53f09e8a 1544745943
+obj /etc/init.d/keymaps 75b1b1944e01b9ef24de122e3aded751 1544745943
+obj /etc/init.d/runsvdir dddb3a689693bc1c011737a263aaf757 1544745943
+obj /etc/init.d/fsck 181e99cbc9c6164c6d629b41d96f2e42 1544745943
+obj /etc/init.d/s6-svscan 8b55bfa82fffb6abb76c56ba44c799f2 1544745943
+obj /etc/init.d/devfs 637165ecc9ed2f9e2de409aa6f1d1047 1544745943
+obj /etc/init.d/swclock 36e3ee8079cfbb73b40b2b548f6d9005 1544745943
+obj /etc/init.d/modules 8d7ac24aa26c0489952ff5b5ea85ccb4 1544745943
+obj /etc/init.d/sysctl 457e18c72eeaf18c439ea2ac28791d4a 1544745943
+obj /etc/init.d/numlock d9761070cf7979571792ee2d2fb13b17 1544745943
+obj /etc/init.d/local a027ed94f2f9f432a2af821180a3389e 1544745943
+dir /etc/conf.d
+obj /etc/conf.d/consolefont ce3831756a30655b5367b08e42f2e344 1544745943
+obj /etc/conf.d/mtab 746d6067a58ddc25cf78495b66964ee4 1544745943
+obj /etc/conf.d/netmount 1e20897d968281a9e7fdbf733bbd6a92 1544745943
+obj /etc/conf.d/agetty c47f1788107a520095374a4190cf04a1 1544745943
+obj /etc/conf.d/urandom cb18980ead0cb47f1de37ef70531e8e7 1544745943
+obj /etc/conf.d/killprocs 44314ec063816d36b2ccace42c1bcf00 1544745943
+obj /etc/conf.d/bootmisc 51f757e39ddb0239aea1ec6e7b33119c 1544745943
+obj /etc/conf.d/hostname 16761fd9dca60cb988f2835a479f5488 1544745943
+obj /etc/conf.d/swap e434325bf3e260a65007ea6f87fd3239 1544745943
+obj /etc/conf.d/localmount 8165c4142ac7ad322a82a708da998f78 1544745943
+obj /etc/conf.d/net-online c2de21957dca2a6edef00153523ce25b 1544745943
+obj /etc/conf.d/hwclock 4d2ca100708dddac4c3ce821a61a4489 1544745943
+obj /etc/conf.d/dmesg 4ddc7453426c2ded12a8c5e9c30cd3d4 1544745943
+obj /etc/conf.d/keymaps c8fa9256b5a7b70c4dd473c6062b2739 1544745947
+obj /etc/conf.d/fsck 3fee1b77d7a24e665229df4ad45d06e8 1544745943
+obj /etc/conf.d/devfs f71c6a3ade45269292eac24605ee3266 1544745943
+obj /etc/conf.d/modules 860f41f1832aded458fa2e7fb711aaf5 1544745943
+dir /etc/local.d
+obj /etc/local.d/README 118d99b2a539a72727bc97e39deb19f0 1544745943
+obj /etc/rc.conf b83716f850cd60666d0497151231c51d 1545625808
+dir /etc/logrotate.d
+obj /etc/logrotate.d/openrc d83df5513f08f09fa9e7353327701bf7 1544745947
+dir /lib
+dir /lib/rc
+dir /lib/rc/sbin
+obj /lib/rc/sbin/mark_service_crashed 421469d1670c813972bed752a7b93842 1544745953
+obj /lib/rc/sbin/mark_service_stopping 421469d1670c813972bed752a7b93842 1544745953
+obj /lib/rc/sbin/mark_service_inactive 421469d1670c813972bed752a7b93842 1544745953
+obj /lib/rc/sbin/rc-abort 337541d0debd61fe42731cb0e4b16e50 1544745953
+obj /lib/rc/sbin/mark_service_wasinactive 421469d1670c813972bed752a7b93842 1544745953
+obj /lib/rc/sbin/mark_service_starting 421469d1670c813972bed752a7b93842 1544745953
+obj /lib/rc/sbin/mark_service_started 421469d1670c813972bed752a7b93842 1544745953
+obj /lib/rc/sbin/mark_service_failed 421469d1670c813972bed752a7b93842 1544745953
+obj /lib/rc/sbin/mark_service_hotplugged 421469d1670c813972bed752a7b93842 1544745953
+obj /lib/rc/sbin/swclock f3858c73293aca9006ca5b83dce129f8 1544745953
+obj /lib/rc/sbin/mark_service_stopped 421469d1670c813972bed752a7b93842 1544745953
+dir /lib/rc/sh
+obj /lib/rc/sh/binfmt.sh 009c4e49cb38be370ab715100f2db03a 1544745944
+obj /lib/rc/sh/start-stop-daemon.sh c572dde8b0b53fb201718a7b50e5951e 1544745944
+obj /lib/rc/sh/rc-mount.sh 236f2ee9bae5392e56e41bfa24bfc486 1544745944
+obj /lib/rc/sh/cgroup-release-agent.sh e34701ae0e43c6cfcee9b1332ea28253 1544745944
+obj /lib/rc/sh/supervise-daemon.sh 40cab3501c5562246b34ae1870f12cd6 1544745944
+obj /lib/rc/sh/gendepends.sh 3104c1ada6d367fa1054f7e417326510 1544745944
+obj /lib/rc/sh/migrate-to-run.sh e5d75b43e0232876954fd355a5b42976 1544745944
+obj /lib/rc/sh/openrc-run.sh a0e946ffaa4cde723efd72eb75a9ec11 1544745944
+obj /lib/rc/sh/s6.sh 2660df407f23d91baee6f679d52f637d 1544745944
+obj /lib/rc/sh/rc-functions.sh f67c5341c62ad4a305700c760e25e880 1544745944
+obj /lib/rc/sh/init.sh 5641ab3c642e692c17f7daa7e4c19c0c 1544745944
+obj /lib/rc/sh/rc-cgroup.sh 2714def4bfb97376bcf2948e3b0690b6 1544745944
+obj /lib/rc/sh/init-early.sh 8da85cef1ec7029b7017c871c859f463 1544745944
+obj /lib/rc/sh/runit.sh 31805cc9c4ef480991fc87d55749b822 1544745944
+obj /lib/rc/sh/functions.sh cb516f1a8afff06c22bc5743c2a08a23 1544745944
+dir /lib/rc/tmp
+obj /lib/rc/tmp/.keep_sys-apps_openrc-0 d41d8cd98f00b204e9800998ecf8427e 1544745947
+obj /lib/rc/version e06445d807483af334eb98d572cdd3f5 1544745942
+dir /lib/rc/bin
+obj /lib/rc/bin/veinfo d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/save_options 725e32743560739eff050a9569202b27 1544745953
+obj /lib/rc/bin/service_wasinactive 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/eval_ecolors d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/eoutdent d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/veindent d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/on_ac_power a672a8f3e6a83c88024d1a597db2200a 1544745944
+obj /lib/rc/bin/mountinfo 2af5a456167e4df53fdcea8ba31f25ef 1544745953
+obj /lib/rc/bin/checkpath bc2dfccda98119155c18f67a13f668d0 1544745953
+obj /lib/rc/bin/rc-sstat 77d2cf3499e394b9364568c7da1f62ad 1544745944
+obj /lib/rc/bin/vebegin d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/ewarn d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/is_newer_than a4be934966c19258f65d9716db59ece9 1544745953
+obj /lib/rc/bin/vewend d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/einfon d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/ewend d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/eerrorn d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/ebegin d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/einfo d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/kill_all 5cd3229e8505ac0ea48451cf8aa47bcb 1544745953
+obj /lib/rc/bin/rc-depend 171fd3dd316d5d91607dbca6312ebb15 1544745953
+obj /lib/rc/bin/ewaitfile d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/is_older_than e1eaba647579b705a17fe9c1f9d60b7f 1544745953
+obj /lib/rc/bin/vewarn d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/eerror d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/eindent d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/service_started 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/service_crashed 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/veoutdent d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/service_set_value 725e32743560739eff050a9569202b27 1544745953
+obj /lib/rc/bin/service_stopping 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/service_stopped 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/service_starting 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/ewarnn d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/service_hotplugged 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/veend d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/service_inactive 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/eend d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/get_options 725e32743560739eff050a9569202b27 1544745953
+obj /lib/rc/bin/service_get_value 725e32743560739eff050a9569202b27 1544745953
+obj /lib/rc/bin/service_started_daemon 3753293075083520ff1088775f7c3566 1544745953
+obj /lib/rc/bin/shell_var 697e7cfa6cea16bdc447583f89332229 1544745953
+obj /lib/rc/bin/esyslog d06ab9a24c6153c1191e3f6dcf79204f 1544745953
+obj /lib/rc/bin/fstabinfo 0337d4b33d4d8573b9a91a9f78ee4acd 1544745953
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/openrc.pc 35c14135c68c8f31ab6614eb481af094 1544745946
+obj /usr/lib64/pkgconfig/einfo.pc ee44952a106e2349e03bf530a2db313b 1544745946
+obj /usr/lib64/librc.so 5b13ef960303bc8de1d34c75641529ce 1544745947
+obj /usr/lib64/libeinfo.so 5d37294a56e115a8a638b7ee61f610bf 1544745947
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man3
+obj /usr/share/man/man3/rc_service.3.bz2 48a842381092de9f0570ffbc7edeb82d 1544745943
+sym /usr/share/man/man3/rc_services_scheduled.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_started_daemon.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_schedule_start.3.bz2 -> rc_service.3.bz2 1544745952
+obj /usr/share/man/man3/rc_stringlist.3.bz2 60711d50c4f1c0b653e7503896da0016 1544745943
+sym /usr/share/man/man3/rc_service_resolve.3.bz2 -> rc_service.3.bz2 1544745951
+obj /usr/share/man/man3/rc_config.3.bz2 384714f602eea0c1ce0bbb416bc47d94 1544745943
+obj /usr/share/man/man3/rc_find_pids.3.bz2 06df10a8f8fc08bcb61d9c138d93e4f9 1544745943
+sym /usr/share/man/man3/rc_service_add.3.bz2 -> rc_service.3.bz2 1544745951
+obj /usr/share/man/man3/einfo.3.bz2 f892bd9ebbcb15aa9af05c6fe926036d 1544745943
+sym /usr/share/man/man3/ebracket.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/ebegin.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/eerrorx.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_exists.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/einfon.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/ewendv.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_delete.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_schedule_clear.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/ebeginn.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/rc_stringlist_delete.3.bz2 -> rc_stringlist.3.bz2 1544745951
+obj /usr/share/man/man3/rc_deptree.3.bz2 fc617dc107d92285d4e7146072ab9c8f 1544745943
+sym /usr/share/man/man3/rc_service_in_runlevel.3.bz2 -> rc_service.3.bz2 1544745951
+obj /usr/share/man/man3/rc_plugin_hook.3.bz2 1804ef15718ab2ed2516e47078b6b970 1544745943
+sym /usr/share/man/man3/einfovn.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_mark.3.bz2 -> rc_service.3.bz2 1544745952
+sym /usr/share/man/man3/rc_service_value_get.3.bz2 -> rc_service.3.bz2 1544745951
+obj /usr/share/man/man3/rc_runlevel.3.bz2 7561c4b9b030e8635b929ca2007e2fbf 1544745943
+sym /usr/share/man/man3/rc_deptree_order.3.bz2 -> rc_deptree.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_daemon_set.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/ewarnx.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_plugable.3.bz2 -> rc_service.3.bz2 1544745952
+sym /usr/share/man/man3/rc_service_daemons_crashed.3.bz2 -> rc_service.3.bz2 1544745952
+sym /usr/share/man/man3/rc_service_extra_commands.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/ebeginvn.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/eerrorn.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/ebeginv.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/eindent.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/eendv.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_state.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/rc_runlevel_starting.3.bz2 -> rc_runlevel.3.bz2 1544745951
+sym /usr/share/man/man3/rc_stringlist_sort.3.bz2 -> rc_stringlist.3.bz2 1544745952
+sym /usr/share/man/man3/rc_config_value.3.bz2 -> rc_config.3.bz2 1544745952
+sym /usr/share/man/man3/rc_deptree_depends.3.bz2 -> rc_deptree.3.bz2 1544745951
+sym /usr/share/man/man3/eoutdentv.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/rc_stringlist_free.3.bz2 -> rc_stringlist.3.bz2 1544745951
+sym /usr/share/man/man3/rc_config_list.3.bz2 -> rc_config.3.bz2 1544745951
+sym /usr/share/man/man3/rc_services_in_state.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/ewend.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/eend.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/eoutdent.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/eprefix.3.bz2 -> einfo.3.bz2 1544745952
+sym /usr/share/man/man3/rc_deptree_depend.3.bz2 -> rc_deptree.3.bz2 1544745951
+sym /usr/share/man/man3/rc_deptree_free.3.bz2 -> rc_deptree.3.bz2 1544745951
+sym /usr/share/man/man3/rc_services_scheduled_by.3.bz2 -> rc_service.3.bz2 1544745952
+sym /usr/share/man/man3/eerror.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_stringlist_addu.3.bz2 -> rc_stringlist.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_value_set.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/ewarnv.3.bz2 -> einfo.3.bz2 1544745951
+dir /usr/share/man/man8
+obj /usr/share/man/man8/openrc-shutdown.8.bz2 c1c86fc5ec997aba6bd4aceb6ddecb5f 1544745944
+obj /usr/share/man/man8/openrc.8.bz2 f1c8151dcdd1b7086ca2a71ea88a433b 1544745944
+obj /usr/share/man/man8/supervise-daemon.8.bz2 1b26c3080a034637144446441caf8949 1544745944
+obj /usr/share/man/man8/rc-update.8.bz2 a1c2238c37b266a79e6467d10f7ffd2e 1544745944
+obj /usr/share/man/man8/rc-service.8.bz2 51ccfee14bc867f8f78aa77f4a25ccc3 1544745943
+obj /usr/share/man/man8/start-stop-daemon.8.bz2 d5ec7e37569a9ef21497d3e9d303752b 1544745944
+obj /usr/share/man/man8/rc-status.8.bz2 087827955e242897c36551bf4225f820 1544745944
+obj /usr/share/man/man8/rc-sstat.8.bz2 6bcfe1479bff9f659e2bf49fc6006ad2 1544745944
+obj /usr/share/man/man8/openrc-init.8.bz2 5ca74393e17e3e15f4aef45279f70883 1544745944
+obj /usr/share/man/man8/openrc-run.8.bz2 3ac7d14fe56e9c9ac04b06a165c4b33d 1544745944
+dir /usr/share/bash-completion
+dir /usr/share/bash-completion/completions
+obj /usr/share/bash-completion/completions/openrc-service-script 5f818e8d1a6b94148a67b97566255225 1544745946
+obj /usr/share/bash-completion/completions/rc-status aec2a7868d28d32b13d50603bf324e36 1544745946
+obj /usr/share/bash-completion/completions/openrc 903c0bbe591cfcf888990e45d6d2316f 1544745946
+obj /usr/share/bash-completion/completions/rc-update a5870a450daef131c5ac899c827e45bd 1544745946
+obj /usr/share/bash-completion/completions/rc-service c31a6caaa3459f37d457be25f86ea358 1544745946
+dir /usr/share/zsh
+dir /usr/share/zsh/site-functions
+obj /usr/share/zsh/site-functions/_rc-status bf6b8b94d7450b3f5fc33f002c2d238e 1544745947
+obj /usr/share/zsh/site-functions/_rc-update 480790b994942e7d832d5135253168ff 1544745947
+obj /usr/share/zsh/site-functions/_rc-service fb609056e78dc1fe9544feb88bb15b92 1544745947
+obj /usr/share/zsh/site-functions/_openrc 68d304a4feb0b15fa3406cda439da1fe 1544745947
+dir /usr/share/openrc
+dir /usr/share/openrc/support
+dir /usr/share/openrc/support/openvpn
+obj /usr/share/openrc/support/openvpn/down.sh df0f086d13d42c4c0076008468a14540 1544745946
+obj /usr/share/openrc/support/openvpn/up.sh 2a38ce0c9ded9922a705d3164489c240 1544745946
+obj /usr/share/openrc/support/openvpn/README.md 6b444e520409af644059b37451868660 1544745946
+dir /usr/share/openrc/support/deptree2dot
+obj /usr/share/openrc/support/deptree2dot/README.md cff4ee9cad95827b03213d177c0da4d7 1544745946
+obj /usr/share/openrc/support/deptree2dot/deptree2dot 9207155827d0ca253199ec73d3a0408f 1544745946
+dir /usr/share/openrc/support/init.d.examples
+obj /usr/share/openrc/support/init.d.examples/wpa_supplicant d8417c9a7caa2a4139c0e0434e55cc25 1544745946
+obj /usr/share/openrc/support/init.d.examples/polkitd 507b4e947c9df55c8e3765ace8f7d9dd 1544745946
+obj /usr/share/openrc/support/init.d.examples/avahi-dnsconfd 440382f85e01999c43849234591a4d3e 1544745946
+obj /usr/share/openrc/support/init.d.examples/hald 4c0ab7fcb1ff6976369032a41425c7af 1544745946
+obj /usr/share/openrc/support/init.d.examples/sshd d472ac3c063212dca45ec681250011f6 1544745946
+obj /usr/share/openrc/support/init.d.examples/openvpn f7731828d96ba036a447ba280930ff26 1544745946
+obj /usr/share/openrc/support/init.d.examples/ntpd 3843c16046ad5bfc7dd058cfec2d0692 1544745946
+obj /usr/share/openrc/support/init.d.examples/README.md fde10e2189ab4c57632ecf627595acc0 1544745946
+obj /usr/share/openrc/support/init.d.examples/avahid 9abe6de3792ace422507ba4c1dd8c6fb 1544745946
+obj /usr/share/openrc/support/init.d.examples/dbus 8fd08f16ee90ec52ba68de4327b5ab00 1544745946
+obj /usr/share/openrc/support/init.d.examples/named b13fbfb55bbb2f2defef80648dcad604 1544745946
+obj /usr/share/openrc/support/init.d.examples/dhcpcd 57a2c365352a3ffa572cfe7e7121960b 1544745946
+dir /usr/share/openrc/support/sysvinit
+obj /usr/share/openrc/support/sysvinit/inittab 27ac9bea071d250b0f43d3906edd2f75 1544745946
+obj /usr/share/openrc/support/sysvinit/README.md cd99890d6c6d180513523a6c47fae07f 1544745946
+dir /usr/share/openrc/runlevels
+dir /usr/share/openrc/runlevels/sysinit
+sym /usr/share/openrc/runlevels/sysinit/sysfs -> /etc/init.d/sysfs 1544745947
+sym /usr/share/openrc/runlevels/sysinit/cgroups -> /etc/init.d/cgroups 1544745947
+sym /usr/share/openrc/runlevels/sysinit/dmesg -> /etc/init.d/dmesg 1544745947
+sym /usr/share/openrc/runlevels/sysinit/devfs -> /etc/init.d/devfs 1544745947
+dir /usr/share/openrc/runlevels/nonetwork
+sym /usr/share/openrc/runlevels/nonetwork/local -> /etc/init.d/local 1544745947
+dir /usr/share/openrc/runlevels/boot
+sym /usr/share/openrc/runlevels/boot/mtab -> /etc/init.d/mtab 1544745947
+sym /usr/share/openrc/runlevels/boot/procfs -> /etc/init.d/procfs 1544745947
+sym /usr/share/openrc/runlevels/boot/binfmt -> /etc/init.d/binfmt 1544745947
+sym /usr/share/openrc/runlevels/boot/urandom -> /etc/init.d/urandom 1544745947
+sym /usr/share/openrc/runlevels/boot/bootmisc -> /etc/init.d/bootmisc 1544745947
+sym /usr/share/openrc/runlevels/boot/hostname -> /etc/init.d/hostname 1544745947
+sym /usr/share/openrc/runlevels/boot/swap -> /etc/init.d/swap 1544745947
+sym /usr/share/openrc/runlevels/boot/termencoding -> /etc/init.d/termencoding 1544745947
+sym /usr/share/openrc/runlevels/boot/loopback -> /etc/init.d/loopback 1544745947
+sym /usr/share/openrc/runlevels/boot/localmount -> /etc/init.d/localmount 1544745947
+sym /usr/share/openrc/runlevels/boot/hwclock -> /etc/init.d/hwclock 1544745947
+sym /usr/share/openrc/runlevels/boot/root -> /etc/init.d/root 1544745947
+sym /usr/share/openrc/runlevels/boot/keymaps -> /etc/init.d/keymaps 1544745947
+sym /usr/share/openrc/runlevels/boot/fsck -> /etc/init.d/fsck 1544745947
+sym /usr/share/openrc/runlevels/boot/modules -> /etc/init.d/modules 1544745947
+sym /usr/share/openrc/runlevels/boot/sysctl -> /etc/init.d/sysctl 1544745947
+dir /usr/share/openrc/runlevels/shutdown
+sym /usr/share/openrc/runlevels/shutdown/mount-ro -> /etc/init.d/mount-ro 1544745947
+sym /usr/share/openrc/runlevels/shutdown/killprocs -> /etc/init.d/killprocs 1544745947
+sym /usr/share/openrc/runlevels/shutdown/savecache -> /etc/init.d/savecache 1544745947
+dir /usr/share/openrc/runlevels/default
+sym /usr/share/openrc/runlevels/default/netmount -> /etc/init.d/netmount 1544745947
+sym /usr/share/openrc/runlevels/default/local -> /etc/init.d/local 1544745947
+dir /usr/share/doc
+dir /usr/share/doc/openrc-0.38.3-r1
+obj /usr/share/doc/openrc-0.38.3-r1/supervise-daemon-guide.md.bz2 03a2ab27ad637bc7a1a5ad9b0c84c1bd 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/STYLE-GUIDE.md.bz2 c20c5a9864fd951c5439f3f5d0508e08 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/BUSYBOX.md.bz2 40dbb795e8c32ded8dd898947de2017b 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/agetty-guide.md.bz2 bb4be60d7071b18245bf37608dd0a380 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/ChangeLog.bz2 6eb54ea865c750b65ec3c0ae49622df0 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/README.md.bz2 9748319899a2a75d6996ab340980f5cc 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/HISTORY.md.bz2 b5cfe40e33bf67c4d1b6a695861d14d5 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/NEWS.md.bz2 22bd192972558e4fd1b3d6791108a02f 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/user-guide.md.bz2 ef7a63e892436ff1c4dc668271dde476 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/runit-guide.md.bz2 9645b8f6a15599c751c6b184606e6148 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/FEATURE-REMOVAL-SCHEDULE.md.bz2 bcf7e3641b7460ec290614407a77ca3a 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/s6-guide.md.bz2 68fca5222d870ec999753336ecccd970 1544745948
+obj /usr/share/doc/openrc-0.38.3-r1/service-script-guide.md.bz2 df45517eaf40ee161415620082a0f076 1544745948
+dir /usr/include
+obj /usr/include/rc.h cb931c56dd375640cc8a9383da8ce0d4 1544745945
+obj /usr/include/einfo.h 25e5586cd56f1f0fbd3aabcf2c19f189 1544745944
+dir /bin
+obj /bin/rc-status 635b5cfd8e91997c10c77cfc8464d5db 1544745953
+sym /usr/share/man/man3/rc_runlevel_list.3.bz2 -> rc_runlevel.3.bz2 1544745951
+sym /usr/share/man/man3/rc_deptree_load.3.bz2 -> rc_deptree.3.bz2 1544745951
+sym /usr/share/man/man3/rc_runlevel_stopping.3.bz2 -> rc_runlevel.3.bz2 1544745951
+sym /usr/share/man/man3/rc_runlevel_set.3.bz2 -> rc_runlevel.3.bz2 1544745951
+sym /usr/share/man/man3/rc_deptree_update_needed.3.bz2 -> rc_deptree.3.bz2 1544745951
+sym /usr/share/man/man3/rc_config_load.3.bz2 -> rc_config.3.bz2 1544745951
+sym /usr/share/man/man3/ewarnn.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_runlevel_get.3.bz2 -> rc_runlevel.3.bz2 1544745951
+sym /usr/share/man/man3/ewarn.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/einfov.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_deptree_update.3.bz2 -> rc_deptree.3.bz2 1544745952
+sym /usr/share/man/man3/eindentv.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_service_description.3.bz2 -> rc_service.3.bz2 1544745951
+sym /usr/share/man/man3/rc_yesno.3.bz2 -> rc_config.3.bz2 1544745951
+sym /usr/share/man/man3/rc_stringlist_new.3.bz2 -> rc_stringlist.3.bz2 1544745951
+sym /usr/share/man/man3/rc_runlevel_exists.3.bz2 -> rc_runlevel.3.bz2 1544745951
+sym /usr/share/man/man3/rc_stringlist_add.3.bz2 -> rc_stringlist.3.bz2 1544745951
+sym /usr/share/man/man3/ewarnvn.3.bz2 -> einfo.3.bz2 1544745951
+sym /usr/share/man/man3/rc_services_in_runlevel.3.bz2 -> rc_service.3.bz2 1544745951
+sym /etc/init.d/functions.sh -> /lib/rc/sh/functions.sh 1544745944
+sym /lib64/librc.so -> librc.so.1 1544745945
+sym /sbin/rc-sstat -> /lib/rc/bin/rc-sstat 1544745944

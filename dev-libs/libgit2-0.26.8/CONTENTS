@@ -1,0 +1,97 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libgit2-0.26.8
+obj /usr/share/doc/libgit2-0.26.8/README.md.bz2 f9ed4b35ab0d9b6e56b56f1ba48fc30c 1548947389
+obj /usr/share/doc/libgit2-0.26.8/CONVENTIONS.md.bz2 615d6ad2d0de1af4f0d2be5897a43b88 1548947389
+obj /usr/share/doc/libgit2-0.26.8/CONTRIBUTING.md.bz2 676357ea5ee1b86d4e477515147fff40 1548947389
+obj /usr/share/doc/libgit2-0.26.8/AUTHORS.bz2 f395fcf0788f1db5b014d7e001388771 1548947389
+dir /usr/include
+obj /usr/include/git2.h d48fd0d07a649fb82767817879e08453 1540558465
+dir /usr/include/git2
+obj /usr/include/git2/worktree.h c3d0b14002144e7665a3c35cd038d97a 1540558465
+obj /usr/include/git2/version.h 4bd5a92693011b9d0edff0e58c5e31d4 1540558465
+obj /usr/include/git2/types.h f0284da6b3f4981599c63b45a6b58a60 1540558465
+obj /usr/include/git2/tree.h 01a530dd918af42faaeb0c5dceefa9b3 1540558465
+obj /usr/include/git2/transport.h 3c369b0194184eb876b9f21321d372b8 1540558465
+obj /usr/include/git2/transaction.h d9e33aae83238f7b44232c3873933946 1540558465
+obj /usr/include/git2/trace.h 519e2fd8f3c68029b94514cc3861f509 1540558465
+obj /usr/include/git2/tag.h 53e30c6276cc2c51fd4e63e706620c36 1540558465
+dir /usr/include/git2/sys
+obj /usr/include/git2/sys/transport.h b80b11c5303799c1a9816be137b14218 1540558465
+obj /usr/include/git2/sys/time.h 8993e90d527a6e38baf7a82f3c927c7b 1540558465
+obj /usr/include/git2/sys/stream.h fa488e15ffb2ce0ccc1a292c9e3fdb9c 1540558465
+obj /usr/include/git2/sys/repository.h 5a62706202a4fc7b5baa900d5859873d 1540558465
+obj /usr/include/git2/sys/remote.h 5d744662052cfc97b5f961d3eeeb1fe7 1540558465
+obj /usr/include/git2/sys/refs.h 5ef00738bc010797724ea40412cb1eb9 1540558465
+obj /usr/include/git2/sys/reflog.h 5b7105b9bd458c44870a17a8574e1584 1540558465
+obj /usr/include/git2/sys/refdb_backend.h c061b9d429448a4460a26794238e77e1 1540558465
+obj /usr/include/git2/sys/openssl.h 35100b3dc3308443df5ca45008ae0ab5 1540558465
+obj /usr/include/git2/sys/odb_backend.h 267a3161f8370f0c83c29ff54695d268 1540558465
+obj /usr/include/git2/sys/merge.h 77b50ab8fe1f84eeb1a6844e8beffea2 1540558465
+obj /usr/include/git2/sys/mempack.h 90d347977dad8fc1f5fc84de50831143 1540558465
+obj /usr/include/git2/sys/index.h 5d799b7101260390bb65d528fd3163b7 1540558465
+obj /usr/include/git2/sys/hashsig.h 528ce9e7374369cdef155a57c3427ab4 1540558465
+obj /usr/include/git2/sys/filter.h 47e2921e115a615a63c48d9bdbd76ae8 1540558465
+obj /usr/include/git2/sys/diff.h c21f458e1d80f0b83690a586a20cabed 1540558465
+obj /usr/include/git2/sys/config.h a03212944ef36214bab4e4fbd88d6287 1540558465
+obj /usr/include/git2/sys/commit.h 455d1b16edff575b5a2a38ff331c4290 1540558465
+obj /usr/include/git2/submodule.h 3d4bba1a3ac07fd6948c4a1c4d30971a 1540558465
+obj /usr/include/git2/strarray.h 3e93b77c526b3abbc6f2e25d0158d042 1540558465
+obj /usr/include/git2/stdint.h 49b2fd6c748aff6142f6e163191c147f 1540558465
+obj /usr/include/git2/status.h 6b115cec2278981c0c6a024c31cf3679 1540558465
+obj /usr/include/git2/stash.h ee274a0e03ce9529b0a570f1cb1846b4 1540558465
+obj /usr/include/git2/signature.h 121c6764a266f3248b8639cbe6196a69 1540558465
+obj /usr/include/git2/revwalk.h 1b61c6197dc41eb855eea84496a534f3 1540558465
+obj /usr/include/git2/revparse.h 25ce2fd20d5ab1cdf3ba98ab6869b2df 1540558465
+obj /usr/include/git2/revert.h 12281669019763f9dc55a9f7e1a3f4bd 1540558465
+obj /usr/include/git2/reset.h 8b556a7d79586faae3b42527e5baa39d 1540558465
+obj /usr/include/git2/repository.h 3431b6af4facd7d1a777fd9c994aa899 1540558465
+obj /usr/include/git2/remote.h 32e8cd2d08fee418103a7e508938b7d7 1540558465
+obj /usr/include/git2/refspec.h 53cd6881d8ef58ecb7c1399ad4e2525e 1540558465
+obj /usr/include/git2/refs.h 67f8f248289b56584bc81beb42354c48 1540558465
+obj /usr/include/git2/reflog.h bead33d7ed800b97c78e8e97c102dbab 1540558465
+obj /usr/include/git2/refdb.h 15c63b4d0d57a09871b3c91f286eba05 1540558465
+obj /usr/include/git2/rebase.h b8864704fd5bd3c2072edeeb8c9d48fd 1540558465
+obj /usr/include/git2/proxy.h 21815583d2745bfe3ca5fdb95bf4b3aa 1540558465
+obj /usr/include/git2/pathspec.h ef826cf0ae8330c1e0d65a8d6ef09242 1540558465
+obj /usr/include/git2/patch.h 443a807bf2cdbbdf2db18008f9b01f5e 1540558465
+obj /usr/include/git2/pack.h 537fd073d6ba83f82f5fb6db04ce66f0 1540558465
+obj /usr/include/git2/oidarray.h cef73f1567da68168c83765f526eb5e6 1540558465
+obj /usr/include/git2/oid.h f5d4adb9d24e632ad2bdc1768d503a78 1540558465
+obj /usr/include/git2/odb_backend.h 3dc5caa9d9d4b3acbc13b319e3474c58 1540558465
+obj /usr/include/git2/odb.h b8d1b101b106c227f7dd206222ff1da3 1540558465
+obj /usr/include/git2/object.h 502a5d8a726b118848b5c553a2cca24f 1540558465
+obj /usr/include/git2/notes.h ac2b7aca10acb88899e5875809725e87 1540558465
+obj /usr/include/git2/net.h c6bca7b8aea63621a479e7a42d209d6c 1540558465
+obj /usr/include/git2/message.h fe22c99a5195b789f86041d741c6f5d5 1540558465
+obj /usr/include/git2/merge.h 73c5f24909256b93563c63d8aac8ae2d 1540558465
+obj /usr/include/git2/inttypes.h d8d93e915c9d7f1e410a4d9009f74298 1540558465
+obj /usr/include/git2/indexer.h 55c9fce9739883716a1b02d82d5411f5 1540558465
+obj /usr/include/git2/index.h 6f450db467ce78bbca21f58e268925e8 1540558465
+obj /usr/include/git2/ignore.h 7c6c5b33a1af3af55754db25d2adc709 1540558465
+obj /usr/include/git2/graph.h 4b84af0e508bc72ff725af8579d6cb0e 1540558465
+obj /usr/include/git2/global.h fe34d6c0f5a2d0e97fb8ef224d83dc9f 1540558465
+obj /usr/include/git2/filter.h 652b11778ce4a2c356bff75a7151369a 1540558465
+obj /usr/include/git2/errors.h 4da8fc405613ec7aaf387d3cf17c6695 1540558465
+obj /usr/include/git2/diff.h fb0cc9bc3dbabe19bab9e9f0dffb1328 1540558465
+obj /usr/include/git2/describe.h 42b94c5278bb6223183ea0c84bd2e5cf 1540558465
+obj /usr/include/git2/cred_helpers.h f5f07b5c8717ba17de187983450d53a0 1540558465
+obj /usr/include/git2/config.h 96417478941a669c8c16cc8613f3677f 1540558465
+obj /usr/include/git2/common.h 20c908878fb297db2aa9dbb5203f41fa 1540558465
+obj /usr/include/git2/commit.h ed75df9c34fe0246af9b1ff70e7f5d1d 1540558465
+obj /usr/include/git2/clone.h aa6fa92748e8ab36c3e0ba783a183b63 1540558465
+obj /usr/include/git2/cherrypick.h 466634a1d1579701ef4322b051c1085f 1540558465
+obj /usr/include/git2/checkout.h d8f5b70b155924affd791e3ab4415519 1540558465
+obj /usr/include/git2/buffer.h 2d5f2fcd61b10814572d1c2e57040ab0 1540558465
+obj /usr/include/git2/branch.h db58976354f1c84c50ef979ad03f368b 1540558465
+obj /usr/include/git2/blob.h 34bc6d08685fa67b3511f2946d6675f5 1540558465
+obj /usr/include/git2/blame.h 55b9ff94ec29b73057cb71aad30152cf 1540558465
+obj /usr/include/git2/attr.h 057d3d720aed2088a02a91f55c9fc469 1540558465
+obj /usr/include/git2/annotated_commit.h 55ad69c971a856c48b2b8433d6953597 1540558465
+dir /usr/lib64
+obj /usr/lib64/libgit2.so.0.26.8 9fd912a962d11a6faec7aeff410a6512 1548947390
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libgit2.pc 2d2477ba7b564958aa92c9b56a29ddce 1548947378
+sym /usr/lib64/libgit2.so.26 -> libgit2.so.0.26.8 1548947389
+sym /usr/lib64/libgit2.so -> libgit2.so.26 1548947389

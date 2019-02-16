@@ -1,0 +1,78 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/freetype-config 2ba5a7b4898420dc87b8d1c30fad4747 1545799506
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/freetype-2.9.1-r3
+obj /usr/share/doc/freetype-2.9.1-r3/TODO.bz2 73db90c5a9d9673a29afea025806ceee 1545799506
+obj /usr/share/doc/freetype-2.9.1-r3/PROBLEMS.bz2 023fba15063adeba614d61324b7b58e2 1545799506
+obj /usr/share/doc/freetype-2.9.1-r3/raster.txt.bz2 9dc9c50b8a029a17069b18ce3963763f 1545799506
+obj /usr/share/doc/freetype-2.9.1-r3/formats.txt.bz2 f839f80777996d19f0bef7223504bde9 1545799506
+obj /usr/share/doc/freetype-2.9.1-r3/INSTALL.UNIX.bz2 9901b158555d53815d480c9594c90abf 1545799506
+obj /usr/share/doc/freetype-2.9.1-r3/DEBUG.bz2 68726f2b4263ccc9b9275a78ae27a903 1545799506
+obj /usr/share/doc/freetype-2.9.1-r3/CUSTOMIZE.bz2 157233dffa3650e8813cb1ec17827201 1545799506
+obj /usr/share/doc/freetype-2.9.1-r3/CHANGES.bz2 da4f2bee1edbc500b31b4e13449ba54e 1545799506
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/freetype-config.1.bz2 f86448de7f6354c068b010fa90830789 1545799506
+dir /usr/share/aclocal
+obj /usr/share/aclocal/freetype2.m4 f5783d7df0ab5e64f602becd4d164aff 1545799506
+dir /usr/include
+dir /usr/include/freetype2
+obj /usr/include/freetype2/ft2build.h a8ca7e15483b31338fb99a209e764c9b 1545799506
+dir /usr/include/freetype2/freetype
+obj /usr/include/freetype2/freetype/ttnameid.h 2063f33f968bf2ede85960e0bac9dd9e 1545799506
+obj /usr/include/freetype2/freetype/ftimage.h d0ebb9ebe2e1a937e67c4a1d9c9269ba 1545799506
+obj /usr/include/freetype2/freetype/fttrigon.h a15e29ae3a8e11d8a2f9e91013926016 1545799506
+obj /usr/include/freetype2/freetype/fterrdef.h 3a8bc9d75f250aab697f9e04103b4de4 1545799506
+obj /usr/include/freetype2/freetype/tttags.h 60eeddf22b67ab902e0c5db6c1c36723 1545799506
+obj /usr/include/freetype2/freetype/ftsnames.h 3a667303d222d1ac08fc92f7b3b27cbf 1545799506
+obj /usr/include/freetype2/freetype/ftgasp.h 3013c72b3dc663ee8b6836848bd1dbec 1545799506
+obj /usr/include/freetype2/freetype/ftmoderr.h 90b1948445fe2e91f5660248d9cee617 1545799506
+obj /usr/include/freetype2/freetype/ftadvanc.h e91a33c8db8772561b727c1bfcc2d81b 1545799506
+obj /usr/include/freetype2/freetype/ftmm.h ee6c9e89056cb98c8952af4a0bb27368 1545799506
+obj /usr/include/freetype2/freetype/ftbbox.h 58a9c5fbc50110dcb5c1051c6c7b6cd3 1545799506
+obj /usr/include/freetype2/freetype/ftotval.h 40c4d40a20e4d6fcec79f2db96c0ad40 1545799506
+obj /usr/include/freetype2/freetype/freetype.h 262557f6de49deb7cdc763d5ec334f7b 1545799506
+obj /usr/include/freetype2/freetype/ftwinfnt.h ffa10b962425ce5040d34a4bd86c28f7 1545799506
+obj /usr/include/freetype2/freetype/fttypes.h 3fbf81ec869cd9cfb5079863b6486d5c 1545799506
+obj /usr/include/freetype2/freetype/ftmac.h 52af29192a5fa962868d2c45e41e7814 1545799506
+obj /usr/include/freetype2/freetype/ftdriver.h 583f0109cff32643bacbc09713c30172 1545799506
+obj /usr/include/freetype2/freetype/ftgzip.h f134959dc18b0a3530a7574a92ff72c7 1545799506
+obj /usr/include/freetype2/freetype/ftgxval.h e85924ba68481761149ab27971ae0306 1545799506
+obj /usr/include/freetype2/freetype/ftcache.h 9cbd1eb0d04289ac8d87f43393316a43 1545799506
+obj /usr/include/freetype2/freetype/ftbdf.h d9c6b7826ae3139e1a149c47b87d06e1 1545799506
+obj /usr/include/freetype2/freetype/ftchapters.h b96594144a4734d5ba60ba5147595f72 1545799506
+obj /usr/include/freetype2/freetype/ftincrem.h 391ec81952323fdb1135eff66ead5066 1545799506
+obj /usr/include/freetype2/freetype/ftlist.h 72f1b81383d0b4df235414103be7fdff 1545799506
+obj /usr/include/freetype2/freetype/ftbzip2.h 0b6828093df6c9ca789a5b87e64809ec 1545799506
+obj /usr/include/freetype2/freetype/ftoutln.h fc367898feaaafbfdd182ca8b1a72754 1545799506
+obj /usr/include/freetype2/freetype/ftlzw.h 159de816ef44da7392ef60fb70c87fd5 1545799506
+obj /usr/include/freetype2/freetype/ftrender.h 5128db4583f7de2d8c9cdebb1ad97f55 1545799506
+obj /usr/include/freetype2/freetype/ftsizes.h f8b1cd7061a263187b8695e919488941 1545799506
+obj /usr/include/freetype2/freetype/ftpfr.h 5c75068158bb0b42da5f79405feacb18 1545799506
+obj /usr/include/freetype2/freetype/ftlcdfil.h a9b2cf0c08ca5bce808fa83443b5dd32 1545799506
+obj /usr/include/freetype2/freetype/ftsynth.h d408b91dc1a5c418adbbfd8d6c34e2f1 1545799506
+obj /usr/include/freetype2/freetype/ftfntfmt.h 8ac94cffba8033a496852250981b4673 1545799506
+obj /usr/include/freetype2/freetype/ftsystem.h fd099ef6a7b2171583400adbd9f81dc4 1545799506
+obj /usr/include/freetype2/freetype/ftmodapi.h 85a882f36cd60e10ff6afc2074e86364 1545799506
+obj /usr/include/freetype2/freetype/ftbitmap.h 3b6ada8270355d550169e83786f9cd0f 1545799506
+obj /usr/include/freetype2/freetype/ftglyph.h 8008c728c9b1c07655b7966867886a24 1545799506
+obj /usr/include/freetype2/freetype/ftparams.h 90918a9b8a946e6551e1169b03af67c1 1545799506
+obj /usr/include/freetype2/freetype/fterrors.h 9dc7f285226d313ec5f6f03958838e3e 1545799506
+obj /usr/include/freetype2/freetype/t1tables.h 04fff3ff230d55b53253bc265da29e6d 1545799506
+obj /usr/include/freetype2/freetype/ftstroke.h d7ac4e08d23c8b258efc3f72f6a41c4d 1545799506
+obj /usr/include/freetype2/freetype/ftcid.h 4dc365cd7201cdf75794944b8b6ab965 1545799506
+obj /usr/include/freetype2/freetype/tttables.h 0fdcb0d8cc30f6455f6f51b213cf78ec 1545799506
+dir /usr/include/freetype2/freetype/config
+obj /usr/include/freetype2/freetype/config/ftoption.h 22c925d9902ff409ed0fb2e0e25927d6 1545799506
+obj /usr/include/freetype2/freetype/config/ftmodule.h d276085a38bf89a184fb472d796025e1 1545799506
+obj /usr/include/freetype2/freetype/config/ftconfig.h 0efbde534d51b5b48ab58cc716d3750c 1545799506
+obj /usr/include/freetype2/freetype/config/ftheader.h 2a885b5f32d56fcac5b1570b4d4c1c94 1545799506
+obj /usr/include/freetype2/freetype/config/ftstdlib.h ea929f68033e38cf92109bcd9bbf78c2 1545799506
+dir /usr/lib64
+obj /usr/lib64/libfreetype.so.6.16.1 47a1df3713f81bb69a0e153fc0ad9642 1545799507
+sym /usr/lib64/libfreetype.so -> libfreetype.so.6.16.1 1545799506
+sym /usr/lib64/libfreetype.so.6 -> libfreetype.so.6.16.1 1545799506
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/freetype2.pc 1e7c9a1462e380ec73bb2d13b5a9acd2 1545799506

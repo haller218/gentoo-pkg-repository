@@ -1,0 +1,33 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/apvlv a274a182cd743c01eb501508f73f0f1a 1546013012
+dir /usr/share
+dir /usr/share/icons
+dir /usr/share/icons/hicolor
+dir /usr/share/icons/hicolor/32x32
+dir /usr/share/icons/hicolor/32x32/apps
+obj /usr/share/icons/hicolor/32x32/apps/apvlv.png ede5126676ca49b8ab7dcd909918316a 1546013011
+dir /usr/share/doc
+dir /usr/share/doc/apvlv-0.1.5-r2
+obj /usr/share/doc/apvlv-0.1.5-r2/THANKS.bz2 6a0ad38fecf786f7761fe6e14b52571d 1546013011
+obj /usr/share/doc/apvlv-0.1.5-r2/TODO.bz2 be25101ad00a68bf48d29833104c906a 1546013011
+obj /usr/share/doc/apvlv-0.1.5-r2/NEWS.bz2 fcdb841678a0783c892f9013d0e46bfc 1546013011
+obj /usr/share/doc/apvlv-0.1.5-r2/README.bz2 617e2bd0bcde688f514c5931e26d6431 1546013011
+obj /usr/share/doc/apvlv-0.1.5-r2/AUTHORS 66401e7cb0fb09238efba22a76f4eb5b 1546013011
+dir /usr/share/applications
+obj /usr/share/applications/apvlv.desktop 54478fecb54f36d1c44d8fdc233ddbac 1420898664
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/apvlv.1.bz2 821ce4311f62a0700484c8cf943e96f0 1420898664
+dir /usr/share/apvlv
+dir /usr/share/apvlv/icons
+obj /usr/share/apvlv/icons/reg.png 6541d0f4cbf47d0831c689c743e528c9 1420898664
+obj /usr/share/apvlv/icons/pdf.png ede5126676ca49b8ab7dcd909918316a 1420898664
+obj /usr/share/apvlv/icons/dir.png b2f5a9c63d4deb9d747a654741054caf 1420898664
+obj /usr/share/apvlv/main_menubar.glade f0a332c45292f08b215ecfc6faee3f93 1420898664
+obj /usr/share/apvlv/Startup.tex a39838fbbdab9e0df14d269c2d5eaa61 1420898664
+obj /usr/share/apvlv/Startup.pdf 1e50ac4884860fab253625557bd5df9e 1420898664
+obj /usr/share/apvlv/apvlvrc.example cc4293f8784b7e5b668b8b48e6100445 1420898664
+dir /etc
+dir /etc/apvlv
+obj /etc/apvlv/apvlvrc cc4293f8784b7e5b668b8b48e6100445 1420898664

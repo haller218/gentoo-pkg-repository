@@ -1,0 +1,16 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libasyncns-0.8-r3
+obj /usr/share/doc/libasyncns-0.8-r3/README.bz2 9298328636434cd2736c1932058d1192 1545802603
+dir /usr/share/doc/libasyncns-0.8-r3/html
+obj /usr/share/doc/libasyncns-0.8-r3/html/style.css 13a4f73daeb650b15342f9cd238f6c7d 1545802603
+obj /usr/share/doc/libasyncns-0.8-r3/html/README.html b4a018f3d27323683fcdb3dbffe75135 1545802603
+dir /usr/include
+obj /usr/include/asyncns.h 12e732c843bb032ea2ce70a3c83bd95f 1545802603
+dir /usr/lib64
+obj /usr/lib64/libasyncns.so.0.3.1 e8874e68e449892be6e9cc1ebe22b23d 1545802604
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libasyncns.pc c998bf247c1d3d23be0affefc46a1d6e 1545802603
+sym /usr/lib64/libasyncns.so -> libasyncns.so.0.3.1 1545802603
+sym /usr/lib64/libasyncns.so.0 -> libasyncns.so.0.3.1 1545802603

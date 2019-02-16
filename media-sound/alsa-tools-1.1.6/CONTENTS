@@ -1,0 +1,79 @@
+dir /usr
+dir /usr/sbin
+obj /usr/sbin/ld10k1 94a3b1a09a19a2d8f0d3719e4c30be55 1548532862
+obj /usr/sbin/dl10k1 689819d085f2da9ffe35e88065163dff 1548532862
+obj /usr/sbin/ld10k1d 53ec198dab36f0db2b6b93f527ec4816 1548532860
+dir /usr/lib64
+obj /usr/lib64/liblo10k1.so.0.0.0 f8e46da8e810a9f2c1b7637883c0ddc5 1548532862
+sym /usr/lib64/liblo10k1.so -> liblo10k1.so.0.0.0 1548532860
+sym /usr/lib64/liblo10k1.so.0 -> liblo10k1.so.0.0.0 1548532860
+dir /usr/include
+dir /usr/include/lo10k1
+obj /usr/include/lo10k1/lo10k1.h 5c2eb7b6771c37f4e22c254072fd7d80 1548532860
+obj /usr/include/lo10k1/liblo10k1lf.h 2f4b3a70687e0827c24911a1ce319533 1548532860
+obj /usr/include/lo10k1/ld10k1_fnc.h 5dce68d22de08c6b1eb08523bec85852 1548532860
+obj /usr/include/lo10k1/ld10k1_error.h 3e12fe2f52bcab862f2e9150ebbe2e0c 1548532860
+obj /usr/include/lo10k1/liblo10k1ef.h f555d02f8116af3c65f8843009681231 1548532860
+obj /usr/include/lo10k1/liblo10k1.h d5937c02b638aee3cb9ba10315ba3a3a 1548532860
+obj /usr/include/lo10k1/comm.h e0d176148158ead65f9dc090440e3270 1548532860
+obj /usr/include/lo10k1/version.h fe3f28d037cc55bf3f84e460937a8bc2 1548532860
+dir /usr/share
+dir /usr/share/aclocal
+obj /usr/share/aclocal/ld10k1.m4 54408afdbd72116666a1623348df0f91 1548532860
+dir /usr/share/ld10k1
+dir /usr/share/ld10k1/effects
+obj /usr/share/ld10k1/effects/eq10.emu10k1 c936ef459caa3dd5b142b5d29435ec13 1548532860
+obj /usr/share/ld10k1/effects/mono_switch_2x2.emu10k1 bba9f8fc66fd1315a9eda0d9d10f7606 1548532860
+obj /usr/share/ld10k1/effects/mono_switch_2.emu10k1 3405fbfbe4d237c4332b017674a95081 1548532860
+obj /usr/share/ld10k1/effects/switch_2x2.emu10k1 5d669ed97a8d5603090d2272a20ed3e9 1548532860
+obj /usr/share/ld10k1/effects/fxbus.emu10k1 985bed2543804bcb03a2c037482cba59 1548532860
+obj /usr/share/ld10k1/effects/prologic.emu10k1 d9825fa9b21d914459afa3c36e0cf6b3 1548532860
+obj /usr/share/ld10k1/effects/copy_2.emu10k1 20d077f639bcd2ba61606dabc1fb6cd7 1548532860
+obj /usr/share/ld10k1/effects/switch_6.emu10k1 7ae7512579b804722c81cfb618f5b368 1548532860
+obj /usr/share/ld10k1/effects/sto51.emu10k1 12e335af1ecc668db1307ba41842bbf3 1548532860
+obj /usr/share/ld10k1/effects/switch_2.emu10k1 d96882c0ebbe9d7d1704645b4f953ac5 1548532860
+obj /usr/share/ld10k1/effects/output.emu10k1 409b2e1fd471919ce22a07f3537b10a7 1548532860
+obj /usr/share/ld10k1/effects/vol_2.emu10k1 2873d5beab12af29c4e00390456c6411 1548532860
+obj /usr/share/ld10k1/effects/tone.emu10k1 863930d329f6d1f0522923b7953f5102 1548532860
+obj /usr/share/ld10k1/effects/vol_master.emu10k1 c006a27bdf9a79bf2d03659b97a75118 1548532860
+obj /usr/share/ld10k1/effects/simple.emu10k1 f42fe39a979e918c42acbf7aded3d0ec 1548532860
+dir /usr/share/icons
+dir /usr/share/icons/hicolor
+dir /usr/share/icons/hicolor/48x48
+dir /usr/share/icons/hicolor/48x48/apps
+obj /usr/share/icons/hicolor/48x48/apps/hwmixvolume.png 78350e7a4a854b5602312ef56ff20438 1548532859
+dir /usr/share/icons/hicolor/128x128
+dir /usr/share/icons/hicolor/128x128/apps
+obj /usr/share/icons/hicolor/128x128/apps/hwmixvolume.png 9047fbabe884fea6fe8fcb446c862dfe 1548532859
+dir /usr/share/icons/hicolor/256x256
+dir /usr/share/icons/hicolor/256x256/apps
+obj /usr/share/icons/hicolor/256x256/apps/hwmixvolume.png e6df3c13c33df25643ac51b9c0ed2b9e 1548532859
+dir /usr/share/applications
+obj /usr/share/applications/hwmixvolume.desktop 9c2c8c8aa60902be32202f9175d6ab8f 1548532859
+dir /usr/share/doc
+dir /usr/share/doc/alsa-tools-1.1.6
+obj /usr/share/doc/alsa-tools-1.1.6/README.ld10k1.bz2 b615deba5f81878c0e418b49f76a0eb5 1548532860
+obj /usr/share/doc/alsa-tools-1.1.6/AUTHORS.ld10k1.bz2 364c2590342eadf2b0f9aa33adf61977 1548532861
+obj /usr/share/doc/alsa-tools-1.1.6/TODO.ld10k1.bz2 19e445e58a7bba4b42ba20fc7822b317 1548532860
+obj /usr/share/doc/alsa-tools-1.1.6/README.as10k1.bz2 c3466ba153b6e3b18b1be6cf2f0c7893 1548532860
+obj /usr/share/doc/alsa-tools-1.1.6/ChangeLog.hda-verb.bz2 bf0f1e1be35dd846b1fc431d7e10ba52 1548532860
+obj /usr/share/doc/alsa-tools-1.1.6/README.hda-verb.bz2 52d5eead6def9e499b2d9edc35c723aa 1548532859
+obj /usr/share/doc/alsa-tools-1.1.6/README.hwmixvolume.bz2 cc2573c1c75f01a312aaaa6c177469e9 1548532859
+obj /usr/share/doc/alsa-tools-1.1.6/README.sbiload.bz2 2669acfe8a02ee96204be5f24a6cca77 1548532859
+obj /usr/share/doc/alsa-tools-1.1.6/ChangeLog.ld10k1 d41d8cd98f00b204e9800998ecf8427e 1548532861
+dir /usr/share/sounds
+dir /usr/share/sounds/opl3
+obj /usr/share/sounds/opl3/drums.sb 68df89de36e67e7b9a7c95d1394d05ed 1548532859
+obj /usr/share/sounds/opl3/std.sb 497c874da13978586a42381d6982e04a 1548532859
+obj /usr/share/sounds/opl3/drums.o3 a2168001605900cee856a7c224ad8620 1548532859
+obj /usr/share/sounds/opl3/std.o3 0e3a13930f8028851837d61441d7e280 1548532859
+dir /usr/bin
+obj /usr/bin/lo10k1 19c7aa62d2dc0a105cffea6ebdd5f919 1548532862
+obj /usr/bin/us428control 27813f3de6409a8d81b287bb694178c6 1548532862
+obj /usr/bin/hda-verb 3ad77a68424b636c8da0ef29d4021b26 1548532862
+obj /usr/bin/as10k1 83f6a45067d6ff67938c4a7f27f858d3 1548532862
+obj /usr/bin/sbiload 27f44bce2067b4e5bf858b5b6710efe3 1548532862
+obj /usr/bin/init_live baa96a62744ecfc48bad151a267ef8c4 1548532860
+obj /usr/bin/init_audigy_eq10 67b6f37a78591b77fcacd353db35e792 1548532860
+obj /usr/bin/init_audigy bdd93e14319b50b9fa2790a4830526f6 1548532860
+obj /usr/bin/hwmixvolume e18cdac1254e5adf974ad161d6314c0a 1548532859

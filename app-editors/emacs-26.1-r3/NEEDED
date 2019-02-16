@@ -1,0 +1,8 @@
+/usr/bin/etags-emacs-26 libc.so.6
+/usr/bin/ctags-emacs-26 libc.so.6
+/usr/bin/ebrowse-emacs-26 libc.so.6
+/usr/bin/emacsclient-emacs-26 libc.so.6
+/usr/bin/emacs-26 libacl.so.1,librt.so.1,libncurses.so.6,libgnutls.so.30,libpthread.so.0,libanl.so.1,libm.so.6,libz.so.1,libc.so.6
+/usr/libexec/emacs/26.1/x86_64-pc-linux-gnu/hexl libc.so.6
+/usr/libexec/emacs/26.1/x86_64-pc-linux-gnu/profile libc.so.6
+/usr/libexec/emacs/26.1/x86_64-pc-linux-gnu/movemail liblockfile.so.1,libc.so.6

@@ -1,0 +1,35 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-bitstream-75dpi-1.0.3-r1
+obj /usr/share/doc/font-bitstream-75dpi-1.0.3-r1/ChangeLog.bz2 c3582a02e708894b0d43f2b74b5884f7 1545801292
+dir /usr/share/fonts
+dir /usr/share/fonts/75dpi
+obj /usr/share/fonts/75dpi/termB14.pcf.gz 3464acc376996856fe4a4973e383961e 1545801292
+obj /usr/share/fonts/75dpi/term14.pcf.gz 0d23bf7cb4e2953b92a31e0e2ec5cd67 1545801292
+obj /usr/share/fonts/75dpi/techB14.pcf.gz 65104dbf8cda43ea10a95a98f479d9f0 1545801292
+obj /usr/share/fonts/75dpi/tech14.pcf.gz ecc97c2213600e8a6dc4f7b70e77465f 1545801292
+obj /usr/share/fonts/75dpi/charR24.pcf.gz 1a8302424da1e0320747c810541447f6 1545801292
+obj /usr/share/fonts/75dpi/charR18.pcf.gz 30f21854869d05e27a69fc2a8c69c374 1545801292
+obj /usr/share/fonts/75dpi/charR14.pcf.gz 90117503f628a4d773e18cfb7f57d9a1 1545801292
+obj /usr/share/fonts/75dpi/charR12.pcf.gz e20c80e14deeea2305f311f597cabc92 1545801292
+obj /usr/share/fonts/75dpi/charR10.pcf.gz 365ea79cee9bc5e24214fd6e15f7ff2b 1545801292
+obj /usr/share/fonts/75dpi/charR08.pcf.gz d6902288491d5f6757a92a9fdc74ee8a 1545801292
+obj /usr/share/fonts/75dpi/charI24.pcf.gz 7488ab008d2b4c659067c34a010276bd 1545801292
+obj /usr/share/fonts/75dpi/charI18.pcf.gz b1eaf2c1d63b0e3d51ef8e8710f52780 1545801292
+obj /usr/share/fonts/75dpi/charI14.pcf.gz f761593a36efc48721e5b36d33889de6 1545801292
+obj /usr/share/fonts/75dpi/charI12.pcf.gz 4fe8e0df30808adc2dfe94a6da97a0be 1545801292
+obj /usr/share/fonts/75dpi/charI10.pcf.gz cb80d6c3442d4276a3a899b1913864b3 1545801292
+obj /usr/share/fonts/75dpi/charI08.pcf.gz e88ce6bdf8004fdc25efd938531d699a 1545801292
+obj /usr/share/fonts/75dpi/charBI24.pcf.gz 4a7ec94450c527af004a9aea9ab80417 1545801292
+obj /usr/share/fonts/75dpi/charBI18.pcf.gz bfe1a0d8c78c6913f7601618a913aa70 1545801292
+obj /usr/share/fonts/75dpi/charBI14.pcf.gz c2ab547125f86731987c0f7de6499289 1545801292
+obj /usr/share/fonts/75dpi/charBI12.pcf.gz 9439414de2f1732058dab468b1294435 1545801292
+obj /usr/share/fonts/75dpi/charBI10.pcf.gz 498c70599efe1c2785e2bd537dab5183 1545801292
+obj /usr/share/fonts/75dpi/charBI08.pcf.gz 1355c4c9f9e67792e6c2e18f7c32460e 1545801292
+obj /usr/share/fonts/75dpi/charB24.pcf.gz da914a0cbd1de2bcd5e1ab566a7fc2dd 1545801292
+obj /usr/share/fonts/75dpi/charB18.pcf.gz 30b3f7833096faf5263d7770a3e1502b 1545801292
+obj /usr/share/fonts/75dpi/charB14.pcf.gz 0d9553d4aea49131d2e063ae388a14ca 1545801292
+obj /usr/share/fonts/75dpi/charB12.pcf.gz 78247526b83b703ffeecbae93af1eb5f 1545801292
+obj /usr/share/fonts/75dpi/charB10.pcf.gz 10a7a89cbd261ec6ffc90493826ae85c 1545801292
+obj /usr/share/fonts/75dpi/charB08.pcf.gz 8fa7d38f4e1d74b6b1380cc1f5edd9bc 1545801292

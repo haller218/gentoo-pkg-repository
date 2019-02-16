@@ -1,0 +1,48 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/babl-0.1.38
+obj /usr/share/doc/babl-0.1.38/TODO.bz2 0a2b7db0af5bf0aea3ea4f42cfd17826 1548469748
+obj /usr/share/doc/babl-0.1.38/NEWS.bz2 996aed348d235762a6ca5b39d19b8322 1548469748
+obj /usr/share/doc/babl-0.1.38/README.bz2 c75a48ef46b76866286e2d139d1f377e 1548469748
+obj /usr/share/doc/babl-0.1.38/AUTHORS.bz2 e6c8741144581ccabd0bb21cae69d4bb 1548469748
+dir /usr/include
+dir /usr/include/babl-0.1
+dir /usr/include/babl-0.1/babl
+obj /usr/include/babl-0.1/babl/babl-version.h 0a0422fd4212f202a46262d788fa8fa6 1548469741
+obj /usr/include/babl-0.1/babl/babl.h cceb7fcb983a56823027dce972315974 1548469741
+obj /usr/include/babl-0.1/babl/babl-types.h 7bbf6ac18b340f1a334450dbce234063 1548469741
+obj /usr/include/babl-0.1/babl/babl-macros.h 92c71c428c38ccb704cfa7a947b6b4ea 1548469741
+obj /usr/include/babl-0.1/babl/babl-introspect.h af4a1edcf0c544bf13ff21507e3eb6cd 1548469741
+dir /usr/lib64
+obj /usr/lib64/libbabl-0.1.so.0.137.1 2ecd85cc93dad55da4c0b7c12debaace 1548469749
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/babl.pc dafbd3bd342ca04fa6a01832d1f0d58e 1548469748
+dir /usr/lib64/babl-0.1
+obj /usr/lib64/babl-0.1/ycbcr.so c4b66e2449c36f487594f34391b034d4 1548469750
+obj /usr/lib64/babl-0.1/two-table.so 34187ae602b94efb601df5143a03f2aa 1548469750
+obj /usr/lib64/babl-0.1/sse4-int8.so 4c3a1cfd9c3eedfcda4e9205828c5582 1548469750
+obj /usr/lib64/babl-0.1/sse-half.so 5bbf571d579f0827cfdcb545a04b0be0 1548469750
+obj /usr/lib64/babl-0.1/sse2-int16.so e9bb32d97231bc6e3da6d28aee7192b1 1548469750
+obj /usr/lib64/babl-0.1/sse2-int8.so ac1ff3125948ab8f65f348b4a3590f99 1548469750
+obj /usr/lib64/babl-0.1/sse2-float.so 67785e7f16b34f9c2c8a341eb362745d 1548469750
+obj /usr/lib64/babl-0.1/simple.so 591147954e47a866e2ffdd779a2c5336 1548469750
+obj /usr/lib64/babl-0.1/HSV.so 50849816252318f16d04f8815d288fa3 1548469750
+obj /usr/lib64/babl-0.1/HSL.so 919350547860badf98a8025b887fd788 1548469750
+obj /usr/lib64/babl-0.1/HCY.so a16c10d1089ec81d2e097dc2c820760f 1548469750
+obj /usr/lib64/babl-0.1/naive-CMYK.so 1f9d02e75e81c98534466ad85acc9387 1548469750
+obj /usr/lib64/babl-0.1/float.so c00e115c8c44646e04577845cefc37f5 1548469750
+obj /usr/lib64/babl-0.1/fast-float.so 5b6a0d90f759518a98077ea3f7894da5 1548469750
+obj /usr/lib64/babl-0.1/gimp-8bit.so cda03d14e00a888c4a95a09e1447e182 1548469750
+obj /usr/lib64/babl-0.1/grey.so a0761d511deb6a205f63d0c9e8e44ff0 1548469750
+obj /usr/lib64/babl-0.1/gggl.so 1a3666c86856942ef1edfc8b8aef0b32 1548469750
+obj /usr/lib64/babl-0.1/gggl-table-lies.so b87f92313a572c0d159cf4cfe08cf734 1548469750
+obj /usr/lib64/babl-0.1/gggl-table.so 659426033e2e5abfde304ae586a69709 1548469749
+obj /usr/lib64/babl-0.1/float-half.so 9f8b19a3b960b4f207049a294b4b88ed 1548469749
+obj /usr/lib64/babl-0.1/gegl-fixups.so 6c192f34ee5ebba3c5a2b50910f53614 1548469749
+obj /usr/lib64/babl-0.1/gggl-lies.so b4fa17cdd6f9a0cffe5ad3a3bad079cd 1548469749
+obj /usr/lib64/babl-0.1/CIE.so 574b63fdfb8ade1a97dcefcd6bb18655 1548469749
+obj /usr/lib64/babl-0.1/cairo.so 2426b5236d6041a2ee1b28c0a58b0194 1548469749
+obj /usr/lib64/babl-0.1/16bit.so 346921c49682d76856248c86cd331ccb 1548469749
+sym /usr/lib64/libbabl-0.1.so -> libbabl-0.1.so.0.137.1 1548469741
+sym /usr/lib64/libbabl-0.1.so.0 -> libbabl-0.1.so.0.137.1 1548469741

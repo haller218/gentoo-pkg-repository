@@ -1,0 +1,28 @@
+dir /usr
+dir /usr/include
+dir /usr/include/qt5
+dir /usr/include/qt5/QtX11Extras
+obj /usr/include/qt5/QtX11Extras/QtX11ExtrasDepends 791f79698486020f9e916ce207434b02 1548389836
+obj /usr/include/qt5/QtX11Extras/QtX11Extras 5efe2f9f134a3cdccf21a03044520c6b 1543504289
+obj /usr/include/qt5/QtX11Extras/qx11info_x11.h bf90dba6ff828dd2f7c2fffa4be2221f 1542371437
+obj /usr/include/qt5/QtX11Extras/QtX11ExtrasVersion 3ab45789d2f89f490790bd11092dc8ed 1543504289
+obj /usr/include/qt5/QtX11Extras/qtx11extrasversion.h 84865aa9ccbdc508cf489fdaefde990e 1543504289
+obj /usr/include/qt5/QtX11Extras/qtx11extrasglobal.h cee9a4fe4ab9cd33c711908eeaeaee23 1542371437
+obj /usr/include/qt5/QtX11Extras/QX11Info 248942f801680fe5b4e1b9ecf6045db9 1542371437
+dir /usr/lib64
+obj /usr/lib64/libQt5X11Extras.so.5.11.3 1dab40a973b8f80cf3da68f8705b35ca 1548389839
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/Qt5X11Extras.pc 00ccb8fbf20405ea0d7e96842707226e 1548389838
+dir /usr/lib64/cmake
+dir /usr/lib64/cmake/Qt5X11Extras
+obj /usr/lib64/cmake/Qt5X11Extras/Qt5X11ExtrasConfigVersion.cmake 1429bedf612e96ccdadfbe5852363e87 1548389836
+obj /usr/lib64/cmake/Qt5X11Extras/Qt5X11ExtrasConfig.cmake 3ec02d2a1352bae64f3795eb8c7012a0 1548389836
+obj /usr/lib64/libQt5X11Extras.prl d38dbe0288f8bbdbc1c35fd4437f2295 1548389838
+sym /usr/lib64/libQt5X11Extras.so.5.11 -> libQt5X11Extras.so.5.11.3 1548389838
+sym /usr/lib64/libQt5X11Extras.so.5 -> libQt5X11Extras.so.5.11.3 1548389838
+sym /usr/lib64/libQt5X11Extras.so -> libQt5X11Extras.so.5.11.3 1548389838
+dir /usr/lib64/qt5
+dir /usr/lib64/qt5/mkspecs
+dir /usr/lib64/qt5/mkspecs/modules
+obj /usr/lib64/qt5/mkspecs/modules/qt_lib_x11extras_private.pri 529d90fe8b36d3c9c8985f62e3d4ead9 1548389836
+obj /usr/lib64/qt5/mkspecs/modules/qt_lib_x11extras.pri d53956d139e7bfcd77df23a93c54bf53 1548389836

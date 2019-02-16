@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xwd 49601cc2d512e05d541e298f3e2d8b61 1545800946
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xwd-1.0.7
+obj /usr/share/doc/xwd-1.0.7/ChangeLog.bz2 bc18859566ce3145aaecf752661776c3 1545800945
+obj /usr/share/doc/xwd-1.0.7/README.bz2 a2afd8b7290d32ff2668e86c521d8eac 1545800945
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xwd.1.bz2 18f92edab9214e1ff063ca8a22ea5943 1545800945

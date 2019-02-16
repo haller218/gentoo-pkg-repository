@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/slop-7.4
+obj /usr/share/doc/slop-7.4/README.md.bz2 542c78f2b94d856a4fdd51f00881ee61 1549344449
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/slop.1.bz2 1ca64b8f70c82ec6d90c4e56597f1ed7 1524470162
+dir /usr/include
+obj /usr/include/slop.hpp 2740374891917288897f6486ccabb191 1524470162
+dir /usr/lib64
+obj /usr/lib64/libslopy.so.7.4 9239d67652267d600bf780a05b8bf600 1549344450
+sym /usr/lib64/libslopy.so -> libslopy.so.7.4 1549344449
+dir /usr/bin
+obj /usr/bin/slop 32d6ecca69d625ed78b463f5ad515adc 1549344450

@@ -1,0 +1,23 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/conky 83f1421859d5174ce98dc1d267618c6c 1548512136
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/conky.1.bz2 82bb0d42aae882c5cb2069d04d1a483b 1548512121
+dir /usr/share/doc
+dir /usr/share/doc/conky-1.10.8-r4
+obj /usr/share/doc/conky-1.10.8-r4/README.gentoo.bz2 c7da809dfb429531060aebe04c8fe3a7 1548512135
+obj /usr/share/doc/conky-1.10.8-r4/AUTHORS.bz2 72a10053e83ef85c6e0e5368c12fcdf5 1548512135
+obj /usr/share/doc/conky-1.10.8-r4/TODO.bz2 3868defd3177ed5c9c366886454914e8 1548512135
+obj /usr/share/doc/conky-1.10.8-r4/NEWS.bz2 b8769371ecb0d2288559b73a4b355c75 1548512135
+obj /usr/share/doc/conky-1.10.8-r4/ChangeLog.bz2 f50a20ee3e1ffd9fe1dd892525205c1f 1548512135
+obj /usr/share/doc/conky-1.10.8-r4/conky_no_x11.conf.bz2 4043bf6a06e1ac28f3f85a87d297c5e2 1518012999
+obj /usr/share/doc/conky-1.10.8-r4/README.md.bz2 c9b1a813edb2efc234cf7702c046d7d3 1548512135
+obj /usr/share/doc/conky-1.10.8-r4/convert.lua.bz2 ccf36fc2677b6ae9f6ae6ae8907d3610 1518012999
+obj /usr/share/doc/conky-1.10.8-r4/conky.conf.bz2 2ef116ba500b72fff2aca4497cb2222f 1518012999
+dir /usr/share/doc/conky-1.10.8-r4/html
+obj /usr/share/doc/conky-1.10.8-r4/html/variables.html c391864940f92038006810cd9ac8c054 1548512119
+obj /usr/share/doc/conky-1.10.8-r4/html/lua.html 4cb721e7b5d6fe1bbe6e61a6a782106b 1548512119
+obj /usr/share/doc/conky-1.10.8-r4/html/docs.html 9d5c95a70868478d34dacc92bfd0372a 1548512120
+obj /usr/share/doc/conky-1.10.8-r4/html/config_settings.html 95d564c2f44f998341119a9be82c7ac7 1548512119

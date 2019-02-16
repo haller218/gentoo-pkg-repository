@@ -1,0 +1,30 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libdockapp-0.7.2
+obj /usr/share/doc/libdockapp-0.7.2/ChangeLog.bz2 688369738b8b2899f623d344daffeeab 1548990633
+obj /usr/share/doc/libdockapp-0.7.2/BUGS.bz2 3cd9f39994c805208a15ea01875045a8 1548990633
+obj /usr/share/doc/libdockapp-0.7.2/AUTHORS.bz2 a3fcca9ebbd29f9faca756d87d0197a5 1548990633
+obj /usr/share/doc/libdockapp-0.7.2/README.bz2 edaf77162cf285a6437e576f75802d11 1548990633
+obj /usr/share/doc/libdockapp-0.7.2/NEWS.bz2 5d18d6da637c2bb89a24efe58a12430e 1548990633
+dir /usr/share/fonts
+dir /usr/share/fonts/libdockapp
+obj /usr/share/fonts/libdockapp/encodings.dir ee83191b62d90dc91a155389d26d5b02 1548990633
+obj /usr/share/fonts/libdockapp/fonts.dir bc3de2df738fed76a0de109409c36f3b 1548990633
+obj /usr/share/fonts/libdockapp/fonts.scale 897316929176464ebc9ad085f31e7284 1548990633
+obj /usr/share/fonts/libdockapp/seg7-ascii-05x07.pcf.gz 9ae6b39bfe98f7b0d54527c4f14dec6a 1548990633
+obj /usr/share/fonts/libdockapp/luxel-ascii-06x09.pcf.gz aa4720a360448d55507399d698402907 1548990633
+dir /usr/include
+dir /usr/include/libdockapp
+obj /usr/include/libdockapp/misc.h 17807663d08cef6f1d140cbaa4379132 1548990632
+obj /usr/include/libdockapp/list.h 1d4154f145b1ebfcf28be67b41baa9ab 1548990632
+obj /usr/include/libdockapp/wmgeneral.h 1997c2c35e92e8fd2911b95ecf0ab551 1548990632
+obj /usr/include/libdockapp/dockapp.h 92096f5bdd6503b783c1f5159ebc6a41 1548990632
+dir /usr/lib64
+obj /usr/lib64/libdockapp.so.3.0.0 77bd18596b5b6605af610f4db3842bd2 1548990634
+obj /usr/lib64/libdockapp.a d9303aa809e8b0b1d758ca48b8868a5a 1548990634
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/dockapp.pc 3af5f51c32572dc70c8b27858d4f884b 1548990632
+obj /usr/lib64/libdockapp.la 77520e219927d8e1f1294ff4f6860993 1548990632
+sym /usr/lib64/libdockapp.so -> libdockapp.so.3.0.0 1548990632
+sym /usr/lib64/libdockapp.so.3 -> libdockapp.so.3.0.0 1548990632

@@ -1,0 +1,2 @@
+/usr/bin/stest libc.so.6
+/usr/bin/dmenu libX11.so.6,libfontconfig.so.1,libXft.so.2,libc.so.6

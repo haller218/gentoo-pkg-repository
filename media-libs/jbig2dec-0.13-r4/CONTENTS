@@ -1,0 +1,17 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/jbig2dec fa6184406a56d1e83b0392558b85b7e6 1548342288
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/jbig2dec-0.13-r4
+obj /usr/share/doc/jbig2dec-0.13-r4/README.bz2 82d0bced3eb3588c532784725ea7d937 1548342288
+obj /usr/share/doc/jbig2dec-0.13-r4/CHANGES.bz2 5c0e35f717412efc6f31f36bbb605507 1548342288
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/jbig2dec.1.bz2 bae2fffe7fe13df2ecf3a2f5f19a9805 1548342288
+dir /usr/include
+obj /usr/include/jbig2.h c42340a54e1bc5ed379c1ffc09d52720 1548342288
+dir /usr/lib64
+obj /usr/lib64/libjbig2dec.so.0.0.0 f980fd0da4986feea7f69ef69bcd00e7 1548342288
+sym /usr/lib64/libjbig2dec.so -> libjbig2dec.so.0.0.0 1548342288
+sym /usr/lib64/libjbig2dec.so.0 -> libjbig2dec.so.0.0.0 1548342288

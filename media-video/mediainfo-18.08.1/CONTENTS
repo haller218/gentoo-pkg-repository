@@ -1,0 +1,7 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/mediainfo-18.08.1
+obj /usr/share/doc/mediainfo-18.08.1/History_CLI.txt.bz2 e830b4396d8cb21f3e4eff359d25f91c 1548475995
+dir /usr/bin
+obj /usr/bin/mediainfo aaaa022ce8c39648f17d4bf2ea774e85 1548475996

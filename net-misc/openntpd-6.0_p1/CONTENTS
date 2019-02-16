@@ -1,0 +1,31 @@
+dir /lib
+dir /lib/systemd
+dir /lib/systemd/system
+obj /lib/systemd/system/ntpd.service dae5aba4830de37fefb8dafa20d4fd73 1549214773
+dir /var
+dir /var/lib
+dir /var/lib/openntpd
+dir /var/lib/openntpd/chroot
+obj /var/lib/openntpd/chroot/.keep_net-misc_openntpd-0 d41d8cd98f00b204e9800998ecf8427e 1549214773
+dir /etc
+dir /etc/conf.d
+obj /etc/conf.d/ntpd 4bd0344513e299019a3bc653c756a9d4 1549214773
+dir /etc/init.d
+obj /etc/init.d/ntpd 1e0f9f73db62a9f5eea268446e9dbbd2 1549214773
+obj /etc/ntpd.conf 8ee1c1701243cb67dedb03a9424158d3 1549214772
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/openntpd-6.0_p1
+obj /usr/share/doc/openntpd-6.0_p1/AUTHORS.bz2 de8127111b227af23154f7aeb4ef1eaa 1549214773
+obj /usr/share/doc/openntpd-6.0_p1/ChangeLog.bz2 e467efc43dab95fd494e9bc5e36f15d0 1549214773
+obj /usr/share/doc/openntpd-6.0_p1/README.bz2 7eb2c1702154166a6ecd9842bce469a0 1549214773
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/ntpd.8.bz2 2ea617c654ef7ebf28512a47d0ca3ee3 1549214772
+obj /usr/share/man/man8/ntpctl.8.bz2 6d3c0c64c2131c1b66b227aafe18b9ab 1549214772
+dir /usr/share/man/man5
+obj /usr/share/man/man5/ntpd.conf.5.bz2 ab0adb958d4fd7cd559f123375879226 1549214772
+dir /usr/sbin
+obj /usr/sbin/ntpd bbdf1277abe1f985dbbeae9dbce7d7c9 1549214775
+obj /usr/sbin/ntpctl bbdf1277abe1f985dbbeae9dbce7d7c9 1549214775

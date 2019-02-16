@@ -1,0 +1,9 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-dec-misc-1.0.3-r1
+obj /usr/share/doc/font-dec-misc-1.0.3-r1/ChangeLog.bz2 8aacbf3c6618a3135ea10af11ca6bed2 1545801363
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/decsess.pcf.gz 0a68e44999dccb8d626a7e9af1e040c3 1545801363
+obj /usr/share/fonts/misc/deccurs.pcf.gz 19585ac4058b00c2b870da46f868836a 1545801363

@@ -1,0 +1,25 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libspectre-0.2.8
+obj /usr/share/doc/libspectre-0.2.8/README.bz2 6450f76f2077d10382db1de8e45962e1 1548484459
+obj /usr/share/doc/libspectre-0.2.8/TODO.bz2 f3ddc6c120a533d96e6987165a36e5cb 1548484459
+obj /usr/share/doc/libspectre-0.2.8/NEWS.bz2 f811f182e2f9d4be436b5081a1fe7c23 1548484459
+obj /usr/share/doc/libspectre-0.2.8/ChangeLog.bz2 7abb2d4a555fa40deae9bb9b45515e27 1548484459
+obj /usr/share/doc/libspectre-0.2.8/AUTHORS 9a09c921ed83876a24ce1116e34d256e 1548484459
+dir /usr/lib64
+obj /usr/lib64/libspectre.so.1.1.8 9c1b9f42b8bb4aa3fc4d98f9f52f4aad 1548484460
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libspectre.pc 0ee3195f5c1025f32f002bac73eff4b4 1548484458
+sym /usr/lib64/libspectre.so -> libspectre.so.1.1.8 1548484458
+sym /usr/lib64/libspectre.so.1 -> libspectre.so.1.1.8 1548484458
+dir /usr/include
+dir /usr/include/libspectre
+obj /usr/include/libspectre/spectre-version.h 6d4671fe72738e92e3cdc5fc2ff64c05 1548484458
+obj /usr/include/libspectre/spectre-exporter.h 3e3e53cc42c37400cddc91a2fa7c5c4b 1548484458
+obj /usr/include/libspectre/spectre-page.h bf3c27c170e6893045cb4b7acc89bf42 1548484458
+obj /usr/include/libspectre/spectre-render-context.h afc92269970cd92a2a88f2b68e693dde 1548484458
+obj /usr/include/libspectre/spectre-document.h 94e40555d2b737d01515de6d37609856 1548484458
+obj /usr/include/libspectre/spectre-status.h 25f6ccce4d97a2ccf4c3c7e37526ce6d 1548484458
+obj /usr/include/libspectre/spectre-macros.h 68be3abd73f71f7fdbe092b79dfa112c 1548484458
+obj /usr/include/libspectre/spectre.h 1a4949eb44742751678a664c5359fabd 1548484458

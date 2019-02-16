@@ -1,0 +1,13 @@
+dir /etc
+dir /etc/emacs
+obj /etc/emacs/site-start.el 14718a91fc6b42a059c3ee58cdf09648 1548471734
+obj /etc/emacs/.keep_app-emacs_emacs-common-gentoo-0 d41d8cd98f00b204e9800998ecf8427e 1548471734
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/emacs-common-gentoo-1.6-r1
+obj /usr/share/doc/emacs-common-gentoo-1.6-r1/README.gentoo.bz2 05a0a13628fc7f6dd2e48a0279e8abad 1548471734
+dir /usr/share/emacs
+dir /usr/share/emacs/site-lisp
+obj /usr/share/emacs/site-lisp/site-gentoo.el 6bedb6188cf3040be8af1ce3aeb7637d 1548471734
+obj /usr/share/emacs/site-lisp/subdirs.el 19b2345603f0b42da0ac3d9c0a3a9ddb 1548471734

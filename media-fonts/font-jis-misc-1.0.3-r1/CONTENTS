@@ -1,0 +1,9 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-jis-misc-1.0.3-r1
+obj /usr/share/doc/font-jis-misc-1.0.3-r1/ChangeLog.bz2 2c3f1839cea2ccbd5d6ebb219abccb8a 1545801400
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/jiskan24.pcf.gz f5f2dd86935eb16947ef5c2773d04894 1545801399
+obj /usr/share/fonts/misc/jiskan16.pcf.gz 898b58a44f52d9a9efd338565af2b4e0 1545801399

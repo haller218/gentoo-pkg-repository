@@ -1,0 +1,48 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pycairo-1.17.0-r1
+obj /usr/share/doc/pycairo-1.17.0-r1/NEWS.bz2 4cc0cd0d9bb653a02d72956d5dee55bd 1545826451
+obj /usr/share/doc/pycairo-1.17.0-r1/README.rst.bz2 904d76bf03e5cbb7b1f9cee6b58c7832 1545826451
+dir /usr/include
+dir /usr/include/pycairo
+obj /usr/include/pycairo/py3cairo.h a064b52f15eae4839d4d1f1ce041cf39 1523637113
+obj /usr/include/pycairo/pycairo.h a064b52f15eae4839d4d1f1ce041cf39 1523637113
+dir /usr/lib64
+dir /usr/lib64/python3.6
+dir /usr/lib64/python3.6/site-packages
+dir /usr/lib64/python3.6/site-packages/pycairo-1.17.0-py3.6.egg-info
+obj /usr/lib64/python3.6/site-packages/pycairo-1.17.0-py3.6.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1545826451
+obj /usr/lib64/python3.6/site-packages/pycairo-1.17.0-py3.6.egg-info/SOURCES.txt cfe7a7fc45a799fec02c07be02b9fbcb 1545826451
+obj /usr/lib64/python3.6/site-packages/pycairo-1.17.0-py3.6.egg-info/PKG-INFO 5193bf2f53f04987d8df0bb77a6982c4 1545826451
+obj /usr/lib64/python3.6/site-packages/pycairo-1.17.0-py3.6.egg-info/top_level.txt c2f1645232aa5c9abc451b8f65a1df12 1545826451
+dir /usr/lib64/python3.6/site-packages/cairo
+obj /usr/lib64/python3.6/site-packages/cairo/_cairo.cpython-36m-x86_64-linux-gnu.so 64fab275701b50d9f64ab97c47e12c0b 1545826453
+dir /usr/lib64/python3.6/site-packages/cairo/include
+obj /usr/lib64/python3.6/site-packages/cairo/include/py3cairo.h a064b52f15eae4839d4d1f1ce041cf39 1523637113
+dir /usr/lib64/python3.6/site-packages/cairo/__pycache__
+obj /usr/lib64/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.opt-2.pyc 3448478446494b9d00e576fe519ef3ba 1545826450
+obj /usr/lib64/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.opt-1.pyc 3448478446494b9d00e576fe519ef3ba 1545826450
+obj /usr/lib64/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.pyc 8bd198e813b5d59182badc36a0bd2b4e 1545826450
+obj /usr/lib64/python3.6/site-packages/cairo/py.typed d41d8cd98f00b204e9800998ecf8427e 1523781553
+obj /usr/lib64/python3.6/site-packages/cairo/__init__.pyi b45ad220f4afc3895b90d8c72912e998 1520095697
+obj /usr/lib64/python3.6/site-packages/cairo/__init__.py 74576b5bbb4629822b31786e144805bc 1517844426
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/py3cairo.pc d2b93e7e2273c98d40dbb5460f246e1b 1545826450
+obj /usr/lib64/pkgconfig/pycairo.pc 5cdaf600ce51620972777eb15db85cce 1545826450
+dir /usr/lib64/python2.7
+dir /usr/lib64/python2.7/site-packages
+dir /usr/lib64/python2.7/site-packages/pycairo-1.17.0-py2.7.egg-info
+obj /usr/lib64/python2.7/site-packages/pycairo-1.17.0-py2.7.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1545826450
+obj /usr/lib64/python2.7/site-packages/pycairo-1.17.0-py2.7.egg-info/SOURCES.txt cfe7a7fc45a799fec02c07be02b9fbcb 1545826450
+obj /usr/lib64/python2.7/site-packages/pycairo-1.17.0-py2.7.egg-info/PKG-INFO 5193bf2f53f04987d8df0bb77a6982c4 1545826450
+obj /usr/lib64/python2.7/site-packages/pycairo-1.17.0-py2.7.egg-info/top_level.txt c2f1645232aa5c9abc451b8f65a1df12 1545826450
+dir /usr/lib64/python2.7/site-packages/cairo
+obj /usr/lib64/python2.7/site-packages/cairo/_cairo.so 82ebe89ec3f601613f6322826f4e9ee8 1545826453
+dir /usr/lib64/python2.7/site-packages/cairo/include
+obj /usr/lib64/python2.7/site-packages/cairo/include/pycairo.h a064b52f15eae4839d4d1f1ce041cf39 1523637113
+obj /usr/lib64/python2.7/site-packages/cairo/__init__.pyo 02cd896b0cd54c1e2a13b18341828e97 1545826450
+obj /usr/lib64/python2.7/site-packages/cairo/__init__.pyc a189421ed09f7ffc69f524a786d975d3 1545826449
+obj /usr/lib64/python2.7/site-packages/cairo/py.typed d41d8cd98f00b204e9800998ecf8427e 1523781553
+obj /usr/lib64/python2.7/site-packages/cairo/__init__.pyi b45ad220f4afc3895b90d8c72912e998 1520095697
+obj /usr/lib64/python2.7/site-packages/cairo/__init__.py 74576b5bbb4629822b31786e144805bc 1517844426

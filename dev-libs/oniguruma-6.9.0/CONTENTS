@@ -1,0 +1,31 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/oniguruma-6.9.0
+obj /usr/share/doc/oniguruma-6.9.0/UNICODE_PROPERTIES.bz2 e0ce5d43ee28f88a6a0ad27ce28a2bd2 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/RE.ja.bz2 cdc28ab8eb67358c8fdd81571cfb286b 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/RE.bz2 a1b5e7c276548cac641edf82cac8aeb5 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/FAQ.ja.bz2 8232bbea16071d0ee71825ba0bfdd352 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/CALLOUTS.BUILTIN.ja.bz2 05465b7b8e628178ffd8eb85dd8902d3 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/FAQ.bz2 8b48292de7b97a9383a795739493cd3d 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/CALLOUTS.BUILTIN.bz2 3e9b3e225cfdcfd0833867903af16979 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/CALLOUTS.API.bz2 8565a2d24d1a3270547e3f25be8f326a 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/CALLOUTS.API.ja.bz2 709ce542adcdf79efe05a2293405738d 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/API.ja.bz2 7a3edfab32ab1e4ba7d2601c24cff546 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/HISTORY.bz2 4f63b1014021d8d87ab2c89bdc4fd59c 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/README_japanese.bz2 324de73c276fccabb1cc74a6cd009e17 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/README.bz2 9649413ccae3f37795641d6b4a507dcb 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/API.bz2 2b0d98d23262e53c5435056d9ba1d401 1548945853
+obj /usr/share/doc/oniguruma-6.9.0/AUTHORS 85bb08e77ab9f8e694a97a30f68e0683 1548945853
+dir /usr/bin
+obj /usr/bin/onig-config 902fbdd7ac0d914eeb0bc4316e7051d3 1548945853
+dir /usr/include
+obj /usr/include/onigposix.h fc4d51331f8355f766d982b7db7f5d44 1548945853
+obj /usr/include/oniggnu.h 4f505b518833b256f462e42f08d84702 1548945853
+obj /usr/include/oniguruma.h 4f3e50b68e22afb08adc33f7c095f50b 1548945853
+dir /usr/lib64
+obj /usr/lib64/libonig.so.5.0.0 83cfd7115f8c4a60f5e1de60bc399eeb 1548945855
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/oniguruma.pc de2fa25de85801b4ac280fab5b00ef3c 1548945853
+sym /usr/lib64/libonig.so -> libonig.so.5.0.0 1548945853
+sym /usr/lib64/libonig.so.5 -> libonig.so.5.0.0 1548945853

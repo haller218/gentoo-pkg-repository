@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/terminfo
+dir /usr/share/terminfo/x
+obj /usr/share/terminfo/x/xst-meta-24bit 4305d8e9d25f6d72ba3fad44339ee197 1548528345
+obj /usr/share/terminfo/x/xst-meta-256color a44184e585f83263b9736d2191af2737 1548528345
+obj /usr/share/terminfo/x/xst-meta 02e48eee96f627032fe4286d3d64e5a4 1548528345
+obj /usr/share/terminfo/x/xst-24bit 26d3151b90d94ff0831682eeb033506b 1548528345
+obj /usr/share/terminfo/x/xst-256color db5bfd501d53ab08fe5b9227fcb29f97 1548528345
+obj /usr/share/terminfo/x/xst de9e167b049c9dbac84aa7274cef510c 1548528345
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xst.1.bz2 b81610a32c5a43b6473554e0c1b3e431 1548528345
+dir /usr/bin
+obj /usr/bin/xst 866895a9c1d6705bec824214a2011b15 1548528347

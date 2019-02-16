@@ -1,0 +1,13 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/mac-fdisk-0.1-r7
+obj /usr/share/doc/mac-fdisk-0.1-r7/HISTORY.bz2 fa4b940a5e51eee3df8966811096c636 1545756795
+obj /usr/share/doc/mac-fdisk-0.1-r7/README.bz2 e9eecff87f1a3c19a92e256aa4a9d7d2 1545756795
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/mac-fdisk.8.bz2 e1ca2b9960e838640d602a1154dae5ba 1545756795
+obj /usr/share/man/man8/pmac-fdisk.8.bz2 07a81003ea61b128e46e60e0131d9ae4 1545756795
+dir /sbin
+obj /sbin/pmac-fdisk c95a526f8ae6f4ae30c9f2de6efc4c69 1545756796
+obj /sbin/mac-fdisk 63324d5ae22fa3c00fdf3e6bc0184948 1545756796

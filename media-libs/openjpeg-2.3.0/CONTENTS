@@ -1,0 +1,29 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/openjpeg-2.3.0
+obj /usr/share/doc/openjpeg-2.3.0/THANKS.md.bz2 4cacf028511d9dbf1daa1e2cd7b51796 1546012936
+obj /usr/share/doc/openjpeg-2.3.0/README.md.bz2 1bcc0aef89d6739f1647b8c19cc350bf 1546012936
+obj /usr/share/doc/openjpeg-2.3.0/NEWS.md.bz2 7922f44501dbebf8c39f2f73276773f1 1546012936
+obj /usr/share/doc/openjpeg-2.3.0/CHANGELOG.md.bz2 ac4b724adcf2f5f99b6015e371168501 1546012936
+obj /usr/share/doc/openjpeg-2.3.0/AUTHORS.md.bz2 2071bd69c2cb6fff95a572be73c485e2 1546012936
+dir /usr/bin
+obj /usr/bin/opj_dump be7856aab449fe4eef98e7f18c0b1e50 1546012937
+obj /usr/bin/opj_decompress 96e67f1f92698f0e7fbd574a2fa11a45 1546012937
+obj /usr/bin/opj_compress aa818bd7ebf666bb6f4f29892c280a8a 1546012937
+dir /usr/include
+dir /usr/include/openjpeg-2.3
+obj /usr/include/openjpeg-2.3/opj_stdint.h 9cfeb449cdd9b74a6fdccb9530acbc1a 1507155794
+obj /usr/include/openjpeg-2.3/openjpeg.h 35d80d0ad68c96891d051368c1b29262 1507155794
+obj /usr/include/openjpeg-2.3/opj_config.h 7998a731c224084bd5e1f87f019fe800 1546012917
+dir /usr/lib64
+obj /usr/lib64/libopenjp2.so.2.3.0 e12a9ffb7b82b0c942f7232322e55477 1546012937
+obj /usr/lib64/libopenjp2.a 56f95fdca637f3cce96f42149ae82ac7 1546012937
+sym /usr/lib64/libopenjp2.so.7 -> libopenjp2.so.2.3.0 1546012936
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libopenjp2.pc 2f251de3287ad4758ab32887688eaa56 1546012917
+dir /usr/lib64/openjpeg-2.3
+obj /usr/lib64/openjpeg-2.3/OpenJPEGConfig.cmake 7679159438fd2ad347e1ecd50fefd6b1 1546012917
+obj /usr/lib64/openjpeg-2.3/OpenJPEGTargets-gentoo.cmake e420e4211accb28a494ff345bd3086d0 1546012917
+obj /usr/lib64/openjpeg-2.3/OpenJPEGTargets.cmake 8ad64b36840d80e1c10886c3e4b1bb8c 1546012917
+sym /usr/lib64/libopenjp2.so -> libopenjp2.so.7 1546012936

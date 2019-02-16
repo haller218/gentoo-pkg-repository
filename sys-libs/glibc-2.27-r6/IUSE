@@ -1,0 +1,1 @@
+audit caps compile-locales doc gd hardened headers-only +multiarch multilib nscd profile selinux suid systemtap vanilla

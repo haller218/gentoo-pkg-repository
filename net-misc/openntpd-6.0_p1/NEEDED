@@ -1,0 +1,2 @@
+/usr/sbin/ntpctl libm.so.6,libc.so.6
+/usr/sbin/ntpd libm.so.6,libc.so.6

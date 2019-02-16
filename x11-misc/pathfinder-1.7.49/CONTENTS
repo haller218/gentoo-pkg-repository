@@ -1,0 +1,7 @@
+dir /usr
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/PathFinder.1.bz2 9dec14c789e4f64f095f913c6d0e025d 1548471666
+dir /usr/bin
+obj /usr/bin/PathFinder d26d27b2be8591919403f071d5ad238e 1548471666

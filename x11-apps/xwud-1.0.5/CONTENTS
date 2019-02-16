@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xwud 2a88160437f604c3ee6d4c9434045d0c 1545800624
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xwud-1.0.5
+obj /usr/share/doc/xwud-1.0.5/README.bz2 e135a2e672415b63492585f944649018 1545800623
+obj /usr/share/doc/xwud-1.0.5/ChangeLog.bz2 68ea10c412724c80dc29ca5fbd599d7d 1545800624
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xwud.1.bz2 c89a5e8a994aa4fef72d3cdaad3be48e 1545800623

@@ -1,0 +1,92 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libical-3.0.4
+obj /usr/share/doc/libical-3.0.4/UsingLibical.txt.bz2 7b32f021f6f00f512fc3fa8b2f10f921 1548532481
+obj /usr/share/doc/libical-3.0.4/AddingOrModifyingComponents.txt.bz2 76bec36805a99cdd1a553f203ecce99d 1548532481
+obj /usr/share/doc/libical-3.0.4/TODO.bz2 a5274fc43e11b141105a8ecdb0b47ddf 1548532481
+obj /usr/share/doc/libical-3.0.4/ReadMe.txt.bz2 7d8bbabd78dd0b9c09ef7686c2296bd3 1548532481
+obj /usr/share/doc/libical-3.0.4/THANKS.bz2 a3db6cbd6788c39b896f39f29224912b 1548532481
+obj /usr/share/doc/libical-3.0.4/ReleaseNotes.txt.bz2 5bb39d34ea9c580851ec57741854996d 1548532481
+obj /usr/share/doc/libical-3.0.4/TEST 662313634deb943cfcdbd2a66cb8c986 1548532481
+obj /usr/share/doc/libical-3.0.4/AUTHORS 3654f7435dc9774e1db0a844c2760d5c 1548532481
+dir /usr/include
+dir /usr/include/libical
+obj /usr/include/libical/libical_vcal_export.h 753d71e3c240d65ba17f1ae726edba00 1534276191
+obj /usr/include/libical/vobject.h a49da295a6e99dc98c13a241c0300ae7 1534276191
+obj /usr/include/libical/vcc.h 37148bf035f4ab2a28823d4ff0d0fd7a 1534276191
+obj /usr/include/libical/vcaltmp.h a51bde309add6e76b426c6a67de3e1fa 1534276191
+obj /usr/include/libical/icalvcal.h bef5a1429249cf6fed0a2ba7cb546072 1534276191
+obj /usr/include/libical/icalbdbset_cxx.h 8c0cfae33030d62882bc195d58a1c2c1 1534276191
+obj /usr/include/libical/icalspanlist_cxx.h e892bbe6b6ddfd0b486338393e8527c4 1534276191
+obj /usr/include/libical/libical_icalss_export.h 15025a6fa25fb067397aec1be1f512b9 1534276191
+obj /usr/include/libical/icalssyacc.h 4448f1bc0fcf3cf3b1ec7b435b3786c1 1534276191
+obj /usr/include/libical/icalspanlist.h 43d0fe410eea17d5fcb339b290fbf5a4 1534276191
+obj /usr/include/libical/icalset.h 21e86849fea763796f210b9f4262509e 1534276191
+obj /usr/include/libical/icalmessage.h a19c167aac9d6c79e591f6bddc42517d 1534276191
+obj /usr/include/libical/icalgaugeimpl.h 2e07965a5a8222a364e22cea7c80820a 1534276191
+obj /usr/include/libical/icalgauge.h af9f849de8ce14d658c8c72f9a0bbbc0 1534276191
+obj /usr/include/libical/icalfilesetimpl.h df3ab5ecf53971f07d3f1123e69bb453 1534276191
+obj /usr/include/libical/icalfileset.h 9f702570f005157fa45acc576dfeb1e1 1534276191
+obj /usr/include/libical/icaldirsetimpl.h ec66ccd5704295ddf728f46472e2da15 1534276191
+obj /usr/include/libical/icaldirset.h bf8a5f5ea86b96796b531ac1f8572a98 1534276191
+obj /usr/include/libical/icalcluster.h d9e94952375259887cca587cc694e29c 1534276191
+obj /usr/include/libical/icalclassify.h fb769f0dbd63d3914f474f19f8b942e0 1534276191
+obj /usr/include/libical/icalcalendar.h 0e2849c09e08fd08a215fd00bfaf4ac6 1534276191
+obj /usr/include/libical/icalss.h 10ded552b214490cc0862a76ae0df3e7 1548532473
+obj /usr/include/libical/vcomponent_cxx.h 17c3c517cb9eeb3defb2ba222ce9473f 1534276191
+obj /usr/include/libical/icptrholder_cxx.h 9d488751047c02ef7fa0db4d89b1c3f7 1534276191
+obj /usr/include/libical/icalvalue_cxx.h dc002d09cfbfeaffa30225761454091a 1534276191
+obj /usr/include/libical/icalproperty_cxx.h 0080dc9e017b81e3047d0b6c3a1bd77b 1534276191
+obj /usr/include/libical/icalparameter_cxx.h ecc5bc8ce7bdb76c655fb346b4ab9ce1 1534276191
+obj /usr/include/libical/sspm.h d8304d31229d111ddfe10efea7454458 1534276191
+obj /usr/include/libical/pvl.h f0be11f938f8349cce08adfde7ce429b 1534276191
+obj /usr/include/libical/libical_ical_export.h 27c23b5df2c3f960454da68b0943b8bc 1534276191
+obj /usr/include/libical/icalvalue.h e3ed46ab28296921981e0f6b98158afa 1534276191
+obj /usr/include/libical/icaltypes.h 77508888987fce7e07d3d0e4307ceaf5 1534276191
+obj /usr/include/libical/icaltimezone.h d1256abe9c2c32a201777d6b3651689a 1534276191
+obj /usr/include/libical/icaltz-util.h dec8a45652fac0595b0c324f94e2c578 1534276191
+obj /usr/include/libical/icaltime.h 7cb76fb1fa832b9d378883c7442ba618 1534276191
+obj /usr/include/libical/icalrestriction.h 399b793bcdbb3c5b967f1e0f1ae849f1 1534276191
+obj /usr/include/libical/icalrecur.h 0ad41627e04e914b35b45fd6149c42d2 1534276191
+obj /usr/include/libical/icalproperty.h b01b8a5f847550c6820c4a592bd0353f 1534276191
+obj /usr/include/libical/icalperiod.h 3b5ea1e3da9c575f304f3b35145699d4 1534276191
+obj /usr/include/libical/icalparser.h cd952b3625e8b7167fb5420d468920d8 1534276191
+obj /usr/include/libical/icalparameter.h 92bccd1c51685307ccaa345e483fef1c 1534276191
+obj /usr/include/libical/icalmime.h 183995967b0b84850b5e833f06243331 1534276191
+obj /usr/include/libical/icalmemory.h 5082f4da8ae133b984088e291bb20ef4 1534276191
+obj /usr/include/libical/icallangbind.h fc9746f743cc68308743635b7fec224f 1534276191
+obj /usr/include/libical/icalerror.h a9724355d8faf5c3f39400164c942777 1534276191
+obj /usr/include/libical/icalenums.h fc09b8852c91cd80560593b114a8c12b 1534276191
+obj /usr/include/libical/icalduration.h 2b4d0169b08f84d464736b0b2280fd8d 1534276191
+obj /usr/include/libical/icalderivedvalue.h daee0998f6fcff889aac3af1b49e04dc 1548532472
+obj /usr/include/libical/icalderivedparameter.h 2c23eae4a174922df94a86c83da16968 1548532472
+obj /usr/include/libical/icalderivedproperty.h 7f46da51c7bcb28b7f650b2b6064febe 1548532472
+obj /usr/include/libical/icalcomponent.h 86a1302157a9635a06ebed558cc55e43 1534276191
+obj /usr/include/libical/icalattach.h 6d2e1b22580a8a751df7a904a928d37e 1534276191
+obj /usr/include/libical/icalarray.h 3ab80e8dff73974f4c19b5866fb544d3 1534276191
+obj /usr/include/libical/ical.h 0955ba983c1c316c9bbb61f761c7af98 1548532472
+dir /usr/lib64
+obj /usr/lib64/libicalvcal.so.3.0.4 3d582dea33ca9af831dc041c33452ccb 1548532482
+obj /usr/lib64/libical.so.3.0.4 370b36eb5aa3bfd2a6c2a33410a00c04 1548532482
+obj /usr/lib64/libical_cxx.so.3.0.4 ef518233660fcfc5b29e785a9a430838 1548532482
+obj /usr/lib64/libicalss.so.3.0.4 7aace37dcaa5f7b1bcf4f59d39a06a3c 1548532482
+obj /usr/lib64/libicalss_cxx.so.3.0.4 cfe4393ae0f8511402e96604ac8aa481 1548532482
+sym /usr/lib64/libicalvcal.so.3 -> libicalvcal.so.3.0.4 1548532481
+sym /usr/lib64/libicalss_cxx.so.3 -> libicalss_cxx.so.3.0.4 1548532481
+sym /usr/lib64/libicalss.so.3 -> libicalss.so.3.0.4 1548532481
+sym /usr/lib64/libical_cxx.so.3 -> libical_cxx.so.3.0.4 1548532481
+sym /usr/lib64/libical.so.3 -> libical.so.3.0.4 1548532481
+dir /usr/lib64/cmake
+dir /usr/lib64/cmake/LibIcal
+obj /usr/lib64/cmake/LibIcal/LibIcalTargets-gentoo.cmake 8f2859ec90f8cc06e960bc076f177c58 1548532472
+obj /usr/lib64/cmake/LibIcal/LibIcalTargets.cmake 128c930bdc5e2e75221af44e1318abea 1548532472
+obj /usr/lib64/cmake/LibIcal/LibIcalConfig.cmake a8350de9d4c9c1501f3a09c3385bff5b 1548532472
+obj /usr/lib64/cmake/LibIcal/LibIcalConfigVersion.cmake a90d4a6db8e1b2a35aff6e8500164f50 1548532472
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libical.pc 288bb9a8a897d8a3338b15d8f3f06719 1548532472
+sym /usr/lib64/libical.so -> libical.so.3 1548532481
+sym /usr/lib64/libical_cxx.so -> libical_cxx.so.3 1548532481
+sym /usr/lib64/libicalss.so -> libicalss.so.3 1548532481
+sym /usr/lib64/libicalss_cxx.so -> libicalss_cxx.so.3 1548532481
+sym /usr/lib64/libicalvcal.so -> libicalvcal.so.3 1548532481

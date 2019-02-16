@@ -1,0 +1,1 @@
+epatch desktop estack toolchain-funcs multilib ltprune preserve-libs vcs-clean eutils epunt-cxx mono-env libtool versionator java-utils-2 java-pkg-opt-2 multibuild multilib-build multilib-minimal

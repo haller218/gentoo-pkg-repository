@@ -1,0 +1,24 @@
+dir /usr
+dir /usr/share
+dir /usr/share/locale
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/xfsdump.mo 098212797e3d6ecaaaec9180f8606dc0 1549030749
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/xfsdump.mo 16ce7efa93206c290bf63b7e3ad2a3b8 1549030748
+dir /usr/share/doc
+dir /usr/share/doc/xfsdump-3.1.8
+obj /usr/share/doc/xfsdump-3.1.8/README.bz2 8572f56a30a436029e2d0563d4fc9a59 1549030749
+obj /usr/share/doc/xfsdump-3.1.8/README.xfsdump.bz2 93ac967945c6164a14b4afcdf08c4de0 1549030748
+obj /usr/share/doc/xfsdump-3.1.8/COPYING.bz2 1ce17b2bbbe3a6704c564f849dc2995f 1549030749
+obj /usr/share/doc/xfsdump-3.1.8/CHANGES.bz2 2915348d632f7fa83a298fbc789c4284 1549030748
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/xfsrestore.8.bz2 a610f7aae499786043094a12de5ff36b 1549030749
+obj /usr/share/man/man8/xfsinvutil.8.bz2 849295cc2edb1edb9c86bb190f74d6f1 1549030749
+obj /usr/share/man/man8/xfsdump.8.bz2 e33e8e76795bddae5db773ff9cc378d5 1549030748
+dir /sbin
+obj /sbin/xfsrestore a11bd2a3d4639b4bc69430487c8344eb 1549030750
+obj /sbin/xfsinvutil c5b4120c922759e44d276d0a94fb9414 1549030750
+obj /sbin/xfsdump cb00191781a093930cecf244a6c585e8 1549030750

@@ -1,0 +1,10 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/maim-5.5.1
+obj /usr/share/doc/maim-5.5.1/README.md.bz2 c630e9dde4acba8b74a2e9884a525d77 1549344465
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/maim.1.bz2 560ab9111bec3827c232071a50f98078 1526228271
+dir /usr/bin
+obj /usr/bin/maim 282e3f4ecc3f5457167696476164d622 1549344465

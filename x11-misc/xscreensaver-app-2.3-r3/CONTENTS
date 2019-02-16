@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xscreensaver-app-2.3-r3
+obj /usr/share/doc/xscreensaver-app-2.3-r3/TODO.bz2 c42083572c95af262a87c811378fab21 1548990765
+obj /usr/share/doc/xscreensaver-app-2.3-r3/NEWS.bz2 ab2f8f0989dbff177715dba165573402 1548990765
+obj /usr/share/doc/xscreensaver-app-2.3-r3/README.bz2 d580c0147585eeb55181d27f4218c298 1548990765
+obj /usr/share/doc/xscreensaver-app-2.3-r3/AUTHORS fb437b995e14f5595d7e977892b20606 1548990765
+obj /usr/share/doc/xscreensaver-app-2.3-r3/ChangeLog d41d8cd98f00b204e9800998ecf8427e 1548990765
+dir /usr/bin
+obj /usr/bin/XScreenSaver.App b8eb7482a95450d87b836fe4df22aa7e 1548990766

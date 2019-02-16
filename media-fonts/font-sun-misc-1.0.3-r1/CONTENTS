@@ -1,0 +1,12 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/font-sun-misc-1.0.3-r1
+obj /usr/share/doc/font-sun-misc-1.0.3-r1/ChangeLog.bz2 4450be6ae476160886b40b4caaf35bc9 1545801507
+dir /usr/share/fonts
+dir /usr/share/fonts/misc
+obj /usr/share/fonts/misc/olgl19.pcf.gz 20612c8c28abbad845f6a247e12e027d 1545801507
+obj /usr/share/fonts/misc/olgl14.pcf.gz f9d9fb9139fbcc1a823d57e59ce14a92 1545801507
+obj /usr/share/fonts/misc/olgl12.pcf.gz 4add3e32756766eaa6adc8e9a4303a09 1545801507
+obj /usr/share/fonts/misc/olgl10.pcf.gz 376b3704e322a839b988d5553db60c72 1545801507
+obj /usr/share/fonts/misc/olcursor.pcf.gz bd0efae9152b25918911136efe661ddd 1545801507

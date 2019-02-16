@@ -1,0 +1,63 @@
+dir /lib
+dir /lib/systemd
+dir /lib/systemd/system
+obj /lib/systemd/system/fancontrol.service 925cf44e2ac095ebce35093e10d7bfb2 1545736460
+obj /lib/systemd/system/lm_sensors.service 65716fc4120ddcd3f7ba04910f0f2a59 1545736460
+dir /etc
+dir /etc/conf.d
+obj /etc/conf.d/fancontrol 8e7d2b97e31c4890b4307b960f5a2ca6 1545736460
+obj /etc/conf.d/lm_sensors e8ceef8b50989d5aaaae027ea0fa8cf1 1545736460
+dir /etc/init.d
+obj /etc/init.d/fancontrol 508c3fa59105478bb36e69fa3896e0e1 1545736460
+obj /etc/init.d/lm_sensors b428cdc8ed8e7a42692b14ba77bba5ef 1545736460
+obj /etc/sensors3.conf 41bd2b70a6ce64a21c2d1f70b9eed091 1545736459
+dir /etc/sensors.d
+dir /usr
+dir /usr/bin
+obj /usr/bin/sensors c0bf7a925df5652bc930cc0ef96aa9e5 1545736462
+obj /usr/bin/sensors-conf-convert a3fefb93242135902b946984827dca10 1545736459
+dir /usr/sbin
+obj /usr/sbin/isaset 67e17beec9b299fa1000695bbe7e8d97 1545736462
+obj /usr/sbin/isadump cc5cc9395c69b1ab35e497a672d50120 1545736462
+obj /usr/sbin/pwmconfig fb31a1a9907e7a30706e819d1b892ccb 1545736459
+obj /usr/sbin/fancontrol 171ea75cc7ae15f2979867e7944f5361 1545736459
+obj /usr/sbin/sensors-detect b8cca66c942d7402ef4a5ec1a96ae2b9 1545736459
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/lm_sensors-3.4.0_p20180923
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/vid.bz2 57016414a1cfac0524edca73e739fe26 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/progs.bz2 bfb87c9813032dc151fcc6abb2257507 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/libsensors-API.txt.bz2 91d763451a0ac9d3511e87dbca8cab9b 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/temperature-sensors.bz2 a6523c0f4aa7443d13fea0171d6b15f3 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/fan-divisors.bz2 2a614ac678f6ee8b69ae42275b796973 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/fancontrol.txt.bz2 ccc3aa1f51d077e4b5a1615dd5ef3026 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/README.bz2 bdfb35379811e936e3ec89e7df12ed9a 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/donations.bz2 16997957d2788d80a1ba5dae7e915a26 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/INSTALL.bz2 3b799b586c45503ddc69829f2a56deff 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/CONTRIBUTORS.bz2 c9e4c1b3edce43e38dc9b267790b8372 1545736460
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/CHANGES.bz2 888fe84b4bb951adf11aa3cefa36dbeb 1545736460
+dir /usr/share/doc/lm_sensors-3.4.0_p20180923/developers
+obj /usr/share/doc/lm_sensors-3.4.0_p20180923/developers/applications.bz2 7c7ff083d862b4c8f2aa503e90b6834e 1545736460
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/sensors.1.bz2 2499c4aff39b351af82a93876c7987cf 1545736459
+dir /usr/share/man/man8
+obj /usr/share/man/man8/isaset.8.bz2 dcf25dc7e9a758635fc3cce384bb2b4c 1545736459
+obj /usr/share/man/man8/sensors-conf-convert.8.bz2 0de6d5cafac9e6766dae537a3955ff07 1545736459
+obj /usr/share/man/man8/pwmconfig.8.bz2 36a7f34cf26c0dfbc7d3bdd2bd2421c4 1545736459
+obj /usr/share/man/man8/isadump.8.bz2 5edea8d1a13d47065dded2073ae90fe2 1545736459
+obj /usr/share/man/man8/fancontrol.8.bz2 8f30289d77190f262114b673bafef3c7 1545736459
+obj /usr/share/man/man8/sensors-detect.8.bz2 1fd9a7046a94899b9742fec1cc5f18bb 1545736459
+dir /usr/share/man/man5
+obj /usr/share/man/man5/sensors.conf.5.bz2 82cfdf49775a03c07410c5ef5e2bc9a1 1545736459
+dir /usr/share/man/man3
+obj /usr/share/man/man3/libsensors.3.bz2 08cf01bea5a9adae8ed2c4d558d43340 1545736459
+dir /usr/include
+dir /usr/include/sensors
+obj /usr/include/sensors/sensors.h 2e19daa01a3f07e3430c6f9a8fb1cd8d 1545736459
+obj /usr/include/sensors/error.h b30072862793b39ea3e3cc902f51d25f 1545736459
+dir /usr/lib64
+obj /usr/lib64/libsensors.so.4.4.0 0aecef8165d532e90c73b3011599e9d6 1545736462
+sym /usr/lib64/libsensors.so.4 -> libsensors.so.4.4.0 1545736459
+sym /usr/lib64/libsensors.so -> libsensors.so.4 1545736459
+sym /usr/share/man/man5/sensors3.conf.5.bz2 -> sensors.conf.5.bz2 1545736462

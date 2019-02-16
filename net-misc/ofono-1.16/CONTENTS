@@ -1,0 +1,70 @@
+dir /lib
+dir /lib/systemd
+dir /lib/systemd/system
+obj /lib/systemd/system/ofono.service 246c898b9bd17b3cf0bf8f5421d20e70 1548532459
+dir /etc
+dir /etc/init.d
+obj /etc/init.d/ofono afa4a8d24f82a95e32cc11f0a7de5574 1548532459
+dir /etc/ofono
+obj /etc/ofono/phonesim.conf c8b35cfcb95393a2f24dff9dd11f42da 1548532459
+dir /etc/dbus-1
+dir /etc/dbus-1/system.d
+obj /etc/dbus-1/system.d/ofono.conf 44ca6afc680516865a98eaa05f21af65 1548532459
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/ofono.pc d2350f13e64150dd312c7de978546f2b 1548532459
+dir /usr/include
+dir /usr/include/ofono
+obj /usr/include/ofono/siri.h f90875c469cfffb1fb7f2f37f42a9149 1548532459
+obj /usr/include/ofono/handsfree-audio.h 3df18fd8beccb6ab18e0f952cb2ef9a1 1548532459
+obj /usr/include/ofono/handsfree.h dcdb8a9a794b7e68996361824cda7e65 1548532459
+obj /usr/include/ofono/cdma-provision.h bab24b6bc972d4d3128773ecc2d6fb13 1548532459
+obj /usr/include/ofono/cdma-netreg.h 76be526cca367a6f2fc6f18a939730a0 1548532459
+obj /usr/include/ofono/private-network.h 92f0cc40216471eb9d80e7e2c6488423 1548532459
+obj /usr/include/ofono/gnss.h b720fb42e1f62aa50f410d849763f3d7 1548532459
+obj /usr/include/ofono/cdma-connman.h 0d07a971719e2096d3f1f09d7b11c1f3 1548532459
+obj /usr/include/ofono/location-reporting.h 52d497e724836ac0254b89cca978900d 1548532459
+obj /usr/include/ofono/emulator.h f5b5c86852842e8122557e015a604467 1548532459
+obj /usr/include/ofono/gprs-provision.h 31f0f0fddcf05c0f86697668de8a8f02 1548532459
+obj /usr/include/ofono/sim-auth.h b171cb60bad463f030f212ed9465838e 1548532459
+obj /usr/include/ofono/cdma-sms.h 70fc583d77c5bfa7ca7b7012e12414e6 1548532459
+obj /usr/include/ofono/cdma-voicecall.h 7bf3f01486a44dc4bd93b6b3406bc56e 1548532459
+obj /usr/include/ofono/ctm.h 8c726f863f06ed06ae788e0fff3a8bca 1548532459
+obj /usr/include/ofono/nettime.h 063a6f4477b558136cc004173742d42b 1548532459
+obj /usr/include/ofono/audio-settings.h 0e612e8c4532e0726dc7aff9dd7d1e56 1548532459
+obj /usr/include/ofono/stk.h 7d86acd6070004ebd2bd8b8b0f5fc1a2 1548532459
+obj /usr/include/ofono/radio-settings.h 7ae485d5516e117dba11bca452ab5ffd 1548532459
+obj /usr/include/ofono/gprs-context.h a62ee375f82ce674d76d3cbd74b5d649 1548532459
+obj /usr/include/ofono/gprs.h 2a61ab2a23734fab0f8accc39b478f45 1548532459
+obj /usr/include/ofono/call-volume.h 3d0fd01cd653a8ca5c2ae064fc2b7c8b 1548532459
+obj /usr/include/ofono/cbs.h 6d9ce701e4aa08e9a39d8275da5f8d1f 1548532459
+obj /usr/include/ofono/devinfo.h c86c89ce68f258bb14e305368009fc84 1548532459
+obj /usr/include/ofono/voicecall.h ccc45ef06b63dc5800001ec858c5a34e 1548532459
+obj /usr/include/ofono/netreg.h a5306b10ab145d9d67b49aa5c699dd71 1548532459
+obj /usr/include/ofono/message-waiting.h 16ce1a0bccd9e0ccb7f6ba3a0eb7073c 1548532459
+obj /usr/include/ofono/sim.h 9e86ce9d1848bda95b6f38af7b2f7118 1548532459
+obj /usr/include/ofono/sms.h a578fd593e44299b0dcc1c94bdc901f1 1548532459
+obj /usr/include/ofono/ussd.h 60336cd60d2f421d66780f79c5e124b8 1548532459
+obj /usr/include/ofono/phonebook.h 3d04c9bacfaa9809bbe133f2d821952b 1548532459
+obj /usr/include/ofono/call-settings.h a3f089d62399117e37ab5a922d84632c 1548532459
+obj /usr/include/ofono/call-meter.h 9986549b2c6d48e59ff8c1915ffba5fb 1548532459
+obj /usr/include/ofono/call-forwarding.h f34bcbdb147498141cdb72eb79f947b6 1548532459
+obj /usr/include/ofono/call-barring.h 5e2206f1c6f68e3fba37394a839bce1f 1548532459
+obj /usr/include/ofono/types.h 52b561ebe0a731fefebcb8c9ac8ee408 1548532459
+obj /usr/include/ofono/modem.h cd634a5529ffc171f59f419cba21b2ff 1548532459
+obj /usr/include/ofono/dbus.h 50033c27103d62d9733f8f19682c52c0 1548532459
+obj /usr/include/ofono/history.h c98882fc77768ac03063d66ea2e38524 1548532459
+obj /usr/include/ofono/plugin.h 743439b012a7ca8bc261baff3bfda918 1548532459
+obj /usr/include/ofono/log.h bd7c4b3007d6b39050a0d6f07bec7902 1548532459
+obj /usr/include/ofono/version.h d50d38ff72d6f87c3d0a7c378dceb572 1548532459
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/ofono-1.16
+obj /usr/share/doc/ofono-1.16/ChangeLog.bz2 d2cef5e0e61346ec972b564f653296ec 1548532459
+obj /usr/share/doc/ofono-1.16/AUTHORS.bz2 45b463bcf83587d1be22a61a755315f9 1548532459
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/ofonod.8.bz2 9f2c421c115b2cc08bc65c5537dfb1ed 1548532459
+dir /usr/sbin
+obj /usr/sbin/ofonod 5db14201f4e5ea3b5597edce79e1c81d 1548532460

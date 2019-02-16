@@ -1,0 +1,1 @@
+sys-libs/zlib:0/1= virtual/pam >=app-misc/editor-wrapper-3 virtual/editor sys-auth/pambase virtual/mta virtual/tmpfiles

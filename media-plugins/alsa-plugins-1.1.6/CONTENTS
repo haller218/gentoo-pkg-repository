@@ -1,0 +1,22 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/alsa-plugins-1.1.6
+obj /usr/share/doc/alsa-plugins-1.1.6/README-pulse.bz2 afca5dfe66038cb583dcf9a9d7b219fb 1545804176
+obj /usr/share/doc/alsa-plugins-1.1.6/README-pcm-oss.bz2 0d9ae70e24b22e8a150281dbbfb7b8c0 1545804176
+obj /usr/share/doc/alsa-plugins-1.1.6/vdownmix.txt.bz2 3ee7fb50e6f0afa9598942ffeddc5d60 1545804176
+obj /usr/share/doc/alsa-plugins-1.1.6/upmix.txt.bz2 5e2be2cedd9f4c75646d7d2e93427b75 1545804176
+dir /usr/share/alsa
+obj /usr/share/alsa/pulse-default.conf 62917ab4d5763194b62bb03ccd6d3324 1545804176
+dir /usr/share/alsa/alsa.conf.d
+obj /usr/share/alsa/alsa.conf.d/51-pulseaudio-probe.conf b6c02615e67adf4cb212206f0c4ff26c 1545804176
+obj /usr/share/alsa/alsa.conf.d/99-pulseaudio-default.conf.example b7fd8068d12e5e23b65da5dd6b1c76a1 1545804176
+obj /usr/share/alsa/alsa.conf.d/50-pulseaudio.conf a6fb72bb7799d4bbe18ec0839fd365d9 1545804176
+dir /usr/lib64
+dir /usr/lib64/alsa-lib
+obj /usr/lib64/alsa-lib/libasound_module_pcm_vdownmix.so a62c056cf110e7d5ac026afd9f297ec5 1545804177
+obj /usr/lib64/alsa-lib/libasound_module_pcm_usb_stream.so 85f4d8cf61595c538e9dcc4df2e6bd93 1545804177
+obj /usr/lib64/alsa-lib/libasound_module_pcm_upmix.so 7f6cdba9a6106ce5af8e3b7876a906d4 1545804177
+obj /usr/lib64/alsa-lib/libasound_module_conf_pulse.so af80d0c9ab3326c73b32d4a175ee22bf 1545804177
+obj /usr/lib64/alsa-lib/libasound_module_ctl_pulse.so bb1c9ca531f867d60a408190ee4c8d98 1545804177
+obj /usr/lib64/alsa-lib/libasound_module_pcm_pulse.so 37340e214282dbb3a751a689004042b5 1545804177

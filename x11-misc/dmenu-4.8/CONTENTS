@@ -1,0 +1,16 @@
+dir /etc
+dir /etc/portage
+dir /etc/portage/savedconfig
+dir /etc/portage/savedconfig/x11-misc
+obj /etc/portage/savedconfig/x11-misc/dmenu-4.8 32ac385e25865b27336753232e2a3895 1548469478
+dir /usr
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/stest.1.bz2 ab15f4e6bf8e2b6e24dc7d8cec085bd3 1548469478
+obj /usr/share/man/man1/dmenu.1.bz2 70bedba4c289caf02c5371c754b09cb4 1548469478
+dir /usr/bin
+obj /usr/bin/dmenu e1b0a5310d04c826d12552e8e47224ee 1548469479
+obj /usr/bin/stest bb49a002154414180f80b5fc1f2cfbe6 1548469479
+obj /usr/bin/dmenu_run 02767b3eda4ab44b52e190ec3e01fec6 1548469478
+obj /usr/bin/dmenu_path 005cd5912260d4c056e1555d8d8916b3 1548469478

@@ -1,0 +1,1 @@
+x86_64: desktop-shell.so drm-backend.so fullscreen-shell.so gl-renderer.so libweston-3.so.0 libweston-desktop-3.so.0 x11-backend.so

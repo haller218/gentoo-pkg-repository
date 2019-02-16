@@ -1,0 +1,23 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libXxf86misc-1.0.4
+obj /usr/share/doc/libXxf86misc-1.0.4/ChangeLog.bz2 8a0f7185569689e5f0a0cd405c29e45c 1548990652
+obj /usr/share/doc/libXxf86misc-1.0.4/README.bz2 5566858084b081e815f922bfd24f7469 1548990652
+dir /usr/share/man
+dir /usr/share/man/man3
+obj /usr/share/man/man3/XF86Misc.3.bz2 e613dfdcf3f82ca6d179d06870863d33 1548990652
+obj /usr/share/man/man3/XF86MiscSetKbdSettings.3 ddfe855f38828f964a886a702de72197 1548990652
+obj /usr/share/man/man3/XF86MiscGetKbdSettings.3 ddfe855f38828f964a886a702de72197 1548990652
+obj /usr/share/man/man3/XF86MiscSetMouseSettings.3 ddfe855f38828f964a886a702de72197 1548990652
+obj /usr/share/man/man3/XF86MiscGetMouseSettings.3 ddfe855f38828f964a886a702de72197 1548990652
+obj /usr/share/man/man3/XF86MiscSetSaver.3 ddfe855f38828f964a886a702de72197 1548990652
+obj /usr/share/man/man3/XF86MiscGetSaver.3 ddfe855f38828f964a886a702de72197 1548990652
+obj /usr/share/man/man3/XF86MiscQueryVersion.3 ddfe855f38828f964a886a702de72197 1548990652
+obj /usr/share/man/man3/XF86MiscQueryExtension.3 ddfe855f38828f964a886a702de72197 1548990652
+dir /usr/lib64
+obj /usr/lib64/libXxf86misc.so.1.1.0 faf6ef931c38fbaceeac1e3197e5075a 1548990653
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/xxf86misc.pc fe964f5e0908964bf38e3b9c35da1690 1548990652
+sym /usr/lib64/libXxf86misc.so -> libXxf86misc.so.1.1.0 1548990652
+sym /usr/lib64/libXxf86misc.so.1 -> libXxf86misc.so.1.1.0 1548990652

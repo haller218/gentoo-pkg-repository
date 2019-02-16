@@ -1,0 +1,2 @@
+/sbin/mac-fdisk libc.so.6
+/sbin/pmac-fdisk libc.so.6

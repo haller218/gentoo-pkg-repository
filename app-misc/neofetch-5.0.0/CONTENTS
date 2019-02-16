@@ -1,0 +1,7 @@
+dir /usr
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/neofetch.1.bz2 8de510e9ce53291af6026ffb635d9932 1529365613
+dir /usr/bin
+obj /usr/bin/neofetch e7f973f1fdb040db7f86299f04db30e0 1529365613

@@ -1,0 +1,107 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/elfutils-0.170-r1
+obj /usr/share/doc/elfutils-0.170-r1/THANKS.bz2 5f8fbc3c9f11b08fcded4b176ca39ba3 1545713074
+obj /usr/share/doc/elfutils-0.170-r1/NOTES.bz2 40a24ab17e6ea5b131e82da043e5bccf 1545713074
+obj /usr/share/doc/elfutils-0.170-r1/NEWS.bz2 403194c4d6ce38a768c5edbe388daf90 1545713073
+obj /usr/share/doc/elfutils-0.170-r1/TODO.bz2 8a6a0b82ad4ff99316ed3b716b21dd20 1545713073
+obj /usr/share/doc/elfutils-0.170-r1/README.bz2 61159df002e6d0f74d82a5d4b3d40ec6 1545713073
+obj /usr/share/doc/elfutils-0.170-r1/ChangeLog.bz2 175326abadb4849137a23ce804469877 1545713073
+obj /usr/share/doc/elfutils-0.170-r1/AUTHORS ded51a1976a7cfd887e50a228a0913e6 1545713073
+dir /usr/share/locale
+dir /usr/share/locale/en@boldquot
+dir /usr/share/locale/en@boldquot/LC_MESSAGES
+obj /usr/share/locale/en@boldquot/LC_MESSAGES/elfutils.mo cf4e4963521dbe58978af7b5cf63aab0 1545713073
+dir /usr/share/locale/en@quot
+dir /usr/share/locale/en@quot/LC_MESSAGES
+obj /usr/share/locale/en@quot/LC_MESSAGES/elfutils.mo 9511d5738460b9709d31af62f78ed7c7 1545713073
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/elfutils.mo 84c454b9768bcf1456ac25d0641c862a 1545713073
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/elfutils.mo 01c14dcf1ab3799f0ae8e0e9ce17f3ad 1545713073
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/elfutils.mo 597a8e6f87de06427e08026108e459e5 1545713073
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/elfutils.mo 5bab5c6660f127de5d88b7d3a35867a4 1545713073
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/elfutils.mo d6bcd92076a80de0ec60dd0c98eaf34e 1545713073
+dir /usr/bin
+obj /usr/bin/eu-stack e7fede5a19a0284e6abaaba163bdd5fd 1545713075
+obj /usr/bin/eu-elfcompress 808637080cc5494e716ec595e98629cc 1545713075
+obj /usr/bin/eu-ar 71a3c0d368a1e9a9de1943c155f9fff8 1545713075
+obj /usr/bin/eu-unstrip f0e44010da0ecc75fbbd981c20e1de21 1545713075
+obj /usr/bin/eu-strings b999308028afb6f6b4de08c777acfdc0 1545713075
+obj /usr/bin/eu-ranlib 92acbe23f84ad38cdaabe9547b3c0d58 1545713075
+obj /usr/bin/eu-objdump 273947faec33521fce30a46ce2746ed2 1545713075
+obj /usr/bin/eu-elfcmp 9d036ccb53ae88435cac0179f921cfc4 1545713075
+obj /usr/bin/eu-findtextrel 3abe427fe70150a6a699a41b49afc123 1545713075
+obj /usr/bin/eu-addr2line 9a29822f8b4bb85456246da516d57561 1545713075
+obj /usr/bin/eu-elflint d244d9f7e68b55bffb4186e16efb44dc 1545713075
+obj /usr/bin/eu-strip 74f6e5f03b3401a778add769005d920f 1545713075
+obj /usr/bin/eu-readelf 2f1134b401c21a28076f71f110f6edb4 1545713075
+obj /usr/bin/eu-size 721b5b79cf0c7d52b39776c0ac2d1c7e 1545713075
+obj /usr/bin/eu-nm cdd66a691ce75a913f657edefa46691a 1545713075
+obj /usr/bin/eu-make-debug-archive eb59958340cfa7df8c7713e12b3488b9 1545713073
+dir /usr/include
+obj /usr/include/dwarf.h bfd8bcd0ef9362ba8efc0b4b95be43e2 1545713072
+obj /usr/include/nlist.h ce6c40d6edbd166d0326d342a677d82c 1545713072
+obj /usr/include/gelf.h 273afd7015cac7334fa770efee5f56b4 1545713072
+obj /usr/include/libelf.h 352f44c34fac64a364d6969987371f82 1545713072
+dir /usr/include/elfutils
+obj /usr/include/elfutils/version.h 850b0144829cc5b3a6b359d405e9f25b 1545713073
+obj /usr/include/elfutils/libasm.h 8d5b041c204f8df61595ba1f1ddb419c 1545713072
+obj /usr/include/elfutils/known-dwarf.h 606ae0f2b4cf0f5cfacc3b824a11a444 1545713072
+obj /usr/include/elfutils/libdw.h 4813b33160b6caaa3ed268fd73f29dab 1545713072
+obj /usr/include/elfutils/libdwfl.h e67e8a258966feb2fa5a24bcd6ec2d59 1545713072
+obj /usr/include/elfutils/libdwelf.h 780bea4fe15fac88a61fbb8e7d9b373f 1545713072
+obj /usr/include/elfutils/libebl.h 20c5f7ba9784fe3f7b071afe4f168802 1545713072
+obj /usr/include/elfutils/elf-knowledge.h 73a7cc9d24808d93be6ef1232e2fafd1 1545713072
+dir /usr/lib64
+obj /usr/lib64/libdw-0.170.so 15a986f5a051bafca7af3fac20f667cf 1545713075
+obj /usr/lib64/libelf-0.170.so bc083e0cf38942c5ab5c42fbd910463f 1545713075
+obj /usr/lib64/libasm-0.170.so 545b206956133cd2206f8b5afe5887a0 1545713075
+obj /usr/lib64/libebl.a e0844accc149e657899d6633a7bb192a 1545713075
+dir /usr/lib64/elfutils
+obj /usr/lib64/elfutils/libebl_bpf-0.170.so cdc2b3dda6723e362f2c25d4930a19b2 1545713075
+obj /usr/lib64/elfutils/libebl_tilegx-0.170.so 96591ed565ccf074bf962dc9453c8483 1545713075
+obj /usr/lib64/elfutils/libebl_m68k-0.170.so 08b99558f9bb71f0bcae5ded7a992200 1545713075
+obj /usr/lib64/elfutils/libebl_s390-0.170.so 05357a40b15e04d97dc93632898951bf 1545713075
+obj /usr/lib64/elfutils/libebl_ppc64-0.170.so 8d5ae06757f47b69d5ba4ad9634aa9a9 1545713075
+obj /usr/lib64/elfutils/libebl_sparc-0.170.so 75c2cc0dd507f01626ef5c7dece3b49f 1545713075
+obj /usr/lib64/elfutils/libebl_ppc-0.170.so f30d8971f11f757d3b13fc5ca7243f35 1545713075
+obj /usr/lib64/elfutils/libebl_arm-0.170.so 686b2627c1a8074b53ef44ce64f73899 1545713075
+obj /usr/lib64/elfutils/libebl_aarch64-0.170.so 78407cabcc7c8da4abc24a5f0bd7ced6 1545713075
+obj /usr/lib64/elfutils/libebl_ia64-0.170.so d09363dfc03bfdacc0f2f172d5f0a7df 1545713075
+obj /usr/lib64/elfutils/libebl_alpha-0.170.so 517c0e88f52c1cf671b128147fdfbeaa 1545713075
+obj /usr/lib64/elfutils/libebl_x86_64-0.170.so e6ec565e3e8d5c2522b880bb2277dcc1 1545713075
+obj /usr/lib64/elfutils/libebl_sh-0.170.so ae23fe4cf3dc465dce044d22fde6b3f4 1545713075
+obj /usr/lib64/elfutils/libebl_i386-0.170.so dc79713b5be5c00c6d4ce22391b3f113 1545713075
+sym /usr/lib64/elfutils/libebl_bpf.so -> libebl_bpf-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_m68k.so -> libebl_m68k-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_tilegx.so -> libebl_tilegx-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_s390.so -> libebl_s390-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_ppc64.so -> libebl_ppc64-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_ppc.so -> libebl_ppc-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_sparc.so -> libebl_sparc-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_aarch64.so -> libebl_aarch64-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_arm.so -> libebl_arm-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_alpha.so -> libebl_alpha-0.170.so 1545713073
+sym /usr/lib64/elfutils/libebl_ia64.so -> libebl_ia64-0.170.so 1545713072
+sym /usr/lib64/elfutils/libebl_x86_64.so -> libebl_x86_64-0.170.so 1545713072
+sym /usr/lib64/elfutils/libebl_sh.so -> libebl_sh-0.170.so 1545713072
+sym /usr/lib64/elfutils/libebl_i386.so -> libebl_i386-0.170.so 1545713072
+sym /usr/lib64/libasm.so.1 -> libasm-0.170.so 1545713072
+sym /usr/lib64/libdw.so.1 -> libdw-0.170.so 1545713072
+sym /usr/lib64/libelf.so.1 -> libelf-0.170.so 1545713072
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libdw.pc 6f999dabdf867371fa259115c9294d0a 1545713072
+obj /usr/lib64/pkgconfig/libelf.pc 1e10e9c9872818a26f4b5f71a3011334 1545713072
+sym /usr/lib64/libelf.so -> libelf.so.1 1545713072
+sym /usr/lib64/libdw.so -> libdw.so.1 1545713072
+sym /usr/lib64/libasm.so -> libasm.so.1 1545713072

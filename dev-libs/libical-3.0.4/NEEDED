@@ -1,0 +1,5 @@
+/usr/lib64/libicalss_cxx.so.3.0.4 libicalss.so.3,libical_cxx.so.3,libical.so.3,libstdc++.so.6,libgcc_s.so.1,libc.so.6
+/usr/lib64/libicalss.so.3.0.4 libical.so.3,libdb-5.3.so,libpthread.so.0,libc.so.6
+/usr/lib64/libical_cxx.so.3.0.4 libical.so.3,libstdc++.so.6,libgcc_s.so.1,libc.so.6
+/usr/lib64/libical.so.3.0.4 libpthread.so.0,libicuuc.so.63,libicui18n.so.63,libc.so.6
+/usr/lib64/libicalvcal.so.3.0.4 libical.so.3,libc.so.6

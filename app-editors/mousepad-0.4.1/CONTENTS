@@ -1,0 +1,158 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/mousepad-0.4.1
+obj /usr/share/doc/mousepad-0.4.1/TODO.bz2 eaaa7010535b238922e7ba5db84ae72f 1548545100
+obj /usr/share/doc/mousepad-0.4.1/README.bz2 8a3793e0c1ab9bee05435551e8a45fde 1548545100
+obj /usr/share/doc/mousepad-0.4.1/ChangeLog.bz2 b6ff77a62ede8f83995dee1e2409d980 1548545100
+obj /usr/share/doc/mousepad-0.4.1/NEWS.bz2 a4ad3b1378e3ee74062078a0b2d9b3f4 1548545100
+obj /usr/share/doc/mousepad-0.4.1/AUTHORS.bz2 3e1f8d2709f0bcfb2ed43688d229701a 1548545100
+dir /usr/share/applications
+obj /usr/share/applications/mousepad.desktop 7e080b453471a6c9010fbaabe62d5aee 1548545100
+dir /usr/share/locale
+dir /usr/share/locale/zh_TW
+dir /usr/share/locale/zh_TW/LC_MESSAGES
+obj /usr/share/locale/zh_TW/LC_MESSAGES/mousepad.mo a92c0384344a2f3e05f3553459182bd8 1548545100
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/mousepad.mo 75693b545d130d69e3e81fbd3c02ec18 1548545099
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/mousepad.mo dcd512344ebf724397dd47fc1dab0972 1548545099
+dir /usr/share/locale/ug
+dir /usr/share/locale/ug/LC_MESSAGES
+obj /usr/share/locale/ug/LC_MESSAGES/mousepad.mo 1e2f57a47b0e541d1c2b864083b6d8c5 1548545099
+dir /usr/share/locale/tr
+dir /usr/share/locale/tr/LC_MESSAGES
+obj /usr/share/locale/tr/LC_MESSAGES/mousepad.mo 6f5e0b656a3d8ae0dfe613294d83930f 1548545099
+dir /usr/share/locale/th
+dir /usr/share/locale/th/LC_MESSAGES
+obj /usr/share/locale/th/LC_MESSAGES/mousepad.mo b5559f57800ec08ab95f4e2b1ee1ed3c 1548545099
+dir /usr/share/locale/te
+dir /usr/share/locale/te/LC_MESSAGES
+obj /usr/share/locale/te/LC_MESSAGES/mousepad.mo 7e60856d7e58264272e06ced468443ba 1548545099
+dir /usr/share/locale/sv
+dir /usr/share/locale/sv/LC_MESSAGES
+obj /usr/share/locale/sv/LC_MESSAGES/mousepad.mo f13c581b806f88d3068269e235bfc5f6 1548545099
+dir /usr/share/locale/sr
+dir /usr/share/locale/sr/LC_MESSAGES
+obj /usr/share/locale/sr/LC_MESSAGES/mousepad.mo 3524e8f7c6881aa9ba7e2ec5c82e64bd 1548545099
+dir /usr/share/locale/sq
+dir /usr/share/locale/sq/LC_MESSAGES
+obj /usr/share/locale/sq/LC_MESSAGES/mousepad.mo c3cc5a74b06ff29b9721b2ab84fe2ad6 1548545099
+dir /usr/share/locale/sl
+dir /usr/share/locale/sl/LC_MESSAGES
+obj /usr/share/locale/sl/LC_MESSAGES/mousepad.mo d03a639d20215b762ec2d44e0f524d9e 1548545099
+dir /usr/share/locale/sk
+dir /usr/share/locale/sk/LC_MESSAGES
+obj /usr/share/locale/sk/LC_MESSAGES/mousepad.mo 339e4dce0aa3c9d4051d6482a61702b9 1548545099
+dir /usr/share/locale/ru
+dir /usr/share/locale/ru/LC_MESSAGES
+obj /usr/share/locale/ru/LC_MESSAGES/mousepad.mo 324fe7972bf3d2dbdc538e64623f18d4 1548545099
+dir /usr/share/locale/ro
+dir /usr/share/locale/ro/LC_MESSAGES
+obj /usr/share/locale/ro/LC_MESSAGES/mousepad.mo 431c8b7f91966f8f29ac78fed053eb66 1548545099
+dir /usr/share/locale/pt
+dir /usr/share/locale/pt/LC_MESSAGES
+obj /usr/share/locale/pt/LC_MESSAGES/mousepad.mo 45b1b97b9fb5e82b75ea13a2f9987af0 1548545099
+dir /usr/share/locale/pt_BR
+dir /usr/share/locale/pt_BR/LC_MESSAGES
+obj /usr/share/locale/pt_BR/LC_MESSAGES/mousepad.mo 6b9e9d1f6dbaf1854e899771c2be0fe9 1548545099
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/mousepad.mo abbfbcf91dafd97b2584d8560eccad09 1548545099
+dir /usr/share/locale/oc
+dir /usr/share/locale/oc/LC_MESSAGES
+obj /usr/share/locale/oc/LC_MESSAGES/mousepad.mo 0e0350c50dbb94ed046f2d189bc011de 1548545099
+dir /usr/share/locale/nn
+dir /usr/share/locale/nn/LC_MESSAGES
+obj /usr/share/locale/nn/LC_MESSAGES/mousepad.mo 8290b9d4b83b13e68900b86e012d7a58 1548545099
+dir /usr/share/locale/nl
+dir /usr/share/locale/nl/LC_MESSAGES
+obj /usr/share/locale/nl/LC_MESSAGES/mousepad.mo e54bb0ec4a42ed7212292f89e5447440 1548545099
+dir /usr/share/locale/nb
+dir /usr/share/locale/nb/LC_MESSAGES
+obj /usr/share/locale/nb/LC_MESSAGES/mousepad.mo 5e784611170fb00578e76e2107de1981 1548545099
+dir /usr/share/locale/ms
+dir /usr/share/locale/ms/LC_MESSAGES
+obj /usr/share/locale/ms/LC_MESSAGES/mousepad.mo 691b0ecc36e41fed52b37c45e58fc649 1548545099
+dir /usr/share/locale/lt
+dir /usr/share/locale/lt/LC_MESSAGES
+obj /usr/share/locale/lt/LC_MESSAGES/mousepad.mo 829a25bc7c0292e4ecc734100b4288e1 1548545099
+dir /usr/share/locale/ko
+dir /usr/share/locale/ko/LC_MESSAGES
+obj /usr/share/locale/ko/LC_MESSAGES/mousepad.mo f71f75b2aca2916b6389a1661768ce06 1548545099
+dir /usr/share/locale/kk
+dir /usr/share/locale/kk/LC_MESSAGES
+obj /usr/share/locale/kk/LC_MESSAGES/mousepad.mo 4b8a67c0dd86226e6df586956bfbb46a 1548545099
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/mousepad.mo b424058a49802c3605d873dc5e4be749 1548545099
+dir /usr/share/locale/it
+dir /usr/share/locale/it/LC_MESSAGES
+obj /usr/share/locale/it/LC_MESSAGES/mousepad.mo f3f12bc84e2ab0fa51ffdca9b15eb7f6 1548545099
+dir /usr/share/locale/is
+dir /usr/share/locale/is/LC_MESSAGES
+obj /usr/share/locale/is/LC_MESSAGES/mousepad.mo 7b161770edb5315d233f1690f16c577f 1548545099
+dir /usr/share/locale/id
+dir /usr/share/locale/id/LC_MESSAGES
+obj /usr/share/locale/id/LC_MESSAGES/mousepad.mo b6382caa9a5ad06ed853f8f985447b75 1548545099
+dir /usr/share/locale/hu
+dir /usr/share/locale/hu/LC_MESSAGES
+obj /usr/share/locale/hu/LC_MESSAGES/mousepad.mo c71d033858cd710f37289ce0868e8ac6 1548545099
+dir /usr/share/locale/hr
+dir /usr/share/locale/hr/LC_MESSAGES
+obj /usr/share/locale/hr/LC_MESSAGES/mousepad.mo 3c0484457ca704b33716217ca438d1b3 1548545099
+dir /usr/share/locale/he
+dir /usr/share/locale/he/LC_MESSAGES
+obj /usr/share/locale/he/LC_MESSAGES/mousepad.mo 735f316f374b35ae0a322a0e1d7d9d05 1548545098
+dir /usr/share/locale/gl
+dir /usr/share/locale/gl/LC_MESSAGES
+obj /usr/share/locale/gl/LC_MESSAGES/mousepad.mo a0380b24d5131dd6883f574eed78b6d1 1548545098
+dir /usr/share/locale/fr
+dir /usr/share/locale/fr/LC_MESSAGES
+obj /usr/share/locale/fr/LC_MESSAGES/mousepad.mo 633689f8acec82503ca9c4f9ebb40556 1548545098
+dir /usr/share/locale/fi
+dir /usr/share/locale/fi/LC_MESSAGES
+obj /usr/share/locale/fi/LC_MESSAGES/mousepad.mo a63a94120ffef590316c6b3fb1481860 1548545098
+dir /usr/share/locale/eu
+dir /usr/share/locale/eu/LC_MESSAGES
+obj /usr/share/locale/eu/LC_MESSAGES/mousepad.mo 0b78a7302aa9f9bfc8b35a5ee9147489 1548545098
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/mousepad.mo 8e4c08338c25e4416c5343147097904b 1548545098
+dir /usr/share/locale/en_GB
+dir /usr/share/locale/en_GB/LC_MESSAGES
+obj /usr/share/locale/en_GB/LC_MESSAGES/mousepad.mo 2fa6bdbab0f1600248e3f0a3176daf80 1548545098
+dir /usr/share/locale/en_AU
+dir /usr/share/locale/en_AU/LC_MESSAGES
+obj /usr/share/locale/en_AU/LC_MESSAGES/mousepad.mo 8a3f721ee662116ee3a2420f1c3da724 1548545098
+dir /usr/share/locale/el
+dir /usr/share/locale/el/LC_MESSAGES
+obj /usr/share/locale/el/LC_MESSAGES/mousepad.mo c202e64feaa4354ad04f93dcd4ad7c3d 1548545098
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/mousepad.mo 7533fbc146bd7cd6c9e4367fedf41f34 1548545098
+dir /usr/share/locale/da
+dir /usr/share/locale/da/LC_MESSAGES
+obj /usr/share/locale/da/LC_MESSAGES/mousepad.mo f6248dd4298ffe6ea28b92a28ba8ef27 1548545098
+dir /usr/share/locale/cs
+dir /usr/share/locale/cs/LC_MESSAGES
+obj /usr/share/locale/cs/LC_MESSAGES/mousepad.mo 069897964711f8115649929fdc2eb9c7 1548545098
+dir /usr/share/locale/ca
+dir /usr/share/locale/ca/LC_MESSAGES
+obj /usr/share/locale/ca/LC_MESSAGES/mousepad.mo 5ddcf00fe8bff5e3de63dd315f72daab 1548545098
+dir /usr/share/locale/bg
+dir /usr/share/locale/bg/LC_MESSAGES
+obj /usr/share/locale/bg/LC_MESSAGES/mousepad.mo 2b198aeb27af5c1a71e12fec16c7a8b2 1548545098
+dir /usr/share/locale/ast
+dir /usr/share/locale/ast/LC_MESSAGES
+obj /usr/share/locale/ast/LC_MESSAGES/mousepad.mo aae89bbfe2f82453fcb1413a3253190f 1548545098
+dir /usr/share/locale/ar
+dir /usr/share/locale/ar/LC_MESSAGES
+obj /usr/share/locale/ar/LC_MESSAGES/mousepad.mo d4d117cc01ffb78a5baca3177f7d7fca 1548545098
+dir /usr/share/glib-2.0
+dir /usr/share/glib-2.0/schemas
+obj /usr/share/glib-2.0/schemas/org.xfce.mousepad.gschema.xml 89ec76dac3ac51036e4ddea899fedaa5 1548545098
+dir /usr/bin
+obj /usr/bin/mousepad eb15289da29fd4d92310d1729a716583 1548545101

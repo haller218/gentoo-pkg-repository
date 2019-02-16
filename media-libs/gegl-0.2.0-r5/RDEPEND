@@ -1,0 +1,1 @@
+>=media-libs/babl-0.1.10 >=dev-libs/glib-2.28:2 >=x11-libs/gdk-pixbuf-2.18:2 x11-libs/pango sys-libs/zlib

@@ -1,0 +1,225 @@
+dir /usr
+dir /usr/libexec
+obj /usr/libexec/notification-daemon 3f33943d130ef442f6549cf213b740b7 1548517345
+dir /usr/share
+dir /usr/share/dbus-1
+dir /usr/share/dbus-1/services
+obj /usr/share/dbus-1/services/org.freedesktop.Notifications.service c0c5cf5a25bc7fcf34ef45114653f963 1548517344
+dir /usr/share/doc
+dir /usr/share/doc/notification-daemon-3.20.0
+obj /usr/share/doc/notification-daemon-3.20.0/ChangeLog.bz2 23916c241bbb1129d68b97f1434a7f84 1548517344
+obj /usr/share/doc/notification-daemon-3.20.0/NEWS.bz2 59a45c060cf2e1b59fc4b1ea8317264e 1548517344
+obj /usr/share/doc/notification-daemon-3.20.0/AUTHORS.bz2 2e069da65f3d6ac0d4b5bb0b21c0df4c 1548517344
+dir /usr/share/locale
+dir /usr/share/locale/zu
+dir /usr/share/locale/zu/LC_MESSAGES
+obj /usr/share/locale/zu/LC_MESSAGES/notification-daemon.mo 93f48177292f1cfec799824c52800c57 1548517344
+dir /usr/share/locale/zh_TW
+dir /usr/share/locale/zh_TW/LC_MESSAGES
+obj /usr/share/locale/zh_TW/LC_MESSAGES/notification-daemon.mo 7f48be7380481be1c1bc8e1c30b44bf5 1548517344
+dir /usr/share/locale/zh_HK
+dir /usr/share/locale/zh_HK/LC_MESSAGES
+obj /usr/share/locale/zh_HK/LC_MESSAGES/notification-daemon.mo 02c789f485e8a4be040ca9c7d4471466 1548517344
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/notification-daemon.mo abe6a2804f3b4d509bcc73a8b3689b4b 1548517344
+dir /usr/share/locale/vi
+dir /usr/share/locale/vi/LC_MESSAGES
+obj /usr/share/locale/vi/LC_MESSAGES/notification-daemon.mo 438a7aedd46b2c7ca130851301a8a186 1548517344
+dir /usr/share/locale/uz@cyrillic
+dir /usr/share/locale/uz@cyrillic/LC_MESSAGES
+obj /usr/share/locale/uz@cyrillic/LC_MESSAGES/notification-daemon.mo 2d2295b1d2d1db8456f4b6ea0c25d313 1548517344
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/notification-daemon.mo 92759d9b0b06ddaba7dccbbc19a5a9a0 1548517344
+dir /usr/share/locale/ug
+dir /usr/share/locale/ug/LC_MESSAGES
+obj /usr/share/locale/ug/LC_MESSAGES/notification-daemon.mo 0222e78edb91d16ed623b95ef72073fb 1548517344
+dir /usr/share/locale/tr
+dir /usr/share/locale/tr/LC_MESSAGES
+obj /usr/share/locale/tr/LC_MESSAGES/notification-daemon.mo cc4466074f922ac6fbeac734d1b6ca34 1548517344
+dir /usr/share/locale/th
+dir /usr/share/locale/th/LC_MESSAGES
+obj /usr/share/locale/th/LC_MESSAGES/notification-daemon.mo 35a285bfb4de9513b1c740c5cd0b3aff 1548517344
+dir /usr/share/locale/te
+dir /usr/share/locale/te/LC_MESSAGES
+obj /usr/share/locale/te/LC_MESSAGES/notification-daemon.mo 221db95bb27a7a3cc2a1679a3fd3de03 1548517344
+dir /usr/share/locale/ta
+dir /usr/share/locale/ta/LC_MESSAGES
+obj /usr/share/locale/ta/LC_MESSAGES/notification-daemon.mo 1e7e7807d8d374c29f5f8c6df2d6f501 1548517344
+dir /usr/share/locale/sv
+dir /usr/share/locale/sv/LC_MESSAGES
+obj /usr/share/locale/sv/LC_MESSAGES/notification-daemon.mo be3775ce67b46f66f9a14902385e7b26 1548517344
+dir /usr/share/locale/sl
+dir /usr/share/locale/sl/LC_MESSAGES
+obj /usr/share/locale/sl/LC_MESSAGES/notification-daemon.mo 24c1cfd9a2a4502841ce44c66b5d8c19 1548517343
+dir /usr/share/locale/sr@latin
+dir /usr/share/locale/sr@latin/LC_MESSAGES
+obj /usr/share/locale/sr@latin/LC_MESSAGES/notification-daemon.mo 674649e9d04a8d2ff2956a64abc0b3ec 1548517343
+dir /usr/share/locale/sr
+dir /usr/share/locale/sr/LC_MESSAGES
+obj /usr/share/locale/sr/LC_MESSAGES/notification-daemon.mo a81b95d52b8d18eed2b552d1699c6a0a 1548517343
+dir /usr/share/locale/sk
+dir /usr/share/locale/sk/LC_MESSAGES
+obj /usr/share/locale/sk/LC_MESSAGES/notification-daemon.mo 5f8d35cdf68e095c030fffa0c067d30f 1548517343
+dir /usr/share/locale/ru
+dir /usr/share/locale/ru/LC_MESSAGES
+obj /usr/share/locale/ru/LC_MESSAGES/notification-daemon.mo 327b9632c89ff980f244a1139a5479f2 1548517343
+dir /usr/share/locale/ro
+dir /usr/share/locale/ro/LC_MESSAGES
+obj /usr/share/locale/ro/LC_MESSAGES/notification-daemon.mo 2980024cac9f45516f8ddef78a7f62d8 1548517343
+dir /usr/share/locale/quz
+dir /usr/share/locale/quz/LC_MESSAGES
+obj /usr/share/locale/quz/LC_MESSAGES/notification-daemon.mo ec4454d125710868b9565d19041d9696 1548517343
+dir /usr/share/locale/pt_BR
+dir /usr/share/locale/pt_BR/LC_MESSAGES
+obj /usr/share/locale/pt_BR/LC_MESSAGES/notification-daemon.mo c36b44e38de4fc520eac622cf2b1482b 1548517343
+dir /usr/share/locale/pt
+dir /usr/share/locale/pt/LC_MESSAGES
+obj /usr/share/locale/pt/LC_MESSAGES/notification-daemon.mo 801b035db616bd612a4056e5ec89193b 1548517343
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/notification-daemon.mo 8c890436dacf498d1778b42f70f8b432 1548517343
+dir /usr/share/locale/pa
+dir /usr/share/locale/pa/LC_MESSAGES
+obj /usr/share/locale/pa/LC_MESSAGES/notification-daemon.mo 6b44c194ad66fb35a97528af3900756d 1548517343
+dir /usr/share/locale/or
+dir /usr/share/locale/or/LC_MESSAGES
+obj /usr/share/locale/or/LC_MESSAGES/notification-daemon.mo 3bb833a4d6ac1a2c8ca3dc63eef5ef76 1548517343
+dir /usr/share/locale/oc
+dir /usr/share/locale/oc/LC_MESSAGES
+obj /usr/share/locale/oc/LC_MESSAGES/notification-daemon.mo 5297febddcdf1d02a3166884c0fe75e6 1548517343
+dir /usr/share/locale/nn
+dir /usr/share/locale/nn/LC_MESSAGES
+obj /usr/share/locale/nn/LC_MESSAGES/notification-daemon.mo b823566f7913da30a0816a0641e9ea02 1548517343
+dir /usr/share/locale/nl
+dir /usr/share/locale/nl/LC_MESSAGES
+obj /usr/share/locale/nl/LC_MESSAGES/notification-daemon.mo 1366613e13902d57b1c614276903a21d 1548517343
+dir /usr/share/locale/nb
+dir /usr/share/locale/nb/LC_MESSAGES
+obj /usr/share/locale/nb/LC_MESSAGES/notification-daemon.mo cb17d89296b203ddcea461374698c28b 1548517343
+dir /usr/share/locale/ms
+dir /usr/share/locale/ms/LC_MESSAGES
+obj /usr/share/locale/ms/LC_MESSAGES/notification-daemon.mo aad2cb46c2df07abb0a3746e51b49a08 1548517343
+dir /usr/share/locale/mr
+dir /usr/share/locale/mr/LC_MESSAGES
+obj /usr/share/locale/mr/LC_MESSAGES/notification-daemon.mo 0f3000ea97dba3d08b5aaea05ecd74a7 1548517343
+dir /usr/share/locale/ml
+dir /usr/share/locale/ml/LC_MESSAGES
+obj /usr/share/locale/ml/LC_MESSAGES/notification-daemon.mo c2acaccc680da37db0a241c15331a68e 1548517343
+dir /usr/share/locale/lv
+dir /usr/share/locale/lv/LC_MESSAGES
+obj /usr/share/locale/lv/LC_MESSAGES/notification-daemon.mo 756c2e4bee74bdfdda54cdf3761fdd5e 1548517343
+dir /usr/share/locale/lt
+dir /usr/share/locale/lt/LC_MESSAGES
+obj /usr/share/locale/lt/LC_MESSAGES/notification-daemon.mo 402f6aa8ea3179111706fe5d49dad84d 1548517343
+dir /usr/share/locale/ko
+dir /usr/share/locale/ko/LC_MESSAGES
+obj /usr/share/locale/ko/LC_MESSAGES/notification-daemon.mo 5598e697a9ccc401d5b0fbf3f19a2fa9 1548517343
+dir /usr/share/locale/kn
+dir /usr/share/locale/kn/LC_MESSAGES
+obj /usr/share/locale/kn/LC_MESSAGES/notification-daemon.mo a929934ef57e1d3aaec03aa489e8b8a9 1548517343
+dir /usr/share/locale/km
+dir /usr/share/locale/km/LC_MESSAGES
+obj /usr/share/locale/km/LC_MESSAGES/notification-daemon.mo d9ef2abce755304d7d82a396d5ce800c 1548517343
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/notification-daemon.mo d427a2e463d92075a624bb7cf5640924 1548517343
+dir /usr/share/locale/it
+dir /usr/share/locale/it/LC_MESSAGES
+obj /usr/share/locale/it/LC_MESSAGES/notification-daemon.mo f0b32e5bb175817f8bb80fabd7a05758 1548517343
+dir /usr/share/locale/id
+dir /usr/share/locale/id/LC_MESSAGES
+obj /usr/share/locale/id/LC_MESSAGES/notification-daemon.mo d403da3bff28e217a8d3d2ceb4df80bb 1548517343
+dir /usr/share/locale/hu
+dir /usr/share/locale/hu/LC_MESSAGES
+obj /usr/share/locale/hu/LC_MESSAGES/notification-daemon.mo 3dc2ea99e3cc6079d2efee5178b73ebf 1548517343
+dir /usr/share/locale/hi
+dir /usr/share/locale/hi/LC_MESSAGES
+obj /usr/share/locale/hi/LC_MESSAGES/notification-daemon.mo 12a955019dfaf57474a81bee5300adf4 1548517343
+dir /usr/share/locale/he
+dir /usr/share/locale/he/LC_MESSAGES
+obj /usr/share/locale/he/LC_MESSAGES/notification-daemon.mo 346d2f75c4ecdfa3159a54744e74f129 1548517343
+dir /usr/share/locale/gu
+dir /usr/share/locale/gu/LC_MESSAGES
+obj /usr/share/locale/gu/LC_MESSAGES/notification-daemon.mo 6ce105d7d61fd97438ac1912f7d40676 1548517343
+dir /usr/share/locale/gl
+dir /usr/share/locale/gl/LC_MESSAGES
+obj /usr/share/locale/gl/LC_MESSAGES/notification-daemon.mo 32e883388ab6108c71e65a4aa2eada4b 1548517343
+dir /usr/share/locale/fur
+dir /usr/share/locale/fur/LC_MESSAGES
+obj /usr/share/locale/fur/LC_MESSAGES/notification-daemon.mo e2a538fb55da80c7facc854bd54f9b71 1548517343
+dir /usr/share/locale/fr
+dir /usr/share/locale/fr/LC_MESSAGES
+obj /usr/share/locale/fr/LC_MESSAGES/notification-daemon.mo 037adc40c95d04aba6c31db897d7a922 1548517343
+dir /usr/share/locale/fi
+dir /usr/share/locale/fi/LC_MESSAGES
+obj /usr/share/locale/fi/LC_MESSAGES/notification-daemon.mo 640cb28cd92cc3d66ee1cd950288aaad 1548517343
+dir /usr/share/locale/fa
+dir /usr/share/locale/fa/LC_MESSAGES
+obj /usr/share/locale/fa/LC_MESSAGES/notification-daemon.mo f6d7e043e6813b39565f07ad292d3daa 1548517343
+dir /usr/share/locale/eu
+dir /usr/share/locale/eu/LC_MESSAGES
+obj /usr/share/locale/eu/LC_MESSAGES/notification-daemon.mo 14b8f1b02f072b5bcaf77d710baecc49 1548517343
+dir /usr/share/locale/et
+dir /usr/share/locale/et/LC_MESSAGES
+obj /usr/share/locale/et/LC_MESSAGES/notification-daemon.mo 330b8b99e0247b1652985a116912afde 1548517343
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/notification-daemon.mo b2c8f59ceceef2f34a0dee39f964af6c 1548517343
+dir /usr/share/locale/eo
+dir /usr/share/locale/eo/LC_MESSAGES
+obj /usr/share/locale/eo/LC_MESSAGES/notification-daemon.mo b4d180e49809b45fcf041c754cf468e2 1548517343
+dir /usr/share/locale/en_GB
+dir /usr/share/locale/en_GB/LC_MESSAGES
+obj /usr/share/locale/en_GB/LC_MESSAGES/notification-daemon.mo 95760f2a5bc0948e4b2a1a376a93d96d 1548517343
+dir /usr/share/locale/el
+dir /usr/share/locale/el/LC_MESSAGES
+obj /usr/share/locale/el/LC_MESSAGES/notification-daemon.mo d7fd29ca5afa6dcd7f9dbd1c2cc7a800 1548517343
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/notification-daemon.mo 5675a9392a8a56a92c116b99b771d1f0 1548517343
+dir /usr/share/locale/da
+dir /usr/share/locale/da/LC_MESSAGES
+obj /usr/share/locale/da/LC_MESSAGES/notification-daemon.mo 014a920353d335763e1cb131f370aade 1548517343
+dir /usr/share/locale/cs
+dir /usr/share/locale/cs/LC_MESSAGES
+obj /usr/share/locale/cs/LC_MESSAGES/notification-daemon.mo 84960f4fcc79aebad742f0d8dbdab878 1548517343
+dir /usr/share/locale/ca@valencia
+dir /usr/share/locale/ca@valencia/LC_MESSAGES
+obj /usr/share/locale/ca@valencia/LC_MESSAGES/notification-daemon.mo 911fb10e6d50f855f07e8c9c8b7affb9 1548517343
+dir /usr/share/locale/ca
+dir /usr/share/locale/ca/LC_MESSAGES
+obj /usr/share/locale/ca/LC_MESSAGES/notification-daemon.mo 8dfe0c6893614eed2367da4f14ed41f1 1548517343
+dir /usr/share/locale/bs
+dir /usr/share/locale/bs/LC_MESSAGES
+obj /usr/share/locale/bs/LC_MESSAGES/notification-daemon.mo dafc07647f39eb46a396151603c28d84 1548517343
+dir /usr/share/locale/bn_IN
+dir /usr/share/locale/bn_IN/LC_MESSAGES
+obj /usr/share/locale/bn_IN/LC_MESSAGES/notification-daemon.mo 5abb6bc882e133978d24a7381ff7a0eb 1548517343
+dir /usr/share/locale/bn
+dir /usr/share/locale/bn/LC_MESSAGES
+obj /usr/share/locale/bn/LC_MESSAGES/notification-daemon.mo 814705b72c51dcb9cfca8d6980d5ef9d 1548517343
+dir /usr/share/locale/bg
+dir /usr/share/locale/bg/LC_MESSAGES
+obj /usr/share/locale/bg/LC_MESSAGES/notification-daemon.mo fa52e8e8f69ed2c91c6423e4787ea6e2 1548517343
+dir /usr/share/locale/be
+dir /usr/share/locale/be/LC_MESSAGES
+obj /usr/share/locale/be/LC_MESSAGES/notification-daemon.mo 43741ece5c8ea1775307baba965387e7 1548517343
+dir /usr/share/locale/ast
+dir /usr/share/locale/ast/LC_MESSAGES
+obj /usr/share/locale/ast/LC_MESSAGES/notification-daemon.mo a6ad0cb8e1f6e77bc3662a4fba70ddb5 1548517343
+dir /usr/share/locale/as
+dir /usr/share/locale/as/LC_MESSAGES
+obj /usr/share/locale/as/LC_MESSAGES/notification-daemon.mo 572790282dca846f9b6d70bce75e8bad 1548517343
+dir /usr/share/locale/ar
+dir /usr/share/locale/ar/LC_MESSAGES
+obj /usr/share/locale/ar/LC_MESSAGES/notification-daemon.mo 29c76431f7c3c22650895b63bfb97d75 1548517343
+dir /usr/share/locale/an
+dir /usr/share/locale/an/LC_MESSAGES
+obj /usr/share/locale/an/LC_MESSAGES/notification-daemon.mo 66743ff835dec1cb88fbb56135c424a0 1548517343
+dir /usr/share/locale/af
+dir /usr/share/locale/af/LC_MESSAGES
+obj /usr/share/locale/af/LC_MESSAGES/notification-daemon.mo ee27629fcf3d9f841b984fd5bff5190e 1548517343
+dir /usr/share/applications
+obj /usr/share/applications/notification-daemon.desktop 6e6a3c4a19f930376132e0ac21d99f77 1548517343

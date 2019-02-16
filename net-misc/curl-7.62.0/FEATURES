@@ -1,0 +1,1 @@
+fixlafiles protect-owned usersync fail-clean userpriv unknown-features-warn userfetch binpkg-logs preserve-libs parallel-fetch unmerge-orphans merge-sync assume-digests sfperms strict unmerge-logs multilib-strict config-protect-if-modified ebuild-locks buildpkg distlocks usersandbox sandbox
