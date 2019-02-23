@@ -1,0 +1,23 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/lmdb-0.9.22
+obj /usr/share/doc/lmdb-0.9.22/CHANGES.bz2 949b6552bf4718a6b744c2ca415c8d0c 1550756264
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/mdb_copy.1.bz2 16bb82c9cf73a34efff45232eafa097f 1550756263
+obj /usr/share/man/man1/mdb_dump.1.bz2 6630ac67964bc5a40fbb286448e630cc 1550756263
+obj /usr/share/man/man1/mdb_load.1.bz2 24a880db3904e62c3f4b5f5e831c0e1a 1550756263
+obj /usr/share/man/man1/mdb_stat.1.bz2 6b4aaef21ec5d390196e5177535c32a2 1550756263
+dir /usr/include
+obj /usr/include/lmdb.h dd273df0290fd83d3ea82dbec5ab96ab 1550756263
+dir /usr/lib64
+obj /usr/lib64/liblmdb.so.0 0c4957bc294bee44c6715cf59467d1d3 1550756265
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/lmdb.pc bd0b0bcf976941e309e8a725bab92f31 1550756263
+sym /usr/lib64/liblmdb.so -> liblmdb.so.0 1550756263
+dir /usr/bin
+obj /usr/bin/mdb_copy 96419ae833d09484ed74e10d64c92d3b 1550756265
+obj /usr/bin/mdb_dump 5e6cd47ef4eaa7be24dd5ac22e8d0d6d 1550756265
+obj /usr/bin/mdb_load 81040415637900b1a1d1e38115ea0b5e 1550756265
+obj /usr/bin/mdb_stat e3ab57f92aa3ed25790d6b0fe0b51a5e 1550756265

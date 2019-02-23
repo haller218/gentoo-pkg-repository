@@ -1,0 +1,24 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libwpd-0.10.2
+obj /usr/share/doc/libwpd-0.10.2/CREDITS.bz2 68436c4e8154323a5f8801ca7d2ade7e 1550756656
+obj /usr/share/doc/libwpd-0.10.2/NEWS.bz2 041666b4d9c7785aec7c420ed70e8242 1550756656
+obj /usr/share/doc/libwpd-0.10.2/TODO.bz2 7fcb3aefaf0fba9a75dd4fa9a74fb295 1550756656
+obj /usr/share/doc/libwpd-0.10.2/ChangeLog.bz2 0c1af8780286ae2374884c50bed00b07 1550756656
+obj /usr/share/doc/libwpd-0.10.2/README.bz2 a335c12559e0ef582dee79d18ed8f4e0 1550756656
+dir /usr/bin
+obj /usr/bin/wpd2html-0.10 6de1afa28d9300a5febd3dcf33698009 1550756658
+obj /usr/bin/wpd2raw-0.10 51bebce2215c6fbcf2a59a163307acf1 1550756658
+obj /usr/bin/wpd2text-0.10 318857550dec2ec05ac9f7315606fee0 1550756658
+dir /usr/lib64
+obj /usr/lib64/libwpd-0.10.so.10.0.2 1fd87b369873d132bcd2f2aada684956 1550756658
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libwpd-0.10.pc a59575fb8a1fa580e44157591926b3b8 1550756656
+sym /usr/lib64/libwpd-0.10.so -> libwpd-0.10.so.10.0.2 1550756655
+sym /usr/lib64/libwpd-0.10.so.10 -> libwpd-0.10.so.10.0.2 1550756655
+dir /usr/include
+dir /usr/include/libwpd-0.10
+dir /usr/include/libwpd-0.10/libwpd
+obj /usr/include/libwpd-0.10/libwpd/WPDocument.h 82304db1b23918ba7f9223218677f845 1550756655
+obj /usr/include/libwpd-0.10/libwpd/libwpd.h 07954db2660c82fb00d5fac4397c2050 1550756655

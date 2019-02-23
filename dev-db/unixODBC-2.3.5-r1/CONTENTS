@@ -1,0 +1,62 @@
+dir /etc
+dir /etc/unixODBC
+dir /etc/unixODBC/ODBCDataSources
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/unixODBC-2.3.5-r1
+obj /usr/share/doc/unixODBC-2.3.5-r1/NEWS.bz2 fe3307041bdcc06cd8102a0344ea2095 1550756540
+obj /usr/share/doc/unixODBC-2.3.5-r1/AUTHORS.bz2 d476f03581f1884519c7683f71a03269 1550756540
+obj /usr/share/doc/unixODBC-2.3.5-r1/ChangeLog.bz2 46cd63a86df0dedef5428fb340ed4c80 1550756540
+obj /usr/share/doc/unixODBC-2.3.5-r1/README.VMS.bz2 95b3cd389a4a7290ff5f730280fddb6d 1550756540
+obj /usr/share/doc/unixODBC-2.3.5-r1/README.SOLARIS.bz2 ce884b17d64d571c6a17ab34eea4de13 1550756539
+obj /usr/share/doc/unixODBC-2.3.5-r1/README.QNX.bz2 679d1198dc6d78eb9787ee6bb10df35b 1550756539
+obj /usr/share/doc/unixODBC-2.3.5-r1/README.OSX.bz2 c94b71891ffc1d789cae976749b6878d 1550756539
+obj /usr/share/doc/unixODBC-2.3.5-r1/README.INTERIX.bz2 21e7240adc53acfd101328a906acf9ca 1550756539
+obj /usr/share/doc/unixODBC-2.3.5-r1/README.CYGWIN.bz2 0a67d469eb923ae208df213d08701997 1550756539
+obj /usr/share/doc/unixODBC-2.3.5-r1/README.AIX.bz2 6ffc8f752dea62a43d458dadd48ebc99 1550756539
+obj /usr/share/doc/unixODBC-2.3.5-r1/README.bz2 c2d611d5c94f47d72ee5427014c77812 1550756539
+dir /usr/share/man
+dir /usr/share/man/man7
+obj /usr/share/man/man7/unixODBC.7.bz2 7583b6601ced91e7398e065f8bfb49a4 1550756538
+dir /usr/share/man/man1
+obj /usr/share/man/man1/odbc_config.1.bz2 78e1b68ae54e9af809d37813ab2fc4a6 1550756538
+obj /usr/share/man/man1/dltest.1.bz2 44d34bbcfb406fa5bbccfd731973cc6c 1550756538
+obj /usr/share/man/man1/odbcinst.1.bz2 6b5a1a04c35ca97804b4f40dbc1b5341 1550756538
+obj /usr/share/man/man1/isql.1.bz2 28718dd57dac63fb01d2a0d14ff50be1 1550756538
+obj /usr/share/man/man1/iusql.1 6d4417413511f394ea82dc90df0ee769 1550756538
+dir /usr/share/man/man5
+obj /usr/share/man/man5/odbcinst.ini.5.bz2 fffacf86ad20277430295494af01b51e 1550756538
+obj /usr/share/man/man5/odbc.ini.5.bz2 235433cb745941e9df714f03bcc1de6d 1550756538
+dir /usr/include
+obj /usr/include/unixodbc_conf.h 00777997b4af77e5ffe5d6fe35b574c4 1550756538
+dir /usr/include/x86_64-pc-linux-gnu
+obj /usr/include/x86_64-pc-linux-gnu/unixodbc_conf.h 5b5e6c252b4c1c515022ae04a1e32a80 1550756538
+obj /usr/include/uodbc_extras.h 7edd7c766efe8bfec232a8c0b5de1648 1550756538
+obj /usr/include/uodbc_stats.h 1aaf2770bce5cd04baf7b8b332b6e302 1550756538
+obj /usr/include/autotest.h 8a9da3f539c1da06d768d47437a8eb48 1550756538
+obj /usr/include/sqlspi.h b5fe139e6f4846d48be05b6fbada1d9c 1550756538
+obj /usr/include/sqlucode.h 3817450a44151649f3fbf21483b7aa65 1550756538
+obj /usr/include/sqltypes.h 1e124ad32232caa6395b230ed85fe870 1550756538
+obj /usr/include/sqlext.h 986633a187b90bc1dc92ef354c2943de 1550756538
+obj /usr/include/sql.h 92c6ffc1ea32fb6ff91bce3524e8fde2 1550756538
+obj /usr/include/odbcinstext.h aa0360949111963a031dc9abd6a6ff90 1550756538
+obj /usr/include/odbcinst.h a5b1345798c6e81d14eb9e4824569b1b 1550756538
+dir /usr/bin
+obj /usr/bin/x86_64-pc-linux-gnu-odbc_config b77961f815c4d194d1c21e2978142cab 1550756541
+obj /usr/bin/iusql cc4540ccf3054f454d9af55ed5cdf7a8 1550756541
+obj /usr/bin/slencheck 046ba520e3a391706f889c166a4630f4 1550756541
+obj /usr/bin/odbcinst 46a0362f5586d232f4df0ffbf90b7021 1550756541
+obj /usr/bin/dltest c3011b2556dc8472a691914695ba9183 1550756541
+obj /usr/bin/isql ac3e77292fea8924cc561db332fa9a77 1550756541
+sym /usr/bin/odbc_config -> x86_64-pc-linux-gnu-odbc_config 1550756538
+dir /usr/lib64
+obj /usr/lib64/libodbccr.so.2.0.0 16a6d339d2749769250f1969c86c4ccd 1550756541
+obj /usr/lib64/libodbcinst.so.2.0.0 5dfb83427f45c4da7082d5aad0668d38 1550756541
+obj /usr/lib64/libodbc.so.2.0.0 6f6aa068daa5db08d0a1d6496aa7a80d 1550756541
+sym /usr/lib64/libodbccr.so -> libodbccr.so.2.0.0 1550756538
+sym /usr/lib64/libodbccr.so.2 -> libodbccr.so.2.0.0 1550756538
+sym /usr/lib64/libodbc.so -> libodbc.so.2.0.0 1550756537
+sym /usr/lib64/libodbc.so.2 -> libodbc.so.2.0.0 1550756537
+sym /usr/lib64/libodbcinst.so -> libodbcinst.so.2.0.0 1550756537
+sym /usr/lib64/libodbcinst.so.2 -> libodbcinst.so.2.0.0 1550756537

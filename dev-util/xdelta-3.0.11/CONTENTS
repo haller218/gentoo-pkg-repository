@@ -1,0 +1,11 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/xdelta-3.0.11
+obj /usr/share/doc/xdelta-3.0.11/README.md.bz2 dcb493495058384ae2f6bea9e15f1a5b 1550756242
+obj /usr/share/doc/xdelta-3.0.11/draft-korn-vcdiff.txt.bz2 f9da4516922df8fefa6de6d594384a42 1550756242
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xdelta3.1.bz2 cf519a26bd691ac6dd4f7b09af2b6732 1550756242
+dir /usr/bin
+obj /usr/bin/xdelta3 fb60c97dd858ebaf1c07448d276db6e7 1550756243
